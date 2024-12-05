@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -20,39 +19,6 @@
 }
 
 @keyframes logo-spin {
-=======
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
->>>>>>> 150eb74c8f1059ef36cc389cdc9fc1de1bc1fbb0
   from {
     transform: rotate(0deg);
   }
@@ -61,7 +27,6 @@
   }
 }
 
-<<<<<<< HEAD
 @media (prefers-reduced-motion: no-preference) {
   a:nth-of-type(2) .logo {
     animation: logo-spin infinite 20s linear;
@@ -74,8 +39,4 @@
 
 .read-the-docs {
   color: #888;
-=======
-button {
-  font-size: calc(10px + 2vmin);
->>>>>>> 150eb74c8f1059ef36cc389cdc9fc1de1bc1fbb0
 }
