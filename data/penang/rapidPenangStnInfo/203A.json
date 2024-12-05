@@ -1,0 +1,303 @@
+[
+    {
+        "stop_name": "(M1) JETTY B",
+        "stop_lat": "5.4137915",
+        "stop_lon": "100.34177820000001",
+        "stop_id": "12002114",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Container Hotel",
+        "stop_lat": "5.41415",
+        "stop_lon": "100.34042",
+        "stop_id": "12000007",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Restoran Kapitan",
+        "stop_lat": "5.41602",
+        "stop_lon": "100.33892",
+        "stop_id": "12001916",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Masjid Kapitan Keling",
+        "stop_lat": "5.417451",
+        "stop_lon": "100.33745",
+        "stop_id": "12001918",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Love Lane",
+        "stop_lat": "5.418401",
+        "stop_lon": "100.33614",
+        "stop_id": "12001920",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Banana Boutique",
+        "stop_lat": "5.419522",
+        "stop_lon": "100.33361",
+        "stop_id": "12001922",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Penang Road",
+        "stop_lat": "5.41925",
+        "stop_lon": "100.33199",
+        "stop_id": "12001064",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Pasar Chowrasta",
+        "stop_lat": "5.418131",
+        "stop_lon": "100.331245",
+        "stop_id": "12001061",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Terminal Komtar",
+        "stop_lat": "5.4141808",
+        "stop_lon": "100.33031319999999",
+        "stop_id": "12002116",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Pasaraya Gama",
+        "stop_lat": "5.413819",
+        "stop_lon": "100.3281",
+        "stop_id": "12000461",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Penang Times Square",
+        "stop_lat": "5.4131540000000005",
+        "stop_lon": "100.32621",
+        "stop_id": "12000456",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Pasar Jalan Kuantan",
+        "stop_lat": "5.41218",
+        "stop_lon": "100.32366999999999",
+        "stop_id": "12000443",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Kampung Makam",
+        "stop_lat": "5.4122699999999995",
+        "stop_lon": "100.32089",
+        "stop_id": "12002112",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SMK/SK Convent Dato Keramat",
+        "stop_lat": "5.4127",
+        "stop_lon": "100.31805",
+        "stop_id": "12000449",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Stadium Bandaraya",
+        "stop_lat": "5.41324",
+        "stop_lon": "100.31458",
+        "stop_id": "12000458",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Masjid Jamek Sheikh Yusof(Hospital)",
+        "stop_lat": "5.41355",
+        "stop_lon": "100.31130999999999",
+        "stop_id": "12000077",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Dhoby Ghaut",
+        "stop_lat": "5.41246",
+        "stop_lon": "100.30957",
+        "stop_id": "12000076",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SMK Sri Mutiara",
+        "stop_lat": "5.41031",
+        "stop_lon": "100.30745",
+        "stop_id": "12000075",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Han Chiang College",
+        "stop_lat": "5.40803",
+        "stop_lon": "100.30364",
+        "stop_id": "12000072",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Masjid Negeri P.Pinang(Hentian Transit)",
+        "stop_lat": "5.40765",
+        "stop_lon": "100.29972",
+        "stop_id": "12000070",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SMK Chung Ling (P)(Kampung baru)",
+        "stop_lat": "5.40512",
+        "stop_lon": "100.29399000000001",
+        "stop_id": "12000066",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Wisma Yatim",
+        "stop_lat": "5.40404",
+        "stop_lon": "100.29160999999999",
+        "stop_id": "12001822",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SRJK Sin Kang",
+        "stop_lat": "5.40045",
+        "stop_lon": "100.2906",
+        "stop_id": "12001821",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Desa Mawar",
+        "stop_lat": "5.3989764000000005",
+        "stop_lon": "100.2895542",
+        "stop_id": "12002991",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Fortune Court",
+        "stop_lat": "5.39805",
+        "stop_lon": "100.28878",
+        "stop_id": "12001820",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SMK Air Itam",
+        "stop_lat": "5.39532",
+        "stop_lon": "100.28631999999999",
+        "stop_id": "12001819",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Desa Intan - 7D",
+        "stop_lat": "5.39329",
+        "stop_lon": "100.28532",
+        "stop_id": "12001818",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Bandar Baru Air Itam",
+        "stop_lat": "5.38963",
+        "stop_lon": "100.2851",
+        "stop_id": "12000049",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Flat 4E Farlim",
+        "stop_lat": "5.3861300000000005",
+        "stop_lon": "100.28323",
+        "stop_id": "12001372",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Lintang Angsana",
+        "stop_lat": "5.3887",
+        "stop_lon": "100.28208000000001",
+        "stop_id": "12001999",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Lebuhraya Thean Teik",
+        "stop_lat": "5.38921",
+        "stop_lon": "100.28045999999999",
+        "stop_id": "12001974",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Perumahan PDRM",
+        "stop_lat": "5.3880099999999995",
+        "stop_lon": "100.27852",
+        "stop_id": "12001972",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Lone Pine Club",
+        "stop_lat": "5.38659",
+        "stop_lon": "100.27660999999999",
+        "stop_id": "12001970",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Pangsapuri Wisma Indah",
+        "stop_lat": "5.3878900000000005",
+        "stop_lon": "100.2745",
+        "stop_id": "12001026",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Permata Court Complex",
+        "stop_lat": "5.392462",
+        "stop_lon": "100.27584",
+        "stop_id": "12001030",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SJK Kong Min II",
+        "stop_lat": "5.3952860000000005",
+        "stop_lon": "100.2767",
+        "stop_id": "12001033",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Klinik Desa Paya Terubong",
+        "stop_lat": "5.397772",
+        "stop_lon": "100.27714",
+        "stop_id": "12001035",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Ambank Paya Terubong",
+        "stop_lat": "5.39975",
+        "stop_lon": "100.27792",
+        "stop_id": "12001037",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Kek Lok Si Temple",
+        "stop_lat": "5.40238",
+        "stop_lon": "100.27728",
+        "stop_id": "12000151",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Pejabat Pos Ayer Itam",
+        "stop_lat": "5.4041",
+        "stop_lon": "100.28008",
+        "stop_id": "12000059",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Tadika St. Paul",
+        "stop_lat": "5.405069999999999",
+        "stop_lon": "100.28191",
+        "stop_id": "12000065",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SRJK Kong Min Pusat",
+        "stop_lat": "5.40454",
+        "stop_lon": "100.28109",
+        "stop_id": "12000062",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "Pejabat Pos Ayer Itam",
+        "stop_lat": "5.4038",
+        "stop_lon": "100.27982",
+        "stop_id": "12000058",
+        "stop_sequence": "43"
+    }
+]

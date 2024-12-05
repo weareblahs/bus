@@ -1,0 +1,107 @@
+[
+    {
+        "stop_name": "Hentian Raya Parit Buntar",
+        "stop_lat": "5.1181722",
+        "stop_lon": "100.4872271",
+        "stop_id": "12002162",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Taman Seri Semarak",
+        "stop_lat": "5.1225",
+        "stop_lon": "100.48666667",
+        "stop_id": "12002164",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Mydin Mall",
+        "stop_lat": "5.128312",
+        "stop_lon": "100.4821847",
+        "stop_id": "12002165",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Taman Harapan Baru",
+        "stop_lat": "5.13093",
+        "stop_lon": "100.47726",
+        "stop_id": "12000939",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Jalan Besar",
+        "stop_lat": "5.131538",
+        "stop_lon": "100.471214",
+        "stop_id": "12000266",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Taman Seri Acheh",
+        "stop_lat": "5.144709",
+        "stop_lon": "100.46968000000001",
+        "stop_id": "12000269",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Jalan Besar 2",
+        "stop_lat": "5.15078",
+        "stop_lon": "100.47204",
+        "stop_id": "12000271",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Kampung Haji Osman",
+        "stop_lat": "5.15941",
+        "stop_lon": "100.47601",
+        "stop_id": "12000441",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Nibong Tebal",
+        "stop_lat": "5.16746",
+        "stop_lon": "100.47877",
+        "stop_id": "12000914",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Pasaraya C-MART",
+        "stop_lat": "5.1769099999999995",
+        "stop_lon": "100.48184",
+        "stop_id": "12000916",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Super-Rider Motor Sdn Bhd",
+        "stop_lat": "5.18075",
+        "stop_lon": "100.48394",
+        "stop_id": "12000918",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "(M2) Residensi Merbok",
+        "stop_lat": "5.18444",
+        "stop_lon": "100.48602",
+        "stop_id": "12000919",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Kuil Sri Muniswara",
+        "stop_lat": "5.380380000000001",
+        "stop_lon": "100.39541",
+        "stop_id": "12000179",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Padang Kilat",
+        "stop_lat": "5.381530000000001",
+        "stop_lon": "100.39312",
+        "stop_id": "12000180",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M1) Penang Sentral",
+        "stop_lat": "5.3948602",
+        "stop_lon": "100.3653495",
+        "stop_id": "12002322",
+        "stop_sequence": "15"
+    }
+]

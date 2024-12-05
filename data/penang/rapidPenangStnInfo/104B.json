@@ -1,0 +1,338 @@
+[
+    {
+        "stop_name": "Menara Asas",
+        "stop_lat": "5.46519",
+        "stop_lon": "100.28331",
+        "stop_id": "12001668",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Pejabat Pos Tg.Bungah",
+        "stop_lat": "5.465269999999999",
+        "stop_lon": "100.28159000000001",
+        "stop_id": "12001669",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Kondominium Azuria",
+        "stop_lat": "5.46375",
+        "stop_lon": "100.28027",
+        "stop_id": "12000817",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SK Tanjung Bunga",
+        "stop_lat": "5.46169",
+        "stop_lon": "100.2798",
+        "stop_id": "12000815",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Sekolah Kebangsaan Pendidikan Khas",
+        "stop_lat": "5.45905",
+        "stop_lon": "100.28022",
+        "stop_id": "12000814",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Tenby School",
+        "stop_lat": "5.458625",
+        "stop_lon": "100.28201",
+        "stop_id": "12000812",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Flat Boon Siew",
+        "stop_lat": "5.45615",
+        "stop_lon": "100.28251",
+        "stop_id": "12002015",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "TAR Kolej I",
+        "stop_lat": "5.4539800000000005",
+        "stop_lon": "100.28435",
+        "stop_id": "12002029",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "TAR Kolej II",
+        "stop_lat": "5.4536",
+        "stop_lon": "100.28648000000001",
+        "stop_id": "12002030",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Lorong Lembah Permai 3",
+        "stop_lat": "5.45452",
+        "stop_lon": "100.28829",
+        "stop_id": "12002031",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Lembah Permai",
+        "stop_lat": "5.45745757",
+        "stop_lon": "100.28921211",
+        "stop_id": "12002219",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Sekolah Ikthisas Tentera Udara",
+        "stop_lat": "5.45865",
+        "stop_lon": "100.28950999999999",
+        "stop_id": "12000080",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Pasar Mini",
+        "stop_lat": "5.46216",
+        "stop_lon": "100.28994",
+        "stop_id": "12000826",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Petron Jalan Sungai Kelian",
+        "stop_lat": "5.464930000000001",
+        "stop_lon": "100.2915",
+        "stop_id": "12001563",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Penang Swimming Club",
+        "stop_lat": "5.4648699999999995",
+        "stop_lon": "100.29629",
+        "stop_id": "12001667",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Mercure Penang Beach Hotel",
+        "stop_lat": "5.4638599999999995",
+        "stop_lon": "100.30121",
+        "stop_id": "12001664",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Jalan Gajah I",
+        "stop_lat": "5.4623800000000005",
+        "stop_lon": "100.30381",
+        "stop_id": "12000481",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Jalan Gajah II",
+        "stop_lat": "5.45985",
+        "stop_lon": "100.30281",
+        "stop_id": "12000480",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Jalan Bintang",
+        "stop_lat": "5.4570300000000005",
+        "stop_lon": "100.30225",
+        "stop_id": "12000288",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Jalan Evergreen",
+        "stop_lat": "5.4533",
+        "stop_lon": "100.30272",
+        "stop_id": "12000478",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Pepper Estate",
+        "stop_lat": "5.454606",
+        "stop_lon": "100.29941",
+        "stop_id": "12000807",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Kompleks Institut Pendidikan",
+        "stop_lat": "5.45032",
+        "stop_lon": "100.30221999999999",
+        "stop_id": "12000901",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Pusat Penjagaan Kanak - Kanak",
+        "stop_lat": "5.44589",
+        "stop_lon": "100.30256999999999",
+        "stop_id": "12000899",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Hong Seng Estate",
+        "stop_lat": "5.44099",
+        "stop_lon": "100.30308000000001",
+        "stop_id": "12000898",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Chinese Cemetery",
+        "stop_lat": "5.4371",
+        "stop_lon": "100.30277",
+        "stop_id": "12000895",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M1) Hospital Adventist",
+        "stop_lat": "5.43375",
+        "stop_lon": "100.30376",
+        "stop_id": "12000371",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Midlands One Stop Centre",
+        "stop_lat": "5.43289",
+        "stop_lon": "100.30629",
+        "stop_id": "12000369",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SMK/SK Convent Pulau Tikus",
+        "stop_lat": "5.43267",
+        "stop_lon": "100.30824",
+        "stop_id": "12000368",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Belissa Row",
+        "stop_lat": "5.43251",
+        "stop_lon": "100.31017",
+        "stop_id": "12000367",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Hardware Pulau Tikus",
+        "stop_lat": "5.43024",
+        "stop_lon": "100.31296",
+        "stop_id": "12000365",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Premier Centre",
+        "stop_lat": "5.42833",
+        "stop_lon": "100.31481",
+        "stop_id": "12000363",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Sokka Gakai",
+        "stop_lat": "5.42736",
+        "stop_lon": "100.31622",
+        "stop_id": "12000362",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Kolej MSU",
+        "stop_lat": "5.426480000000001",
+        "stop_lon": "100.31749",
+        "stop_id": "12000361",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Gleneagles I",
+        "stop_lat": "5.42659",
+        "stop_lon": "100.31886",
+        "stop_id": "12000970",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Northam Hotel",
+        "stop_lat": "5.42726713",
+        "stop_lon": "100.32214503",
+        "stop_id": "12002220",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Wawasan Open University",
+        "stop_lat": "5.42627",
+        "stop_lon": "100.32352",
+        "stop_id": "12001416",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Feruni",
+        "stop_lat": "5.42541",
+        "stop_lon": "100.32504",
+        "stop_id": "12001415",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Citibank",
+        "stop_lat": "5.42364",
+        "stop_lon": "100.32848",
+        "stop_id": "12001414",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Menara KWSP",
+        "stop_lat": "5.42341",
+        "stop_lon": "100.3304",
+        "stop_id": "12001411",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "The Mansion",
+        "stop_lat": "5.42345",
+        "stop_lon": "100.33253",
+        "stop_id": "12001412",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Padang SMK Convent",
+        "stop_lat": "5.421209999999999",
+        "stop_lon": "100.33756",
+        "stop_id": "12001927",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Muzium Pulau Pinang",
+        "stop_lat": "5.42045",
+        "stop_lon": "100.3391",
+        "stop_id": "12001926",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SMK ST. Xavier",
+        "stop_lat": "5.42126",
+        "stop_lon": "100.33700999999999",
+        "stop_id": "12001928",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "Hotel Cititel",
+        "stop_lat": "5.42143",
+        "stop_lon": "100.3337",
+        "stop_id": "12001066",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "Penang Road",
+        "stop_lat": "5.41925",
+        "stop_lon": "100.33199",
+        "stop_id": "12001064",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "Pasar Chowrasta",
+        "stop_lat": "5.418131",
+        "stop_lon": "100.331245",
+        "stop_id": "12001061",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "Komtar",
+        "stop_lat": "5.41378",
+        "stop_lon": "100.33094",
+        "stop_id": "12001937",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "(M1) Hub Lebuh Carnavon",
+        "stop_lat": "5.4126216",
+        "stop_lon": "100.3319975",
+        "stop_id": "12002988",
+        "stop_sequence": "48"
+    }
+]

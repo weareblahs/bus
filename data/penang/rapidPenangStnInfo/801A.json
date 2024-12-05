@@ -1,0 +1,450 @@
+[
+    {
+        "stop_name": "(M1) Penang Sentral",
+        "stop_lat": "5.3948602",
+        "stop_lon": "100.3653495",
+        "stop_id": "12002322",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SMK Convent Butterworth",
+        "stop_lat": "5.39717",
+        "stop_lon": "100.36851999999999",
+        "stop_id": "12000910",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Taman Mewah",
+        "stop_lat": "5.3985",
+        "stop_lon": "100.37189000000001",
+        "stop_id": "12000913",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Stor TNB",
+        "stop_lat": "5.40036",
+        "stop_lon": "100.37676",
+        "stop_id": "12000396",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Chain Ferry",
+        "stop_lat": "5.40153",
+        "stop_lon": "100.37983",
+        "stop_id": "12000397",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Chain Ferry II",
+        "stop_lat": "5.40255",
+        "stop_lon": "100.38273000000001",
+        "stop_id": "12000398",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Taman Chai Leng I",
+        "stop_lat": "5.39042",
+        "stop_lon": "100.38924",
+        "stop_id": "12000395",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Taman Chai Leng II",
+        "stop_lat": "5.38813",
+        "stop_lon": "100.38871",
+        "stop_id": "12000394",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Taman Chai Leng",
+        "stop_lat": "5.38361",
+        "stop_lon": "100.38968",
+        "stop_id": "12000192",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Kompleks Chai Leng Park",
+        "stop_lat": "5.38194",
+        "stop_lon": "100.39278",
+        "stop_id": "12000191",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M2) Megamall - Pacific",
+        "stop_lat": "5.37879",
+        "stop_lon": "100.39794",
+        "stop_id": "12001067",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Masjid Jamek Kampung Setol",
+        "stop_lat": "5.37271",
+        "stop_lon": "100.41006",
+        "stop_id": "12000189",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Medan Perniagaan Pauh Jaya",
+        "stop_lat": "5.37137",
+        "stop_lon": "100.41258",
+        "stop_id": "12000188",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M3) Mydin Mall",
+        "stop_lat": "5.36975",
+        "stop_lon": "100.41549",
+        "stop_id": "12000187",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Kampung Jalan Baru",
+        "stop_lat": "5.36897",
+        "stop_lon": "100.41703000000001",
+        "stop_id": "12000186",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Masjid Jalan Baru",
+        "stop_lat": "5.36774",
+        "stop_lon": "100.41932",
+        "stop_id": "12000185",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Taman Indah",
+        "stop_lat": "5.35732",
+        "stop_lon": "100.42726",
+        "stop_id": "12000355",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Masjid Balik Bukit",
+        "stop_lat": "5.3541099999999995",
+        "stop_lon": "100.42886",
+        "stop_id": "12000354",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Taman Tanah Aman",
+        "stop_lat": "5.35289",
+        "stop_lon": "100.43148000000001",
+        "stop_id": "12000353",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Petronas Bukit Tengah",
+        "stop_lat": "5.349819999999999",
+        "stop_lon": "100.43389",
+        "stop_id": "12000352",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Balai Polis Bukit Tengah",
+        "stop_lat": "5.34661",
+        "stop_lon": "100.43484000000001",
+        "stop_id": "12000351",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M3) Kilang Leader Steel",
+        "stop_lat": "5.340330000000001",
+        "stop_lon": "100.43884",
+        "stop_id": "12000350",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "DB Schenker",
+        "stop_lat": "5.336880000000001",
+        "stop_lon": "100.44261",
+        "stop_id": "12000349",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Petron Bukit Minyak",
+        "stop_lat": "5.330213",
+        "stop_lon": "100.447696",
+        "stop_id": "12002324",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Bukit Minyak",
+        "stop_lat": "5.32642",
+        "stop_lon": "100.44798",
+        "stop_id": "12000337",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Taman Pulasan Bukit Minyak",
+        "stop_lat": "5.32445",
+        "stop_lon": "100.44852",
+        "stop_id": "12000336",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Leeden Hercules",
+        "stop_lat": "5.32153",
+        "stop_lon": "100.452924",
+        "stop_id": "12002325",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Kampung Permatang Tok Subuh",
+        "stop_lat": "5.3190599999999995",
+        "stop_lon": "100.45774",
+        "stop_id": "12000331",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Taman Markisah",
+        "stop_lat": "5.31616",
+        "stop_lon": "100.46169",
+        "stop_id": "12000329",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Taman Sukun Indah",
+        "stop_lat": "5.31311",
+        "stop_lon": "100.46412",
+        "stop_id": "12000327",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Taman Sukun",
+        "stop_lat": "5.31038",
+        "stop_lon": "100.4664",
+        "stop_id": "12001279",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Taman Industri Ringan",
+        "stop_lat": "5.30628",
+        "stop_lon": "100.47027",
+        "stop_id": "12001276",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Essex",
+        "stop_lat": "5.304322",
+        "stop_lon": "100.47229200000001",
+        "stop_id": "12002326",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SRJK Permatang Tinggi",
+        "stop_lat": "5.30021",
+        "stop_lon": "100.47737",
+        "stop_id": "12001273",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Taman Permatang Tinggi Indah",
+        "stop_lat": "5.294630000000001",
+        "stop_lon": "100.47935",
+        "stop_id": "12001269",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Shell Simpang Empat",
+        "stop_lat": "5.289013",
+        "stop_lon": "100.47824399999999",
+        "stop_id": "12002328",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Masjid Simpang Empat",
+        "stop_lat": "5.282946",
+        "stop_lon": "100.476674",
+        "stop_id": "12002329",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SMK Simpang Empat",
+        "stop_lat": "5.2792",
+        "stop_lon": "100.47689",
+        "stop_id": "12001264",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Taman Tiong Mas",
+        "stop_lat": "5.275869999999999",
+        "stop_lon": "100.47706",
+        "stop_id": "12001262",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Taman Tempua",
+        "stop_lat": "5.271780000000001",
+        "stop_lon": "100.47683",
+        "stop_id": "12001260",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Taman Belibis",
+        "stop_lat": "5.26949",
+        "stop_lon": "100.47668",
+        "stop_id": "12001259",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Taman Tangling",
+        "stop_lat": "5.2682199999999995",
+        "stop_lon": "100.476",
+        "stop_id": "12001258",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "Menara Kerjaya Simpang Empat",
+        "stop_lat": "5.2649300000000006",
+        "stop_lon": "100.47425",
+        "stop_id": "12001256",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "Balai Bomba Sungai Bakap",
+        "stop_lat": "5.261616",
+        "stop_lon": "100.472897",
+        "stop_id": "12002330",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "Kilang Silitech",
+        "stop_lat": "5.256390000000001",
+        "stop_lon": "100.4724",
+        "stop_id": "12000284",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "Premium Outlet",
+        "stop_lat": "5.250563",
+        "stop_lon": "100.475252",
+        "stop_id": "12002331",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SJK Tamil Valdor",
+        "stop_lat": "5.24596",
+        "stop_lon": "100.48026999999999",
+        "stop_id": "12000281",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "Taman Rebana",
+        "stop_lat": "5.2419199999999995",
+        "stop_lon": "100.4844",
+        "stop_id": "12000279",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "Lean Teik Trading",
+        "stop_lat": "5.23714",
+        "stop_lon": "100.4893",
+        "stop_id": "12001484",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "Taman Sri Aman",
+        "stop_lat": "5.23365",
+        "stop_lon": "100.49107",
+        "stop_id": "12001487",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "Taman Gamelan",
+        "stop_lat": "5.23077",
+        "stop_lon": "100.49233000000001",
+        "stop_id": "12001485",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "Taman Jelatik",
+        "stop_lat": "5.22485",
+        "stop_lon": "100.49545",
+        "stop_id": "12000277",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "Masjid Lama Sungai Bakap",
+        "stop_lat": "5.221830000000001",
+        "stop_lon": "100.49725",
+        "stop_id": "12000276",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "Hospital Sungai Bakap",
+        "stop_lat": "5.21959",
+        "stop_lon": "100.49815",
+        "stop_id": "12000275",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "Kinik Kesihatan Sungai Bakap",
+        "stop_lat": "5.2171400000000006",
+        "stop_lon": "100.49754",
+        "stop_id": "12000274",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "Perkampungan Jawi",
+        "stop_lat": "5.21248",
+        "stop_lon": "100.49722",
+        "stop_id": "12001483",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "JKR Jawi",
+        "stop_lat": "5.207808999999999",
+        "stop_lon": "100.497725",
+        "stop_id": "12002332",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "Taman Jawi Jaya",
+        "stop_lat": "5.20034",
+        "stop_lon": "100.49492",
+        "stop_id": "12000925",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "SK Jawi",
+        "stop_lat": "5.19728",
+        "stop_lon": "100.49322",
+        "stop_id": "12000924",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "Taman Jawi Ria",
+        "stop_lat": "5.19303",
+        "stop_lon": "100.49091999999999",
+        "stop_id": "12000921",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "Taman Sintar",
+        "stop_lat": "5.18508",
+        "stop_lon": "100.48657",
+        "stop_id": "12000920",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "Teck Land Motors",
+        "stop_lat": "5.1806410000000005",
+        "stop_lon": "100.484135",
+        "stop_id": "12002333",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "Balai Polis Lama Bukit Panchor",
+        "stop_lat": "5.177230000000001",
+        "stop_lon": "100.48228",
+        "stop_id": "12000917",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "Hub Nibong Tebal",
+        "stop_lat": "5.16784",
+        "stop_lon": "100.4783",
+        "stop_id": "12002107",
+        "stop_sequence": "64"
+    }
+]

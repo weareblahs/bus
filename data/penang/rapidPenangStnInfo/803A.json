@@ -1,0 +1,254 @@
+[
+    {
+        "stop_name": "Hub Nibong Tebal",
+        "stop_lat": "5.16784",
+        "stop_lon": "100.4783",
+        "stop_id": "12002107",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SMK Sungai Acheh",
+        "stop_lat": "5.14973",
+        "stop_lon": "100.45936",
+        "stop_id": "12001475",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Masjid Al Fatah",
+        "stop_lat": "5.14703",
+        "stop_lon": "100.45026999999999",
+        "stop_id": "12001469",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Sungai Setar",
+        "stop_lat": "5.1466746",
+        "stop_lon": "100.445002",
+        "stop_id": "12002489",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Dewan Masyarakat Sg.Acheh",
+        "stop_lat": "5.1468042",
+        "stop_lon": "100.436347",
+        "stop_id": "12002501",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SK Sungai Setar",
+        "stop_lat": "5.14691",
+        "stop_lon": "100.4325",
+        "stop_id": "12001467",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Caltex Sungai Acheh",
+        "stop_lat": "5.14719",
+        "stop_lon": "100.42514",
+        "stop_id": "12001472",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Pekan Sg.Acheh",
+        "stop_lat": "5.1473212",
+        "stop_lon": "100.42172",
+        "stop_id": "12002490",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M1) Masjid Sungai Acheh",
+        "stop_lat": "5.14843",
+        "stop_lon": "100.42158",
+        "stop_id": "12001627",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Sg.Acheh",
+        "stop_lat": "5.15031",
+        "stop_lon": "100.42229",
+        "stop_id": "12001628",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Lorong Haji Hashim",
+        "stop_lat": "5.154751",
+        "stop_lon": "100.42398",
+        "stop_id": "12002491",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Jalan Kuala Sungai Udang",
+        "stop_lat": "5.16071",
+        "stop_lon": "100.42565",
+        "stop_id": "12000768",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Kuala Sg.Udang II",
+        "stop_lat": "5.162074",
+        "stop_lon": "100.420693",
+        "stop_id": "12002492",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Kuala Sg.Udang III",
+        "stop_lat": "5.153975",
+        "stop_lon": "100.41507",
+        "stop_id": "12002493",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Perpustakaan Desa Batas Ban",
+        "stop_lat": "5.14957",
+        "stop_lon": "100.41385",
+        "stop_id": "12002097",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Lorong Chenaam 1",
+        "stop_lat": "5.14879",
+        "stop_lon": "100.40978",
+        "stop_id": "12000400",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Peladang Chenaam",
+        "stop_lat": "5.14546",
+        "stop_lon": "100.40801",
+        "stop_id": "12000399",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Kampung Chenaam II",
+        "stop_lat": "5.143078",
+        "stop_lon": "100.40687199999999",
+        "stop_id": "12002494",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Kampung Chenaam III",
+        "stop_lat": "5.141934",
+        "stop_lon": "100.407896",
+        "stop_id": "12002495",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M2) Dewan JKKK Sg.Chenaam",
+        "stop_lat": "5.144516",
+        "stop_lon": "100.40887",
+        "stop_id": "12002098",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Perpustakaan Desa Batas Ban",
+        "stop_lat": "5.14957",
+        "stop_lon": "100.41385",
+        "stop_id": "12002097",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Terusan Air itam",
+        "stop_lat": "5.144508999999999",
+        "stop_lon": "100.413652",
+        "stop_id": "12002497",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Sungai Air Itam",
+        "stop_lat": "5.13895",
+        "stop_lon": "100.41238",
+        "stop_id": "12000182",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Surau Nurul Hakim",
+        "stop_lat": "5.13226",
+        "stop_lon": "100.41058000000001",
+        "stop_id": "12000181",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Pekan Sg.Bakau",
+        "stop_lat": "5.123635",
+        "stop_lon": "100.419005",
+        "stop_id": "12002498",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Kampung Sungai Tongkang",
+        "stop_lat": "5.132000000000001",
+        "stop_lon": "100.41911",
+        "stop_id": "12001491",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Kampung Sungai Air Itam",
+        "stop_lat": "5.136769999999999",
+        "stop_lon": "100.41943",
+        "stop_id": "12001490",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Pekan Sungai Acheh",
+        "stop_lat": "5.14625",
+        "stop_lon": "100.42099",
+        "stop_id": "12000201",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Medan Niaga",
+        "stop_lat": "5.1474400000000005",
+        "stop_lon": "100.42206",
+        "stop_id": "12001474",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Caltex Sungai Acheh",
+        "stop_lat": "5.14737",
+        "stop_lon": "100.42503",
+        "stop_id": "12001473",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SMK Sungai Setar",
+        "stop_lat": "5.14712",
+        "stop_lon": "100.43194",
+        "stop_id": "12001470",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SMK Sungai Setar 2",
+        "stop_lat": "5.14706",
+        "stop_lon": "100.43311",
+        "stop_id": "12001468",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Surau Al Furqan",
+        "stop_lat": "5.14693",
+        "stop_lon": "100.43639",
+        "stop_id": "12001466",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Masjid Al Fatah",
+        "stop_lat": "5.14719",
+        "stop_lon": "100.45039",
+        "stop_id": "12001471",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "(M3) SMK Sungai Acheh",
+        "stop_lat": "5.1498099999999996",
+        "stop_lon": "100.45918",
+        "stop_id": "12001476",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Hub Nibong Tebal",
+        "stop_lat": "5.16784",
+        "stop_lon": "100.4783",
+        "stop_id": "12002107",
+        "stop_sequence": "36"
+    }
+]

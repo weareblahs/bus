@@ -1,0 +1,268 @@
+[
+    {
+        "stop_name": "(M1) Penang Sentral",
+        "stop_lat": "5.3948602",
+        "stop_lon": "100.3653495",
+        "stop_id": "12002322",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Taman Selat",
+        "stop_lat": "5.40005",
+        "stop_lon": "100.36809000000001",
+        "stop_id": "12000120",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Pejabat Kesihatan SPU",
+        "stop_lat": "5.40636",
+        "stop_lon": "100.36949",
+        "stop_id": "12000123",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Pangsapuri Capri",
+        "stop_lat": "5.40638",
+        "stop_lon": "100.3731",
+        "stop_id": "12000539",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Jalan Siram I",
+        "stop_lat": "5.4084",
+        "stop_lon": "100.37763000000001",
+        "stop_id": "12001392",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Jalan Siram II",
+        "stop_lat": "5.41293",
+        "stop_lon": "100.37854",
+        "stop_id": "12001396",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Raja Uda",
+        "stop_lat": "5.4164",
+        "stop_lon": "100.37955",
+        "stop_id": "12001341",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Taman Anggerik",
+        "stop_lat": "5.42596",
+        "stop_lon": "100.38276",
+        "stop_id": "12001345",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJKC Kwang Hwa",
+        "stop_lat": "5.427147",
+        "stop_lon": "100.383125",
+        "stop_id": "12001346",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Jalan Raja Uda I",
+        "stop_lat": "5.4293",
+        "stop_lon": "100.38386",
+        "stop_id": "12001349",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Jalan Raja Uda II",
+        "stop_lat": "5.43119",
+        "stop_lon": "100.38444",
+        "stop_id": "12001351",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Medan Selera Raja Uda",
+        "stop_lat": "5.43318",
+        "stop_lon": "100.38511",
+        "stop_id": "12001353",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Ong Yi How",
+        "stop_lat": "5.43533",
+        "stop_lon": "100.3891",
+        "stop_id": "12001907",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SMK Chung Ling",
+        "stop_lat": "5.43305",
+        "stop_lon": "100.3909",
+        "stop_id": "12001906",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Taman Mesra Permai",
+        "stop_lat": "5.43091",
+        "stop_lon": "100.39318",
+        "stop_id": "12001904",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Pangsapuri Mesra Jaya",
+        "stop_lat": "5.431207",
+        "stop_lon": "100.39625",
+        "stop_id": "12001905",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Taman Mesra Indah",
+        "stop_lat": "5.43518",
+        "stop_lon": "100.39709",
+        "stop_id": "12000115",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Bagan Lalang",
+        "stop_lat": "5.43722",
+        "stop_lon": "100.39754",
+        "stop_id": "12000117",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Taman Industri Cengal",
+        "stop_lat": "5.4403",
+        "stop_lon": "100.39735999999999",
+        "stop_id": "12000119",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Pekan Sungai Puyu",
+        "stop_lat": "5.44873",
+        "stop_lon": "100.39698",
+        "stop_id": "12001591",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M3) Taman Seri Pinang",
+        "stop_lat": "5.449669999999999",
+        "stop_lon": "100.39922",
+        "stop_id": "12001592",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Pekan Maklom",
+        "stop_lat": "5.45056",
+        "stop_lon": "100.40128",
+        "stop_id": "12001595",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Alor Merah",
+        "stop_lat": "5.45075",
+        "stop_lon": "100.40326",
+        "stop_id": "12001539",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Masjid Alor Merah",
+        "stop_lat": "5.45055",
+        "stop_lon": "100.40517",
+        "stop_id": "12001536",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Masjid Sungai Lokan",
+        "stop_lat": "5.45003",
+        "stop_lon": "100.40833",
+        "stop_id": "12001533",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Petronas Sg. Lokan",
+        "stop_lat": "5.4491",
+        "stop_lon": "100.41203",
+        "stop_id": "12001529",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Shell Sg. Lokan",
+        "stop_lat": "5.44853",
+        "stop_lon": "100.41405",
+        "stop_id": "12001524",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Kampung Teluk Sungai Dua",
+        "stop_lat": "5.4463",
+        "stop_lon": "100.42209",
+        "stop_id": "12001521",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Sungai Dua Utama",
+        "stop_lat": "5.44524",
+        "stop_lon": "100.42716",
+        "stop_id": "12001517",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Masjid Sungai Dua",
+        "stop_lat": "5.445198",
+        "stop_lon": "100.427986",
+        "stop_id": "12001514",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Taman Pengkalan Machang",
+        "stop_lat": "5.44393",
+        "stop_lon": "100.43013",
+        "stop_id": "12001512",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Klinik Kesihatan",
+        "stop_lat": "5.44226",
+        "stop_lon": "100.42985999999999",
+        "stop_id": "12001511",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Desa Murni",
+        "stop_lat": "5.4404900000000005",
+        "stop_lon": "100.42953",
+        "stop_id": "12001510",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Desa Murni",
+        "stop_lat": "5.4371",
+        "stop_lon": "100.43021",
+        "stop_id": "12001508",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Taman Desa Murni",
+        "stop_lat": "5.43538",
+        "stop_lon": "100.43078",
+        "stop_id": "12001507",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Simpang Lorong Murni 5",
+        "stop_lat": "5.43602",
+        "stop_lon": "100.43273",
+        "stop_id": "12000902",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Simpang Lorong Murni 6",
+        "stop_lat": "5.43724",
+        "stop_lon": "100.43298",
+        "stop_id": "12000903",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Hub Desa Murni",
+        "stop_lat": "5.43841",
+        "stop_lon": "100.43275",
+        "stop_id": "12000904",
+        "stop_sequence": "38"
+    }
+]

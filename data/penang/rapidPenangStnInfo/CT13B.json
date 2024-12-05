@@ -1,0 +1,142 @@
+[
+    {
+        "stop_name": "Terminal Bas Bayan Baru",
+        "stop_lat": "5.3269589999999996",
+        "stop_lon": "100.2803228",
+        "stop_id": "12002974",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M2) Spice",
+        "stop_lat": "5.32736",
+        "stop_lon": "100.28050999999999",
+        "stop_id": "12000851",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Setia Welcome Center",
+        "stop_lat": "5.32963",
+        "stop_lon": "100.27883",
+        "stop_id": "12001837",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SRJK Min Sin",
+        "stop_lat": "5.331169",
+        "stop_lon": "100.281425",
+        "stop_id": "12001840",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Bukit Jambul Golf Club",
+        "stop_lat": "5.33199",
+        "stop_lon": "100.28419",
+        "stop_id": "12001842",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Masjid Sungai Nibong Kecil",
+        "stop_lat": "5.3326",
+        "stop_lon": "100.28684",
+        "stop_id": "12001845",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Kompleks Bukit Jambul",
+        "stop_lat": "5.3327029999999995",
+        "stop_lon": "100.29074",
+        "stop_id": "12001847",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Krystal Point Corporate Park",
+        "stop_lat": "5.330701",
+        "stop_lon": "100.298996",
+        "stop_id": "12001955",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Queensbay Mall",
+        "stop_lat": "5.331947",
+        "stop_lon": "100.30790999999999",
+        "stop_id": "12002059",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Bay Garden",
+        "stop_lat": "5.336976",
+        "stop_lon": "100.308266",
+        "stop_id": "12002063",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Putra Place",
+        "stop_lat": "5.339915",
+        "stop_lon": "100.30946",
+        "stop_id": "12002066",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Jeti Pulau Jerejak",
+        "stop_lat": "5.34301",
+        "stop_lon": "100.31121999999999",
+        "stop_id": "12002069",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "E-Park Kondominium",
+        "stop_lat": "5.352093",
+        "stop_lon": "100.30986999999999",
+        "stop_id": "12001989",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Jambatan Pulau Pinang",
+        "stop_lat": "5.356566",
+        "stop_lon": "100.39229",
+        "stop_id": "12002109",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M2) Megamall - Pacific",
+        "stop_lat": "5.37879",
+        "stop_lon": "100.39794",
+        "stop_id": "12001067",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Masjid Seberang Jaya",
+        "stop_lat": "5.38675",
+        "stop_lon": "100.40491",
+        "stop_id": "12001877",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Pangsapuri B3",
+        "stop_lat": "5.390969999999999",
+        "stop_lon": "100.40536",
+        "stop_id": "12001878",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Pangsapuri A1",
+        "stop_lat": "5.39331",
+        "stop_lon": "100.40557",
+        "stop_id": "12001880",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Prudential",
+        "stop_lat": "5.39674",
+        "stop_lon": "100.39963",
+        "stop_id": "12001830",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Hotel Blanket",
+        "stop_lat": "5.3948529999999995",
+        "stop_lon": "100.40001",
+        "stop_id": "12002530",
+        "stop_sequence": "20"
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "stop_name": "Hub Taman Juru Setia",
+        "stop_lat": "5.33303",
+        "stop_lon": "100.42664",
+        "stop_id": "12001290",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Pangsapuri Taman Pelangi",
+        "stop_lat": "5.3450239999999996",
+        "stop_lon": "100.425211",
+        "stop_id": "12002503",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Asrama Mattel",
+        "stop_lat": "5.343304",
+        "stop_lon": "100.42628",
+        "stop_id": "12002511",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Medan Selera Taman Pelangi",
+        "stop_lat": "5.34185",
+        "stop_lon": "100.42742",
+        "stop_id": "12001048",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Nashmir Car Park",
+        "stop_lat": "5.339957",
+        "stop_lon": "100.428081",
+        "stop_id": "12002512",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Juru Evenue",
+        "stop_lat": "5.32564",
+        "stop_lon": "100.43531999999999",
+        "stop_id": "12001282",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Taman Sri Delima",
+        "stop_lat": "5.3217",
+        "stop_lon": "100.43406999999999",
+        "stop_id": "12001280",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Taman Perusahaan Ringan Juru",
+        "stop_lat": "5.316523999999999",
+        "stop_lon": "100.43231",
+        "stop_id": "12002521",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Juru",
+        "stop_lat": "5.31559",
+        "stop_lon": "100.43313",
+        "stop_id": "12000585",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Surau An Nur Juru",
+        "stop_lat": "5.315739",
+        "stop_lon": "100.4356",
+        "stop_id": "12002522",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Taman Sentul",
+        "stop_lat": "5.31639",
+        "stop_lon": "100.44188",
+        "stop_id": "12000588",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Taman Juru",
+        "stop_lat": "5.31968",
+        "stop_lon": "100.44816",
+        "stop_id": "12000589",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Juru Jaya",
+        "stop_lat": "5.32336",
+        "stop_lon": "100.44896999999999",
+        "stop_id": "12000335",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Bukit Minyak",
+        "stop_lat": "5.32721",
+        "stop_lon": "100.44779",
+        "stop_id": "12000323",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M2) Masjid Tok Lebai Hashim",
+        "stop_lat": "5.33202",
+        "stop_lon": "100.45079",
+        "stop_id": "12000326",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Taman Kota Permai II",
+        "stop_lat": "5.339943",
+        "stop_lon": "100.45622",
+        "stop_id": "12002523",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Taman Kota Permai",
+        "stop_lat": "5.34403",
+        "stop_lon": "100.45668",
+        "stop_id": "12000732",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Taman Lembah Permai",
+        "stop_lat": "5.348735",
+        "stop_lon": "100.45704599999999",
+        "stop_id": "12002524",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Mahkamah Bukit Mertajam",
+        "stop_lat": "5.353875",
+        "stop_lon": "100.45163000000001",
+        "stop_id": "12002525",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Kompleks Sukan & Rekreasi MPSP",
+        "stop_lat": "5.35593",
+        "stop_lon": "100.44910300000001",
+        "stop_id": "12002526",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Desa Wawasan",
+        "stop_lat": "5.35668",
+        "stop_lon": "100.44814000000001",
+        "stop_id": "12002045",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Desa Wawasa",
+        "stop_lat": "5.358213",
+        "stop_lon": "100.447397",
+        "stop_id": "12002585",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Sri Rambai",
+        "stop_lat": "5.363582",
+        "stop_lon": "100.44471899999999",
+        "stop_id": "12002527",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Taman Desa Damai",
+        "stop_lat": "5.36532",
+        "stop_lon": "100.44327",
+        "stop_id": "12000958",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Pusat Borong Fama",
+        "stop_lat": "5.3653699999999995",
+        "stop_lon": "100.44286",
+        "stop_id": "12000959",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Padang Lalang",
+        "stop_lat": "5.36565",
+        "stop_lon": "100.44286",
+        "stop_id": "12000960",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Kampung Padang Lalang",
+        "stop_lat": "5.365346",
+        "stop_lon": "100.44659300000001",
+        "stop_id": "12002342",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KTM BM",
+        "stop_lat": "5.36529",
+        "stop_lon": "100.44748",
+        "stop_id": "12000961",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Masjid Sungai Rambai",
+        "stop_lat": "5.36436",
+        "stop_lon": "100.45317",
+        "stop_id": "12001596",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Kamdar",
+        "stop_lat": "5.36519",
+        "stop_lon": "100.45875",
+        "stop_id": "12000906",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Plaza Utama",
+        "stop_lat": "5.3666",
+        "stop_lon": "100.45826",
+        "stop_id": "12000907",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PBA Bukit Mertajam",
+        "stop_lat": "5.366679",
+        "stop_lon": "100.460003",
+        "stop_id": "12002343",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "(M1) The Summit",
+        "stop_lat": "5.3657975",
+        "stop_lon": "100.462624",
+        "stop_id": "12002201",
+        "stop_sequence": "33"
+    }
+]

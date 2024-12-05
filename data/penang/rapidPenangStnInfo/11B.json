@@ -1,0 +1,254 @@
+[
+    {
+        "stop_name": "Hospital Lam Wah Ee",
+        "stop_lat": "5.3926300000000005",
+        "stop_lon": "100.30407",
+        "stop_id": "12001643",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Persatuan Kanak - Kanak Sepastik",
+        "stop_lat": "5.38894",
+        "stop_lon": "100.30366",
+        "stop_id": "12000862",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "(M2) Pasar Batu Lanchang I",
+        "stop_lat": "5.38943",
+        "stop_lon": "100.30688",
+        "stop_id": "12001960",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Pasar Batu Lanchang II",
+        "stop_lat": "5.39051",
+        "stop_lon": "100.30660999999999",
+        "stop_id": "12002002",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M3) Flat Bata Merah",
+        "stop_lat": "5.39265",
+        "stop_lon": "100.30711",
+        "stop_id": "12001641",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Balai Polis Jelutong",
+        "stop_lat": "5.3914",
+        "stop_lon": "100.31241999999999",
+        "stop_id": "12001640",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Asrama Munshi",
+        "stop_lat": "5.392361",
+        "stop_lon": "100.31354",
+        "stop_id": "12001069",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Sunshine Jelutong",
+        "stop_lat": "5.3939",
+        "stop_lon": "100.31424",
+        "stop_id": "12001070",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Old Town Café",
+        "stop_lat": "5.39527",
+        "stop_lon": "100.31466999999999",
+        "stop_id": "12001071",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Klinik Comfort",
+        "stop_lat": "5.397133",
+        "stop_lon": "100.31464799999999",
+        "stop_id": "12002278",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Harmony View",
+        "stop_lat": "5.400284",
+        "stop_lon": "100.31487",
+        "stop_id": "12001072",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Klinik Kesihatan",
+        "stop_lat": "5.40235",
+        "stop_lon": "100.31497",
+        "stop_id": "12001073",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Kampung Dodol",
+        "stop_lat": "5.40492",
+        "stop_lon": "100.31538",
+        "stop_id": "12001076",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Taman Zainal Abidin",
+        "stop_lat": "5.40831",
+        "stop_lon": "100.31609",
+        "stop_id": "12001077",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Stadium Bandaraya",
+        "stop_lat": "5.41124",
+        "stop_lon": "100.31603",
+        "stop_id": "12001078",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Padang Brown",
+        "stop_lat": "5.412893",
+        "stop_lon": "100.317986",
+        "stop_id": "12000455",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Kampung Makam",
+        "stop_lat": "5.412389",
+        "stop_lon": "100.32112",
+        "stop_id": "12000445",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Pasar Jalan Kuantan",
+        "stop_lat": "5.412776999999999",
+        "stop_lon": "100.32437",
+        "stop_id": "12000453",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Penang Times Square",
+        "stop_lat": "5.41332",
+        "stop_lon": "100.3262",
+        "stop_id": "12000459",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Pasaraya Gama",
+        "stop_lat": "5.41384",
+        "stop_lon": "100.32789",
+        "stop_id": "12000462",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Komtar Utara",
+        "stop_lat": "5.41513",
+        "stop_lon": "100.32899",
+        "stop_id": "12001060",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Wisma MCA",
+        "stop_lat": "5.41841",
+        "stop_lon": "100.32954000000001",
+        "stop_id": "12001832",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Transfer Road",
+        "stop_lat": "5.420875",
+        "stop_lon": "100.330605",
+        "stop_id": "12001835",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Pejabat Maritim",
+        "stop_lat": "5.42175",
+        "stop_lon": "100.33142",
+        "stop_id": "12001399",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Sri Bahari",
+        "stop_lat": "5.42089",
+        "stop_lon": "100.33248",
+        "stop_id": "12001397",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "H.S. Sam Book Store",
+        "stop_lat": "5.41933",
+        "stop_lon": "100.33411",
+        "stop_id": "12001921",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Love Lane",
+        "stop_lat": "5.41834",
+        "stop_lon": "100.3364",
+        "stop_id": "12001919",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Little India",
+        "stop_lat": "5.4164699999999995",
+        "stop_lon": "100.33854000000001",
+        "stop_id": "12001917",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Container Hotel",
+        "stop_lat": "5.4142",
+        "stop_lon": "100.34045",
+        "stop_id": "12002318",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Jejantas Terminal Feri",
+        "stop_lat": "5.414516000000001",
+        "stop_lon": "100.34186600000001",
+        "stop_id": "12002056",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Pejabat Pos Besar P.Pinang",
+        "stop_lat": "5.41721",
+        "stop_lon": "100.34428",
+        "stop_id": "12002058",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Pejabat Pos Besar P.Pinang 1",
+        "stop_lat": "5.4180154",
+        "stop_lon": "100.3436892",
+        "stop_id": "12002971",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Balai Polis",
+        "stop_lat": "5.418646",
+        "stop_lon": "100.34356",
+        "stop_id": "12001943",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Swettenham Pier Cruise Terminal",
+        "stop_lat": "5.4185041",
+        "stop_lon": "100.34508129999999",
+        "stop_id": "12002972",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Church Street Pier",
+        "stop_lat": "5.41664",
+        "stop_lon": "100.34413",
+        "stop_id": "12002057",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "(M1) JETTY A",
+        "stop_lat": "5.414174",
+        "stop_lon": "100.3422281",
+        "stop_id": "12002113",
+        "stop_sequence": "36"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "stop_name": "Terminal UTC Ukir Square",
+        "stop_lat": "5.6402774",
+        "stop_lon": "100.49054749999999",
+        "stop_id": "12002981",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Stesen KTM",
+        "stop_lat": "5.64269",
+        "stop_lon": "100.49056999999999",
+        "stop_id": "12000856",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Pusat Bandar",
+        "stop_lat": "5.64414",
+        "stop_lon": "100.48924",
+        "stop_id": "12000541",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M2) Terminal Jalan Petri",
+        "stop_lat": "5.6397699999999995",
+        "stop_lon": "100.48807",
+        "stop_id": "12001291",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Central Square",
+        "stop_lat": "5.636909999999999",
+        "stop_lon": "100.48814",
+        "stop_id": "12000597",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "MSU",
+        "stop_lat": "5.63274",
+        "stop_lon": "100.48289",
+        "stop_id": "12000134",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Pejabat Pos Bakar Arang",
+        "stop_lat": "5.62901",
+        "stop_lon": "100.48063",
+        "stop_id": "12000132",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SMK Che Tom",
+        "stop_lat": "5.62447",
+        "stop_lon": "100.4788",
+        "stop_id": "12000131",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Tesco Bakar Arang",
+        "stop_lat": "5.62188",
+        "stop_lon": "100.47648000000001",
+        "stop_id": "12000129",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Peladang Sg.Petani",
+        "stop_lat": "5.61914",
+        "stop_lon": "100.47372",
+        "stop_id": "12000126",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "CP1",
+        "stop_lat": "5.458735099999999",
+        "stop_lon": "100.4193436",
+        "stop_id": "12002979",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "CP2",
+        "stop_lat": "5.4314919",
+        "stop_lon": "100.3770532",
+        "stop_id": "12002980",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M1) Penang Sentral",
+        "stop_lat": "5.3948602",
+        "stop_lon": "100.3653495",
+        "stop_id": "12002322",
+        "stop_sequence": "13"
+    }
+]

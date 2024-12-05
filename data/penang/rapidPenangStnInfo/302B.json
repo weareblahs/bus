@@ -1,0 +1,660 @@
+[
+    {
+        "stop_name": "Hub Batu Maung",
+        "stop_lat": "5.28965",
+        "stop_lon": "100.28014",
+        "stop_id": "12000244",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Balai Polis",
+        "stop_lat": "5.28793",
+        "stop_lon": "100.2828",
+        "stop_id": "12000242",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Institut Penyelidikan Perikanan",
+        "stop_lat": "5.28554",
+        "stop_lon": "100.28662",
+        "stop_id": "12000241",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Muzium Perang",
+        "stop_lat": "5.28372",
+        "stop_lon": "100.28618",
+        "stop_id": "12001148",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SMK Batu Maung",
+        "stop_lat": "5.2828599999999994",
+        "stop_lon": "100.2851",
+        "stop_id": "12001146",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Jejantas SK Batu Maung",
+        "stop_lat": "5.280986",
+        "stop_lon": "100.28214399999999",
+        "stop_id": "12002308",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Tadika Smart Reader",
+        "stop_lat": "5.280193",
+        "stop_lon": "100.279486",
+        "stop_id": "12002309",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Kampung Bukit Kecil",
+        "stop_lat": "5.279669999999999",
+        "stop_lon": "100.276522",
+        "stop_id": "12002310",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Taman Gembira",
+        "stop_lat": "5.28106",
+        "stop_lon": "100.27381",
+        "stop_id": "12001142",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Taman Desa Wangsa",
+        "stop_lat": "5.2778",
+        "stop_lon": "100.27060999999999",
+        "stop_id": "12001130",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Permatang Damar Laut 2",
+        "stop_lat": "5.2765",
+        "stop_lon": "100.26765",
+        "stop_id": "12001128",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Sekolah Memandu Damar Laut",
+        "stop_lat": "5.27816",
+        "stop_lon": "100.26536999999999",
+        "stop_id": "12001131",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Surau Kampung Binjai",
+        "stop_lat": "5.281559",
+        "stop_lon": "100.259136",
+        "stop_id": "12002311",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Kampung Binjai",
+        "stop_lat": "5.2834",
+        "stop_lon": "100.25713",
+        "stop_id": "12001147",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Jejantas SMK Bayan Lepas",
+        "stop_lat": "5.28665",
+        "stop_lon": "100.2562",
+        "stop_id": "12001152",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Masjid Kampung Seronok",
+        "stop_lat": "5.29036",
+        "stop_lon": "100.25675",
+        "stop_id": "12001155",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJK(T) Bayan Lepas",
+        "stop_lat": "5.29306",
+        "stop_lon": "100.25668",
+        "stop_id": "12001156",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Seri Bayu",
+        "stop_lat": "5.295746",
+        "stop_lon": "100.256454",
+        "stop_id": "12000408",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Bayu Mutiara",
+        "stop_lat": "5.297193",
+        "stop_lon": "100.25646",
+        "stop_id": "12000413",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SK Bayan Lepas",
+        "stop_lat": "5.29676",
+        "stop_lon": "100.25974000000001",
+        "stop_id": "12000410",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Kampung Perlis",
+        "stop_lat": "5.298158",
+        "stop_lon": "100.26153599999999",
+        "stop_id": "12000414",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Bayan Lepas",
+        "stop_lat": "5.299901",
+        "stop_lon": "100.26219",
+        "stop_id": "12000415",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "JPAM Bayan Lepas",
+        "stop_lat": "5.301789",
+        "stop_lon": "100.26191999999999",
+        "stop_id": "12000417",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Setia Triangle",
+        "stop_lat": "5.30187",
+        "stop_lon": "100.2603",
+        "stop_id": "12002077",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Lengkok Kelicap",
+        "stop_lat": "5.303669999999999",
+        "stop_lon": "100.25816999999999",
+        "stop_id": "12002079",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Klinik Menara",
+        "stop_lat": "5.302219999999999",
+        "stop_lon": "100.26071",
+        "stop_id": "12002078",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Setia Triangle",
+        "stop_lat": "5.30294",
+        "stop_lon": "100.26187",
+        "stop_id": "12000418",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Taman Nuri I",
+        "stop_lat": "5.30467",
+        "stop_lon": "100.26292",
+        "stop_id": "12000420",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Pasar MBPP",
+        "stop_lat": "5.306801",
+        "stop_lon": "100.26429",
+        "stop_id": "12000423",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SK Mutiara Perdana",
+        "stop_lat": "5.307906",
+        "stop_lon": "100.26483",
+        "stop_id": "12000424",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Tingkat Kenari",
+        "stop_lat": "5.31454",
+        "stop_lon": "100.266",
+        "stop_id": "12000427",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Kem Sungai Ara 2",
+        "stop_lat": "5.317285",
+        "stop_lon": "100.26814",
+        "stop_id": "12000430",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SMK Sungai Ara",
+        "stop_lat": "5.3196699999999995",
+        "stop_lon": "100.27074",
+        "stop_id": "12000432",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SK Agama Sungai Ara",
+        "stop_lat": "5.321918",
+        "stop_lon": "100.27153",
+        "stop_id": "12000435",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Kampung Sungai Ara",
+        "stop_lat": "5.32355",
+        "stop_lon": "100.27444",
+        "stop_id": "12000246",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Klinik Kesihatan",
+        "stop_lat": "5.321205",
+        "stop_lon": "100.27917",
+        "stop_id": "12001807",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Hospital Pantai Mutiara",
+        "stop_lat": "5.32054",
+        "stop_lon": "100.28271",
+        "stop_id": "12001804",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Giant Bayan Baru",
+        "stop_lat": "5.32027",
+        "stop_lon": "100.28435999999999",
+        "stop_id": "12001802",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Pasaraya Giant",
+        "stop_lat": "5.32071",
+        "stop_lon": "100.28571",
+        "stop_id": "12000879",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Masjid Bayan Baru",
+        "stop_lat": "5.323671",
+        "stop_lon": "100.28688000000001",
+        "stop_id": "12000882",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Sunshine Square",
+        "stop_lat": "5.325499",
+        "stop_lon": "100.2875",
+        "stop_id": "12000885",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KFC Jalan Mahsuri",
+        "stop_lat": "5.32686",
+        "stop_lon": "100.28667",
+        "stop_id": "12000847",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "Mayang Mall",
+        "stop_lat": "5.32693",
+        "stop_lon": "100.2843",
+        "stop_id": "12000848",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "(M2) Spice",
+        "stop_lat": "5.32736",
+        "stop_lon": "100.28050999999999",
+        "stop_id": "12000851",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "Setia Welcome Center",
+        "stop_lat": "5.32963",
+        "stop_lon": "100.27883",
+        "stop_id": "12001837",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SRJK Min Sin",
+        "stop_lat": "5.331169",
+        "stop_lon": "100.281425",
+        "stop_id": "12001840",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "Bukit Jambul Golf Club",
+        "stop_lat": "5.33199",
+        "stop_lon": "100.28419",
+        "stop_id": "12001842",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "Masjid Sungai Nibong Kecil",
+        "stop_lat": "5.3326",
+        "stop_lon": "100.28684",
+        "stop_id": "12001845",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "Kompleks Bukit Jambul",
+        "stop_lat": "5.3327029999999995",
+        "stop_lon": "100.29074",
+        "stop_id": "12001847",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "Kompleks Makanan",
+        "stop_lat": "5.33636",
+        "stop_lon": "100.29348",
+        "stop_id": "12001942",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "(M2) Pangsapuri Golf View",
+        "stop_lat": "5.340762000000001",
+        "stop_lon": "100.29247",
+        "stop_id": "12000298",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "SMK Bukit Jambul",
+        "stop_lat": "5.347928",
+        "stop_lon": "100.291595",
+        "stop_id": "12000301",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "USM",
+        "stop_lat": "5.356580999999999",
+        "stop_lon": "100.29281",
+        "stop_id": "12000304",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "Lapang Sasar Bukit Gambir",
+        "stop_lat": "5.35952",
+        "stop_lon": "100.29309",
+        "stop_id": "12000305",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "Petronas",
+        "stop_lat": "5.362430000000001",
+        "stop_lon": "100.29528",
+        "stop_id": "12000307",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "SMK Bukit Gambir",
+        "stop_lat": "5.3704",
+        "stop_lon": "100.29649",
+        "stop_id": "12000310",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "Jalan Permai 1",
+        "stop_lat": "5.37326",
+        "stop_lon": "100.29838000000001",
+        "stop_id": "12000312",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "Perumahan Kastam",
+        "stop_lat": "5.37447",
+        "stop_lon": "100.30129000000001",
+        "stop_id": "12000810",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "Taman Tun Sardon",
+        "stop_lat": "5.371651",
+        "stop_lon": "100.30281",
+        "stop_id": "12000019",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "Astaka Taman Tun Sardon",
+        "stop_lat": "5.36916",
+        "stop_lon": "100.305",
+        "stop_id": "12000024",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "Anggerik Villa",
+        "stop_lat": "5.3685599999999996",
+        "stop_lon": "100.30825",
+        "stop_id": "12000023",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "Maybank Gelugor",
+        "stop_lat": "5.3697099999999995",
+        "stop_lon": "100.31005",
+        "stop_id": "12001455",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "KTM Motor",
+        "stop_lat": "5.3727800000000006",
+        "stop_lon": "100.30903",
+        "stop_id": "12001457",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "Recsam",
+        "stop_lat": "5.37671",
+        "stop_lon": "100.30803",
+        "stop_id": "12001459",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "Lebuh Raya Gelugor I",
+        "stop_lat": "5.38604",
+        "stop_lon": "100.30951999999999",
+        "stop_id": "12001958",
+        "stop_sequence": "65"
+    },
+    {
+        "stop_name": "Lebuh Raya Gelugor II",
+        "stop_lat": "5.38759",
+        "stop_lon": "100.30667",
+        "stop_id": "12001959",
+        "stop_sequence": "66"
+    },
+    {
+        "stop_name": "(M2) Pasar Batu Lanchang I",
+        "stop_lat": "5.38943",
+        "stop_lon": "100.30688",
+        "stop_id": "12001960",
+        "stop_sequence": "67"
+    },
+    {
+        "stop_name": "Balai Polis Jelutong",
+        "stop_lat": "5.3914",
+        "stop_lon": "100.31241999999999",
+        "stop_id": "12001640",
+        "stop_sequence": "68"
+    },
+    {
+        "stop_name": "Asrama Munshi",
+        "stop_lat": "5.392361",
+        "stop_lon": "100.31354",
+        "stop_id": "12001069",
+        "stop_sequence": "69"
+    },
+    {
+        "stop_name": "Sunshine Jelutong",
+        "stop_lat": "5.3939",
+        "stop_lon": "100.31424",
+        "stop_id": "12001070",
+        "stop_sequence": "70"
+    },
+    {
+        "stop_name": "Old Town Café",
+        "stop_lat": "5.39527",
+        "stop_lon": "100.31466999999999",
+        "stop_id": "12001071",
+        "stop_sequence": "71"
+    },
+    {
+        "stop_name": "(M2) Hong Leong Bank Jelutong",
+        "stop_lat": "5.39582",
+        "stop_lon": "100.31751",
+        "stop_id": "12000570",
+        "stop_sequence": "72"
+    },
+    {
+        "stop_name": "Taman Cemerlang",
+        "stop_lat": "5.39701",
+        "stop_lon": "100.31896",
+        "stop_id": "12000572",
+        "stop_sequence": "73"
+    },
+    {
+        "stop_name": "Maybank Jelutong",
+        "stop_lat": "5.3979",
+        "stop_lon": "100.31989",
+        "stop_id": "12000575",
+        "stop_sequence": "74"
+    },
+    {
+        "stop_name": "SJK(C) MOH GHEE Cawangan",
+        "stop_lat": "5.4004199999999996",
+        "stop_lon": "100.3222",
+        "stop_id": "12000576",
+        "stop_sequence": "75"
+    },
+    {
+        "stop_name": "Sungai Pinang",
+        "stop_lat": "5.40265",
+        "stop_lon": "100.32297",
+        "stop_id": "12001585",
+        "stop_sequence": "76"
+    },
+    {
+        "stop_name": "Apartmen Taman Seri Petani",
+        "stop_lat": "5.40585",
+        "stop_lon": "100.32143",
+        "stop_id": "12000991",
+        "stop_sequence": "77"
+    },
+    {
+        "stop_name": "Apartmen Taman Sri Pinang",
+        "stop_lat": "5.406219999999999",
+        "stop_lon": "100.32298",
+        "stop_id": "12001903",
+        "stop_sequence": "78"
+    },
+    {
+        "stop_name": "Flat PPR Jalan Sungai",
+        "stop_lat": "5.407030000000001",
+        "stop_lon": "100.3247",
+        "stop_id": "12001462",
+        "stop_sequence": "79"
+    },
+    {
+        "stop_name": "Persimpangan Jalan S.P Chelliah",
+        "stop_lat": "5.407838",
+        "stop_lon": "100.327675",
+        "stop_id": "12000529",
+        "stop_sequence": "80"
+    },
+    {
+        "stop_name": "Presgrave Corner",
+        "stop_lat": "5.41122",
+        "stop_lon": "100.33043599999999",
+        "stop_id": "12002993",
+        "stop_sequence": "81"
+    },
+    {
+        "stop_name": "Komtar",
+        "stop_lat": "5.41378",
+        "stop_lon": "100.33094",
+        "stop_id": "12001937",
+        "stop_sequence": "82"
+    },
+    {
+        "stop_name": "Lebuh Carnavon",
+        "stop_lat": "5.41424",
+        "stop_lon": "100.33328",
+        "stop_id": "12001910",
+        "stop_sequence": "83"
+    },
+    {
+        "stop_name": "Hotel Armenian",
+        "stop_lat": "5.415494",
+        "stop_lon": "100.335",
+        "stop_id": "12001915",
+        "stop_sequence": "84"
+    },
+    {
+        "stop_name": "Kampung Kolam",
+        "stop_lat": "5.41614",
+        "stop_lon": "100.33646999999999",
+        "stop_id": "12000611",
+        "stop_sequence": "85"
+    },
+    {
+        "stop_name": "Little India",
+        "stop_lat": "5.4164699999999995",
+        "stop_lon": "100.33854000000001",
+        "stop_id": "12001917",
+        "stop_sequence": "86"
+    },
+    {
+        "stop_name": "Container Hotel",
+        "stop_lat": "5.4142",
+        "stop_lon": "100.34045",
+        "stop_id": "12002318",
+        "stop_sequence": "87"
+    },
+    {
+        "stop_name": "Jejantas Terminal Feri",
+        "stop_lat": "5.414516000000001",
+        "stop_lon": "100.34186600000001",
+        "stop_id": "12002056",
+        "stop_sequence": "88"
+    },
+    {
+        "stop_name": "Pejabat Pos Besar P.Pinang",
+        "stop_lat": "5.41721",
+        "stop_lon": "100.34428",
+        "stop_id": "12002058",
+        "stop_sequence": "89"
+    },
+    {
+        "stop_name": "Pejabat Pos Besar P.Pinang 1",
+        "stop_lat": "5.4180154",
+        "stop_lon": "100.3436892",
+        "stop_id": "12002971",
+        "stop_sequence": "90"
+    },
+    {
+        "stop_name": "Balai Polis",
+        "stop_lat": "5.418646",
+        "stop_lon": "100.34356",
+        "stop_id": "12001943",
+        "stop_sequence": "91"
+    },
+    {
+        "stop_name": "Swettenham Pier Cruise Terminal",
+        "stop_lat": "5.4185041",
+        "stop_lon": "100.34508129999999",
+        "stop_id": "12002972",
+        "stop_sequence": "92"
+    },
+    {
+        "stop_name": "Church Street Pier",
+        "stop_lat": "5.41664",
+        "stop_lon": "100.34413",
+        "stop_id": "12002057",
+        "stop_sequence": "93"
+    },
+    {
+        "stop_name": "(M1) JETTY A",
+        "stop_lat": "5.414174",
+        "stop_lon": "100.3422281",
+        "stop_id": "12002113",
+        "stop_sequence": "94"
+    }
+]

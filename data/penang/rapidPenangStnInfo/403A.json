@@ -1,0 +1,562 @@
+[
+    {
+        "stop_name": "Terminal Bas Balik Pulau",
+        "stop_lat": "5.351447900000001",
+        "stop_lon": "100.2398239",
+        "stop_id": "12002115",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Pekan Kongsi",
+        "stop_lat": "5.35078",
+        "stop_lon": "100.23510999999999",
+        "stop_id": "12000140",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Hospital Balik Pulau",
+        "stop_lat": "5.35091",
+        "stop_lon": "100.23312",
+        "stop_id": "12001567",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Taman Impian",
+        "stop_lat": "5.35195",
+        "stop_lon": "100.23135",
+        "stop_id": "12001568",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Taman Poket Jalan Chai",
+        "stop_lat": "5.35418",
+        "stop_lon": "100.22922",
+        "stop_id": "12001572",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Pejabat Agama Daerah",
+        "stop_lat": "5.35651",
+        "stop_lon": "100.22721999999999",
+        "stop_id": "12001573",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SK Titi Teras",
+        "stop_lat": "5.35885",
+        "stop_lon": "100.22451",
+        "stop_id": "12001575",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "(M1) Balai Bomba Air Putih",
+        "stop_lat": "5.36216",
+        "stop_lon": "100.22057",
+        "stop_id": "12001579",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Pejabat Kesihatan Barat Daya",
+        "stop_lat": "5.36428",
+        "stop_lon": "100.21804",
+        "stop_id": "12001582",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Balai Polis",
+        "stop_lat": "5.36471",
+        "stop_lon": "100.21568",
+        "stop_id": "12000175",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Café Anjung Bagan",
+        "stop_lat": "5.36121",
+        "stop_lon": "100.21137",
+        "stop_id": "12000173",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Hadapan Masjid Jalan Baru",
+        "stop_lat": "5.35715",
+        "stop_lon": "100.2104",
+        "stop_id": "12000171",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Sungai Korok",
+        "stop_lat": "5.355230000000001",
+        "stop_lon": "100.20995",
+        "stop_id": "12000168",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SK Sg. Korok",
+        "stop_lat": "5.3537",
+        "stop_lon": "100.20965",
+        "stop_id": "12000167",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Titi Sungai Korok",
+        "stop_lat": "5.35259",
+        "stop_lon": "100.20561",
+        "stop_id": "12000735",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Kg. Sungai Korok",
+        "stop_lat": "5.352930000000001",
+        "stop_lon": "100.20356",
+        "stop_id": "12000736",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJK Yeok Hua",
+        "stop_lat": "5.35324",
+        "stop_lon": "100.20163000000001",
+        "stop_id": "12000738",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Kuala Jalan Baru",
+        "stop_lat": "5.35325",
+        "stop_lon": "100.20187",
+        "stop_id": "12000737",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Kampung Sg.Korok",
+        "stop_lat": "5.3529602",
+        "stop_lon": "100.2036215",
+        "stop_id": "12002257",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Titi Sungai Korok",
+        "stop_lat": "5.352684",
+        "stop_lon": "100.2055337",
+        "stop_id": "12002258",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Pondok Polis",
+        "stop_lat": "5.35228",
+        "stop_lon": "100.20796999999999",
+        "stop_id": "12000734",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Jalan Baru",
+        "stop_lat": "5.35005",
+        "stop_lon": "100.20906",
+        "stop_id": "12000164",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Sungai Burung",
+        "stop_lat": "5.34664",
+        "stop_lon": "100.20849",
+        "stop_id": "12000161",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "JPS",
+        "stop_lat": "5.34406",
+        "stop_lon": "100.20810999999999",
+        "stop_id": "12000159",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Masjid Sungai Burung",
+        "stop_lat": "5.34189",
+        "stop_lon": "100.20783",
+        "stop_id": "12000157",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Klinik Desa Sg. Burung",
+        "stop_lat": "5.33749",
+        "stop_lon": "100.20715",
+        "stop_id": "12000153",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M1) SMK Seri Balik Pulau",
+        "stop_lat": "5.3343",
+        "stop_lon": "100.21234",
+        "stop_id": "12001565",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Pekan Genting",
+        "stop_lat": "5.332409999999999",
+        "stop_lon": "100.21579",
+        "stop_id": "12000663",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Taman Desa Genting",
+        "stop_lat": "5.33115",
+        "stop_lon": "100.21468",
+        "stop_id": "12000662",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Balai Bomba Balik Pulau",
+        "stop_lat": "5.32599",
+        "stop_lon": "100.21291",
+        "stop_id": "12000661",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Kampung Terang",
+        "stop_lat": "5.32126",
+        "stop_lon": "100.21199",
+        "stop_id": "12000660",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Kampung Terang 2",
+        "stop_lat": "5.318309999999999",
+        "stop_lon": "100.21105",
+        "stop_id": "12000659",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Kampung Parit Lama",
+        "stop_lat": "5.31268",
+        "stop_lon": "100.20744",
+        "stop_id": "12000658",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Kampung Parit Lama 2",
+        "stop_lat": "5.30966",
+        "stop_lon": "100.20539000000001",
+        "stop_id": "12000657",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Simpang Masjid Pulau Betong",
+        "stop_lat": "5.306780000000001",
+        "stop_lon": "100.20347",
+        "stop_id": "12000656",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Pekan Pulau Betong",
+        "stop_lat": "5.30391",
+        "stop_lon": "100.19951999999999",
+        "stop_id": "12000653",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Kg Pulau Betong",
+        "stop_lat": "5.30359",
+        "stop_lon": "100.1974",
+        "stop_id": "12000651",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Hub Pulau Betong",
+        "stop_lat": "5.304819999999999",
+        "stop_lon": "100.19483000000001",
+        "stop_id": "12000654",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Kampung Pulau Betong",
+        "stop_lat": "5.30357",
+        "stop_lon": "100.19714",
+        "stop_id": "12000664",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Kampung Pulau Betong 2",
+        "stop_lat": "5.30379",
+        "stop_lon": "100.19846",
+        "stop_id": "12000652",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Pemancar Pulau Betong",
+        "stop_lat": "5.305",
+        "stop_lon": "100.20146",
+        "stop_id": "12000665",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Masjid Pulau Betong",
+        "stop_lat": "5.30612",
+        "stop_lon": "100.20284000000001",
+        "stop_id": "12000655",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SK Pulau Betong",
+        "stop_lat": "5.30774",
+        "stop_lon": "100.20289",
+        "stop_id": "12000632",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "Lrg Kpg Perlis 12",
+        "stop_lat": "5.31154",
+        "stop_lon": "100.20353",
+        "stop_id": "12000633",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "(M2) Kampung Perlis 1",
+        "stop_lat": "5.31566",
+        "stop_lon": "100.2042",
+        "stop_id": "12000634",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "Lrg Kpg Perlis 3",
+        "stop_lat": "5.31961",
+        "stop_lon": "100.20483",
+        "stop_id": "12000629",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "Hadapan Lrg Kpg Perlis 2",
+        "stop_lat": "5.32647",
+        "stop_lon": "100.20576",
+        "stop_id": "12000630",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "Hadapan Lrg Kpg Perlis 3",
+        "stop_lat": "5.33141",
+        "stop_lon": "100.20634",
+        "stop_id": "12000631",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "Sungai Burung",
+        "stop_lat": "5.33592",
+        "stop_lon": "100.2069",
+        "stop_id": "12000152",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "Klinik Desa",
+        "stop_lat": "5.337969999999999",
+        "stop_lon": "100.20715",
+        "stop_id": "12000154",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "Jalan Sungai Burung",
+        "stop_lat": "5.33939",
+        "stop_lon": "100.20737",
+        "stop_id": "12000155",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "Masjid Sg. Burung",
+        "stop_lat": "5.34161",
+        "stop_lon": "100.20776",
+        "stop_id": "12000156",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "Restoran",
+        "stop_lat": "5.34334",
+        "stop_lon": "100.20801999999999",
+        "stop_id": "12000158",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "Surau Sungai Burung",
+        "stop_lat": "5.3461300000000005",
+        "stop_lon": "100.20839000000001",
+        "stop_id": "12000160",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "Kg Sungai Burung",
+        "stop_lat": "5.3480300000000005",
+        "stop_lon": "100.20872",
+        "stop_id": "12000162",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "Kg Sungai Burung 2",
+        "stop_lat": "5.34975",
+        "stop_lon": "100.20902",
+        "stop_id": "12000163",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "Kg Sungai Burung 3",
+        "stop_lat": "5.351",
+        "stop_lon": "100.20919",
+        "stop_id": "12000165",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "Titi Sungai Korok",
+        "stop_lat": "5.35259",
+        "stop_lon": "100.20561",
+        "stop_id": "12000735",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "Kg. Sungai Korok",
+        "stop_lat": "5.352930000000001",
+        "stop_lon": "100.20356",
+        "stop_id": "12000736",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "SJK Yeok Hua",
+        "stop_lat": "5.35324",
+        "stop_lon": "100.20163000000001",
+        "stop_id": "12000738",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "Kuala Jalan Baru",
+        "stop_lat": "5.35325",
+        "stop_lon": "100.20187",
+        "stop_id": "12000737",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "Kampung Sg.Korok",
+        "stop_lat": "5.3529602",
+        "stop_lon": "100.2036215",
+        "stop_id": "12002257",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "Titi Sungai Korok",
+        "stop_lat": "5.352684",
+        "stop_lon": "100.2055337",
+        "stop_id": "12002258",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "Pondok Polis",
+        "stop_lat": "5.35228",
+        "stop_lon": "100.20796999999999",
+        "stop_id": "12000734",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "SK Sg. Korok",
+        "stop_lat": "5.35348",
+        "stop_lon": "100.20959",
+        "stop_id": "12000166",
+        "stop_sequence": "65"
+    },
+    {
+        "stop_name": "Hadapan Koperasi Keluarga Haji Ismail",
+        "stop_lat": "5.35577",
+        "stop_lon": "100.21005",
+        "stop_id": "12000169",
+        "stop_sequence": "66"
+    },
+    {
+        "stop_name": "Masjid Jalan Baru",
+        "stop_lat": "5.357080000000001",
+        "stop_lon": "100.2104",
+        "stop_id": "12000170",
+        "stop_sequence": "67"
+    },
+    {
+        "stop_name": "Sungai Korok",
+        "stop_lat": "5.35966",
+        "stop_lon": "100.211",
+        "stop_id": "12000172",
+        "stop_sequence": "68"
+    },
+    {
+        "stop_name": "Sungai Korok 2",
+        "stop_lat": "5.36175",
+        "stop_lon": "100.21144",
+        "stop_id": "12000174",
+        "stop_sequence": "69"
+    },
+    {
+        "stop_name": "Hadapan Balai Polis",
+        "stop_lat": "5.36486",
+        "stop_lon": "100.2158",
+        "stop_id": "12000176",
+        "stop_sequence": "70"
+    },
+    {
+        "stop_name": "Pejabat Kesihatan Barat Daya",
+        "stop_lat": "5.36391",
+        "stop_lon": "100.21857",
+        "stop_id": "12001580",
+        "stop_sequence": "71"
+    },
+    {
+        "stop_name": "(M3) Balai Bomba Air Putih",
+        "stop_lat": "5.36203",
+        "stop_lon": "100.22091999999999",
+        "stop_id": "12001578",
+        "stop_sequence": "72"
+    },
+    {
+        "stop_name": "Dewan JKKK Titi Teras",
+        "stop_lat": "5.3602",
+        "stop_lon": "100.22276",
+        "stop_id": "12001577",
+        "stop_sequence": "73"
+    },
+    {
+        "stop_name": "SK Titi Teras",
+        "stop_lat": "5.35886",
+        "stop_lon": "100.22462",
+        "stop_id": "12001576",
+        "stop_sequence": "74"
+    },
+    {
+        "stop_name": "Pejabat Agama Daerah",
+        "stop_lat": "5.35669",
+        "stop_lon": "100.22716",
+        "stop_id": "12001574",
+        "stop_sequence": "75"
+    },
+    {
+        "stop_name": "Taman Poket Jalan Chai",
+        "stop_lat": "5.35406",
+        "stop_lon": "100.22939000000001",
+        "stop_id": "12001570",
+        "stop_sequence": "76"
+    },
+    {
+        "stop_name": "Taman Impian",
+        "stop_lat": "5.35206",
+        "stop_lon": "100.23124",
+        "stop_id": "12001569",
+        "stop_sequence": "77"
+    },
+    {
+        "stop_name": "Pejabat Daerah dan Tanah",
+        "stop_lat": "5.3506599999999995",
+        "stop_lon": "100.23408",
+        "stop_id": "12001566",
+        "stop_sequence": "78"
+    },
+    {
+        "stop_name": "SRJK Chong Teik",
+        "stop_lat": "5.3512699999999995",
+        "stop_lon": "100.23708",
+        "stop_id": "12001886",
+        "stop_sequence": "79"
+    },
+    {
+        "stop_name": "Terminal Bas Balik Pulau",
+        "stop_lat": "5.351447900000001",
+        "stop_lon": "100.2398239",
+        "stop_id": "12002115",
+        "stop_sequence": "80"
+    }
+]

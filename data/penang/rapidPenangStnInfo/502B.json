@@ -1,0 +1,429 @@
+[
+    {
+        "stop_name": "Hub Pekan Genting",
+        "stop_lat": "5.33336",
+        "stop_lon": "100.21667",
+        "stop_id": "12000141",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SMK Pondok Upeh Balik Pulau",
+        "stop_lat": "5.33659",
+        "stop_lon": "100.22010999999999",
+        "stop_id": "12000143",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Masjid Daerah Balik Pulau",
+        "stop_lat": "5.33861",
+        "stop_lon": "100.2222",
+        "stop_id": "12000145",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "IPD Barat Daya",
+        "stop_lat": "5.34166",
+        "stop_lon": "100.2254",
+        "stop_id": "12000146",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Taman Seri Indah",
+        "stop_lat": "5.34345",
+        "stop_lon": "100.22733000000001",
+        "stop_id": "12000148",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SK Kongsi",
+        "stop_lat": "5.34657",
+        "stop_lon": "100.2305",
+        "stop_id": "12002280",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Masjid Kongsi",
+        "stop_lat": "5.348116",
+        "stop_lon": "100.2321",
+        "stop_id": "12000138",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Pejabat Pos Balik Pulau",
+        "stop_lat": "5.34925",
+        "stop_lon": "100.23331",
+        "stop_id": "12000150",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AADK Pekan Kongsi",
+        "stop_lat": "5.35041",
+        "stop_lon": "100.23451",
+        "stop_id": "12002281",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SRJK Chong Teik",
+        "stop_lat": "5.3512699999999995",
+        "stop_lon": "100.23708",
+        "stop_id": "12001886",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Terminal Bas Balik Pulau",
+        "stop_lat": "5.351447900000001",
+        "stop_lon": "100.2398239",
+        "stop_id": "12002115",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Temple Jalan Tun Sardon",
+        "stop_lat": "5.3389",
+        "stop_lon": "100.23796999999999",
+        "stop_id": "12002282",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Kebun Bunga Bukit Baru",
+        "stop_lat": "5.34105",
+        "stop_lon": "100.24429",
+        "stop_id": "12002295",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Jalan Tun Sardon KM380",
+        "stop_lat": "5.34466",
+        "stop_lon": "100.24899",
+        "stop_id": "12002283",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M2) Anjung Indah II",
+        "stop_lat": "5.34949",
+        "stop_lon": "100.25211",
+        "stop_id": "12001883",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Sardon Hill",
+        "stop_lat": "5.348669999999999",
+        "stop_lon": "100.26165",
+        "stop_id": "12002284",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Persimpangan Relau",
+        "stop_lat": "5.35499",
+        "stop_lon": "100.27125",
+        "stop_id": "12002285",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Pangsapuri Green Garden",
+        "stop_lat": "5.366619",
+        "stop_lon": "100.27306999999999",
+        "stop_id": "12001017",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M2) Tingkat Paya Terubong4",
+        "stop_lat": "5.36975",
+        "stop_lon": "100.27547",
+        "stop_id": "12002102",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Tingkat Paya Terubong 2 - 1",
+        "stop_lat": "5.37092",
+        "stop_lon": "100.2774",
+        "stop_id": "12002099",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Tingkat Paya Terubong 2 - 2",
+        "stop_lat": "5.37184",
+        "stop_lon": "100.27757",
+        "stop_id": "12002100",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Tingkat Paya Terubong 2 - 3",
+        "stop_lat": "5.37357",
+        "stop_lon": "100.27785",
+        "stop_id": "12002101",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Oriental Garden",
+        "stop_lat": "5.37547",
+        "stop_lon": "100.27575999999999",
+        "stop_id": "12001020",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Pekan Paya Terubong",
+        "stop_lat": "5.37904",
+        "stop_lon": "100.27483000000001",
+        "stop_id": "12002286",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Paya Terubong Cemetery",
+        "stop_lat": "5.380875",
+        "stop_lon": "100.27495",
+        "stop_id": "12001023",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Pangsapuri Wisma Indah",
+        "stop_lat": "5.3878900000000005",
+        "stop_lon": "100.2745",
+        "stop_id": "12001026",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Permata Court Complex",
+        "stop_lat": "5.392462",
+        "stop_lon": "100.27584",
+        "stop_id": "12001030",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SJK Kong Min II",
+        "stop_lat": "5.3952860000000005",
+        "stop_lon": "100.2767",
+        "stop_id": "12001033",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Klinik Desa Paya Terubong",
+        "stop_lat": "5.397772",
+        "stop_lon": "100.27714",
+        "stop_id": "12001035",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Ambank Paya Terubong",
+        "stop_lat": "5.39975",
+        "stop_lon": "100.27792",
+        "stop_id": "12001037",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Kek Lok Si Temple",
+        "stop_lat": "5.40238",
+        "stop_lon": "100.27728",
+        "stop_id": "12000151",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Pejabat Pos Ayer Itam",
+        "stop_lat": "5.4041",
+        "stop_lon": "100.28008",
+        "stop_id": "12000059",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Tadika St. Paul",
+        "stop_lat": "5.405069999999999",
+        "stop_lon": "100.28191",
+        "stop_id": "12000065",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "CIMB Bank Ayer Itam",
+        "stop_lat": "5.4053",
+        "stop_lon": "100.28384",
+        "stop_id": "12000068",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Masjid Jamek Al-Qadrie",
+        "stop_lat": "5.40437",
+        "stop_lon": "100.28602",
+        "stop_id": "12000061",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "BHP Kampung Baru",
+        "stop_lat": "5.40468",
+        "stop_lon": "100.29051",
+        "stop_id": "12000063",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Balai Polis Kampung Baru",
+        "stop_lat": "5.40526",
+        "stop_lon": "100.29424",
+        "stop_id": "12000067",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Pasar Kampung Baru",
+        "stop_lat": "5.40612",
+        "stop_lon": "100.29637",
+        "stop_id": "12000069",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Masjid Negeri P.Pinang",
+        "stop_lat": "5.407769999999999",
+        "stop_lon": "100.29997",
+        "stop_id": "12000071",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "(M2) SMKA Al-Mashoor(Hentian Transit)",
+        "stop_lat": "5.40832",
+        "stop_lon": "100.3037",
+        "stop_id": "12000073",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SMK (L) Methodist",
+        "stop_lat": "5.41018",
+        "stop_lon": "100.30699",
+        "stop_id": "12000074",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Dhoby Ghaut",
+        "stop_lat": "5.4126900000000004",
+        "stop_lon": "100.30969",
+        "stop_id": "12000448",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "Penjara P.Pinang(Hospital)",
+        "stop_lat": "5.41364",
+        "stop_lon": "100.31312",
+        "stop_id": "12000460",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "Padang Brown",
+        "stop_lat": "5.412893",
+        "stop_lon": "100.317986",
+        "stop_id": "12000455",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "Kampung Makam",
+        "stop_lat": "5.412389",
+        "stop_lon": "100.32112",
+        "stop_id": "12000445",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "Pasar Jalan Kuantan",
+        "stop_lat": "5.412776999999999",
+        "stop_lon": "100.32437",
+        "stop_id": "12000453",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "Penang Times Square",
+        "stop_lat": "5.41332",
+        "stop_lon": "100.3262",
+        "stop_id": "12000459",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "Pasaraya Gama",
+        "stop_lat": "5.41384",
+        "stop_lon": "100.32789",
+        "stop_id": "12000462",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "Komtar Utara",
+        "stop_lat": "5.41513",
+        "stop_lon": "100.32899",
+        "stop_id": "12001060",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "Wisma MCA",
+        "stop_lat": "5.41841",
+        "stop_lon": "100.32954000000001",
+        "stop_id": "12001832",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "Transfer Road",
+        "stop_lat": "5.420875",
+        "stop_lon": "100.330605",
+        "stop_id": "12001835",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "Pejabat Maritim",
+        "stop_lat": "5.42175",
+        "stop_lon": "100.33142",
+        "stop_id": "12001399",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "Sri Bahari",
+        "stop_lat": "5.42089",
+        "stop_lon": "100.33248",
+        "stop_id": "12001397",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "Hotel Cititel",
+        "stop_lat": "5.42168",
+        "stop_lon": "100.33383",
+        "stop_id": "12002287",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "Protestant Cemetry",
+        "stop_lat": "5.4228",
+        "stop_lon": "100.33394",
+        "stop_id": "12001929",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "Padang SMK Convent",
+        "stop_lat": "5.421209999999999",
+        "stop_lon": "100.33756",
+        "stop_id": "12001927",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "Dewan Sri Pinang",
+        "stop_lat": "5.420669999999999",
+        "stop_lon": "100.34076",
+        "stop_id": "12001936",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "Padang Kota Lama",
+        "stop_lat": "5.41994",
+        "stop_lon": "100.34257",
+        "stop_id": "12001934",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "Swettenham Pier Cruise Terminal",
+        "stop_lat": "5.4185041",
+        "stop_lon": "100.34508129999999",
+        "stop_id": "12002972",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "Church Street Pier",
+        "stop_lat": "5.41664",
+        "stop_lon": "100.34413",
+        "stop_id": "12002057",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "(M1) JETTY A",
+        "stop_lat": "5.414174",
+        "stop_lon": "100.3422281",
+        "stop_id": "12002113",
+        "stop_sequence": "61"
+    }
+]

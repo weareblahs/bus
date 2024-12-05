@@ -1,0 +1,814 @@
+[
+    {
+        "stop_name": "(M1) Lapangan Terbang Antarabangsa Pulau Pinang",
+        "stop_lat": "5.292606",
+        "stop_lon": "100.2648269",
+        "stop_id": "12002211",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "The Star Publication",
+        "stop_lat": "5.298109999999999",
+        "stop_lon": "100.26985",
+        "stop_id": "12001418",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Sungai Tiram",
+        "stop_lat": "5.302697",
+        "stop_lon": "100.27651",
+        "stop_id": "12001422",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Dynacraft Industries Sdn. Bhd.",
+        "stop_lat": "5.30481",
+        "stop_lon": "100.27917",
+        "stop_id": "12001423",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "B Braun",
+        "stop_lat": "5.3083800000000005",
+        "stop_lon": "100.28226",
+        "stop_id": "12001425",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Snake Temple",
+        "stop_lat": "5.314244",
+        "stop_lon": "100.28605",
+        "stop_id": "12001427",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Taman Sri Tunas",
+        "stop_lat": "5.320189",
+        "stop_lon": "100.28914",
+        "stop_id": "12001460",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Taman Mahsuri",
+        "stop_lat": "5.32846",
+        "stop_lon": "100.29335999999999",
+        "stop_id": "12001432",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SRJK Kwang Hwa",
+        "stop_lat": "5.33615",
+        "stop_lon": "100.29726",
+        "stop_id": "12001435",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Ayamas Sg. Nibong",
+        "stop_lat": "5.338055000000001",
+        "stop_lon": "100.29855",
+        "stop_id": "12001437",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Masjid Jamek Sg Nibong",
+        "stop_lat": "5.340112",
+        "stop_lon": "100.29935",
+        "stop_id": "12001439",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Terminal Bas Ekspres Sg Nibong",
+        "stop_lat": "5.342838700000001",
+        "stop_lon": "100.3003478",
+        "stop_id": "12002139",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Tapak Pesta Sg Nibong",
+        "stop_lat": "5.34478",
+        "stop_lon": "100.30175",
+        "stop_id": "12001443",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Taman Century",
+        "stop_lat": "5.3477",
+        "stop_lon": "100.30336",
+        "stop_id": "12001445",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "JPJ Batu Uban",
+        "stop_lat": "5.35133",
+        "stop_lon": "100.30429000000001",
+        "stop_id": "12001446",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Sekolah Memandu Batu Uban",
+        "stop_lat": "5.3524151",
+        "stop_lon": "100.30504659999998",
+        "stop_id": "12002207",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Jejantas Batu Uban",
+        "stop_lat": "5.35418",
+        "stop_lon": "100.30793",
+        "stop_id": "12001448",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Padang Bola USM",
+        "stop_lat": "5.35994",
+        "stop_lon": "100.31049",
+        "stop_id": "12001450",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SK Sg. Gelugor",
+        "stop_lat": "5.36497",
+        "stop_lon": "100.31097",
+        "stop_id": "12001452",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Maybank Gelugor",
+        "stop_lat": "5.3697099999999995",
+        "stop_lon": "100.31005",
+        "stop_id": "12001455",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KTM Motor",
+        "stop_lat": "5.3727800000000006",
+        "stop_lon": "100.30903",
+        "stop_id": "12001457",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Recsam",
+        "stop_lat": "5.37671",
+        "stop_lon": "100.30803",
+        "stop_id": "12001459",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Shell Green Lane",
+        "stop_lat": "5.3855900000000005",
+        "stop_lon": "100.30514000000001",
+        "stop_id": "12000860",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Persatuan Kanak-Kanak Sepastik",
+        "stop_lat": "5.3891",
+        "stop_lon": "100.30325",
+        "stop_id": "12000864",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Hospital Lam Wah Ee",
+        "stop_lat": "5.39285",
+        "stop_lon": "100.3026",
+        "stop_id": "12000866",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SMK Convent Green Lane",
+        "stop_lat": "5.396780000000001",
+        "stop_lon": "100.30341",
+        "stop_id": "12000868",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "McDonald Green Lane",
+        "stop_lat": "5.40146",
+        "stop_lon": "100.30395",
+        "stop_id": "12000871",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SMK Penang Free",
+        "stop_lat": "5.403490000000001",
+        "stop_lon": "100.3037",
+        "stop_id": "12000873",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M2) SMKA Al-Mashoor(Hentian Transit)",
+        "stop_lat": "5.40832",
+        "stop_lon": "100.3037",
+        "stop_id": "12000073",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SMK (L) Methodist",
+        "stop_lat": "5.41018",
+        "stop_lon": "100.30699",
+        "stop_id": "12000074",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Dhoby Ghaut",
+        "stop_lat": "5.4126900000000004",
+        "stop_lon": "100.30969",
+        "stop_id": "12000448",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Penjara P.Pinang(Hospital)",
+        "stop_lat": "5.41364",
+        "stop_lon": "100.31312",
+        "stop_id": "12000460",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Padang Brown",
+        "stop_lat": "5.412893",
+        "stop_lon": "100.317986",
+        "stop_id": "12000455",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Kampung Makam",
+        "stop_lat": "5.412389",
+        "stop_lon": "100.32112",
+        "stop_id": "12000445",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Pasar Jalan Kuantan",
+        "stop_lat": "5.412776999999999",
+        "stop_lon": "100.32437",
+        "stop_id": "12000453",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Penang Times Square",
+        "stop_lat": "5.41332",
+        "stop_lon": "100.3262",
+        "stop_id": "12000459",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Pasaraya Gama",
+        "stop_lat": "5.41384",
+        "stop_lon": "100.32789",
+        "stop_id": "12000462",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Komtar Utara",
+        "stop_lat": "5.41513",
+        "stop_lon": "100.32899",
+        "stop_id": "12001060",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Terminal Komtar",
+        "stop_lat": "5.4141808",
+        "stop_lon": "100.33031319999999",
+        "stop_id": "12002116",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Masjid Simpang Enam",
+        "stop_lat": "5.41438",
+        "stop_lon": "100.32784000000001",
+        "stop_id": "12000827",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Pusat Kegiatan Guru Kelawei",
+        "stop_lat": "5.41622",
+        "stop_lon": "100.32396",
+        "stop_id": "12000830",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Pasar Jalan Anson",
+        "stop_lat": "5.416127599999999",
+        "stop_lon": "100.3209253",
+        "stop_id": "12002208",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "Kolej MSU",
+        "stop_lat": "5.41477",
+        "stop_lon": "100.31888000000001",
+        "stop_id": "12000051",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "Koperasi Melayu Pulau Pinang",
+        "stop_lat": "5.41742",
+        "stop_lon": "100.31678000000001",
+        "stop_id": "12001080",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "YMCA",
+        "stop_lat": "5.4205548",
+        "stop_lon": "100.3155555",
+        "stop_id": "12002203",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "Wat Bhuparam",
+        "stop_lat": "5.4259",
+        "stop_lon": "100.31669000000001",
+        "stop_id": "12001086",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "Kolej MSU",
+        "stop_lat": "5.426480000000001",
+        "stop_lon": "100.31749",
+        "stop_id": "12000361",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "Gleneagles I",
+        "stop_lat": "5.42659",
+        "stop_lon": "100.31886",
+        "stop_id": "12000970",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "Gleneagles II",
+        "stop_lat": "5.427282",
+        "stop_lon": "100.31952",
+        "stop_id": "12000972",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "Sri Pangkor Kondominium",
+        "stop_lat": "5.42875",
+        "stop_lon": "100.31974",
+        "stop_id": "12000718",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "Gurney Hotel",
+        "stop_lat": "5.429469999999999",
+        "stop_lon": "100.31879",
+        "stop_id": "12000719",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "Evergreen Hotel",
+        "stop_lat": "5.4303",
+        "stop_lon": "100.31715",
+        "stop_id": "12000720",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "Masjid Jamek Al Munawer",
+        "stop_lat": "5.4307300000000005",
+        "stop_lon": "100.31622",
+        "stop_id": "12000721",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "Flat Kelawei",
+        "stop_lat": "5.4313",
+        "stop_lon": "100.31533",
+        "stop_id": "12000722",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "Sleeping Buddha",
+        "stop_lat": "5.4320900000000005",
+        "stop_lon": "100.31404",
+        "stop_id": "12000723",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "Pangsapuri Festival",
+        "stop_lat": "5.43341",
+        "stop_lon": "100.31219",
+        "stop_id": "12000724",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "Gurney Paragon",
+        "stop_lat": "5.43463",
+        "stop_lon": "100.31057",
+        "stop_id": "12000726",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "Gurney Plaza",
+        "stop_lat": "5.43594",
+        "stop_lon": "100.30881",
+        "stop_id": "12000727",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "Balai Bomba Bagan Jermal",
+        "stop_lat": "5.44088",
+        "stop_lon": "100.30719",
+        "stop_id": "12001644",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "Masjid Bagan Jermal",
+        "stop_lat": "5.4436",
+        "stop_lon": "100.30578",
+        "stop_id": "12001646",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "Caltex",
+        "stop_lat": "5.44589",
+        "stop_lon": "100.30502",
+        "stop_id": "12001648",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "Wisma Binjul",
+        "stop_lat": "5.44843",
+        "stop_lon": "100.30521999999999",
+        "stop_id": "12001650",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "Hadapan Medan Selera Downtown",
+        "stop_lat": "5.45005",
+        "stop_lon": "100.3083",
+        "stop_id": "12001382",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "Hadapan Straits Quay Marina Mall",
+        "stop_lat": "5.45791",
+        "stop_lon": "100.31246",
+        "stop_id": "12001385",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "Tesco Tanjung Pinang II",
+        "stop_lat": "5.45803",
+        "stop_lon": "100.30851",
+        "stop_id": "12001386",
+        "stop_sequence": "65"
+    },
+    {
+        "stop_name": "Tesco Tanjung Pinang",
+        "stop_lat": "5.4594",
+        "stop_lon": "100.30771999999999",
+        "stop_id": "12001658",
+        "stop_sequence": "66"
+    },
+    {
+        "stop_name": "Flat UDA",
+        "stop_lat": "5.46192",
+        "stop_lon": "100.30644000000001",
+        "stop_id": "12001659",
+        "stop_sequence": "67"
+    },
+    {
+        "stop_name": "Chinese Swimming Club",
+        "stop_lat": "5.46261",
+        "stop_lon": "100.30429000000001",
+        "stop_id": "12001661",
+        "stop_sequence": "68"
+    },
+    {
+        "stop_name": "Mercure Penang Beach Hotel",
+        "stop_lat": "5.46354",
+        "stop_lon": "100.30138000000001",
+        "stop_id": "12001663",
+        "stop_sequence": "69"
+    },
+    {
+        "stop_name": "Hotel Copthorne",
+        "stop_lat": "5.46555",
+        "stop_lon": "100.29173",
+        "stop_id": "12001672",
+        "stop_sequence": "70"
+    },
+    {
+        "stop_name": "Hotel Flamingo",
+        "stop_lat": "5.46612",
+        "stop_lon": "100.2877",
+        "stop_id": "12001675",
+        "stop_sequence": "71"
+    },
+    {
+        "stop_name": "Infinity",
+        "stop_lat": "5.4657599999999995",
+        "stop_lon": "100.28574",
+        "stop_id": "12001673",
+        "stop_sequence": "72"
+    },
+    {
+        "stop_name": "Menara Asas",
+        "stop_lat": "5.46519",
+        "stop_lon": "100.28331",
+        "stop_id": "12001668",
+        "stop_sequence": "73"
+    },
+    {
+        "stop_name": "Pejabat Pos Tg.Bungah",
+        "stop_lat": "5.465269999999999",
+        "stop_lon": "100.28159000000001",
+        "stop_id": "12001669",
+        "stop_sequence": "74"
+    },
+    {
+        "stop_name": "Grand Ocean Condominium",
+        "stop_lat": "5.4661800000000005",
+        "stop_lon": "100.27969",
+        "stop_id": "12001676",
+        "stop_sequence": "75"
+    },
+    {
+        "stop_name": "Masjid Terapung",
+        "stop_lat": "5.4676422",
+        "stop_lon": "100.2772938",
+        "stop_id": "12003014",
+        "stop_sequence": "76"
+    },
+    {
+        "stop_name": "Mar Vista",
+        "stop_lat": "5.470619999999999",
+        "stop_lon": "100.2772",
+        "stop_id": "12000212",
+        "stop_sequence": "77"
+    },
+    {
+        "stop_name": "Pantai Shamrock",
+        "stop_lat": "5.47495",
+        "stop_lon": "100.2763",
+        "stop_id": "12000222",
+        "stop_sequence": "78"
+    },
+    {
+        "stop_name": "Mount Pleasure",
+        "stop_lat": "5.47754",
+        "stop_lon": "100.27243",
+        "stop_id": "12000227",
+        "stop_sequence": "79"
+    },
+    {
+        "stop_name": "Double Tree Resort",
+        "stop_lat": "5.47825",
+        "stop_lon": "100.26897",
+        "stop_id": "12000234",
+        "stop_sequence": "80"
+    },
+    {
+        "stop_name": "Pantai Miami",
+        "stop_lat": "5.47766",
+        "stop_lon": "100.26751",
+        "stop_id": "12000229",
+        "stop_sequence": "81"
+    },
+    {
+        "stop_name": "HILLTOP",
+        "stop_lat": "5.47794445",
+        "stop_lon": "100.2650168",
+        "stop_id": "12002250",
+        "stop_sequence": "82"
+    },
+    {
+        "stop_name": "Moon Light Café",
+        "stop_lat": "5.47801",
+        "stop_lon": "100.26288000000001",
+        "stop_id": "12000231",
+        "stop_sequence": "83"
+    },
+    {
+        "stop_name": "Moon Light Bay",
+        "stop_lat": "5.4785998",
+        "stop_lon": "100.2613588",
+        "stop_id": "12002210",
+        "stop_sequence": "84"
+    },
+    {
+        "stop_name": "Basket Ball Court",
+        "stop_lat": "5.4803",
+        "stop_lon": "100.2605",
+        "stop_id": "12000238",
+        "stop_sequence": "85"
+    },
+    {
+        "stop_name": "Apartmen Sri Sayang",
+        "stop_lat": "5.47886",
+        "stop_lon": "100.2552",
+        "stop_id": "12000235",
+        "stop_sequence": "86"
+    },
+    {
+        "stop_name": "Feringghi Plaza",
+        "stop_lat": "5.47743",
+        "stop_lon": "100.2538",
+        "stop_id": "12000225",
+        "stop_sequence": "87"
+    },
+    {
+        "stop_name": "Golden Sands",
+        "stop_lat": "5.4759199999999995",
+        "stop_lon": "100.25143",
+        "stop_id": "12000223",
+        "stop_sequence": "88"
+    },
+    {
+        "stop_name": "Long Beach Food Court",
+        "stop_lat": "5.474880000000001",
+        "stop_lon": "100.25003000000001",
+        "stop_id": "12000220",
+        "stop_sequence": "89"
+    },
+    {
+        "stop_name": "Night Market",
+        "stop_lat": "5.473932",
+        "stop_lon": "100.24842199999999",
+        "stop_id": "12000218",
+        "stop_sequence": "90"
+    },
+    {
+        "stop_name": "Hotel Holiday Inn",
+        "stop_lat": "5.47227",
+        "stop_lon": "100.24691",
+        "stop_id": "12000216",
+        "stop_sequence": "91"
+    },
+    {
+        "stop_name": "Balai Polis Batu Feringghi",
+        "stop_lat": "5.47115",
+        "stop_lon": "100.24608",
+        "stop_id": "12000214",
+        "stop_sequence": "92"
+    },
+    {
+        "stop_name": "By The Sea",
+        "stop_lat": "5.4695599999999995",
+        "stop_lon": "100.24495999999999",
+        "stop_id": "12000210",
+        "stop_sequence": "93"
+    },
+    {
+        "stop_name": "Hotel Hard Rock",
+        "stop_lat": "5.467280000000001",
+        "stop_lon": "100.2423",
+        "stop_id": "12000207",
+        "stop_sequence": "94"
+    },
+    {
+        "stop_name": "Feringghi Villa",
+        "stop_lat": "5.46523363",
+        "stop_lon": "100.24108509999999",
+        "stop_id": "12002251",
+        "stop_sequence": "95"
+    },
+    {
+        "stop_name": "Apartment Baiduri",
+        "stop_lat": "5.46443",
+        "stop_lon": "100.23876",
+        "stop_id": "12000204",
+        "stop_sequence": "96"
+    },
+    {
+        "stop_name": "Tropical Spice Garden",
+        "stop_lat": "5.46338",
+        "stop_lon": "100.22887",
+        "stop_id": "12000202",
+        "stop_sequence": "97"
+    },
+    {
+        "stop_name": "Hotel Angsana",
+        "stop_lat": "5.461570099999999",
+        "stop_lon": "100.2199492",
+        "stop_id": "12002975",
+        "stop_sequence": "98"
+    },
+    {
+        "stop_name": "Teluk Bahang",
+        "stop_lat": "5.45971",
+        "stop_lon": "100.21781999999999",
+        "stop_id": "12001766",
+        "stop_sequence": "99"
+    },
+    {
+        "stop_name": "Hub Teluk Bahang",
+        "stop_lat": "5.45841",
+        "stop_lon": "100.21576",
+        "stop_id": "12001763",
+        "stop_sequence": "100"
+    },
+    {
+        "stop_name": "Dewan Teluk Bahang",
+        "stop_lat": "5.45713881",
+        "stop_lon": "100.21489682",
+        "stop_id": "12002223",
+        "stop_sequence": "101"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Teluk Bahang",
+        "stop_lat": "5.45601815",
+        "stop_lon": "100.21481635",
+        "stop_id": "12002224",
+        "stop_sequence": "102"
+    },
+    {
+        "stop_name": "SK Teluk Bahang",
+        "stop_lat": "5.452978",
+        "stop_lon": "100.2146176",
+        "stop_id": "12002200",
+        "stop_sequence": "103"
+    },
+    {
+        "stop_name": "SMK Teluk Bahang",
+        "stop_lat": "5.4505419999999996",
+        "stop_lon": "100.214867",
+        "stop_id": "12001752",
+        "stop_sequence": "104"
+    },
+    {
+        "stop_name": "Escape",
+        "stop_lat": "5.4494",
+        "stop_lon": "100.21493000000001",
+        "stop_id": "12001750",
+        "stop_sequence": "105"
+    },
+    {
+        "stop_name": "SMK Teluk Bahang",
+        "stop_lat": "5.45075",
+        "stop_lon": "100.21473",
+        "stop_id": "12001754",
+        "stop_sequence": "106"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Teluk Bahang",
+        "stop_lat": "5.45571",
+        "stop_lon": "100.21466",
+        "stop_id": "12001756",
+        "stop_sequence": "107"
+    },
+    {
+        "stop_name": "Pasar Teluk Bahang",
+        "stop_lat": "5.45754",
+        "stop_lon": "100.21301",
+        "stop_id": "12001760",
+        "stop_sequence": "108"
+    },
+    {
+        "stop_name": "Flat Hassan Abbas",
+        "stop_lat": "5.45737",
+        "stop_lon": "100.20985999999999",
+        "stop_id": "12001757",
+        "stop_sequence": "109"
+    },
+    {
+        "stop_name": "Aseania Court",
+        "stop_lat": "5.45741751",
+        "stop_lon": "100.20825579999999",
+        "stop_id": "12002252",
+        "stop_sequence": "110"
+    },
+    {
+        "stop_name": "Taman Negara",
+        "stop_lat": "5.45899",
+        "stop_lon": "100.20662",
+        "stop_id": "12001765",
+        "stop_sequence": "111"
+    },
+    {
+        "stop_name": "Aseania Court",
+        "stop_lat": "5.45757",
+        "stop_lon": "100.2078",
+        "stop_id": "12001761",
+        "stop_sequence": "112"
+    },
+    {
+        "stop_name": "Flat Hassan Abbas",
+        "stop_lat": "5.45744",
+        "stop_lon": "100.20961",
+        "stop_id": "12001758",
+        "stop_sequence": "113"
+    },
+    {
+        "stop_name": "Jalan Hassan Abbas",
+        "stop_lat": "5.45747",
+        "stop_lon": "100.21137",
+        "stop_id": "12001759",
+        "stop_sequence": "114"
+    },
+    {
+        "stop_name": "Pasar Teluk Bahang",
+        "stop_lat": "5.45759",
+        "stop_lon": "100.21274",
+        "stop_id": "12001762",
+        "stop_sequence": "115"
+    },
+    {
+        "stop_name": "Hub Teluk Bahang",
+        "stop_lat": "5.458819999999999",
+        "stop_lon": "100.21611",
+        "stop_id": "12001764",
+        "stop_sequence": "116"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "stop_name": "(M1) Penang Sentral",
+        "stop_lat": "5.3948602",
+        "stop_lon": "100.3653495",
+        "stop_id": "12002322",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Kompleks Chai Leng Park",
+        "stop_lat": "5.38194",
+        "stop_lon": "100.39278",
+        "stop_id": "12000191",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "(M3) GEM Megamall",
+        "stop_lat": "5.38052",
+        "stop_lon": "100.39569",
+        "stop_id": "12000190",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Taman Sintar",
+        "stop_lat": "5.18508",
+        "stop_lon": "100.48657",
+        "stop_id": "12000920",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Teck Land Motors",
+        "stop_lat": "5.1806410000000005",
+        "stop_lon": "100.484135",
+        "stop_id": "12002333",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Balai Polis Lama Bukit Panchor",
+        "stop_lat": "5.177230000000001",
+        "stop_lon": "100.48228",
+        "stop_id": "12000917",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Hub Nibong Tebal",
+        "stop_lat": "5.168019999999999",
+        "stop_lon": "100.47896999999999",
+        "stop_id": "12000915",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Petronas Nibong Tebal",
+        "stop_lat": "5.1590569",
+        "stop_lon": "100.4759619",
+        "stop_id": "12002500",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Kampung Dato Keramat",
+        "stop_lat": "5.15095",
+        "stop_lon": "100.47223000000001",
+        "stop_id": "12000440",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Taman Fajar",
+        "stop_lat": "5.1477900000000005",
+        "stop_lon": "100.47102",
+        "stop_id": "12000270",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Taman Seri Acheh",
+        "stop_lat": "5.144709",
+        "stop_lon": "100.46968000000001",
+        "stop_id": "12000269",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Taman Suria",
+        "stop_lat": "5.142930000000001",
+        "stop_lon": "100.46883000000001",
+        "stop_id": "12000268",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Jalan Besar",
+        "stop_lat": "5.13523",
+        "stop_lon": "100.46947",
+        "stop_id": "12000267",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Taman Harapan Baru",
+        "stop_lat": "5.13098",
+        "stop_lon": "100.47698000000001",
+        "stop_id": "12000940",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Pasaraya Mydin",
+        "stop_lat": "5.12812",
+        "stop_lon": "100.48236999999999",
+        "stop_id": "12001369",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Taman Seri Semarak",
+        "stop_lat": "5.1225",
+        "stop_lon": "100.48666667",
+        "stop_id": "12002164",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Hentian Raya Parit Buntar",
+        "stop_lat": "5.1181722",
+        "stop_lon": "100.4872271",
+        "stop_id": "12002162",
+        "stop_sequence": "17"
+    }
+]

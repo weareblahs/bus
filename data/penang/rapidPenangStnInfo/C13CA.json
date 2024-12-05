@@ -1,0 +1,268 @@
+[
+    {
+        "stop_name": "Hotel Blanket",
+        "stop_lat": "5.3948529999999995",
+        "stop_lon": "100.40001",
+        "stop_id": "12002530",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Pasar Awam",
+        "stop_lat": "5.3929800000000006",
+        "stop_lon": "100.4016",
+        "stop_id": "12001809",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SP Arena",
+        "stop_lat": "5.38636",
+        "stop_lon": "100.40236",
+        "stop_id": "12001388",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Taman Tun Hussein Onn",
+        "stop_lat": "5.3861454",
+        "stop_lon": "100.4057448",
+        "stop_id": "12002994",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M2) Megamall - Pacific",
+        "stop_lat": "5.37879",
+        "stop_lon": "100.39794",
+        "stop_id": "12001067",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Jambatan Pulau Pinang",
+        "stop_lat": "5.355802",
+        "stop_lon": "100.39232",
+        "stop_id": "12002108",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Batu Uban Highway",
+        "stop_lat": "5.351251",
+        "stop_lon": "100.30986",
+        "stop_id": "12001981",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Jeti Pulau Jerejak",
+        "stop_lat": "5.34299",
+        "stop_lon": "100.31141",
+        "stop_id": "12002068",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Gold Coast Kondominium",
+        "stop_lat": "5.339738",
+        "stop_lon": "100.30965",
+        "stop_id": "12002064",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KWSP Queensbay",
+        "stop_lat": "5.33692",
+        "stop_lon": "100.30844",
+        "stop_id": "12002303",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Hadapan Queensbay Mall",
+        "stop_lat": "5.332325",
+        "stop_lon": "100.30773",
+        "stop_id": "12002060",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Venture Electronics",
+        "stop_lat": "5.301667",
+        "stop_lon": "100.29406999999999",
+        "stop_id": "12000025",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Kobe Precision Technology",
+        "stop_lat": "5.302061",
+        "stop_lon": "100.291214",
+        "stop_id": "12002004",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Kingdee Southeast Asia",
+        "stop_lat": "5.299992",
+        "stop_lon": "100.28868",
+        "stop_id": "12002005",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "K.K Chong Engineering",
+        "stop_lat": "5.300322",
+        "stop_lon": "100.286674",
+        "stop_id": "12002006",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "ER Mekatron",
+        "stop_lat": "5.298094",
+        "stop_lon": "100.28541",
+        "stop_id": "12002008",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SAM Engineering & Equipment",
+        "stop_lat": "5.29565",
+        "stop_lon": "100.28665",
+        "stop_id": "12002007",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AT Engineering",
+        "stop_lat": "5.294347",
+        "stop_lon": "100.28719",
+        "stop_id": "12002070",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Pentamaster",
+        "stop_lat": "5.295761",
+        "stop_lon": "100.28863",
+        "stop_id": "12002050",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Advantest Engineering",
+        "stop_lat": "5.298522",
+        "stop_lon": "100.29016999999999",
+        "stop_id": "12002052",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Motorola",
+        "stop_lat": "5.297999999999999",
+        "stop_lon": "100.29276999999999",
+        "stop_id": "12002051",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Mini Circuits",
+        "stop_lat": "5.294636",
+        "stop_lon": "100.29098499999999",
+        "stop_id": "12002049",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Elsoft Research",
+        "stop_lat": "5.292789",
+        "stop_lon": "100.28856",
+        "stop_id": "12002010",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Microlead",
+        "stop_lat": "5.291417",
+        "stop_lon": "100.28671999999999",
+        "stop_id": "12002009",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "MOX",
+        "stop_lat": "5.292808",
+        "stop_lon": "100.285736",
+        "stop_id": "12002003",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Jabil Circuit",
+        "stop_lat": "5.304328",
+        "stop_lon": "100.29144000000001",
+        "stop_id": "12000026",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SAM Engineering",
+        "stop_lat": "5.304917",
+        "stop_lon": "100.29403",
+        "stop_id": "12000029",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Brady Technology",
+        "stop_lat": "5.305717",
+        "stop_lon": "100.29559",
+        "stop_id": "12000030",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "ASE",
+        "stop_lat": "5.308572",
+        "stop_lon": "100.29408000000001",
+        "stop_id": "12000028",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Dell",
+        "stop_lat": "5.307167",
+        "stop_lon": "100.29253",
+        "stop_id": "12000027",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Broadcom",
+        "stop_lat": "5.3234580000000005",
+        "stop_lon": "100.30109",
+        "stop_id": "12000607",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Esquel Group",
+        "stop_lat": "5.323992",
+        "stop_lon": "100.29932",
+        "stop_id": "12000608",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Fastron",
+        "stop_lat": "5.3249889999999995",
+        "stop_lon": "100.29604",
+        "stop_id": "12000609",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Jalan Mahsuri",
+        "stop_lat": "5.32677",
+        "stop_lon": "100.28886",
+        "stop_id": "12000846",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KFC Jalan Mahsuri",
+        "stop_lat": "5.32686",
+        "stop_lon": "100.28667",
+        "stop_id": "12000847",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Mayang Mall",
+        "stop_lat": "5.32693",
+        "stop_lon": "100.2843",
+        "stop_id": "12000848",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "(M2) Spice",
+        "stop_lat": "5.32736",
+        "stop_lon": "100.28050999999999",
+        "stop_id": "12000851",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Terminal Bas Bayan Baru",
+        "stop_lat": "5.3269589999999996",
+        "stop_lon": "100.2803228",
+        "stop_id": "12002974",
+        "stop_sequence": "38"
+    }
+]

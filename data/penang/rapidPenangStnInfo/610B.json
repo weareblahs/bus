@@ -1,0 +1,240 @@
+[
+    {
+        "stop_name": "Kompleks Tasek Gelugor",
+        "stop_lat": "5.48172",
+        "stop_lon": "100.49468",
+        "stop_id": "12000486",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Pejabat Pos Tasek Gelugor",
+        "stop_lat": "5.48184",
+        "stop_lon": "100.49436999999999",
+        "stop_id": "12000508",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SK Tasek Gelugor",
+        "stop_lat": "5.48305",
+        "stop_lon": "100.49185",
+        "stop_id": "12000488",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Tasek Gelugor",
+        "stop_lat": "5.4846900000000005",
+        "stop_lon": "100.491119",
+        "stop_id": "12002566",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Taman Sepadu",
+        "stop_lat": "5.487509999999999",
+        "stop_lon": "100.49512",
+        "stop_id": "12001871",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Taman Tasek Gelugor Utama",
+        "stop_lat": "5.489344",
+        "stop_lon": "100.49723",
+        "stop_id": "12002996",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Taman Tasek Gelugor Utama II",
+        "stop_lat": "5.491105",
+        "stop_lon": "100.49778",
+        "stop_id": "12002997",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Taman Tasek Gelugor Utama III",
+        "stop_lat": "5.494029",
+        "stop_lon": "100.49866999999999",
+        "stop_id": "12002998",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Taman Tasek Gelugor Utama IV",
+        "stop_lat": "5.4966029999999995",
+        "stop_lon": "100.49956999999999",
+        "stop_id": "12002999",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "MIdtown PERDA",
+        "stop_lat": "5.5026399",
+        "stop_lon": "100.50160509999999",
+        "stop_id": "12002569",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Taman Perda Indah",
+        "stop_lat": "5.5109",
+        "stop_lon": "100.50464000000001",
+        "stop_id": "12001852",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Taman Sri Menderung",
+        "stop_lat": "5.51461",
+        "stop_lon": "100.50601999999999",
+        "stop_id": "12001872",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Masjid Kubang Menderung",
+        "stop_lat": "5.518669999999999",
+        "stop_lon": "100.5064",
+        "stop_id": "12001873",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Kampung Pokok Jenerih I",
+        "stop_lat": "5.521622",
+        "stop_lon": "100.502778",
+        "stop_id": "12002567",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Kampung Pokok Jenerih",
+        "stop_lat": "5.52133",
+        "stop_lon": "100.50013",
+        "stop_id": "12001875",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Bertam Putra 4",
+        "stop_lat": "5.51994",
+        "stop_lon": "100.49356",
+        "stop_id": "12002090",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Bertam Putra 3",
+        "stop_lat": "5.51699",
+        "stop_lon": "100.49075",
+        "stop_id": "12002087",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M3) Taman Bertam Putra",
+        "stop_lat": "5.517558999999999",
+        "stop_lon": "100.485954",
+        "stop_id": "12002568",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Bertam Putra 3",
+        "stop_lat": "5.5181192",
+        "stop_lon": "100.4811417",
+        "stop_id": "12002949",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Pasaraya Mydin Bertam",
+        "stop_lat": "5.5178069",
+        "stop_lon": "100.47723909999999",
+        "stop_id": "12002952",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "MRSM Kepala Batas",
+        "stop_lat": "5.519430000000001",
+        "stop_lon": "100.47277",
+        "stop_id": "12001863",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SMK Sains Kepala Batas",
+        "stop_lat": "5.5189257000000005",
+        "stop_lon": "100.46866949999999",
+        "stop_id": "12002966",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Kolej Jururawat",
+        "stop_lat": "5.518196",
+        "stop_lon": "100.4621857",
+        "stop_id": "12002967",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Kayangan",
+        "stop_lat": "5.51812",
+        "stop_lon": "100.45221",
+        "stop_id": "12001856",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Sunshine Bertam II",
+        "stop_lat": "5.5166832999999995",
+        "stop_lon": "100.45015620000001",
+        "stop_id": "12002576",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Sunshine Bertam",
+        "stop_lat": "5.51561",
+        "stop_lon": "100.44977",
+        "stop_id": "12002075",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Bertam Walk",
+        "stop_lat": "5.51553",
+        "stop_lon": "100.44816999999999",
+        "stop_id": "12002074",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "MPC",
+        "stop_lat": "5.5153300000000005",
+        "stop_lon": "100.4457",
+        "stop_id": "12002072",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Tesco Kepala Batas",
+        "stop_lat": "5.51601",
+        "stop_lon": "100.4439",
+        "stop_id": "12001923",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Pejabat Tanah Kepala Batas",
+        "stop_lat": "5.51499",
+        "stop_lon": "100.43655",
+        "stop_id": "12000255",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "IPD Seberang Prai Utara",
+        "stop_lat": "5.51394",
+        "stop_lon": "100.43966999999999",
+        "stop_id": "12000253",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Hospital Kepala Batas",
+        "stop_lat": "5.51273",
+        "stop_lon": "100.43768",
+        "stop_id": "12000251",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Pejabat Tanah",
+        "stop_lat": "5.51392",
+        "stop_lon": "100.43542",
+        "stop_id": "12000250",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Kompleks Dato Kailan",
+        "stop_lat": "5.5154",
+        "stop_lon": "100.43176",
+        "stop_id": "12001284",
+        "stop_sequence": "34"
+    }
+]

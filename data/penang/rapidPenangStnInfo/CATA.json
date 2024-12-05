@@ -1,0 +1,149 @@
+[
+    {
+        "stop_name": "Jetty",
+        "stop_lat": "5.414445300000001",
+        "stop_lon": "100.3420128",
+        "stop_id": "12002973",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Bank OCBC",
+        "stop_lat": "5.4168400000000005",
+        "stop_lon": "100.34156999999999",
+        "stop_id": "12001944",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Balai Polis",
+        "stop_lat": "5.418646",
+        "stop_lon": "100.34356",
+        "stop_id": "12001943",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Bank Negara Malaysia",
+        "stop_lat": "5.42049",
+        "stop_lon": "100.34087",
+        "stop_id": "12001935",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Muzium Pulau Pinang",
+        "stop_lat": "5.42045",
+        "stop_lon": "100.3391",
+        "stop_id": "12001926",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SMK ST. Xavier",
+        "stop_lat": "5.42126",
+        "stop_lon": "100.33700999999999",
+        "stop_id": "12001928",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Hotel Cititel",
+        "stop_lat": "5.42143",
+        "stop_lon": "100.3337",
+        "stop_id": "12001066",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Penang Road",
+        "stop_lat": "5.41925",
+        "stop_lon": "100.33199",
+        "stop_id": "12001064",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Komtar II",
+        "stop_lat": "5.4150168",
+        "stop_lon": "100.33089240000001",
+        "stop_id": "12002213",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Wisma MCA",
+        "stop_lat": "5.41841",
+        "stop_lon": "100.32954000000001",
+        "stop_id": "12001832",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Pasar Chowrasta",
+        "stop_lat": "5.418131",
+        "stop_lon": "100.331245",
+        "stop_id": "12001061",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Komtar Timur",
+        "stop_lat": "5.414579",
+        "stop_lon": "100.33229",
+        "stop_id": "12000474",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Lebuh Carnavon",
+        "stop_lat": "5.41424",
+        "stop_lon": "100.33328",
+        "stop_id": "12001910",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Hotel Armenian",
+        "stop_lat": "5.415494",
+        "stop_lon": "100.335",
+        "stop_id": "12001915",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Kampung Kolam",
+        "stop_lat": "5.41614",
+        "stop_lon": "100.33646999999999",
+        "stop_id": "12000611",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Gereja St. George",
+        "stop_lat": "5.419436",
+        "stop_lon": "100.339455",
+        "stop_id": "12000859",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Dewan Sri Pinang",
+        "stop_lat": "5.420669999999999",
+        "stop_lon": "100.34076",
+        "stop_id": "12001936",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Padang Kota Lama",
+        "stop_lat": "5.41994",
+        "stop_lon": "100.34257",
+        "stop_id": "12001934",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Swettenham Pier Cruise Terminal",
+        "stop_lat": "5.4185041",
+        "stop_lon": "100.34508129999999",
+        "stop_id": "12002972",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Church Street Pier",
+        "stop_lat": "5.41664",
+        "stop_lon": "100.34413",
+        "stop_id": "12002057",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Jetty",
+        "stop_lat": "5.414445300000001",
+        "stop_lon": "100.3420128",
+        "stop_id": "12002973",
+        "stop_sequence": "21"
+    }
+]
