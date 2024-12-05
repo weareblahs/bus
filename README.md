@@ -31,6 +31,11 @@ Station names (including route names) are stored as a static JSON file under the
 - Station sequence are stored under `stop_sequence`.
   These data are originally from the open data mentioned as a GTFS data ZIP file (converted to JSON from CSV and removed duplicate entries for easy conversion).
 
+# Other plans for this project
+
+- Crowdsourced bus information (including bus type and others)
+- Crowdsources bus status, which user can report if the bus gets delayed and other info
+
 # Where can I see this project?
 
 Coming soon.
