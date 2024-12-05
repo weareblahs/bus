@@ -35,6 +35,8 @@ Station names (including route names) are stored as a static JSON file under the
 
 - Crowdsourced bus information (including bus type and others)
 - Crowdsources bus status, which user can report if the bus gets delayed and other info
+- Pin favorite bus routes so it will appear when web app launched
+- Native Android version
 
 # Where can I see this project?
 
