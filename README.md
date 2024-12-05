@@ -22,7 +22,9 @@ Station names (including route names) are stored as a static JSON file under the
 
 - `A` is the forward position. (example: `301A` directs to `JETI - RELAU` in rapidPenang)
 - `B` is the reverse position. (example: `301B` directs to `RELAU - JETI` in rapidPenang)
+
   Data includes:
+
 - Station name is stored under `stop_name`.
 - Latitude and Longitude of the station are stored respectively under `stop_lat` and `stop_long`.
 - Stop ID are stored under `stop_id`.
