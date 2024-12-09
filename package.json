@@ -12,8 +12,11 @@
   "dependencies": {
     "@nextui-org/react": "^2.4.8",
     "axios": "^1.7.9",
+    "csvtojson": "^2.0.10",
     "framer-motion": "^11.13.1",
+    "gtfs-realtime-bindings": "^1.1.1",
     "js-cookie": "^3.0.5",
+    "node-fetch": "^3.3.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.4.0"
