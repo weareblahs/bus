@@ -20,7 +20,7 @@ trips.forEach((t) => {
   });
 });
 fs.writeFile(
-  "../public/Penang/rapidPenang_trips.json",
+  "../public/data/Penang/rapidPenang_trips.json",
   JSON.stringify(outFile),
   () => {
     return "Write successful";
