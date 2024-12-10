@@ -1,4 +1,11 @@
-import { Button, Card, CardBody, CardHeader } from "@nextui-org/react";
+import {
+  Badge,
+  Button,
+  Card,
+  CardBody,
+  CardFooter,
+  CardHeader,
+} from "@nextui-org/react";
 import { nominatim, redirToGoogleMaps } from "./MapTools";
 import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
@@ -30,7 +37,7 @@ export const BusStatus = (data, route) => {
               <Card className="mb-4 bg-gray-800 text-white">
                 <div key={d[0].id} className="p-2">
                   <CardHeader>
-                    <div className="grid">
+                    <div className="grid ">
                       <div className="mt-auto mb-auto">
                         <h1 key={d[0].id}>
                           {d[0].vehicle.vehicle.licensePlate}
@@ -47,11 +54,23 @@ export const BusStatus = (data, route) => {
                               ? nearest?.[0]?.curr
                               : "unknown location"}
                           </h1>
+                          {nearest?.[0]?.curr ? (
+                            <p className="text-xl">
+                              <i>
+                                {nearest?.[0].dist <= 100
+                                  ? nearest?.[0].dist <= 10
+                                    ? "Bus has arrived at the station"
+                                    : "Bus will be arriving shortly"
+                                  : `${nearest?.[0].dist}m away from station`}
+                              </i>
+                            </p>
+                          ) : null}
                         </h1>
                       </div>
                     </div>
                   </CardHeader>
-                  <CardBody>
+                  <CardFooter className="px-2 py-2">
+                    {" "}
                     {vehicleCLD.length != 0 ? (
                       <>
                         <div className="grid grid-cols-2">
@@ -82,7 +101,7 @@ export const BusStatus = (data, route) => {
                         </div>
                       </>
                     ) : null}
-                  </CardBody>
+                  </CardFooter>
                 </div>
               </Card>
             );
