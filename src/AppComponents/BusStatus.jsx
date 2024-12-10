@@ -3,11 +3,12 @@ import { nominatim, redirToGoogleMaps } from "./MapTools";
 import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 import { getNearest } from "./getNearest";
+import { FaMap } from "react-icons/fa";
 export const BusStatus = (data, route) => {
   // const data0 = JSON.stringify(data);
   return (
     <>
-      <div className="grid px-8">
+      <div className="grid px-8 mb-24">
         <div className="mt-auto mb-auto">Bus information</div>
         <div className="ms-auto"></div>
         <div className="">
@@ -26,7 +27,7 @@ export const BusStatus = (data, route) => {
             let info = [];
             console.log(nearest);
             return (
-              <Card className="mb-4">
+              <Card className="mb-4 bg-gray-800 text-white">
                 <div key={d[0].id} className="p-2">
                   <CardHeader>
                     <div className="grid">
@@ -75,7 +76,7 @@ export const BusStatus = (data, route) => {
                               )
                             }
                           >
-                            View via Google Maps
+                            <FaMap />
                           </Button>
                         </div>
                       </>

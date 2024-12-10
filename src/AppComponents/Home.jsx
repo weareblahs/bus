@@ -57,10 +57,10 @@ export const Home = () => {
         <h1 className="text-center">{data[0].status}</h1>
       )}
       <div
-        className="fixed bottom-8 w-100 block ms-auto me-auto text-center"
+        className="fixed bottom-0 w-100 block ms-auto me-auto text-center bg-black p-5"
         style={{ width: "100vw" }}
       >
-        <p className="text-center">
+        <p className="text-center ">
           {Cookies.get("provider")} selected. Not your preferred provider?
           <span className="p-4">
             <Button
