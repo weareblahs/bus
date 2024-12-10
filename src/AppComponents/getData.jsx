@@ -1,11 +1,10 @@
 import GtfsRealtimeBindings from "gtfs-realtime-bindings";
 import trips from "../privData/rapidPenang_trips.json";
+import Cookies from "js-cookie";
 export const getData = async (route) => {
   let foundTrips = [];
   try {
-    const response = await fetch(
-      "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-penang"
-    );
+    const response = await fetch(Cookies.get("endpoint"));
     if (!response.ok) {
       const error = new Error(
         `${response.url}: ${response.status} ${response.statusText}`
