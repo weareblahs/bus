@@ -8,9 +8,10 @@ export const getNearest = (lat, lon, rte, provider, state) => {
     const url = `${window.location.protocol}//${window.location.host}/data/${state}/${provider}/StnInfo/${rte}.json`;
     console.log(url);
     axios.get(url).then((res) => {
-      const nearest = res.data.filter(
+      const nearest0 = res.data.filter(
         (d) => d?.stop_lat >= lat && d?.stop_lon >= lon
-      )[0];
+      );
+      const nearest = nearest0[nearest0.length - 1];
       const getDistance = distance(
         nearest.stop_lat,
         nearest.stop_lon,
