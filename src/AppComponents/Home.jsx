@@ -33,7 +33,7 @@ export const Home = () => {
       <div className="p-4 text-black dark">
         <Select
           aria-label="Select"
-          className="p-4"
+          className="p-2"
           onChange={(e) => setTrip(e.target.value)}
           placeholder="Select route..."
           label="Bus route"
