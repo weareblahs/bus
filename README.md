@@ -8,12 +8,16 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 # Status
 
-| Provider          | Data source   | Status    | Remarks                                                                                                    |
-| ----------------- | ------------- | --------- | ---------------------------------------------------------------------------------------------------------- |
-| rapidPenang       | `data.gov.my` | Available | Station stop data might be inaccurate due to manual generation of stop files based on the static GTFS data |
-| rapidKL           | `data.gov.my` | Planned   | Bus only                                                                                                   |
-| rapidKuantan      | `data.gov.my` | Planned   |                                                                                                            |
-| myBAS Johor Bahru | `data.gov.my` | Planned   |                                                                                                            |
+| Provider          | Data source                               | Status    | Remarks                                                                                                    |
+| ----------------- | ----------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------- |
+| rapidPenang       | `data.gov.my` GTFS-Realtime data (Direct) | Available | Station stop data might be inaccurate due to manual generation of stop files based on the static GTFS data |
+| rapidKL           | `data.gov.my` GTFS-Realtime data (Direct) | Planned   | Bus only                                                                                                   |
+| rapidKuantan      | `data.gov.my`                             | Planned   |                                                                                                            |
+| myBAS Johor Bahru | `data.gov.my`                             | Planned   |                                                                                                            |
+
+### What does "Direct" mean?
+
+"Direct" means that the source fetches the available API endpoints on `data.gov.my` instead of relying on external APIs.
 
 # About station data
 
@@ -39,4 +43,4 @@ Station names (including route names) are stored as a static JSON file under the
 
 # Where can I see this project?
 
-Coming soon.
+Currently in beta - which can be accessed via [https://bqm.vercel.app](https://bqm.vercel.app).
