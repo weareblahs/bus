@@ -51,7 +51,9 @@ export const BusStatus = (data, route) => {
                           <h1>
                             near{" "}
                             {nearest?.[0]?.curr
-                              ? nearest?.[0]?.curr
+                              ? nearest?.[0].dist >= 30000
+                                ? "unknown location"
+                                : nearest?.[0].curr
                               : "unknown location"}
                           </h1>
                           {nearest?.[0]?.curr ? (
