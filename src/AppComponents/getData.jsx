@@ -9,7 +9,14 @@ export const getData = async (route) => {
       const error = new Error(
         `${response.url}: ${response.status} ${response.statusText}`
       );
+      console.log(response);
       error.response = response;
+      return [
+        {
+          status:
+            "It seems that you've been searching too fast. Try re-selecting this station in a few seconds.",
+        },
+      ];
       throw error;
       process.exit(1);
     }
