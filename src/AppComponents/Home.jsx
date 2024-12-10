@@ -13,9 +13,9 @@ export const Home = () => {
   useEffect(() => {
     axios
       .get(
-        `http://${window.location.host}/data/${Cookies.get(
-          "state"
-        )}/${Cookies.get("provider")}.json`
+        `${window.location.protocol}//${
+          window.location.host
+        }/data/${Cookies.get("state")}/${Cookies.get("provider")}.json`
       )
       .then((res) => setStationList(res.data));
   }, []);

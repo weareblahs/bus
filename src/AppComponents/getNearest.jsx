@@ -5,7 +5,7 @@ export const getNearest = (lat, lon, rte, provider, state) => {
   const [data, setData] = useState([]);
   useEffect(() => {
     // reference URL: http://localhost:5173/data/Penang/rapidPenang/StnInfo/301B.json
-    const url = `${window.location.protocol}://${window.location.host}/data/${state}/${provider}/StnInfo/${rte}.json`;
+    const url = `${window.location.protocol}//${window.location.host}/data/${state}/${provider}/StnInfo/${rte}.json`;
     console.log(url);
     axios.get(url).then((res) => {
       const nearest = res.data.filter(
