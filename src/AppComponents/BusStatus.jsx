@@ -1,56 +1,88 @@
-import { Button } from "@nextui-org/react";
+import { Button, Card, CardBody, CardHeader } from "@nextui-org/react";
 import { nominatim, redirToGoogleMaps } from "./MapTools";
-
-export const BusStatus = (data) => {
-  const data0 = JSON.stringify(data);
+import { useState, useEffect } from "react";
+import Cookies from "js-cookie";
+import { getNearest } from "./getNearest";
+export const BusStatus = (data, route) => {
+  // const data0 = JSON.stringify(data);
   return (
     <>
-      <div className="grid grid-cols-2 px-8">
+      <div className="grid px-8">
         <div className="mt-auto mb-auto">Bus information</div>
-        <div className="ms-auto">
-          <Button>Refresh</Button>
-        </div>
-        <div>
+        <div className="ms-auto"></div>
+        <div className="">
           {data.data.map((d) => {
             let vehicleCLD = nominatim(
               d[0].vehicle.position.longitude,
               d[0].vehicle.position.latitude
             );
-            console.log(vehicleCLD);
+            let nearest = getNearest(
+              d[0].vehicle.position.latitude,
+              d[0].vehicle.position.longitude,
+              data.route,
+              Cookies.get("provider"),
+              Cookies.get("state")
+            );
+            let info = [];
+            console.log(nearest);
             return (
-              <>
+              <Card className="mb-4">
                 <div key={d[0].id} className="p-2">
-                  <h1 key={d[0].id}>{d[0].vehicle.vehicle.licensePlate}</h1>
-                  {vehicleCLD.length != 0 ? (
-                    <>
-                      <h1 className="text-4xl">
-                        Bus near{" "}
-                        {vehicleCLD.address.road
-                          ? vehicleCLD.address.road
-                          : vehicleCLD.address.neighbourhood}
-                      </h1>
-                      <div className="flex">
-                        <p className="mt-auto mb-auto me-4">
-                          {vehicleCLD.address.city
-                            ? vehicleCLD.address.city
-                            : vehicleCLD.address.district}
-                          , {vehicleCLD.address.state}
-                        </p>
-                        <Button
-                          onClick={() =>
-                            redirToGoogleMaps(
-                              d[0].vehicle.position.longitude,
-                              d[0].vehicle.position.latitude
-                            )
-                          }
-                        >
-                          View via Google Maps
-                        </Button>
+                  <CardHeader>
+                    <div className="grid">
+                      <div className="mt-auto mb-auto">
+                        <h1 key={d[0].id}>
+                          {d[0].vehicle.vehicle.licensePlate}
+                        </h1>
+                        <h1>
+                          {d[0].vehicle.position.speed == 0
+                            ? `Bus is now waiting for traffic light`
+                            : `Currently driving in ${d[0].vehicle.position.speed}km/h`}
+                        </h1>
+                        <h1 className="text-4xl py-4">
+                          <h1>
+                            near{" "}
+                            {nearest?.[0]?.curr
+                              ? nearest?.[0]?.curr
+                              : "unknown location"}
+                          </h1>
+                        </h1>
                       </div>
-                    </>
-                  ) : null}
+                    </div>
+                  </CardHeader>
+                  <CardBody>
+                    {vehicleCLD.length != 0 ? (
+                      <>
+                        <div className="grid grid-cols-2">
+                          <div className="mt-auto mb-auto">
+                            <p className="mt-auto mb-auto me-4">
+                              Bus near{" "}
+                              {vehicleCLD.address.road
+                                ? vehicleCLD.address.road
+                                : vehicleCLD.address.neighbourhood}
+                              ,{" "}
+                              {vehicleCLD.address.city
+                                ? vehicleCLD.address.city
+                                : vehicleCLD.address.district}
+                              , {vehicleCLD.address.state}
+                            </p>
+                          </div>
+                          <Button
+                            onClick={() =>
+                              redirToGoogleMaps(
+                                d[0].vehicle.position.longitude,
+                                d[0].vehicle.position.latitude
+                              )
+                            }
+                          >
+                            View via Google Maps
+                          </Button>
+                        </div>
+                      </>
+                    ) : null}
+                  </CardBody>
                 </div>
-              </>
+              </Card>
             );
           })}
         </div>

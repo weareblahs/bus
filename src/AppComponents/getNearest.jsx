@@ -1,38 +1,38 @@
 import axios from "axios";
+import { useEffect, useState } from "react";
 
-const getNearest = async (lat, lon, rte, provider, state) => {
-  // reference URL: http://localhost:5173/data/Penang/rapidPenang/StnInfo/301B.json
-  const url = `http://localhost:5173/data/${state}/${provider}/StnInfo/${rte}.json`;
-  console.log(url);
-  const res = await axios.get(url);
-  const nearest = res.data.filter(
-    (d) => d.stop_lat >= lat && d.stop_lon >= lon
-  )[0];
-  const getDistance = distance(
-    nearest.stop_lat,
-    nearest.stop_lon,
-    lat,
-    lon,
-    "K"
-  );
-
-  const data = [
-    {
-      curr: nearest.stop_name,
-      prev: res.data[res.data.indexOf(nearest) - 1].stop_name,
-      next: res.data[res.data.indexOf(nearest) + 1].stop_name,
-      dist: (getDistance * 1000).toFixed(2),
-    },
-  ];
-  console.log(JSON.stringify(data));
+export const getNearest = (lat, lon, rte, provider, state) => {
+  const [data, setData] = useState([]);
+  useEffect(() => {
+    // reference URL: http://localhost:5173/data/Penang/rapidPenang/StnInfo/301B.json
+    const url = `http://localhost:5173/data/${state}/${provider}/StnInfo/${rte}.json`;
+    console.log(url);
+    axios.get(url).then((res) => {
+      const nearest = res.data.filter(
+        (d) => d?.stop_lat >= lat && d?.stop_lon >= lon
+      )[0];
+      const getDistance = distance(
+        nearest.stop_lat,
+        nearest.stop_lon,
+        lat,
+        lon,
+        "K"
+      );
+      // const prevDataCheck = (res.data.indexOf(nearest)-1) >= 0) ? (res.data.indexOf(nearest) - 1) : -1
+      // const nextDataCheck = (res.data.indexOf(nearest)+1) <= (res.data.length-1) ? (res.data.indexOf(nearest) + 1) : -1
+      setData([
+        {
+          curr: nearest.stop_name,
+          prev: null,
+          next: null,
+          dist: (getDistance * 1000).toFixed(2),
+        },
+      ]);
+    });
+  }, []);
+  console.log(data);
+  return data;
 };
-getNearest(
-  5.397959232330322,
-  100.31989288330078,
-  "301B",
-  "rapidPenang",
-  "Penang"
-);
 //:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 //:::                                                                         :::
 //:::  This routine calculates the distance between two points (given the     :::

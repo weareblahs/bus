@@ -8,6 +8,8 @@ export const Home = () => {
   const [stationList, setStationList] = useState([]);
 
   const [data, setData] = useState([{ status: "No bus station selected" }]);
+
+  const [route, setRoute] = useState("");
   useEffect(() => {
     axios
       .get(
@@ -18,6 +20,7 @@ export const Home = () => {
       .then((res) => setStationList(res.data));
   }, []);
   const setTrip = async (route) => {
+    setRoute(route);
     setData([{ status: "Loading..." }]);
     const d = await getData(route);
     setData(d);
@@ -49,7 +52,7 @@ export const Home = () => {
         </Select>
       </div>
       {!data[0].status ? (
-        <BusStatus data={JSON.parse(data)} />
+        <BusStatus data={JSON.parse(data)} route={route} />
       ) : (
         <h1 className="text-center">{data[0].status}</h1>
       )}
