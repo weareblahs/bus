@@ -6,15 +6,14 @@
 
 This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from the open data by Malaysian Government, which is then used to track buses. Data is provided by Prasarana via data.gov.my.
 
-# Currently adding
+# Status
 
-- rapidPenang
-
-# Soon to be available
-
-- rapidKL (buses only)
-- rapidKuantan (buses only)
-- myBAS
+| Provider          | Data source   | Status    |                                                                                                            | Remarks |
+| ----------------- | ------------- | --------- | ---------------------------------------------------------------------------------------------------------- | ------- |
+| rapidPenang       | `data.gov.my` | Available | Station stop data might be inaccurate due to manual generation of stop files based on the static GTFS data |
+| rapidKL           | `data.gov.my` | Planned   | Bus only                                                                                                   |
+| rapidKuantan      | `data.gov.my` | Planned   |                                                                                                            |
+| myBAS Johor Bahru | `data.gov.my` | Planned   |                                                                                                            |
 
 # About station data
 
