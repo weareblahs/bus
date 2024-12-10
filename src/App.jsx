@@ -8,7 +8,7 @@ import {
   Image,
 } from "@nextui-org/react";
 import Cookies from "js-cookie";
-import { SetupStep1 } from "./setup/setupStep1";
+import { SetupStep1 } from "./setup/SetupStep1";
 import { Home } from "./AppComponents/Home";
 const isSetup = Cookies.get("isSetUp");
 function App() {
