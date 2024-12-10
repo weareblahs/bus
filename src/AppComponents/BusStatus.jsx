@@ -69,6 +69,7 @@ export const BusStatus = (data, route) => {
                             </p>
                           </div>
                           <Button
+                            className="mt-auto mb-auto"
                             onClick={() =>
                               redirToGoogleMaps(
                                 d[0].vehicle.position.longitude,
