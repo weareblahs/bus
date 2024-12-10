@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 import { getData } from "./getData";
 import { BusStatus } from "./BusStatus";
+import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from "react-icons/fa";
 export const Home = () => {
   const [stationList, setStationList] = useState([]);
 
@@ -44,7 +45,14 @@ export const Home = () => {
                 className="dark text-black"
                 textValue={s.name}
               >
-                <Chip className="bg-blue-600 me-4">{s.id.slice(0, -1)}</Chip>
+                <Chip className="rounded-md bg-blue-600 me-4 text-white mono">
+                  {s.id.slice(0, -1)}{" "}
+                  {s.id.slice(-1) == "A"
+                    ? " ▶"
+                    : s.id.slice(-1) == "B"
+                    ? " ◀"
+                    : null}
+                </Chip>
                 {s.name}
               </SelectItem>
             );

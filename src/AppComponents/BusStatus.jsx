@@ -59,11 +59,22 @@ export const BusStatus = (data, route) => {
                           {nearest?.[0]?.curr ? (
                             <p className="text-xl">
                               <i>
-                                {nearest?.[0].dist <= 100
-                                  ? nearest?.[0].dist <= 10
-                                    ? "Bus has arrived at the station"
-                                    : "Bus will be arriving shortly"
-                                  : `${nearest?.[0].dist}m away from station`}
+                                {nearest?.[0].dist <= 100 ? (
+                                  nearest?.[0].dist <= 10 ? (
+                                    <Chip>Bus has arrived at the station</Chip>
+                                  ) : (
+                                    <Chip>Bus will be arriving shortly</Chip>
+                                  )
+                                ) : nearest?.[0].dist >= 10000 ? (
+                                  <i className="text-medium">
+                                    Do note that above station info is
+                                    inaccurate unless the actual distance
+                                    between this station and the next station is
+                                    considered as an express bus.
+                                  </i>
+                                ) : (
+                                  `${nearest?.[0].dist}m away from station`
+                                )}
                               </i>
                             </p>
                           ) : null}
