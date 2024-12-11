@@ -18,7 +18,7 @@ export const BusStatus = (data) => {
     console.log(data[0]);
     return (
       <>
-        <div className="ms-auto me-auto">
+        <div className="ms-auto me-auto mb-24">
           <div>
             <h1 className="text-center">Bus info</h1>
           </div>
