@@ -30,7 +30,7 @@ export const Home = () => {
   const [sd, setSD] = useState([]);
   return (
     <>
-      <div className="text-black dark">
+      <div className="text-black dark p-2">
         <Select
           aria-label="Select"
           className="p-2"
@@ -59,7 +59,7 @@ export const Home = () => {
           })}
         </Select>
       </div>
-      <div className="ms-auto me-auto" style={{ display: "flex" }}>
+      <div className="ms-auto me-auto">
         {!data[0].status ? (
           <BusStatus data={JSON.parse(data)} route={route} />
         ) : (
