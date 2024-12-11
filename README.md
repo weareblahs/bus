@@ -19,9 +19,15 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 "Direct" means that the source fetches the available API endpoints on `data.gov.my` instead of relying on external APIs.
 
+# Issues
+
+- rapidPenang: Station info inaccurate for stations in Penang mainland (previous, current, next). Please see myRapid PULSE app for accurate info. Location data is accurate.
+- rapidPenang: Some data shows "unknown location" for all 3 station placeholders. This is due to some bugs on the `getNearest` code.
+- Global: If the array is blank (no data). nothing will be shown except for "Bus info". There will be a placeholder soon.
+
 # About station data
 
-Station names (including route names) are stored as a static JSON file under the `data/[STATE]/[PROVIDER_NAME]StnInfo` directory, while the file names being `[ROUTE_NUMBER][A or B].json`. For the `A` or `B` suffix:
+Station names (including route names) are stored as a static JSON file under the `data/[STATE]/[PROVIDER_NAME]/StnInfo` directory, while the file names being `[ROUTE_NUMBER][A or B].json`. For the `A` or `B` suffix:
 
 - `A` is the forward position. (example: `301A` directs to `JETI - RELAU` in rapidPenang)
 - `B` is the reverse position. (example: `301B` directs to `RELAU - JETI` in rapidPenang)
