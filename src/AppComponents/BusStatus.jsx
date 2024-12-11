@@ -50,7 +50,7 @@ export const BusStatus = (data) => {
                               : `Currently driving in ${d[0].vehicle.position.speed}km/h`}
                           </h1>
                           <h1 className="text-2xl py-4">
-                            <div className="grid grid-cols-3">
+                            <div className="text-center">
                               <div>
                                 <div>
                                   <h1 className="text-xl text-center mt-auto">
