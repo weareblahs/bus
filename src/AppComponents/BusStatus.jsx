@@ -16,9 +16,9 @@ export const BusStatus = (data) => {
   // const data0 = JSON.stringify(data);
   if (data != []) {
     return (
-      <>
-        <div className="grid px-8 mb-24">
-          <div className="mt-auto mb-auto">Bus information</div>
+      <div className="flex w-11/12">
+        <div className="mb-24">
+          <div className="mt-auto mb-auto ms-4 me-4">Bus information</div>
           <div className="ms-auto"></div>
           <div className="">
             {data.data.map((d) => {
@@ -37,9 +37,9 @@ export const BusStatus = (data) => {
               console.log(nearest);
               return (
                 <Card
-                  className="mb-4 bg-gray-800 text-white"
+                  className="w-12/12 mb-4 ms-2 me-2 bg-gray-800 text-white p-1"
                   style={{
-                    marginLeft: "auto",
+                    marginLeft: "",
                     marginRight: "auto",
                   }}
                 >
@@ -168,7 +168,7 @@ export const BusStatus = (data) => {
             })}
           </div>
         </div>
-      </>
+      </div>
     );
   } else {
     return (
