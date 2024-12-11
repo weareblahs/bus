@@ -43,7 +43,7 @@ export const BusStatus = (data) => {
                     marginRight: "auto",
                   }}
                 >
-                  <div key={d[0].id} className="p-2">
+                  <div key={d[0].id} className="">
                     <CardHeader>
                       <div className="grid ">
                         <div className="mt-auto mb-auto">
@@ -52,7 +52,7 @@ export const BusStatus = (data) => {
                           </h1>
                           <h1>
                             {d[0].vehicle.position.speed == 0
-                              ? `Bus is now waiting for traffic light`
+                              ? `Bus is stopped or waiting for traffic light`
                               : `Currently driving in ${d[0].vehicle.position.speed}km/h`}
                           </h1>
                           <h1 className="text-3xl py-4">
@@ -74,7 +74,7 @@ export const BusStatus = (data) => {
                                   </h1>
                                 </div>
                               </div>
-                              <div className="ms-auto me-auto">
+                              <div className="text-2xlms-auto me-auto">
                                 <h1>
                                   {nearest?.[0]?.curr
                                     ? nearest?.[0].dist >= 30000
