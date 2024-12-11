@@ -63,13 +63,38 @@ export const BusStatus = (data) => {
                     </h1>
                   </div>
                   <div className="grid grid-cols-1">
-                    <h1 className="text-center text-2xl">
+                    <h1 className="text-center text-4xl">
                       {nearest?.[0]?.curr
                         ? nearest?.[0].dist >= 30000
                           ? "unknown location"
                           : nearest?.[0].curr
                         : "unknown location"}
                     </h1>
+                    <div className="ms-auto me-auto m-1">
+                      {nearest?.[0]?.curr ? (
+                        nearest?.[0].dist <= 500 ? (
+                          nearest?.[0].dist <= 10 ? (
+                            <Chip className="bg-green-500">
+                              Bus has arrived at the station
+                            </Chip>
+                          ) : (
+                            <Chip className="bg-orange-500">
+                              Bus will be arriving shortly
+                            </Chip>
+                          )
+                        ) : nearest?.[0].dist >= 10000 ? (
+                          <i className="text-small">
+                            Do note that above station info is inaccurate unless
+                            the actual distance between this station and the
+                            next station is considered as an express bus.
+                          </i>
+                        ) : (
+                          <Chip className="bg-blue-500">
+                            {nearest?.[0].dist}m away from station
+                          </Chip>
+                        )
+                      ) : null}
+                    </div>
                   </div>
                   <div className="grid grid-cols-1">
                     <h1 className="text-center italic">
