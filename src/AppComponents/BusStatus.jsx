@@ -36,7 +36,13 @@ export const BusStatus = (data) => {
               let info = [];
               console.log(nearest);
               return (
-                <Card className="mb-4 bg-gray-800 text-white">
+                <Card
+                  className="mb-4 bg-gray-800 text-white"
+                  style={{
+                    marginLeft: "auto",
+                    marginRight: "auto",
+                  }}
+                >
                   <div key={d[0].id} className="p-2">
                     <CardHeader>
                       <div className="grid ">
@@ -49,11 +55,17 @@ export const BusStatus = (data) => {
                               ? `Bus is now waiting for traffic light`
                               : `Currently driving in ${d[0].vehicle.position.speed}km/h`}
                           </h1>
-                          <h1 className="text-2xl py-4">
-                            <div className="text-center">
+                          <h1 className="text-3xl py-4">
+                            <div
+                              className="text-center w-96"
+                              style={{
+                                marginLeft: "auto",
+                                marginRight: "auto",
+                              }}
+                            >
                               <div>
                                 <div>
-                                  <h1 className="text-xl text-center mt-auto">
+                                  <h1 className="text-medium text-center mt-auto italic">
                                     {nearest?.[0]?.prev
                                       ? nearest?.[0].dist >= 30000
                                         ? "unknown location"
@@ -62,7 +74,7 @@ export const BusStatus = (data) => {
                                   </h1>
                                 </div>
                               </div>
-                              <div>
+                              <div className="ms-auto me-auto">
                                 <h1>
                                   {nearest?.[0]?.curr
                                     ? nearest?.[0].dist >= 30000
@@ -70,7 +82,7 @@ export const BusStatus = (data) => {
                                       : nearest?.[0].curr
                                     : "unknown location"}
                                   {nearest?.[0]?.curr ? (
-                                    <p className="text-xl">
+                                    <p className="text-medium">
                                       <i>
                                         {nearest?.[0].dist <= 100 ? (
                                           nearest?.[0].dist <= 10 ? (
@@ -103,7 +115,7 @@ export const BusStatus = (data) => {
                               </div>
                               <div>
                                 <div>
-                                  <h1 className="text-xl text-center mt-auto">
+                                  <h1 className="text-medium text-center mt-auto italic">
                                     {nearest?.[0]?.next
                                       ? nearest?.[0].dist >= 30000
                                         ? "unknown location"
