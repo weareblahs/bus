@@ -25,6 +25,10 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 - rapidPenang: Some data shows "unknown location" for all 3 station placeholders. This is due to some bugs on the `getNearest` code.
 - Global: If the array is blank (no data), nothing will be shown except for "Bus info". There will be a placeholder soon.
 
+# Disclaimer
+
+Do note that the data here is not completely accurate - it is recommended to check for myRapid PULSE (dynamic) or Google Maps (static) for more accurate info for bus arrival times.
+
 # About station data
 
 Station names (including route names) are stored as a static JSON file under the `data/[STATE]/[PROVIDER_NAME]/StnInfo` directory, while the file names being `[ROUTE_NUMBER][A or B].json`. For the `A` or `B` suffix:
