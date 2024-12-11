@@ -11,7 +11,7 @@ export const getNearest = (lat, lon, rte, provider, state) => {
       const nearest0 = res.data.filter(
         (d) => d?.stop_lat >= lat && d?.stop_lon >= lon
       );
-      const nearest = nearest0[nearest0.length - 1];
+      const nearest = nearest0[0];
       const getDistance = distance(
         nearest.stop_lat,
         nearest.stop_lon,
@@ -19,13 +19,25 @@ export const getNearest = (lat, lon, rte, provider, state) => {
         lon,
         "K"
       );
-      // const prevDataCheck = (res.data.indexOf(nearest)-1) >= 0) ? (res.data.indexOf(nearest) - 1) : -1
-      // const nextDataCheck = (res.data.indexOf(nearest)+1) <= (res.data.length-1) ? (res.data.indexOf(nearest) + 1) : -1
+
       setData([
         {
           curr: nearest.stop_name,
-          prev: null,
-          next: null,
+          prev: res.data[
+            res.data.indexOf(
+              res.data.filter(
+                (d) => d.stop_sequence === nearest.stop_sequence
+              )[0]
+            ) - 1
+          ].stop_name,
+          stopSeq: nearest.stop_sequence,
+          next: res.data[
+            res.data.indexOf(
+              res.data.filter(
+                (d) => d.stop_sequence === nearest.stop_sequence
+              )[0]
+            ) + 1
+          ].stop_name,
           dist: (getDistance * 1000).toFixed(2),
         },
       ]);

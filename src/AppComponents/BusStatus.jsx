@@ -5,6 +5,7 @@ import {
   CardBody,
   CardFooter,
   CardHeader,
+  Chip,
 } from "@nextui-org/react";
 import { nominatim, redirToGoogleMaps } from "./MapTools";
 import { useState, useEffect } from "react";
@@ -48,39 +49,70 @@ export const BusStatus = (data) => {
                               ? `Bus is now waiting for traffic light`
                               : `Currently driving in ${d[0].vehicle.position.speed}km/h`}
                           </h1>
-                          <h1 className="text-4xl py-4">
-                            <h1>
-                              near{" "}
-                              {nearest?.[0]?.curr
-                                ? nearest?.[0].dist >= 30000
-                                  ? "unknown location"
-                                  : nearest?.[0].curr
-                                : "unknown location"}
-                            </h1>
-                            {nearest?.[0]?.curr ? (
-                              <p className="text-xl">
-                                <i>
-                                  {nearest?.[0].dist <= 100 ? (
-                                    nearest?.[0].dist <= 10 ? (
-                                      <Chip>
-                                        Bus has arrived at the station
-                                      </Chip>
-                                    ) : (
-                                      <Chip>Bus will be arriving shortly</Chip>
-                                    )
-                                  ) : nearest?.[0].dist >= 10000 ? (
-                                    <i className="text-medium">
-                                      Do note that above station info is
-                                      inaccurate unless the actual distance
-                                      between this station and the next station
-                                      is considered as an express bus.
-                                    </i>
-                                  ) : (
-                                    `${nearest?.[0].dist}m away from station`
-                                  )}
-                                </i>
-                              </p>
-                            ) : null}
+                          <h1 className="text-2xl py-4">
+                            <div className="grid grid-cols-3">
+                              <div>
+                                <div>
+                                  <h1 className="text-xl text-center mt-auto">
+                                    {nearest?.[0]?.prev
+                                      ? nearest?.[0].dist >= 30000
+                                        ? "unknown location"
+                                        : nearest?.[0].prev
+                                      : "unknown location"}
+                                  </h1>
+                                </div>
+                              </div>
+                              <div>
+                                <h1>
+                                  {nearest?.[0]?.curr
+                                    ? nearest?.[0].dist >= 30000
+                                      ? "unknown location"
+                                      : nearest?.[0].curr
+                                    : "unknown location"}
+                                  {nearest?.[0]?.curr ? (
+                                    <p className="text-xl">
+                                      <i>
+                                        {nearest?.[0].dist <= 100 ? (
+                                          nearest?.[0].dist <= 10 ? (
+                                            <Chip>
+                                              Bus has arrived at the station
+                                            </Chip>
+                                          ) : (
+                                            <Chip>
+                                              Bus will be arriving shortly
+                                            </Chip>
+                                          )
+                                        ) : nearest?.[0].dist >= 10000 ? (
+                                          <i className="text-medium">
+                                            Do note that above station info is
+                                            inaccurate unless the actual
+                                            distance between this station and
+                                            the next station is considered as an
+                                            express bus.
+                                          </i>
+                                        ) : (
+                                          <Chip>
+                                            {nearest?.[0].dist}m away from
+                                            station
+                                          </Chip>
+                                        )}
+                                      </i>
+                                    </p>
+                                  ) : null}
+                                </h1>
+                              </div>
+                              <div>
+                                <div>
+                                  <h1 className="text-xl text-center mt-auto">
+                                    {nearest?.[0]?.next
+                                      ? nearest?.[0].dist >= 30000
+                                        ? "unknown location"
+                                        : nearest?.[0].next
+                                      : "unknown location"}
+                                  </h1>
+                                </div>
+                              </div>
+                            </div>
                           </h1>
                         </div>
                       </div>
