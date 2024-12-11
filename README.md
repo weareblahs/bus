@@ -23,7 +23,7 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 - rapidPenang: Station info inaccurate for stations in Penang mainland (previous, current, next). Please see myRapid PULSE app for accurate info. Location data is accurate.
 - rapidPenang: Some data shows "unknown location" for all 3 station placeholders. This is due to some bugs on the `getNearest` code.
-- Global: If the array is blank (no data). nothing will be shown except for "Bus info". There will be a placeholder soon.
+- Global: If the array is blank (no data), nothing will be shown except for "Bus info". There will be a placeholder soon.
 
 # About station data
 
