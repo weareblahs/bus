@@ -43,6 +43,7 @@ Station names (including route names) are stored as a static JSON file under the
 - Stop ID are stored under `stop_id`.
 - Station sequence are stored under `stop_sequence`.
   These data are originally from the open data mentioned as a GTFS data ZIP file (converted to JSON from CSV and removed duplicate entries for easy conversion).
+- Loop routes (example CAT in Penang) does not parses the nearest station correctly. When the station repeats, it shows the previous and next stations being the previous and next stations of the first appearance of this station on the route. This might be related to latitude and longitude data - might change the nearest algorithm to parse with the static data.
 
 # Other plans for this project
 
