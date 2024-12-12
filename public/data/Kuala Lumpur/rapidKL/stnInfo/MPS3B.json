@@ -1,0 +1,282 @@
+[
+    {
+        "stop_name": "SL558 MASJID SG BULOH",
+        "stop_lat": "3.219001",
+        "stop_lon": "101.596911",
+        "stop_id": "1007013",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M) SL559 UITM SG BULOH (OPP)",
+        "stop_lat": "3.219405",
+        "stop_lon": "101.593238",
+        "stop_id": "1007012",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SL560 KOLEJ SAINS KESIHATAN",
+        "stop_lat": "3.221164",
+        "stop_lon": "101.587473",
+        "stop_id": "1007010",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SL561 HOSPITAL SG BULOH UTAMA",
+        "stop_lat": "3.220688",
+        "stop_lon": "101.583769",
+        "stop_id": "1007008",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SL562 HOSPITAL SG BULOH PINTU C",
+        "stop_lat": "3.21782",
+        "stop_lon": "101.581653",
+        "stop_id": "1007006",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SL563 SMK SIERRAMAS",
+        "stop_lat": "3.214533",
+        "stop_lon": "101.578955",
+        "stop_id": "1007004",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SL564 STELLARS GROCER (OPP)",
+        "stop_lat": "3.211384",
+        "stop_lon": "101.577404",
+        "stop_id": "1007002",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA995 MRT SG BULOH",
+        "stop_lat": "3.206685",
+        "stop_lon": "101.580838",
+        "stop_id": "1007000",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SL552 STELLARS GROCER",
+        "stop_lat": "3.211823",
+        "stop_lon": "101.577405",
+        "stop_id": "1007001",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SL565 SK SG BULOH (OPP)",
+        "stop_lat": "3.214882",
+        "stop_lon": "101.577572",
+        "stop_id": "1007018",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SL566 KG MELAYU BT 13",
+        "stop_lat": "3.217213",
+        "stop_lon": "101.57548",
+        "stop_id": "1007019",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SL567 KG MELAYU BT 13",
+        "stop_lat": "3.219551",
+        "stop_lon": "101.573378",
+        "stop_id": "1007020",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SL568 KG MELAYU BT 13",
+        "stop_lat": "3.221636",
+        "stop_lon": "101.571512",
+        "stop_id": "1007021",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SL569 KG MELAYU BT 13",
+        "stop_lat": "3.224005",
+        "stop_lon": "101.569396",
+        "stop_id": "1007022",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SL570 DATARAN VILLA PUTRA",
+        "stop_lat": "3.226471",
+        "stop_lon": "101.567315",
+        "stop_id": "1007023",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SL571 PERINDUSTRIAN BRP 8/YAMAHA",
+        "stop_lat": "3.229368",
+        "stop_lon": "101.565277",
+        "stop_id": "1007024",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SL572 PERUMAHAN BRP 7",
+        "stop_lat": "3.229163",
+        "stop_lon": "101.558528",
+        "stop_id": "1007025",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SK BUKIT RAHMAN PUTRA",
+        "stop_lat": "3.228004",
+        "stop_lon": "101.552355",
+        "stop_id": "1007556",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PINGGIRAN RAHMAN PUTRA",
+        "stop_lat": "3.232163",
+        "stop_lon": "101.547729",
+        "stop_id": "1007558",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "TAMAN MASGENUINE",
+        "stop_lat": "3.235197",
+        "stop_lon": "101.542681",
+        "stop_id": "1007560",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SL332 SURAU KG SETIA KUANG",
+        "stop_lat": "3.240179",
+        "stop_lon": "101.535205",
+        "stop_id": "1007563",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SL333 TAMAN TASIK BIRU",
+        "stop_lat": "3.248346",
+        "stop_lon": "101.529429",
+        "stop_id": "1007564",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SL334 KG MELAYU KUNDANG",
+        "stop_lat": "3.253873",
+        "stop_lon": "101.525621",
+        "stop_id": "1007567",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SL335 DEWAN KG MELAYU KUNDANG",
+        "stop_lat": "3.255324",
+        "stop_lon": "101.525148",
+        "stop_id": "1007568",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SL320 SK SERI KUNDANG",
+        "stop_lat": "3.257792",
+        "stop_lon": "101.521001",
+        "stop_id": "1007570",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SL321 TAMAN RAHMAT JAYA KUNDANG",
+        "stop_lat": "3.261615",
+        "stop_lon": "101.519144",
+        "stop_id": "1007572",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SL322 KUNDANG LAKES COUNTRY CLUB",
+        "stop_lat": "3.263061",
+        "stop_lon": "101.517741",
+        "stop_id": "1007574",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SURAU KG BARU KUNDANG",
+        "stop_lat": "3.273021",
+        "stop_lon": "101.514333",
+        "stop_id": "1007576",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PASAR KG BARU KUNDANG",
+        "stop_lat": "3.279485",
+        "stop_lon": "101.514363",
+        "stop_id": "1007577",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "BANDAR TASIK PUTERI 2",
+        "stop_lat": "3.292002",
+        "stop_lon": "101.497113",
+        "stop_id": "1007579",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SL305 BANDAR TASIK PUTERI",
+        "stop_lat": "3.285734",
+        "stop_lon": "101.477179",
+        "stop_id": "1007581",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SL140 SK TASIK PUTERI 2",
+        "stop_lat": "3.281142",
+        "stop_lon": "101.474555",
+        "stop_id": "1007583",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SMK BANDAR TASIK PUTERI",
+        "stop_lat": "3.286627",
+        "stop_lon": "101.472814",
+        "stop_id": "1007586",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PINEWOOD COURT (OPP)",
+        "stop_lat": "3.286554",
+        "stop_lon": "101.469121",
+        "stop_id": "1007588",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PANGSAPURI AZALEA (OPP)",
+        "stop_lat": "3.292071",
+        "stop_lon": "101.471757",
+        "stop_id": "1007590",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SIMPANG TASIK PUTERI",
+        "stop_lat": "3.304976",
+        "stop_lon": "101.472788",
+        "stop_id": "1007592",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SL133 SPG OC 8/9 BATU ARANG",
+        "stop_lat": "3.309494",
+        "stop_lon": "101.473225",
+        "stop_id": "1007593",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SL149 PEJABAT TM BATU ARANG",
+        "stop_lat": "3.312266",
+        "stop_lon": "101.473134",
+        "stop_id": "1007595",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SMK TUANKU ABDUL RAHMAN",
+        "stop_lat": "3.318176",
+        "stop_lon": "101.472706",
+        "stop_id": "1007596",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SK BATU ARANG",
+        "stop_lat": "3.320912",
+        "stop_lon": "101.471247",
+        "stop_id": "1007616",
+        "stop_sequence": "40"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "stop_name": "HENTIAN UKAY PERDANA",
+        "stop_lat": "3.212225",
+        "stop_lon": "101.778038",
+        "stop_id": "1006231",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ396 PANGSAPURI KAYANGAN",
+        "stop_lat": "3.2104389422711",
+        "stop_lon": "101.77938110922",
+        "stop_id": "1000802",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ397 PANGSAPURI SRI IMPIAN",
+        "stop_lat": "3.2081186264782",
+        "stop_lon": "101.78133917132",
+        "stop_id": "1002723",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ398 PUSAT KOMERSIAL UP (OPP)",
+        "stop_lat": "3.204040093485",
+        "stop_lon": "101.77916823741",
+        "stop_id": "1000029",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "TNB UKAY PERDANA (OPP)",
+        "stop_lat": "3.201818",
+        "stop_lon": "101.778567",
+        "stop_id": "1004101",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "WARUNG TAMAN RIANA (OPP)",
+        "stop_lat": "3.19789",
+        "stop_lon": "101.77715",
+        "stop_id": "1006230",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "TAMAN RIANA",
+        "stop_lat": "3.19917",
+        "stop_lon": "101.77842",
+        "stop_id": "1006229",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PANGSAPURI INDAH",
+        "stop_lat": "3.19684",
+        "stop_lon": "101.77995",
+        "stop_id": "1006228",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ399 UKAY SERING",
+        "stop_lat": "3.198177",
+        "stop_lon": "101.772198",
+        "stop_id": "1006108",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ400 FLAT AL-RIDHUAN (OPP)",
+        "stop_lat": "3.1952724313484",
+        "stop_lon": "101.76454264816",
+        "stop_id": "1000677",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ344 SMK SERI KERAMAT (OPP)",
+        "stop_lat": "3.1971809646539",
+        "stop_lon": "101.75946499323",
+        "stop_id": "1003382",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ345 SMK LEMBAH KERAMAT (OPP)",
+        "stop_lat": "3.198614",
+        "stop_lon": "101.759309",
+        "stop_id": "1000042",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) AJ346 DEWAN SERBAGUNA AU5",
+        "stop_lat": "3.2011059486184",
+        "stop_lon": "101.75689181237",
+        "stop_id": "1000575",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ347 TAMAN LEMBAH KERAMAT",
+        "stop_lat": "3.201432",
+        "stop_lon": "101.752878",
+        "stop_id": "1002870",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ348 TASKA PASTI ILMI (OPP)",
+        "stop_lat": "3.2040785623068",
+        "stop_lon": "101.75183927523",
+        "stop_id": "1000181",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ349 GIANT ULU KELANG",
+        "stop_lat": "3.2068730797356",
+        "stop_lon": "101.75225081977",
+        "stop_id": "1000865",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ473 TAMAN MELAWATI B",
+        "stop_lat": "3.2107843167382",
+        "stop_lon": "101.75265211885",
+        "stop_id": "1000430",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ351 SMK TAMAN MELAWATI",
+        "stop_lat": "3.2148546138065",
+        "stop_lon": "101.75039678309",
+        "stop_id": "1003410",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AJ352 TAMAN MELAWATI A (UTARA)",
+        "stop_lat": "3.2179314340885",
+        "stop_lon": "101.74863097761",
+        "stop_id": "1002231",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "AJ353 TAMAN MELAWATI A (UTARA)",
+        "stop_lat": "3.2216203339928",
+        "stop_lon": "101.74813730306",
+        "stop_id": "1000663",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "AJ356 SK TAMAN MELAWATI",
+        "stop_lat": "3.2242819151825",
+        "stop_lon": "101.74735161866",
+        "stop_id": "1003663",
+        "stop_sequence": "21"
+    }
+]

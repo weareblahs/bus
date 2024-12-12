@@ -1,0 +1,240 @@
+[
+    {
+        "stop_name": "(M) PJ614 MASJID AL-HUSNA",
+        "stop_lat": "3.074256",
+        "stop_lon": "101.608951",
+        "stop_id": "1001873",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M) PJ615 SUNWAY PYRAMID",
+        "stop_lat": "3.073588",
+        "stop_lon": "101.605895",
+        "stop_id": "1003709",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ617 KOMPLEKS 3C",
+        "stop_lat": "3.072993",
+        "stop_lon": "101.600748",
+        "stop_id": "1000522",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ54 SERI KUALA LUMPUR",
+        "stop_lat": "3.076459",
+        "stop_lon": "101.592849",
+        "stop_id": "1003140",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ55 SUBANG JAYA MEDICAL CENTRE",
+        "stop_lat": "3.079767",
+        "stop_lon": "101.592874",
+        "stop_id": "1003279",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ56 KOMERSIAL SS15",
+        "stop_lat": "3.0818374454544",
+        "stop_lon": "101.59082467831",
+        "stop_id": "1002020",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ57 AEON BIG SUBANG JAYA (OPP)",
+        "stop_lat": "3.081844",
+        "stop_lon": "101.588307",
+        "stop_id": "1000457",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "(M) SJ58 SUBANG PARADE (OPP)",
+        "stop_lat": "3.0812978955176",
+        "stop_lon": "101.58560231839",
+        "stop_id": "1003695",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) SJ49 PETRON SS 17",
+        "stop_lat": "3.079421",
+        "stop_lon": "101.581514",
+        "stop_id": "1000646",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ47 PERUMAHAN SS 19",
+        "stop_lat": "3.078881",
+        "stop_lon": "101.577188",
+        "stop_id": "1003087",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA917 SPG BT 3 KE KLANG",
+        "stop_lat": "3.0751295078554",
+        "stop_lon": "101.55608246282",
+        "stop_id": "1000393",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA915 JEJANTAS SHELL BT 3 (OPP)",
+        "stop_lat": "3.0733105706958",
+        "stop_lon": "101.54917571463",
+        "stop_id": "1000394",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA1 LOTUS EXTRA SHAH ALAM (OPP)",
+        "stop_lat": "3.0709296781301",
+        "stop_lon": "101.53776620702",
+        "stop_id": "1003915",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) SA2 BULATAN KAYANGAN",
+        "stop_lat": "3.0730095590396",
+        "stop_lon": "101.53293127036",
+        "stop_id": "1000358",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SA3 PERUMAHAN SEKSYEN 11 (OPP)",
+        "stop_lat": "3.0684856773854",
+        "stop_lon": "101.52978798901",
+        "stop_id": "1003083",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA4 POS MALAYSIA",
+        "stop_lat": "3.0693575000853",
+        "stop_lon": "101.52391904805",
+        "stop_id": "1002596",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA855 WISMA MBSA (OPP)",
+        "stop_lat": "3.072952",
+        "stop_lon": "101.520611",
+        "stop_id": "1008399",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SA854 KOMPLEKS PKNS SHAH ALAM",
+        "stop_lat": "3.072057",
+        "stop_lon": "101.51693",
+        "stop_id": "1008075",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA6 SIRIM",
+        "stop_lat": "3.0687533794527",
+        "stop_lon": "101.51497243083",
+        "stop_id": "1003267",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA967 SMK SEKSYEN 2",
+        "stop_lat": "3.073193",
+        "stop_lon": "101.509487",
+        "stop_id": "1008104",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA7 HUB SEKSYEN 2",
+        "stop_lat": "3.0717952198749",
+        "stop_lon": "101.50800645308",
+        "stop_id": "1000171",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA8 UITM PINTU UTAMA",
+        "stop_lat": "3.0708541927405",
+        "stop_lon": "101.50433564815",
+        "stop_id": "1004166",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SA9 APARTMENT BAIDURI",
+        "stop_lat": "3.073911",
+        "stop_lon": "101.501054",
+        "stop_id": "1000170",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA10 UNISEL PINTU UTAMA",
+        "stop_lat": "3.0779166340311",
+        "stop_lon": "101.49615087009",
+        "stop_id": "1004172",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA34 UNISEL",
+        "stop_lat": "3.077464",
+        "stop_lon": "101.494395",
+        "stop_id": "1002457",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA35 PETRONAS SEKSYEN 7",
+        "stop_lat": "3.075333",
+        "stop_lon": "101.493305",
+        "stop_id": "1002458",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA36 HOSPITAL SHAH ALAM (OPP)",
+        "stop_lat": "3.070554",
+        "stop_lon": "101.491641",
+        "stop_id": "1001556",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA930 MARIAMMAN TEMPLE (OPP)",
+        "stop_lat": "3.062436",
+        "stop_lon": "101.487351",
+        "stop_id": "1004128",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "BD17 CENTRO KLANG",
+        "stop_lat": "3.053504",
+        "stop_lon": "101.463149",
+        "stop_id": "1000485",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "BD18 KLINIK KESIHATAN BUKIT KUDA",
+        "stop_lat": "3.051051",
+        "stop_lon": "101.458314",
+        "stop_id": "1007642",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SJKC KONG HOE",
+        "stop_lat": "3.047747",
+        "stop_lon": "101.451738",
+        "stop_id": "1006008",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "BD580 WISMA HAFIZ",
+        "stop_lat": "3.046749",
+        "stop_lon": "101.449869",
+        "stop_id": "1001516",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "BD21 MASJID BANDAR KLANG UTARA",
+        "stop_lat": "3.048155",
+        "stop_lon": "101.445868",
+        "stop_id": "1001515",
+        "stop_sequence": "34"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "stop_name": "KS31 KOMPLEKS ANGSANA",
+        "stop_lat": "3.2006289856591",
+        "stop_lon": "101.45174512568",
+        "stop_id": "1000572",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KS358 KOLEJ RAFFLESIA 6",
+        "stop_lat": "3.1991412518425",
+        "stop_lon": "101.44942909171",
+        "stop_id": "1001584",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "(M) KS32 KOLEJ RAFFLESIA 2",
+        "stop_lat": "3.197021",
+        "stop_lon": "101.450414",
+        "stop_id": "1001603",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KS33 FAKULTI PENDIDIKAN",
+        "stop_lat": "3.1991880510639",
+        "stop_lon": "101.4473818394",
+        "stop_id": "1001588",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KS34 FAKULTI FARMASI",
+        "stop_lat": "3.2017856496153",
+        "stop_lon": "101.44878222544",
+        "stop_id": "1001586",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KS359 PINTU MASUK UITM",
+        "stop_lat": "3.212856",
+        "stop_lon": "101.449552",
+        "stop_id": "1002548",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KS35 PUNCAK ALAM DRIVING RANGE",
+        "stop_lat": "3.218375",
+        "stop_lon": "101.445366",
+        "stop_id": "1002516",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "DUSUN",
+        "stop_lat": "3.2148514371484",
+        "stop_lon": "101.4422766736",
+        "stop_id": "1000594",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SPG FELDA BKT CHERAKAH",
+        "stop_lat": "3.2012830773167",
+        "stop_lon": "101.43840573021",
+        "stop_id": "1003443",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "TMN SRI JAYA/SURAU",
+        "stop_lat": "3.1899161087807",
+        "stop_lon": "101.4333455986",
+        "stop_id": "1004057",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KEDAI A/COND (OPP)",
+        "stop_lat": "3.185122841313",
+        "stop_lon": "101.43364303644",
+        "stop_id": "1001251",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PDG BKT CHERAKAH",
+        "stop_lat": "3.1763786811246",
+        "stop_lon": "101.43453536885",
+        "stop_id": "1002302",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SPG JLN REBUNG",
+        "stop_lat": "3.1714848097688",
+        "stop_lon": "101.43501490102",
+        "stop_id": "1003496",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SPG KG/SEK UGAMA",
+        "stop_lat": "3.1670067393269",
+        "stop_lon": "101.43551235216",
+        "stop_id": "1003513",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "JLN ISKANDAR/SURAU",
+        "stop_lat": "3.1613156497938",
+        "stop_lon": "101.43615820796",
+        "stop_id": "1001112",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "BT 7 1/2~KLINIK ANUR",
+        "stop_lat": "3.1509463975748",
+        "stop_lon": "101.4375598591",
+        "stop_id": "1000399",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "TAMAN MERU/REST MAIMUN",
+        "stop_lat": "3.1461038924472",
+        "stop_lon": "101.43820311329",
+        "stop_id": "1004006",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SMK MERU",
+        "stop_lat": "3.1397620183958",
+        "stop_lon": "101.4390489305",
+        "stop_id": "1003384",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "BSN PEKAN MERU",
+        "stop_lat": "3.1332519356789",
+        "stop_lon": "101.43989998262",
+        "stop_id": "1002378",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KLINIK FITRAH",
+        "stop_lat": "3.1304910959162",
+        "stop_lon": "101.44020133771",
+        "stop_id": "1001528",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KEDAI YAMAHA",
+        "stop_lat": "3.1289242059819",
+        "stop_lon": "101.44040118999",
+        "stop_id": "1001374",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "HYRAX OIL",
+        "stop_lat": "3.1234604922344",
+        "stop_lon": "101.44101399812",
+        "stop_id": "1000978",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KILANG KOMPONEN",
+        "stop_lat": "3.1197726835588",
+        "stop_lon": "101.44124891565",
+        "stop_id": "1001493",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PROTON",
+        "stop_lat": "3.1137116204992",
+        "stop_lon": "101.44168551643",
+        "stop_id": "1000069",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KLANG SENTRAL",
+        "stop_lat": "3.1093018865614",
+        "stop_lon": "101.4374588484",
+        "stop_id": "1001514",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "GIANT KLANG SENTRAL",
+        "stop_lat": "3.106533",
+        "stop_lon": "101.440758",
+        "stop_id": "1006610",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "MAYBANK SETIA ALAM",
+        "stop_lat": "3.102432762302",
+        "stop_lon": "101.44266248694",
+        "stop_id": "1003189",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA825 SETIA AVENUE (UTARA)",
+        "stop_lat": "3.108273",
+        "stop_lon": "101.446044",
+        "stop_id": "1006606",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M) SA820 SETIA CITY MALL",
+        "stop_lat": "3.108275",
+        "stop_lon": "101.460627",
+        "stop_id": "1006604",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "DEWAN SRI GADING",
+        "stop_lat": "3.100367",
+        "stop_lon": "101.465542",
+        "stop_id": "1006592",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA785 DAMAI 15 RESIDENCE",
+        "stop_lat": "3.097073",
+        "stop_lon": "101.462381",
+        "stop_id": "1006593",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PANGSAPURI SEMARAK",
+        "stop_lat": "3.094706",
+        "stop_lon": "101.460604",
+        "stop_id": "1006594",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SA798 SMK SETIA ALAM",
+        "stop_lat": "3.094599",
+        "stop_lon": "101.45717",
+        "stop_id": "1006595",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SA799 SK SETIA ALAM",
+        "stop_lat": "3.094644",
+        "stop_lon": "101.454304",
+        "stop_id": "1006596",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "DATARAN SETIA PRIMA",
+        "stop_lat": "3.094069",
+        "stop_lon": "101.445266",
+        "stop_id": "1006600",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "BDR BKT RAJA",
+        "stop_lat": "3.0889279986881",
+        "stop_lon": "101.44504833276",
+        "stop_id": "1000242",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "BDR BKT RAJA/JOTUN",
+        "stop_lat": "3.0845677626079",
+        "stop_lon": "101.44625300471",
+        "stop_id": "1000244",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KEDAI PSM",
+        "stop_lat": "3.0800963976163",
+        "stop_lon": "101.44752807055",
+        "stop_id": "1001345",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "BD190 MUTIARA BUKIT RAJA",
+        "stop_lat": "3.075432",
+        "stop_lon": "101.448896",
+        "stop_id": "1001297",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "PERS BKT RAJA",
+        "stop_lat": "3.0645293765524",
+        "stop_lon": "101.47200490899",
+        "stop_id": "1002428",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "TAMCO",
+        "stop_lat": "3.0661158582544",
+        "stop_lon": "101.47549406164",
+        "stop_id": "1003833",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SA283 MASJID SEKSYEN 7",
+        "stop_lat": "3.070915",
+        "stop_lon": "101.481712",
+        "stop_id": "1000335",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SA285 PANGSAPURI NILAM SARI (OPP)",
+        "stop_lat": "3.074961",
+        "stop_lon": "101.487219",
+        "stop_id": "1000266",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SA300 TASIK SEKSYEN 7",
+        "stop_lat": "3.075552",
+        "stop_lon": "101.490161",
+        "stop_id": "1003855",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "SA40 TASIK SEKSYEN 7",
+        "stop_lat": "3.075836",
+        "stop_lon": "101.493231",
+        "stop_id": "1002456",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SA41 UNISEL (OPP)",
+        "stop_lat": "3.077472",
+        "stop_lon": "101.494058",
+        "stop_id": "1002459",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SA11 UNISEL (OPP)",
+        "stop_lat": "3.078164626069",
+        "stop_lon": "101.49642595216",
+        "stop_id": "1004173",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SA12 APARTMENT BAIDURI (OPP)",
+        "stop_lat": "3.0734091801059",
+        "stop_lon": "101.501787709",
+        "stop_id": "1002126",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "SA13 UITM PINTU UTAMA (OPP)",
+        "stop_lat": "3.0716639153868",
+        "stop_lon": "101.5037935867",
+        "stop_id": "1004165",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "(M) SA14 HUB SEKSYEN 2",
+        "stop_lat": "3.071829",
+        "stop_lon": "101.507558",
+        "stop_id": "1000172",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "SA968 SMK SEKYEN 2 (OPP)",
+        "stop_lat": "3.07375",
+        "stop_lon": "101.50965",
+        "stop_id": "1006016",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "SA15 TAMAN TASIK SHAH ALAM",
+        "stop_lat": "3.068967",
+        "stop_lon": "101.515673",
+        "stop_id": "1004224",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "SA16 KOMPLEKS PKNS (OPP)",
+        "stop_lat": "3.071462",
+        "stop_lon": "101.516276",
+        "stop_id": "1003856",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "SHAH ALAM WALK",
+        "stop_lat": "3.073295",
+        "stop_lon": "101.516828",
+        "stop_id": "1008076",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "SA856 WISMA MBSA",
+        "stop_lat": "3.073127",
+        "stop_lon": "101.519848",
+        "stop_id": "1006643",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "56"
+    }
+]

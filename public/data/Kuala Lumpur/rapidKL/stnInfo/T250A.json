@@ -1,0 +1,226 @@
+[
+    {
+        "stop_name": "(M) KL192 LRT WANGSA MAJU",
+        "stop_lat": "3.204959",
+        "stop_lon": "101.732321",
+        "stop_id": "1001835",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL193 TAR VILLA",
+        "stop_lat": "3.2069624635304",
+        "stop_lon": "101.72975527444",
+        "stop_id": "1000750",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL2100 SURAU TMN BUNGA RAYA (OPP)",
+        "stop_lat": "3.213076",
+        "stop_lon": "101.729456",
+        "stop_id": "1006115",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "UTAR PINTU 4 (OPP)",
+        "stop_lat": "3.214716",
+        "stop_lon": "101.730167",
+        "stop_id": "1006116",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL163 UTAR MAIN GATE (OPP)",
+        "stop_lat": "3.214896",
+        "stop_lon": "101.728557",
+        "stop_id": "1003847",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "UTAR PINTU 2 (OPP)",
+        "stop_lat": "3.213626",
+        "stop_lon": "101.727132",
+        "stop_id": "1006117",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL980 SURAU AL-AMIN",
+        "stop_lat": "3.214176",
+        "stop_lon": "101.721755",
+        "stop_id": "1002558",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL981 INDAH APARTMENT",
+        "stop_lat": "3.211786",
+        "stop_lon": "101.720964",
+        "stop_id": "1008381",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL970 DANAU KOTA APARTMENT (OPP)",
+        "stop_lat": "3.208683",
+        "stop_lon": "101.719969",
+        "stop_id": "1008387",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL942 PV12 RESIDENCE",
+        "stop_lat": "3.206814",
+        "stop_lon": "101.717428",
+        "stop_id": "1007537",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1519 AEON BIG DANAU KOTA",
+        "stop_lat": "3.204432",
+        "stop_lon": "101.715764",
+        "stop_id": "1007538",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1520 PV15 PLATINUM",
+        "stop_lat": "3.202479",
+        "stop_lon": "101.716971",
+        "stop_id": "1007539",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) KL1598 COLUMBIA HOSPITAL",
+        "stop_lat": "3.200977",
+        "stop_lon": "101.718495",
+        "stop_id": "1003849",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL680 SETAPAK SENTRAL (SELATAN)",
+        "stop_lat": "3.202388",
+        "stop_lon": "101.720442",
+        "stop_id": "1007521",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL940 SETAPAK CENTRAL",
+        "stop_lat": "3.204846",
+        "stop_lon": "101.720942",
+        "stop_id": "1006118",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL971 DANAU KOTA APARTMENT",
+        "stop_lat": "3.208892",
+        "stop_lon": "101.719771",
+        "stop_id": "1008388",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL972 INDAH APARTMENT (OPP)",
+        "stop_lat": "3.212288",
+        "stop_lon": "101.720757",
+        "stop_id": "1008382",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL973 VISTA WIRAJAYA",
+        "stop_lat": "3.215423",
+        "stop_lon": "101.722522",
+        "stop_id": "1008380",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "UTAR PINTU 2",
+        "stop_lat": "3.213774",
+        "stop_lon": "101.727103",
+        "stop_id": "1002545",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL162 UTAR MAIN GATE",
+        "stop_lat": "3.2152638066092",
+        "stop_lon": "101.7292470894",
+        "stop_id": "1003846",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "UTAR PINTU 4",
+        "stop_lat": "3.214897",
+        "stop_lon": "101.730169",
+        "stop_id": "1003489",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL2101 SURAU TAMAN BUNGA RAYA",
+        "stop_lat": "3.213066",
+        "stop_lon": "101.729618",
+        "stop_id": "1008325",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL169 TAR VILLA",
+        "stop_lat": "3.2074455955313",
+        "stop_lon": "101.72952884294",
+        "stop_id": "1003848",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL170 LRT WANGSA MAJU",
+        "stop_lat": "3.205606",
+        "stop_lon": "101.731913",
+        "stop_id": "1001834",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL172 FLAT BLOK G9",
+        "stop_lat": "3.209006",
+        "stop_lon": "101.732225",
+        "stop_id": "1006268",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL173 PUSAT PENJAJA SEKSYEN 2",
+        "stop_lat": "3.211222",
+        "stop_lon": "101.733151",
+        "stop_id": "1002266",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL174 BLOK E10 (OPP)",
+        "stop_lat": "3.2118968009637",
+        "stop_lon": "101.73527509179",
+        "stop_id": "1000349",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL175 BLOK C14",
+        "stop_lat": "3.210641",
+        "stop_lon": "101.737187",
+        "stop_id": "1000345",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL176 HOSPITAL TENTERA TUANKU MIZAN",
+        "stop_lat": "3.2091975809309",
+        "stop_lon": "101.7380061917",
+        "stop_id": "1000344",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL177 BLOK A5",
+        "stop_lat": "3.2070661975135",
+        "stop_lon": "101.73854492429",
+        "stop_id": "1000341",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL178 BLOK 5",
+        "stop_lat": "3.2057653046191",
+        "stop_lon": "101.73737386896",
+        "stop_id": "1000330",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "(M) KL192 LRT WANGSA MAJU",
+        "stop_lat": "3.204959",
+        "stop_lon": "101.732321",
+        "stop_id": "1001835",
+        "stop_sequence": "32"
+    }
+]

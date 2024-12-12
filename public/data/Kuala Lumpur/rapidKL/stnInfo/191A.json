@@ -1,0 +1,450 @@
+[
+    {
+        "stop_name": "KL1044 TERMINAL SRI SEGAMBUT",
+        "stop_lat": "3.1944276503174",
+        "stop_lon": "101.6565547854",
+        "stop_id": "1002277",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1046 KOMERSIAL SRI SEGAMBUT/BHP (OPP)",
+        "stop_lat": "3.196802",
+        "stop_lon": "101.654976",
+        "stop_id": "1000298",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1732 TAMAN SRI SEGAMBUT",
+        "stop_lat": "3.1988235234102",
+        "stop_lon": "101.65502920686",
+        "stop_id": "1001187",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1047 KOMERSIAL PUSAT KEPONG (BARAT)",
+        "stop_lat": "3.199748",
+        "stop_lon": "101.655989",
+        "stop_id": "1004025",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1873 TAMAN SRI SEGAMBUT (TIMUR)",
+        "stop_lat": "3.199546",
+        "stop_lon": "101.659215",
+        "stop_id": "1004031",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1875 KUIL SPG PINTASAN SEGAMBUT",
+        "stop_lat": "3.197883",
+        "stop_lon": "101.660264",
+        "stop_id": "1004034",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1489 RUMAH PANJANG (BARAT)",
+        "stop_lat": "3.1985016511036",
+        "stop_lon": "101.66131114553",
+        "stop_id": "1002999",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1490 RUMAH PANJANG (TIMUR)",
+        "stop_lat": "3.199378",
+        "stop_lon": "101.662404",
+        "stop_id": "1002997",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL218 PADANG PERMAINAN",
+        "stop_lat": "3.1998497713975",
+        "stop_lon": "101.66330129635",
+        "stop_id": "1002334",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1660 PADANG BOLA SEGAMBUT",
+        "stop_lat": "3.200076",
+        "stop_lon": "101.665257",
+        "stop_id": "1001085",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1049 KOMERSIAL TAMAN BATU",
+        "stop_lat": "3.1997342905175",
+        "stop_lon": "101.66646773567",
+        "stop_id": "1001086",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL199 KG SRI DELIMA",
+        "stop_lat": "3.1990797358355",
+        "stop_lon": "101.66660401644",
+        "stop_id": "1000004",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1855 SPG JLN JAMBU GOLOK",
+        "stop_lat": "3.198178",
+        "stop_lon": "101.666296",
+        "stop_id": "1001736",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1856 LOT KEDAI KOK DOH (OPP)",
+        "stop_lat": "3.1968549434163",
+        "stop_lon": "101.66578946064",
+        "stop_id": "1001843",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1491 PEKAN KOK DOH",
+        "stop_lat": "3.194812824857",
+        "stop_lon": "101.66539727846",
+        "stop_id": "1002375",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1857 MADRASAH MANBAUL ULOOM",
+        "stop_lat": "3.1933933982392",
+        "stop_lon": "101.66572438456",
+        "stop_id": "1004046",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1859 BENGKEL SERVIS",
+        "stop_lat": "3.192462",
+        "stop_lon": "101.666847",
+        "stop_id": "1001451",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1860 PEKAN KOK DOH",
+        "stop_lat": "3.1905146060632",
+        "stop_lon": "101.66882453014",
+        "stop_id": "1002377",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL531 MASJID AL FIRDAUS (OPP)",
+        "stop_lat": "3.1880291336005",
+        "stop_lon": "101.66917150582",
+        "stop_id": "1001128",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1861 SK SEGAMBUT (OPP)",
+        "stop_lat": "3.187135",
+        "stop_lon": "101.668396",
+        "stop_id": "1001126",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL533 SJKC KHAI CHEE",
+        "stop_lat": "3.1857209970457",
+        "stop_lon": "101.66926371486",
+        "stop_id": "1000293",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL534 TAN CHONG MOTOR",
+        "stop_lat": "3.184001",
+        "stop_lon": "101.672747",
+        "stop_id": "1003834",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL914 TAMAN SEGAMBUT (BARAT)",
+        "stop_lat": "3.183432",
+        "stop_lon": "101.674414",
+        "stop_id": "1000826",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL535 MENARA TKSS (OPP)",
+        "stop_lat": "3.1832872879497",
+        "stop_lon": "101.67625871322",
+        "stop_id": "1004132",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL941 TAMAN SEGAMBUT (TIMUR)",
+        "stop_lat": "3.1817756330587",
+        "stop_lon": "101.67755753355",
+        "stop_id": "1000828",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL605 TAMAN MILLION",
+        "stop_lat": "3.182668",
+        "stop_lon": "101.681709",
+        "stop_id": "1002532",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M) KL606 RIVERWALK VILLAGE",
+        "stop_lat": "3.180072",
+        "stop_lon": "101.683532",
+        "stop_id": "1001414",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL607 SENTUL WEST",
+        "stop_lat": "3.178841",
+        "stop_lon": "101.686031",
+        "stop_id": "1003170",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL608 HOTEL TROPICANA",
+        "stop_lat": "3.176957",
+        "stop_lon": "101.687597",
+        "stop_id": "1000949",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL609 SMK SENTUL UTAMA",
+        "stop_lat": "3.174777",
+        "stop_lon": "101.690071",
+        "stop_id": "1002528",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL2249 PERKIM",
+        "stop_lat": "3.171261",
+        "stop_lon": "101.693485",
+        "stop_id": "1002414",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL50 DAMAI HOSPITAL",
+        "stop_lat": "3.169987",
+        "stop_lon": "101.695148",
+        "stop_id": "1000514",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "(M) KL67 CHOWKIT (SELATAN)",
+        "stop_lat": "3.166265",
+        "stop_lon": "101.697543",
+        "stop_id": "1006278",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL47 DAMAI HOSPITAL (OPP)",
+        "stop_lat": "3.169272",
+        "stop_lon": "101.695689",
+        "stop_id": "1002537",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL47 PICOMS",
+        "stop_lat": "3.1704199968614",
+        "stop_lon": "101.6941562269",
+        "stop_id": "1002415",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL49 PERKIM/PUSRAWI",
+        "stop_lat": "3.171001",
+        "stop_lon": "101.693422",
+        "stop_id": "1002413",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL578 TAMAN GOLDEN",
+        "stop_lat": "3.174173",
+        "stop_lon": "101.690357",
+        "stop_id": "1002022",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL579 SK SRI DHANDAYUTHAPANI",
+        "stop_lat": "3.176318",
+        "stop_lon": "101.688001",
+        "stop_id": "1001710",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "(M) KL1580 PETRON SENTUL WEST",
+        "stop_lat": "3.178511",
+        "stop_lon": "101.685795",
+        "stop_id": "1002041",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL580 RIVERCITY 3RD MILE",
+        "stop_lat": "3.180075",
+        "stop_lon": "101.683043",
+        "stop_id": "1002529",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL536 MENARA TKSS",
+        "stop_lat": "3.182464",
+        "stop_lon": "101.676725",
+        "stop_id": "1002017",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL537 TAMAN SEGAMBUT (BARAT)",
+        "stop_lat": "3.183037",
+        "stop_lon": "101.674726",
+        "stop_id": "1000827",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KL539 TEMPLE SEGAMBUT",
+        "stop_lat": "3.183824",
+        "stop_lon": "101.672461",
+        "stop_id": "1004283",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KL540 SJKC KHAI CHEE (OPP)",
+        "stop_lat": "3.184986",
+        "stop_lon": "101.669835",
+        "stop_id": "1001358",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KL1862 SK SEGAMBUT",
+        "stop_lat": "3.187528992349",
+        "stop_lon": "101.66846348287",
+        "stop_id": "1003649",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KL532 MASJID AL FIRDAUS",
+        "stop_lat": "3.188085",
+        "stop_lon": "101.668964",
+        "stop_id": "1001129",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KL1863 CAR HORSE MOTORS",
+        "stop_lat": "3.190266",
+        "stop_lon": "101.668736",
+        "stop_id": "1001875",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KL1864 BENGKEL SERVIS (OPP)",
+        "stop_lat": "3.1923567759718",
+        "stop_lon": "101.66709928818",
+        "stop_id": "1001407",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KL1866 MADRASAH MANBAUL ULOOM (OPP)",
+        "stop_lat": "3.193276058203",
+        "stop_lon": "101.66554251021",
+        "stop_id": "1002376",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KL1037 KG PASIR SEGAMBUT",
+        "stop_lat": "3.194754479329",
+        "stop_lon": "101.66522799193",
+        "stop_id": "1001450",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KL1867 LOT KEDAI KOK DOH",
+        "stop_lat": "3.1967793983416",
+        "stop_lon": "101.66556876643",
+        "stop_id": "1002961",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "KL1869 TAMAN LAWA",
+        "stop_lat": "3.198669",
+        "stop_lon": "101.665383",
+        "stop_id": "1000003",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "KL1871 TAMAN LAWA (BARAT)",
+        "stop_lat": "3.198432645995",
+        "stop_lon": "101.66380168063",
+        "stop_id": "1001084",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "KL1038 RUMAH PANJANG (TIMUR)",
+        "stop_lat": "3.199221",
+        "stop_lon": "101.662547",
+        "stop_id": "1002945",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "KL1039 RUMAH PANJANG (BARAT)",
+        "stop_lat": "3.198548",
+        "stop_lon": "101.661703",
+        "stop_id": "1003000",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "KL1872 KUIL SPG PINTASAN SEGAMBUT (OPP)",
+        "stop_lat": "3.197914",
+        "stop_lon": "101.660517",
+        "stop_id": "1001709",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "KL802 TEMPLE MARIAMMAN (OPP)",
+        "stop_lat": "3.198002",
+        "stop_lon": "101.659652",
+        "stop_id": "1004032",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "KL1876 TAMAN PUSAT KEPONG",
+        "stop_lat": "3.199601",
+        "stop_lon": "101.658034",
+        "stop_id": "1004027",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "KL1040 KOMERSIAL PUSAT KEPONG (OPP)",
+        "stop_lat": "3.199636",
+        "stop_lon": "101.655918",
+        "stop_id": "1006040",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "KL1041 KOMERSIAL SRI SEGAMBUT/BHP",
+        "stop_lat": "3.196974",
+        "stop_lon": "101.655168",
+        "stop_id": "1000299",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "KL1042 TAMAN SRI SEGAMBUT (SELATAN)",
+        "stop_lat": "3.195415",
+        "stop_lon": "101.655531",
+        "stop_id": "1008393",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "KL1043 MASJID AL-QURTUBI",
+        "stop_lat": "3.194611",
+        "stop_lon": "101.656705",
+        "stop_id": "1008394",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "KL1044 TERMINAL SRI SEGAMBUT",
+        "stop_lat": "3.1944276503174",
+        "stop_lon": "101.6565547854",
+        "stop_id": "1002277",
+        "stop_sequence": "64"
+    }
+]

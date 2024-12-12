@@ -1,0 +1,163 @@
+[
+    {
+        "stop_name": "(M) AJ108 AMPANG POINT (OPP)",
+        "stop_lat": "3.1568585598718",
+        "stop_lon": "101.75114580093",
+        "stop_id": "1000084",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ183 PPR HILIRAN AMPANG",
+        "stop_lat": "3.150669",
+        "stop_lon": "101.746244",
+        "stop_id": "1002604",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ184 RISDA ESTATES",
+        "stop_lat": "3.150402",
+        "stop_lon": "101.749057",
+        "stop_id": "1000026",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ467 TAMAN ANGSANA HILIR",
+        "stop_lat": "3.148681",
+        "stop_lon": "101.750596",
+        "stop_id": "1003237",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ448 PUSAT KOMERSIAL TAMAN CITY",
+        "stop_lat": "3.147068",
+        "stop_lon": "101.750625",
+        "stop_id": "1001146",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ208 KG PANDAN DALAM (TIMUR)",
+        "stop_lat": "3.1458889584288",
+        "stop_lon": "101.74995830536",
+        "stop_id": "1001535",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ437 MASJID AL HIDAYAH",
+        "stop_lat": "3.145886",
+        "stop_lon": "101.748237",
+        "stop_id": "1001876",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ214 KG PANDAN DALAM (UTARA)",
+        "stop_lat": "3.144899",
+        "stop_lon": "101.745847",
+        "stop_id": "1006677",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ215 KG PANDAN DALAM (SELATAN)",
+        "stop_lat": "3.141962",
+        "stop_lon": "101.745855",
+        "stop_id": "1001271",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) AJ195 LRT PANDAN INDAH",
+        "stop_lat": "3.136207",
+        "stop_lon": "101.745486",
+        "stop_id": "1000791",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ196 AXIS ATRIUM",
+        "stop_lat": "3.137571",
+        "stop_lon": "101.747641",
+        "stop_id": "1000179",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ210 SURAU AL-FALAH (OPP)",
+        "stop_lat": "3.139393",
+        "stop_lon": "101.748089",
+        "stop_id": "1003717",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ211 KG PANDAN DALAM",
+        "stop_lat": "3.140819",
+        "stop_lon": "101.746984",
+        "stop_id": "1008475",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ212 KG PANDAN DALAM (SELATAN)",
+        "stop_lat": "3.141211",
+        "stop_lon": "101.745734",
+        "stop_id": "1001270",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ439 MASJID AL HIDAYAH (OPP)",
+        "stop_lat": "3.146045",
+        "stop_lon": "101.747761",
+        "stop_id": "1001877",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ209 KG PANDAN DALAM (TIMUR)",
+        "stop_lat": "3.146073",
+        "stop_lon": "101.749865",
+        "stop_id": "1001534",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ471 PUSAT KOMERSIAL TAMAN CITY",
+        "stop_lat": "3.147418",
+        "stop_lon": "101.750515",
+        "stop_id": "1002936",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ466 TAMAN ANGSANA HILIR",
+        "stop_lat": "3.148819",
+        "stop_lon": "101.750501",
+        "stop_id": "1002077",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AJ185 KIARA DUTA KONDOMINIUM",
+        "stop_lat": "3.150109",
+        "stop_lon": "101.752818",
+        "stop_id": "1008476",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "AJ186 DAGANG AVENUE",
+        "stop_lat": "3.148957",
+        "stop_lon": "101.755191",
+        "stop_id": "1000818",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "AJ325 FLAT TAMAN DATO AHMAD RAZALI",
+        "stop_lat": "3.152936",
+        "stop_lon": "101.757275",
+        "stop_id": "1003932",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "AJ107 APARTMENT CEMPAKA (OPP)",
+        "stop_lat": "3.154139",
+        "stop_lon": "101.754928",
+        "stop_id": "1008477",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) AJ108 AMPANG POINT (OPP)",
+        "stop_lat": "3.1568585598718",
+        "stop_lon": "101.75114580093",
+        "stop_id": "1000084",
+        "stop_sequence": "23"
+    }
+]

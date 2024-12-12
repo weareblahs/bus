@@ -1,0 +1,261 @@
+[
+    {
+        "stop_name": "KL1412 HAB PANTAI HILLPARK",
+        "stop_lat": "3.1025691830965",
+        "stop_lon": "101.66715103428",
+        "stop_id": "1000311",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M) KL1413 PANTAI MURNI",
+        "stop_lat": "3.104103",
+        "stop_lon": "101.666017",
+        "stop_id": "1001654",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1414 CENTRIO PANTAI HILLPARK",
+        "stop_lat": "3.106853",
+        "stop_lon": "101.666039",
+        "stop_id": "1002251",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL2132 PANTAI HILLPARK (BARAT)",
+        "stop_lat": "3.1085908411426",
+        "stop_lon": "101.66648304649",
+        "stop_id": "1002252",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1420 TAMAN BUKIT ANGKASA BLOK 6",
+        "stop_lat": "3.1078394383843",
+        "stop_lon": "101.67076523891",
+        "stop_id": "1000910",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1800 PPR SRI PANTAI (BARAT)",
+        "stop_lat": "3.1075135980947",
+        "stop_lon": "101.67309675705",
+        "stop_id": "1001719",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1801 ANGKASAPURI",
+        "stop_lat": "3.1125467042244",
+        "stop_lon": "101.67320070486",
+        "stop_id": "1000095",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1802 KUARTERS TNB (DAHLIA)",
+        "stop_lat": "3.116452747602",
+        "stop_lon": "101.6718384715",
+        "stop_id": "1001706",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL1113 BALAI ISLAM TNB",
+        "stop_lat": "3.1183379924799",
+        "stop_lon": "101.67225279065",
+        "stop_id": "1001575",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1114 HQ TNB",
+        "stop_lat": "3.120545601227",
+        "stop_lon": "101.67360352039",
+        "stop_id": "1004098",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1115 APARTMENT PUTRA RIA (OPP)",
+        "stop_lat": "3.1233380951033",
+        "stop_lon": "101.67633743443",
+        "stop_id": "1002106",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1117 LRT BANGSAR",
+        "stop_lat": "3.1274797153797",
+        "stop_lon": "101.6788029842",
+        "stop_id": "1001787",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1075 SUASANA SENTRAL LOFT",
+        "stop_lat": "3.130350344914",
+        "stop_lon": "101.68423541322",
+        "stop_id": "1003609",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1079 KL SENTRAL",
+        "stop_lat": "3.132961",
+        "stop_lon": "101.687618",
+        "stop_id": "1001512",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1090 SENTRAL EXHIBITION MALL",
+        "stop_lat": "3.134408",
+        "stop_lon": "101.688902",
+        "stop_id": "1004275",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL111 CENTRAL MARKET",
+        "stop_lat": "3.144573",
+        "stop_lon": "101.695534",
+        "stop_id": "1001096",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "BANGKOK BANK 2",
+        "stop_lat": "3.1456144709275",
+        "stop_lon": "101.69708873125",
+        "stop_id": "1000220",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL109 CENTRAL MARKET (OPP)",
+        "stop_lat": "3.144052",
+        "stop_lon": "101.695432",
+        "stop_id": "1008294",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) KL110 PASAR SENI (PLATFORM F1 - F2)",
+        "stop_lat": "3.1429",
+        "stop_lon": "101.694761",
+        "stop_id": "1004345",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL2144 TM BRICKFIELDS",
+        "stop_lat": "3.1374677062962",
+        "stop_lon": "101.69324504902",
+        "stop_id": "1000857",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL2145 HOTEL PRESCOTT",
+        "stop_lat": "3.136322",
+        "stop_lon": "101.690915",
+        "stop_id": "1002495",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1080 BRICKFIELDS",
+        "stop_lat": "3.1336400597905",
+        "stop_lon": "101.68908163724",
+        "stop_id": "1004276",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1082 SK METHODIST",
+        "stop_lat": "3.131473",
+        "stop_lon": "101.689089",
+        "stop_id": "1002023",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1083 PALM COURT",
+        "stop_lat": "3.129818",
+        "stop_lon": "101.687114",
+        "stop_id": "1002234",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1760 SUASANA SENTRAL LOFT",
+        "stop_lat": "3.1303212241286",
+        "stop_lon": "101.68364204616",
+        "stop_id": "1003608",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL1095 BANGSAR UTAMA",
+        "stop_lat": "3.129203160217",
+        "stop_lon": "101.68065981755",
+        "stop_id": "1002086",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "(M) KL1096 LRT BANGSAR (OPP)",
+        "stop_lat": "3.1273688525384",
+        "stop_lon": "101.67914951654",
+        "stop_id": "1001788",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL1097 PPR ABDULLAH HUKUM",
+        "stop_lat": "3.1231698334516",
+        "stop_lon": "101.67654695028",
+        "stop_id": "1002600",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL1098 LRT ABDULLAH HUKUM",
+        "stop_lat": "3.1180320477095",
+        "stop_lon": "101.67260077298",
+        "stop_id": "1004110",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL1803 KTM ANGKASAPURI",
+        "stop_lat": "3.1123947922969",
+        "stop_lon": "101.67357475008",
+        "stop_id": "1000096",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL1437 TAMAN BUKIT ANGKASA (TIMUR)",
+        "stop_lat": "3.1072314965482",
+        "stop_lon": "101.67185354416",
+        "stop_id": "1000762",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL2129 FLAT SRI ANGKASA 2",
+        "stop_lat": "3.1075293605409",
+        "stop_lon": "101.67092526173",
+        "stop_id": "1000763",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL2130 PPR KERINCHI",
+        "stop_lat": "3.108217",
+        "stop_lon": "101.668853",
+        "stop_id": "1002608",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL2131 PANTAI HILLPARK",
+        "stop_lat": "3.108328",
+        "stop_lon": "101.666486",
+        "stop_id": "1000831",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL1401 KOMERSIAL PANTAI HILLPARK",
+        "stop_lat": "3.1069976014096",
+        "stop_lon": "101.66618255321",
+        "stop_id": "1000608",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL1402 PANTAI MURNI",
+        "stop_lat": "3.104087",
+        "stop_lon": "101.666116",
+        "stop_id": "1000312",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL1412 HAB PANTAI HILLPARK",
+        "stop_lat": "3.1025691830965",
+        "stop_lon": "101.66715103428",
+        "stop_id": "1000311",
+        "stop_sequence": "38"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "stop_name": "KL1117 LRT BANGSAR",
+        "stop_lat": "3.1274797153797",
+        "stop_lon": "101.6788029842",
+        "stop_id": "1001787",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1760 SUASANA SENTRAL LOFT",
+        "stop_lat": "3.1303212241286",
+        "stop_lon": "101.68364204616",
+        "stop_id": "1003608",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1095 BANGSAR UTAMA",
+        "stop_lat": "3.129203160217",
+        "stop_lon": "101.68065981755",
+        "stop_id": "1002086",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M) KL1096 LRT BANGSAR (OPP)",
+        "stop_lat": "3.1273688525384",
+        "stop_lon": "101.67914951654",
+        "stop_id": "1001788",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL2148 MID VALLEY (SELATAN)",
+        "stop_lat": "3.1163426908255",
+        "stop_lon": "101.67610827826",
+        "stop_id": "1002030",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1914 LUCKY GARDEN",
+        "stop_lat": "3.127174",
+        "stop_lon": "101.673442",
+        "stop_id": "1002921",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1761 BANGSAR VILLAGE (SELATAN)",
+        "stop_lat": "3.128631",
+        "stop_lon": "101.670213",
+        "stop_id": "1002215",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1128 BANGSAR VILLAGE (BARAT)",
+        "stop_lat": "3.129766",
+        "stop_lon": "101.670235",
+        "stop_id": "1000228",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL1132 BANGSAR TELAWI (SELATAN)",
+        "stop_lat": "3.131005",
+        "stop_lon": "101.670385",
+        "stop_id": "1002357",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1130 BANGSAR TELAWI (TENGAH)",
+        "stop_lat": "3.132621",
+        "stop_lon": "101.670447",
+        "stop_id": "1002944",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1129 BANGSAR TELAWI (UTARA)",
+        "stop_lat": "3.134449",
+        "stop_lon": "101.670509",
+        "stop_id": "1003504",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1125 BANGSAR BARU (UTARA)",
+        "stop_lat": "3.136098",
+        "stop_lon": "101.672078",
+        "stop_id": "1008142",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1160 TAMAN BANDARAYA",
+        "stop_lat": "3.139263868803",
+        "stop_lon": "101.67210240492",
+        "stop_id": "1002093",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1147 SMK BUKIT BANDARAYA",
+        "stop_lat": "3.1423464464086",
+        "stop_lon": "101.67167015656",
+        "stop_id": "1003371",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL1139 BANGSAR SHOPPING CENTER (OPP)",
+        "stop_lat": "3.143064",
+        "stop_lon": "101.668125",
+        "stop_id": "1000225",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1149 APT BANGSAR INDAH",
+        "stop_lat": "3.1402867373031",
+        "stop_lon": "101.67274448637",
+        "stop_id": "1002918",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1150 RUMAH NO 164",
+        "stop_lat": "3.1380614131037",
+        "stop_lon": "101.67342031975",
+        "stop_id": "1002905",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1908 TAMAN BUKIT PERSEKUTUAN",
+        "stop_lat": "3.136686",
+        "stop_lon": "101.674128",
+        "stop_id": "1002901",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL1909 SPG LORONG LIMAU MANIS",
+        "stop_lat": "3.1356095197175",
+        "stop_lon": "101.67409697447",
+        "stop_id": "1002886",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1904 SPG LORONG MAAROF 4",
+        "stop_lat": "3.1338672675405",
+        "stop_lon": "101.67406068293",
+        "stop_id": "1002883",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1911 SPG LORONG MAAROF 2",
+        "stop_lat": "3.1330625677242",
+        "stop_lon": "101.67400864478",
+        "stop_id": "1002964",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1912 SPG LORONG MAAROF 2",
+        "stop_lat": "3.1315362082785",
+        "stop_lon": "101.6739672148",
+        "stop_id": "1000061",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1157 FLAT SRI PAHANG",
+        "stop_lat": "3.129604",
+        "stop_lon": "101.674649",
+        "stop_id": "1000534",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1142 DATARAN MAYBANK",
+        "stop_lat": "3.126412",
+        "stop_lon": "101.677303",
+        "stop_id": "1000519",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1117 LRT BANGSAR",
+        "stop_lat": "3.1274797153797",
+        "stop_lon": "101.6788029842",
+        "stop_id": "1001787",
+        "stop_sequence": "25"
+    }
+]

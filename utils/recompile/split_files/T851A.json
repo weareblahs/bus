@@ -1,0 +1,5 @@
+{"trip_id":"weekday_T8510_T851002_5","arrival_time":"19:38:00","departure_time":"19:38:00","stop_id":"1001511","stop_sequence":"1","stop_headsign":"PARLIMEN"},
+{"trip_id":"weekday_T8510_T851002_5","arrival_time":"19:51:12","departure_time":"19:51:12","stop_id":"1009071","stop_sequence":"2","stop_headsign":"PARLIMEN"},
+{"trip_id":"weekday_T8510_T851002_5","arrival_time":"19:54:57","departure_time":"19:54:57","stop_id":"1005051","stop_sequence":"3","stop_headsign":"KL SENTRAL"},
+{"trip_id":"weekday_T8510_T851002_5","arrival_time":"19:58:05","departure_time":"19:58:05","stop_id":"1009071","stop_sequence":"4","stop_headsign":"KL SENTRAL"},
+{"trip_id":"weekday_T8510_T851002_5","arrival_time":"20:08:00","departure_time":"20:08:00","stop_id":"1001511","stop_sequence":"5","stop_headsign":"KL SENTRAL"}

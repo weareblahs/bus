@@ -1,0 +1,611 @@
+[
+    {
+        "stop_name": "TAMAN KOTA CHERAS FASA 1",
+        "stop_lat": "3.060632",
+        "stop_lon": "101.772207",
+        "stop_id": "1000854",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KJ38 TAMAN SUNTEX",
+        "stop_lat": "3.0713270806228",
+        "stop_lon": "101.76731929123",
+        "stop_id": "1002809",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KJ39 SK BT 9 (OPP)",
+        "stop_lat": "3.070484956708",
+        "stop_lon": "101.76874376578",
+        "stop_id": "1003288",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KJ40 BALAI POLIS BT 9 (OPP)",
+        "stop_lat": "3.0689271880417",
+        "stop_lon": "101.77057332421",
+        "stop_id": "1000193",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KJ53 POS MALAYSIA BT 9 (OPP)",
+        "stop_lat": "3.068602",
+        "stop_lon": "101.772155",
+        "stop_id": "1000445",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KJ54 KLINIK KESIHATAN BT 9",
+        "stop_lat": "3.0693118789177",
+        "stop_lon": "101.77486220334",
+        "stop_id": "1001543",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KJ55 TAMAN SRI MELAKA",
+        "stop_lat": "3.0697241728812",
+        "stop_lon": "101.77690973813",
+        "stop_id": "1003964",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KJ56 KG BKT RAYA",
+        "stop_lat": "3.0706363290665",
+        "stop_lon": "101.78016330768",
+        "stop_id": "1003287",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KJ57 SK BUKIT RAYA",
+        "stop_lat": "3.0725249701448",
+        "stop_lon": "101.78255316506",
+        "stop_id": "1000251",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KJ59 IDAMAN VILLAS",
+        "stop_lat": "3.0767741924285",
+        "stop_lon": "101.78311995003",
+        "stop_id": "1004084",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KJ60 KG BUKIT RAYA (SELATAN)",
+        "stop_lat": "3.0779296183265",
+        "stop_lon": "101.78399103623",
+        "stop_id": "1000188",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KJ61 BALAI RAYA KG BKT RAYA",
+        "stop_lat": "3.0802980589387",
+        "stop_lon": "101.78557158792",
+        "stop_id": "1000214",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KJ663 TAMAN LANGAT CERIA",
+        "stop_lat": "3.0816778720529",
+        "stop_lon": "101.78694626291",
+        "stop_id": "1000592",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "TMN DESA PELANGI",
+        "stop_lat": "3.0837781662312",
+        "stop_lon": "101.78812664494",
+        "stop_id": "1003970",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KJ64 SK SG SERAI",
+        "stop_lat": "3.0871443597832",
+        "stop_lon": "101.7908260931",
+        "stop_id": "1003319",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KJ66 SAR SG SERAI",
+        "stop_lat": "3.0918995188852",
+        "stop_lon": "101.79453387377",
+        "stop_id": "1002393",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KJ67 KG SG SERAI",
+        "stop_lat": "3.093904538643",
+        "stop_lon": "101.79599037075",
+        "stop_id": "1001304",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KJ68 TAMAN BUKIT SEKAWAN",
+        "stop_lat": "3.0953320125377",
+        "stop_lon": "101.79737326028",
+        "stop_id": "1002803",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) KJ69 TAMAN LAGENDA SURIA",
+        "stop_lat": "3.097554",
+        "stop_lon": "101.799847",
+        "stop_id": "1004017",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KJ70 TAMAN CEMPAKA",
+        "stop_lat": "3.1002102866708",
+        "stop_lon": "101.8025700633",
+        "stop_id": "1001429",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KJ71 TAMAN SRI NANDING",
+        "stop_lat": "3.1038224213823",
+        "stop_lon": "101.80602434468",
+        "stop_id": "1004063",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KJ72 MADRASAH KG DUSUN",
+        "stop_lat": "3.105598285681",
+        "stop_lon": "101.80787759431",
+        "stop_id": "1001841",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KJ73 KG SG MICHU",
+        "stop_lat": "3.1088777925046",
+        "stop_lon": "101.81095292433",
+        "stop_id": "1000163",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KJ74 DEWAN DATO NAZIR",
+        "stop_lat": "3.1116603262093",
+        "stop_lon": "101.81486800981",
+        "stop_id": "1000560",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KJ75 PERTUBUHAN PELADANG",
+        "stop_lat": "3.1137830113678",
+        "stop_lon": "101.81591572928",
+        "stop_id": "1002439",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KJ77 SMK ABDUL JALIL",
+        "stop_lat": "3.1181307348531",
+        "stop_lon": "101.81861147702",
+        "stop_id": "1001458",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KJ78 KG RANTAU PANJANG",
+        "stop_lat": "3.1206591729012",
+        "stop_lon": "101.82041997814",
+        "stop_id": "1002283",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KJ79 FELCRA SEMUNGKIS",
+        "stop_lat": "3.1225786593045",
+        "stop_lon": "101.82154211687",
+        "stop_id": "1000667",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KJ80 KG SG SEMUNGKIS",
+        "stop_lat": "3.1244447453413",
+        "stop_lon": "101.822966975",
+        "stop_id": "1001463",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KJ81 TAMAN SRI KUNDANG",
+        "stop_lat": "3.129497051371",
+        "stop_lon": "101.829648795",
+        "stop_id": "1002040",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KJ82 BALAIRAYA KG BT 15",
+        "stop_lat": "3.1307331492593",
+        "stop_lon": "101.83123811104",
+        "stop_id": "1000851",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KJ83 KG DUSUN TUA",
+        "stop_lat": "3.1342458069758",
+        "stop_lon": "101.83246054503",
+        "stop_id": "1001745",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KJ84 IKBN (OPP)",
+        "stop_lat": "3.1373223728962",
+        "stop_lon": "101.83461000411",
+        "stop_id": "1001289",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KJ85 SRA DUSUN TUA",
+        "stop_lat": "3.1396687819175",
+        "stop_lon": "101.83588315772",
+        "stop_id": "1003598",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KJ86 MASJID AL-MUTTAQIN",
+        "stop_lat": "3.145866",
+        "stop_lon": "101.838494",
+        "stop_id": "1008298",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KJ87 SK DUSUN TUA",
+        "stop_lat": "3.1506543794203",
+        "stop_lon": "101.83897428427",
+        "stop_id": "1003296",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KJ88 BALAIRAYA BT 17 (OPP)",
+        "stop_lat": "3.1554004248416",
+        "stop_lon": "101.84300821349",
+        "stop_id": "1001068",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KJ89 PUSAT PERTANIAN BT 18",
+        "stop_lat": "3.1624857994595",
+        "stop_lon": "101.84686809498",
+        "stop_id": "1002725",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KJ90 TAMAN IMPIAN WARISAN BT 18",
+        "stop_lat": "3.1649670822494",
+        "stop_lon": "101.84780113481",
+        "stop_id": "1002370",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KJ114 PEKAN BT 18 (TIMUR)",
+        "stop_lat": "3.1665385520069",
+        "stop_lon": "101.8509892609",
+        "stop_id": "1000444",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KJ116 KG MAMPIR/BT 20",
+        "stop_lat": "3.1723398453423",
+        "stop_lon": "101.87225722302",
+        "stop_id": "1001443",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KJ117 SRA SG LUI (OPP)",
+        "stop_lat": "3.165459646174",
+        "stop_lon": "101.8818777808",
+        "stop_id": "1003104",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "(M) KJ122 KG ULU LUI",
+        "stop_lat": "3.1503737788998",
+        "stop_lon": "101.90927243422",
+        "stop_id": "1004281",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KJ125 DAMAN DESA KERINCHI",
+        "stop_lat": "3.160921646897",
+        "stop_lon": "101.88941495451",
+        "stop_id": "1000515",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KJ126 DEWAN SG LUI (OPP)",
+        "stop_lat": "3.163722",
+        "stop_lon": "101.885759",
+        "stop_id": "1008318",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KJ127 SK SG LUI (OPP)",
+        "stop_lat": "3.1646993876202",
+        "stop_lon": "101.88350936983",
+        "stop_id": "1003105",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KJ128 SRA SG LUI",
+        "stop_lat": "3.165334",
+        "stop_lon": "101.881742",
+        "stop_id": "1008315",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KJ133 TAMAN CEMPAKA LUI",
+        "stop_lat": "3.1662978599823",
+        "stop_lon": "101.85081013917",
+        "stop_id": "1001430",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KJ134 SJKC CHONG HWA BT 18",
+        "stop_lat": "3.164276",
+        "stop_lon": "101.847754",
+        "stop_id": "1002371",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KJ135 PUSAT PERTANIAN BT 18",
+        "stop_lat": "3.1629070221777",
+        "stop_lon": "101.8472392572",
+        "stop_id": "1002657",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KJ136 BALAIRAYA BT 17",
+        "stop_lat": "3.1548935062141",
+        "stop_lon": "101.8430070433",
+        "stop_id": "1002421",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KJ137 KS DUSUN TUA (OPP)",
+        "stop_lat": "3.1507738008015",
+        "stop_lon": "101.83930337756",
+        "stop_id": "1001684",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "KJ138 MASJID AL-MUTTAQIN (OPP)",
+        "stop_lat": "3.1454582772019",
+        "stop_lon": "101.8386818012",
+        "stop_id": "1001879",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "KJ139 SRA DUSUN TUA",
+        "stop_lat": "3.139069173732",
+        "stop_lon": "101.83584954701",
+        "stop_id": "1000571",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "KJ140 IKBN",
+        "stop_lat": "3.1370349445907",
+        "stop_lon": "101.83448455706",
+        "stop_id": "1001288",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "KJ141 KG DUSUN TUA",
+        "stop_lat": "3.1337437088165",
+        "stop_lon": "101.83257141607",
+        "stop_id": "1001746",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "KJ142 BALAIRAYA KG BT 15 (OPP)",
+        "stop_lat": "3.1303879207464",
+        "stop_lon": "101.83115007063",
+        "stop_id": "1002682",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "KJ143 TAMAN SRI KUNDANG",
+        "stop_lat": "3.1292098558961",
+        "stop_lon": "101.82951460733",
+        "stop_id": "1002039",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "KJ144 KG SG SEMUNGKIS",
+        "stop_lat": "3.1244860131703",
+        "stop_lon": "101.82338430668",
+        "stop_id": "1001464",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "KJ145 SIMPANG FELCRA SEMUNGKIS",
+        "stop_lat": "3.1228693535946",
+        "stop_lon": "101.82193020899",
+        "stop_id": "1002691",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "KJ146 KG RANTAU PANJANG",
+        "stop_lat": "3.1203737583382",
+        "stop_lon": "101.8204902357",
+        "stop_id": "1001840",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "KJ147 SMK ABDUL JALIL (OPP)",
+        "stop_lat": "3.1178845659246",
+        "stop_lon": "101.81868835002",
+        "stop_id": "1001459",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "KJ148 TAMAN INDAH JAYA",
+        "stop_lat": "3.1158085314885",
+        "stop_lon": "101.81696414859",
+        "stop_id": "1003976",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "KJ149 PERTUBUHAN PELADANG (OPP)",
+        "stop_lat": "3.113643",
+        "stop_lon": "101.816105",
+        "stop_id": "1002493",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "KJ150 DEWAN DATO NAZIR (OPP)",
+        "stop_lat": "3.111908909242",
+        "stop_lon": "101.81528682382",
+        "stop_id": "1000561",
+        "stop_sequence": "65"
+    },
+    {
+        "stop_name": "KJ151 KG SG MICHU",
+        "stop_lat": "3.1087448572071",
+        "stop_lon": "101.81116444099",
+        "stop_id": "1000164",
+        "stop_sequence": "66"
+    },
+    {
+        "stop_name": "KJ152 KG NANDING",
+        "stop_lat": "3.1060723688691",
+        "stop_lon": "101.80861263106",
+        "stop_id": "1001356",
+        "stop_sequence": "67"
+    },
+    {
+        "stop_name": "(M) KJ154 TAMAN SRI NANDING",
+        "stop_lat": "3.1033235120799",
+        "stop_lon": "101.80582551666",
+        "stop_id": "1002379",
+        "stop_sequence": "68"
+    },
+    {
+        "stop_name": "KJ155 TAMAN DESA RAYA",
+        "stop_lat": "3.0999169669295",
+        "stop_lon": "101.80254118212",
+        "stop_id": "1002496",
+        "stop_sequence": "69"
+    },
+    {
+        "stop_name": "KJ157 TAMAN BUKIT SEKAWAN",
+        "stop_lat": "3.095118",
+        "stop_lon": "101.797413",
+        "stop_id": "1008297",
+        "stop_sequence": "70"
+    },
+    {
+        "stop_name": "KJ158 KG SG SERAI",
+        "stop_lat": "3.0934597133715",
+        "stop_lon": "101.79591176978",
+        "stop_id": "1001303",
+        "stop_sequence": "71"
+    },
+    {
+        "stop_name": "PEMBINAAN HJ ARIFFIN",
+        "stop_lat": "3.0886400874479",
+        "stop_lon": "101.79239562579",
+        "stop_id": "1002392",
+        "stop_sequence": "72"
+    },
+    {
+        "stop_name": "KJ161 BALAI RAYA KG SG SERAI",
+        "stop_lat": "3.0859196341464",
+        "stop_lon": "101.7899665473",
+        "stop_id": "1000215",
+        "stop_sequence": "73"
+    },
+    {
+        "stop_name": "KG SG SERAI",
+        "stop_lat": "3.0837756801332",
+        "stop_lon": "101.78834757149",
+        "stop_id": "1001465",
+        "stop_sequence": "74"
+    },
+    {
+        "stop_name": "KJ164 KOLEKSI ANGGERIK",
+        "stop_lat": "3.0816525935469",
+        "stop_lon": "101.78727909564",
+        "stop_id": "1001612",
+        "stop_sequence": "75"
+    },
+    {
+        "stop_name": "KJ165 TMN DESA PELANGI",
+        "stop_lat": "3.0797332737136",
+        "stop_lon": "101.78547665604",
+        "stop_id": "1003969",
+        "stop_sequence": "76"
+    },
+    {
+        "stop_name": "KJ166 KG BUKIT RAYA",
+        "stop_lat": "3.0776664221527",
+        "stop_lon": "101.78419188827",
+        "stop_id": "1000591",
+        "stop_sequence": "77"
+    },
+    {
+        "stop_name": "KJ170 IDAMAN VILLAS (OPP)",
+        "stop_lat": "3.0764997842872",
+        "stop_lon": "101.7832031617",
+        "stop_id": "1004085",
+        "stop_sequence": "78"
+    },
+    {
+        "stop_name": "KJ210 SK BUKIT RAYA (OPP)",
+        "stop_lat": "3.0720640075584",
+        "stop_lon": "101.78257394712",
+        "stop_id": "1000252",
+        "stop_sequence": "79"
+    },
+    {
+        "stop_name": "KJ256 LANGAT JAYA CONDOMINIUM",
+        "stop_lat": "3.0701051471868",
+        "stop_lon": "101.77929295802",
+        "stop_id": "1000475",
+        "stop_sequence": "80"
+    },
+    {
+        "stop_name": "KJ257 TAMAN SRI MELAKA",
+        "stop_lat": "3.0694391378586",
+        "stop_lon": "101.77632489573",
+        "stop_id": "1003963",
+        "stop_sequence": "81"
+    },
+    {
+        "stop_name": "KJ258 KLINIK KESIHATAN BT 9 (OPP)",
+        "stop_lat": "3.069073",
+        "stop_lon": "101.774764",
+        "stop_id": "1008296",
+        "stop_sequence": "82"
+    },
+    {
+        "stop_name": "KL259 POS MALAYSIA BT 9",
+        "stop_lat": "3.068404",
+        "stop_lon": "101.771965",
+        "stop_id": "1008295",
+        "stop_sequence": "83"
+    },
+    {
+        "stop_name": "KJ50 BALAI POLIS BT 9",
+        "stop_lat": "3.068623",
+        "stop_lon": "101.770524",
+        "stop_id": "1000194",
+        "stop_sequence": "84"
+    },
+    {
+        "stop_name": "KJ39 SK BT 9 (OPP)",
+        "stop_lat": "3.0698709985358",
+        "stop_lon": "101.76915729009",
+        "stop_id": "1003289",
+        "stop_sequence": "85"
+    },
+    {
+        "stop_name": "KJ52 TAMAN SUNTEX",
+        "stop_lat": "3.0712014007753",
+        "stop_lon": "101.76714752776",
+        "stop_id": "1000400",
+        "stop_sequence": "86"
+    },
+    {
+        "stop_name": "TAMAN KOTA CHERAS FASA 1",
+        "stop_lat": "3.060632",
+        "stop_lon": "101.772207",
+        "stop_id": "1000854",
+        "stop_sequence": "87"
+    }
+]

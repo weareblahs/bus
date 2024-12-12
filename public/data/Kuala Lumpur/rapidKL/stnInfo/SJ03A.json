@@ -1,0 +1,219 @@
+[
+    {
+        "stop_name": "SJ360 LRT BK 5",
+        "stop_lat": "3.050473",
+        "stop_lon": "101.643622",
+        "stop_id": "1006168",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SMK SEKSYEN 1 BK",
+        "stop_lat": "3.051575",
+        "stop_lon": "101.643787",
+        "stop_id": "1006698",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PADANG BOLA BK 2",
+        "stop_lat": "3.053212",
+        "stop_lon": "101.640134",
+        "stop_id": "1006171",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PASAR TAMAN KINRARA 3",
+        "stop_lat": "3.062746",
+        "stop_lon": "101.637346",
+        "stop_id": "1006699",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ321 APARTMENT KINRARA (OPP)",
+        "stop_lat": "3.066318",
+        "stop_lon": "101.636094",
+        "stop_id": "1000733",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ322 TAMAN MAWAR",
+        "stop_lat": "3.064822",
+        "stop_lon": "101.632372",
+        "stop_id": "1001234",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ323 JASMINE COURT",
+        "stop_lat": "3.063285",
+        "stop_lon": "101.630505",
+        "stop_id": "1001030",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ324 SMK BATU 8",
+        "stop_lat": "3.061794",
+        "stop_lon": "101.628852",
+        "stop_id": "1003342",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "APT SRI TANJUNG",
+        "stop_lat": "3.061179",
+        "stop_lon": "101.626526",
+        "stop_id": "1006683",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "IMPIAN HEIGHTS TOWER (OPP)",
+        "stop_lat": "3.064121",
+        "stop_lon": "101.625285",
+        "stop_id": "1006681",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SMK BANDAR PUCHONG JAYA",
+        "stop_lat": "3.064709",
+        "stop_lon": "101.622989",
+        "stop_id": "1006679",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "IMPIAN HEIGHTS TOWER",
+        "stop_lat": "3.064268",
+        "stop_lon": "101.625343",
+        "stop_id": "1006680",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "APT SRI TANJUNG (OPP)",
+        "stop_lat": "3.061323",
+        "stop_lon": "101.626587",
+        "stop_id": "1006682",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ313 SMK BATU 8 (OPP)",
+        "stop_lat": "3.061966",
+        "stop_lon": "101.628941",
+        "stop_id": "1003341",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ314 JASMINE COURT (OPP)",
+        "stop_lat": "3.063283",
+        "stop_lon": "101.630361",
+        "stop_id": "1001029",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "REST DAY TO DAY",
+        "stop_lat": "3.066986",
+        "stop_lon": "101.631862",
+        "stop_id": "1006684",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SPG TK 5/10",
+        "stop_lat": "3.06731",
+        "stop_lon": "101.631119",
+        "stop_id": "1006685",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ315 TAMAN MAWAR",
+        "stop_lat": "3.064898",
+        "stop_lon": "101.632245",
+        "stop_id": "1002805",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SJ316 APARTMENT KINRARA",
+        "stop_lat": "3.066432",
+        "stop_lon": "101.636847",
+        "stop_id": "1000732",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "99 SPEEDMART PUCHONG KINRARA",
+        "stop_lat": "3.064624",
+        "stop_lon": "101.637461",
+        "stop_id": "1006700",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SJ334 TAMAN BUKIT KUCHAI",
+        "stop_lat": "3.0584740354052",
+        "stop_lon": "101.63895995946",
+        "stop_id": "1003943",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SJ348 TUDM KINRARA (OPP)",
+        "stop_lat": "3.059714993532",
+        "stop_lon": "101.64272805478",
+        "stop_id": "1001269",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SJ338 KOMERSIAL PAIK SIONG",
+        "stop_lat": "3.0613621064222",
+        "stop_lon": "101.64556669176",
+        "stop_id": "1004014",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "APT PALM TERRACE",
+        "stop_lat": "3.063866",
+        "stop_lon": "101.645537",
+        "stop_id": "1006693",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KINRARA COURT",
+        "stop_lat": "3.067965",
+        "stop_lon": "101.648027",
+        "stop_id": "1006694",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "HONG LEONG BANK TK",
+        "stop_lat": "3.066144",
+        "stop_lon": "101.650001",
+        "stop_id": "1006695",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M) SJ345 JEJANTAS TAMAN KINRARA",
+        "stop_lat": "3.0640580865611",
+        "stop_lon": "101.64927564385",
+        "stop_id": "1000025",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SJ346 TAMAN PAIK SIONG",
+        "stop_lat": "3.0614401901635",
+        "stop_lon": "101.64642875202",
+        "stop_id": "1001396",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SJ347 TUDM KINRARA",
+        "stop_lat": "3.0599994816712",
+        "stop_lon": "101.64395831592",
+        "stop_id": "1001397",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PADANG BOLA BK 2 (OPP)",
+        "stop_lat": "3.053779",
+        "stop_lon": "101.640334",
+        "stop_id": "1006696",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SJ360 LRT BK 5",
+        "stop_lat": "3.050473",
+        "stop_lon": "101.643622",
+        "stop_id": "1006168",
+        "stop_sequence": "31"
+    }
+]

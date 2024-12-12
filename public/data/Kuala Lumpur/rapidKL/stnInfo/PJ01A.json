@@ -1,0 +1,296 @@
+[
+    {
+        "stop_name": "PJ137 TERMINAL TAMAN MEDAN",
+        "stop_lat": "3.075537",
+        "stop_lon": "101.633102",
+        "stop_id": "1006037",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ138 PJS 4 (TIMUR)",
+        "stop_lat": "3.076043",
+        "stop_lon": "101.629572",
+        "stop_id": "1002554",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ139 PJS 4 (BARAT)",
+        "stop_lat": "3.0763448090071",
+        "stop_lon": "101.62789897956",
+        "stop_id": "1003446",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ140 PJCC",
+        "stop_lat": "3.078428",
+        "stop_lon": "101.627186",
+        "stop_id": "1002851",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ141 PJ SOUTH CITY",
+        "stop_lat": "3.080845",
+        "stop_lon": "101.627209",
+        "stop_id": "1000839",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ143 SURAU MADRASATUL IMANIYA",
+        "stop_lat": "3.083289",
+        "stop_lon": "101.627176",
+        "stop_id": "1003745",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ730 FLAT DESA MENTARI",
+        "stop_lat": "3.084916",
+        "stop_lon": "101.627607",
+        "stop_id": "1003075",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ731 KTM KG DATO HARUN (UTARA)",
+        "stop_lat": "3.084208",
+        "stop_lon": "101.633581",
+        "stop_id": "1003685",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ733 TAMAN MAJU JAYA",
+        "stop_lat": "3.0831545080372",
+        "stop_lon": "101.64062877884",
+        "stop_id": "1002254",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ734 TAMAN PETALING UTAMA",
+        "stop_lat": "3.081794",
+        "stop_lon": "101.649809",
+        "stop_id": "1000943",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ412 APT INAI COURT",
+        "stop_lat": "3.085098",
+        "stop_lon": "101.654377",
+        "stop_id": "1000999",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ413 UITM PJ (OPP)",
+        "stop_lat": "3.086949",
+        "stop_lon": "101.652272",
+        "stop_id": "1004161",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ415 TERMINAL BAS (OPP)",
+        "stop_lat": "3.086895",
+        "stop_lon": "101.646789",
+        "stop_id": "1001981",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ456 PERPUSTAKAAN KOMUNITI PJ (OPP)",
+        "stop_lat": "3.090344",
+        "stop_lon": "101.64598",
+        "stop_id": "1006205",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ460 KOMPLEKS ARENA PJ (OPP)",
+        "stop_lat": "3.09203",
+        "stop_lon": "101.6455333",
+        "stop_id": "1006033",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ432 WISMA PERKESO (OPP)",
+        "stop_lat": "3.095074",
+        "stop_lon": "101.646502",
+        "stop_id": "1006034",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ434 DEWAN SIVIK MBPJ",
+        "stop_lat": "3.098113",
+        "stop_lon": "101.645854",
+        "stop_id": "1001979",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) PJ435 WISMA MCIS",
+        "stop_lat": "3.101044",
+        "stop_lon": "101.641252",
+        "stop_id": "1001509",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M) PJ437 LRT ASIA JAYA",
+        "stop_lat": "3.1038828935882",
+        "stop_lon": "101.63914593158",
+        "stop_id": "1001785",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ439 SK SRI PETALING (OPP)",
+        "stop_lat": "3.108625",
+        "stop_lon": "101.639152",
+        "stop_id": "1003320",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PJ278 DIGITAL MALL SEKSYEN 14",
+        "stop_lat": "3.110474",
+        "stop_lon": "101.636336",
+        "stop_id": "1000484",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PJ302 QUILL 9",
+        "stop_lat": "3.114216",
+        "stop_lon": "101.632624",
+        "stop_id": "1005034",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PJ210 HOTEL LISA DE INN",
+        "stop_lat": "3.118249",
+        "stop_lon": "101.630639",
+        "stop_id": "1000944",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PJ211 FLAT SEKSYEN 17 (SELATAN)",
+        "stop_lat": "3.118937",
+        "stop_lon": "101.633375",
+        "stop_id": "1003538",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PJ212 JAYA ONE MALL (OPP)",
+        "stop_lat": "3.118939",
+        "stop_lon": "101.635496",
+        "stop_id": "1004190",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PJ237 PUSAT ASASI UIA (SELATAN)",
+        "stop_lat": "3.118802",
+        "stop_lon": "101.639562",
+        "stop_id": "1002675",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PJ238 MASJID KOLEJ ISLAM",
+        "stop_lat": "3.118732",
+        "stop_lon": "101.640579",
+        "stop_id": "1001955",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PJ245 SMK SULTAN ABD SAMAD (TIMUR)",
+        "stop_lat": "3.118566",
+        "stop_lon": "101.645001",
+        "stop_id": "1003407",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PJ247 MAHSA UNIVERSITY (TIMUR)",
+        "stop_lat": "3.1170217390042",
+        "stop_lon": "101.6497825531",
+        "stop_id": "1001007",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PJ248 PPUM MAIN GATE",
+        "stop_lat": "3.1144523951478",
+        "stop_lon": "101.65100238888",
+        "stop_id": "1002619",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PJ249 PPUM (UTARA)",
+        "stop_lat": "3.1132947310948",
+        "stop_lon": "101.651397545",
+        "stop_id": "1002617",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PJ472 PJ CHURCH",
+        "stop_lat": "3.107376541027",
+        "stop_lon": "101.65380659344",
+        "stop_id": "1001729",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PJ474 SK LA SALLE (SELATAN)",
+        "stop_lat": "3.100103",
+        "stop_lon": "101.652639",
+        "stop_id": "1003129",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PJ448 SMK (P) ASSUNTA (OPP)",
+        "stop_lat": "3.0988006231217",
+        "stop_lon": "101.65038859623",
+        "stop_id": "1003339",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PJ434 DEWAN SIVIK MBPJ",
+        "stop_lat": "3.098113",
+        "stop_lon": "101.645854",
+        "stop_id": "1001979",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "(M) PJ435 WISMA MCIS",
+        "stop_lat": "3.101044",
+        "stop_lon": "101.641252",
+        "stop_id": "1001509",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "PJ133 SHERATON PJ",
+        "stop_lat": "3.103207",
+        "stop_lon": "101.640056",
+        "stop_id": "1000165",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "PJ445 LRT TAMAN JAYA",
+        "stop_lat": "3.103876",
+        "stop_lon": "101.644993",
+        "stop_id": "1001828",
+        "stop_sequence": "42"
+    }
+]

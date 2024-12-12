@@ -1,0 +1,93 @@
+[
+    {
+        "stop_name": "KL1297 LRT SRI PETALING",
+        "stop_lat": "3.061073247671",
+        "stop_lon": "101.68681418411",
+        "stop_id": "1001826",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL151 LRT BKT JALIL",
+        "stop_lat": "3.058519",
+        "stop_lon": "101.691519",
+        "stop_id": "1001791",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1330 ENDAH PARADE (OPP)",
+        "stop_lat": "3.064075",
+        "stop_lon": "101.695477",
+        "stop_id": "1000448",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M) KL1334 ENDAH RIA CONDOMINIUM (OPP)",
+        "stop_lat": "3.064445",
+        "stop_lon": "101.699577",
+        "stop_id": "1001002",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1336 ZON G, SRI PETALING (UTARA)",
+        "stop_lat": "3.067735",
+        "stop_lon": "101.700617",
+        "stop_id": "1003023",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1304 ZON H, SRI PETALING (UTARA)",
+        "stop_lat": "3.069583",
+        "stop_lon": "101.699355",
+        "stop_id": "1003032",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1305 ZON J, SRI PETALING (UTARA)",
+        "stop_lat": "3.069403",
+        "stop_lon": "101.696239",
+        "stop_id": "1003031",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1316 BANK ISLAM SRI PETALING (OPP)",
+        "stop_lat": "3.068498",
+        "stop_lon": "101.695479",
+        "stop_id": "1001113",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL2030 8 PETALING CONDOMINIUM",
+        "stop_lat": "3.066563",
+        "stop_lon": "101.690511",
+        "stop_id": "1001110",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1327 SMK SRI PETALING",
+        "stop_lat": "3.066578",
+        "stop_lon": "101.688183",
+        "stop_id": "1003146",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1328 BANDAR BARU SRI PETALING",
+        "stop_lat": "3.0670949316121",
+        "stop_lon": "101.68613487437",
+        "stop_id": "1002204",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1341 SMK SERI SAUJANA (OPP)",
+        "stop_lat": "3.0662869772644",
+        "stop_lon": "101.68456753492",
+        "stop_id": "1000913",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1297 LRT SRI PETALING",
+        "stop_lat": "3.061073247671",
+        "stop_lon": "101.68681418411",
+        "stop_id": "1001826",
+        "stop_sequence": "13"
+    }
+]

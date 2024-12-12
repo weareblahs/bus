@@ -1,0 +1,86 @@
+[
+    {
+        "stop_name": "(M) PPJ254 MRT PUTRAJAYA SENTRAL",
+        "stop_lat": "2.932136",
+        "stop_lon": "101.671763",
+        "stop_id": "1005584",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ516 LOTUS EXTRA PUCHONG",
+        "stop_lat": "3.035177",
+        "stop_lon": "101.616545",
+        "stop_id": "1003913",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "(M) SJ610 IOI MALL PUCHONG",
+        "stop_lat": "3.0435545736493",
+        "stop_lon": "101.61873927724",
+        "stop_id": "1001010",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ624 WESTERN DIGITAL",
+        "stop_lat": "3.0911149549487",
+        "stop_lon": "101.611083393",
+        "stop_id": "1004221",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ632 GIANT KELANA JAYA (OPP)",
+        "stop_lat": "3.1020056496033",
+        "stop_lon": "101.59708052652",
+        "stop_id": "1002200",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ602 KJMC",
+        "stop_lat": "3.1087558931513",
+        "stop_lon": "101.59568537163",
+        "stop_id": "1001508",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ603 LRT KELANA JAYA",
+        "stop_lat": "3.113161",
+        "stop_lon": "101.605368",
+        "stop_id": "1001805",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ626 BP SPECIALIST CENTRE",
+        "stop_lat": "3.1156536983894",
+        "stop_lon": "101.61411791892",
+        "stop_id": "1004001",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ630 JEJANTAS DAMANSARA UTAMA",
+        "stop_lat": "3.135094",
+        "stop_lon": "101.624479",
+        "stop_id": "1001064",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ540 MRT BANDAR UTAMA",
+        "stop_lat": "3.145118",
+        "stop_lon": "101.617893",
+        "stop_id": "1004155",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ536 FIRST AVENUE (OPP)",
+        "stop_lat": "3.146433",
+        "stop_lon": "101.615092",
+        "stop_id": "1007491",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "(M) PJ530 HENTIAN BANDAR UTAMA",
+        "stop_lat": "3.151359",
+        "stop_lon": "101.613382",
+        "stop_id": "1000909",
+        "stop_sequence": "12"
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "stop_name": "KL195 LRT TAMAN MELATI",
+        "stop_lat": "3.2194566653583",
+        "stop_lon": "101.72152529554",
+        "stop_id": "1001831",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PERUMAHAN AWAM SRI LANGKAWI",
+        "stop_lat": "3.219765",
+        "stop_lon": "101.720774",
+        "stop_id": "1000721",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL934 SURAU NURUL MUSTAQIM",
+        "stop_lat": "3.218971",
+        "stop_lon": "101.719572",
+        "stop_id": "1003746",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SL310 FLAT GOMBAK SETIA (OPP)",
+        "stop_lat": "3.220264",
+        "stop_lon": "101.718291",
+        "stop_id": "1001351",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SL208 SK GOMBAK SETIA",
+        "stop_lat": "3.2190878112199",
+        "stop_lon": "101.71513260641",
+        "stop_id": "1003346",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SL317 GOMBAK SETIA",
+        "stop_lat": "3.2215571702028",
+        "stop_lon": "101.71316818781",
+        "stop_id": "1000558",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SL318 GOMBAK SETIA",
+        "stop_lat": "3.2248081385004",
+        "stop_lon": "101.714120363",
+        "stop_id": "1004217",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SL103 KG TENGAH GOMBAK",
+        "stop_lat": "3.227421",
+        "stop_lon": "101.713756",
+        "stop_id": "1002973",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SL104 TAMAN BUKIT LELA",
+        "stop_lat": "3.2289162687554",
+        "stop_lon": "101.71345175665",
+        "stop_id": "1000559",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SL105 DEWAN DATIN ZALEHA",
+        "stop_lat": "3.230144255576",
+        "stop_lon": "101.71263315274",
+        "stop_id": "1001948",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SL214 JEJANTAS SPG 3",
+        "stop_lat": "3.233572",
+        "stop_lon": "101.709758",
+        "stop_id": "1001051",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SL215 HAB BAS GREENWOOD",
+        "stop_lat": "3.234012",
+        "stop_lon": "101.706193",
+        "stop_id": "1003974",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SL233 GERAI MAKAN MPS",
+        "stop_lat": "3.234336",
+        "stop_lon": "101.704795",
+        "stop_id": "1000848",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SL216 PADANG TAMAN GREENWOOD",
+        "stop_lat": "3.232418",
+        "stop_lon": "101.703919",
+        "stop_id": "1002908",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SL218 SMK SERI GOMBAK (OPP)",
+        "stop_lat": "3.230448",
+        "stop_lon": "101.703496",
+        "stop_id": "1003459",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SL219 PERUMAHAN JLN BERJAYA 4",
+        "stop_lat": "3.2289626367746",
+        "stop_lon": "101.70285928536",
+        "stop_id": "1002943",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SL227 DEWAN MPS GOMBAK (OPP)",
+        "stop_lat": "3.227882",
+        "stop_lon": "101.702275",
+        "stop_id": "1002858",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SL502 TAMAN GREENWOOD INDAH",
+        "stop_lat": "3.224327",
+        "stop_lon": "101.700559",
+        "stop_id": "1001521",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL939 KG LEMBAH MELEWAR (TIMUR)",
+        "stop_lat": "3.218263",
+        "stop_lon": "101.700709",
+        "stop_id": "1002938",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PERUMAHAN LEMBAH MELEWAR",
+        "stop_lat": "3.2184703",
+        "stop_lon": "101.6953999",
+        "stop_id": "1001789",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL2329 MASJID BILAL BIN RABAH",
+        "stop_lat": "3.220886",
+        "stop_lon": "101.694812",
+        "stop_id": "1006202",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M) KL2330 BOMBA GOMBAK SELATAN",
+        "stop_lat": "3.223161",
+        "stop_lon": "101.696042",
+        "stop_id": "1006203",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "DEWAN KOMUNITI CHANGKAT DESA",
+        "stop_lat": "3.22351",
+        "stop_lon": "101.698533",
+        "stop_id": "1000382",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SL223 TAMAN GREENWOOD INDAH",
+        "stop_lat": "3.2245015235141",
+        "stop_lon": "101.70050644971",
+        "stop_id": "1001520",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SL224 TAMAN GOMBAK (SELATAN)",
+        "stop_lat": "3.225944",
+        "stop_lon": "101.701231",
+        "stop_id": "1002857",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SL226 DEWAN MPS GOMBAK",
+        "stop_lat": "3.228312",
+        "stop_lon": "101.702355",
+        "stop_id": "1002942",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SL229 SMK SERI GOMBAK (TIMUR)",
+        "stop_lat": "3.230689",
+        "stop_lon": "101.703473",
+        "stop_id": "1003458",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SL230 PADANG TAMAN GREENWOOD",
+        "stop_lat": "3.231905",
+        "stop_lon": "101.703552",
+        "stop_id": "1002218",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SL231 PADANG TAMAN GREENWOOD",
+        "stop_lat": "3.232677",
+        "stop_lon": "101.703935",
+        "stop_id": "1007532",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SL232 TAMAN GREENWOOD (UTARA)",
+        "stop_lat": "3.234478",
+        "stop_lon": "101.704747",
+        "stop_id": "1000847",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SL212 HAB BAS GREENWOOD (OPP)",
+        "stop_lat": "3.234304",
+        "stop_lon": "101.706215",
+        "stop_id": "1003973",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SL213 JEJANTAS SPG 3",
+        "stop_lat": "3.233993",
+        "stop_lon": "101.709501",
+        "stop_id": "1001052",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SL109 DEWAN DATIN ZALEHA (OPP)",
+        "stop_lat": "3.2310483761213",
+        "stop_lon": "101.71241813555",
+        "stop_id": "1000557",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SL490 KG TENGAH GOMBAK",
+        "stop_lat": "3.229478",
+        "stop_lon": "101.713428",
+        "stop_id": "1007550",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SL110 PANGSAPURI SRI HARMONIS",
+        "stop_lat": "3.227791",
+        "stop_lon": "101.713998",
+        "stop_id": "1003975",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SL111 KG TGH GOMBAK (SELATAN)",
+        "stop_lat": "3.2248201242582",
+        "stop_lon": "101.71436258796",
+        "stop_id": "1004218",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SL112 MASJID BATU 6 (OPP)",
+        "stop_lat": "3.2225745425217",
+        "stop_lon": "101.71386158276",
+        "stop_id": "1001548",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SL173 GOMBAK SETIA",
+        "stop_lat": "3.2200755856895",
+        "stop_lon": "101.71301049725",
+        "stop_id": "1003449",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SL210 SMK GOMBAK SETIA",
+        "stop_lat": "3.219191",
+        "stop_lon": "101.715016",
+        "stop_id": "1003345",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL932 APT MELATI IMPIAN",
+        "stop_lat": "3.217985",
+        "stop_lon": "101.717159",
+        "stop_id": "1001648",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL933 M3 MALL",
+        "stop_lat": "3.217839",
+        "stop_lon": "101.719101",
+        "stop_id": "1000768",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL1495 PERUMAHAN AWAM SRI LANGKAWI (OPP)",
+        "stop_lat": "3.219279",
+        "stop_lon": "101.720216",
+        "stop_id": "1000772",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL1601 APT SRI TIOMAN",
+        "stop_lat": "3.221334",
+        "stop_lon": "101.720317",
+        "stop_id": "1000786",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KL2070 SRA SALAHUDIN AL-AYUBI (OPP)",
+        "stop_lat": "3.223567",
+        "stop_lon": "101.720227",
+        "stop_id": "1001914",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KL196 TAMAN PERWIRA 1",
+        "stop_lat": "3.225053",
+        "stop_lon": "101.721701",
+        "stop_id": "1003217",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KL187 TAMAN CEMERLANG",
+        "stop_lat": "3.2261977684552",
+        "stop_lon": "101.7228477109",
+        "stop_id": "1003567",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KL198 FLAT TAMAN MELATI E6",
+        "stop_lat": "3.227109",
+        "stop_lon": "101.725318",
+        "stop_id": "1001322",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KL2071 FLAT TAMAN MELATI BLOK D",
+        "stop_lat": "3.2252130113178",
+        "stop_lon": "101.72570519608",
+        "stop_id": "1000795",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KL200 PERUMAHAN JLN TAMAN MELATI 6",
+        "stop_lat": "3.223533",
+        "stop_lon": "101.724053",
+        "stop_id": "1002951",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KL1600 TAMAN MASTIKA",
+        "stop_lat": "3.2197236941228",
+        "stop_lon": "101.72341600977",
+        "stop_id": "1003687",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KL195 LRT TAMAN MELATI",
+        "stop_lat": "3.2194566653583",
+        "stop_lon": "101.72152529554",
+        "stop_id": "1001831",
+        "stop_sequence": "51"
+    }
+]

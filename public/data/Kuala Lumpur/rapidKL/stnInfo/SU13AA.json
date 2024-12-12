@@ -1,0 +1,240 @@
+[
+    {
+        "stop_name": "PANGSAPURI DE BAYU",
+        "stop_lat": "3.134348",
+        "stop_lon": "101.472918",
+        "stop_id": "1009058",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PANGSAPURI DE PALMA",
+        "stop_lat": "3.134322",
+        "stop_lon": "101.470777",
+        "stop_id": "1009059",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI PINANG",
+        "stop_lat": "3.133663",
+        "stop_lon": "101.468122",
+        "stop_id": "1009060",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI INTAN",
+        "stop_lat": "3.132051",
+        "stop_lon": "101.469794",
+        "stop_id": "1009061",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI JATI",
+        "stop_lat": "3.131913",
+        "stop_lon": "101.473084",
+        "stop_id": "1009062",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI BAIDURI (OPP)",
+        "stop_lat": "3.128572",
+        "stop_lon": "101.474455",
+        "stop_id": "1009022",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KOMERSIAL SETIA 88",
+        "stop_lat": "3.125581",
+        "stop_lon": "101.470766",
+        "stop_id": "1009063",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SETIA 88 BUSINESS CENTRE",
+        "stop_lat": "3.125019",
+        "stop_lon": "101.468765",
+        "stop_id": "1009019",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SURIA IXORA APARTMENT (OPP)",
+        "stop_lat": "3.123171",
+        "stop_lon": "101.468395",
+        "stop_id": "1009017",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SURIA RAFFLESIA APARTMENT",
+        "stop_lat": "3.122609",
+        "stop_lon": "101.470811",
+        "stop_id": "1009015",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "CASA SUTRA",
+        "stop_lat": "3.118238",
+        "stop_lon": "101.470362",
+        "stop_id": "1009013",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PERUMAHAN SETIA PERDANA",
+        "stop_lat": "3.114872",
+        "stop_lon": "101.468336",
+        "stop_id": "1009011",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PERUMAHAN ANJUNG SARI",
+        "stop_lat": "3.114212",
+        "stop_lon": "101.466073",
+        "stop_id": "1009009",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "TREFOIL",
+        "stop_lat": "3.111585",
+        "stop_lon": "101.460832",
+        "stop_id": "1009006",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SETIA CITY RESIDENCE",
+        "stop_lat": "3.112436",
+        "stop_lon": "101.458778",
+        "stop_id": "1009004",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) SA820 SETIA CITY MALL",
+        "stop_lat": "3.108275",
+        "stop_lon": "101.460627",
+        "stop_id": "1006604",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "DEWAN SRI GADING",
+        "stop_lat": "3.100367",
+        "stop_lon": "101.465542",
+        "stop_id": "1006592",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA785 DAMAI 15 RESIDENCE",
+        "stop_lat": "3.097073",
+        "stop_lon": "101.462381",
+        "stop_id": "1006593",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PANGSAPURI SEMARAK",
+        "stop_lat": "3.094706",
+        "stop_lon": "101.460604",
+        "stop_id": "1006594",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA798 SMK SETIA ALAM",
+        "stop_lat": "3.094599",
+        "stop_lon": "101.45717",
+        "stop_id": "1006595",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA799 SK SETIA ALAM",
+        "stop_lat": "3.094644",
+        "stop_lon": "101.454304",
+        "stop_id": "1006596",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA810 SETIA WESTERN PARK",
+        "stop_lat": "3.101384",
+        "stop_lon": "101.446439",
+        "stop_id": "1009000",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA812 SETIA AVENUE/LOTUS",
+        "stop_lat": "3.106472",
+        "stop_lon": "101.447563",
+        "stop_id": "1009064",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PANGSAPURI SEROJA",
+        "stop_lat": "3.109936",
+        "stop_lon": "101.447345",
+        "stop_id": "1009002",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "(M) SA820 SETIA CITY MALL",
+        "stop_lat": "3.108275",
+        "stop_lon": "101.460627",
+        "stop_id": "1006604",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PERUMAHAN ANJUNG SARI",
+        "stop_lat": "3.114181",
+        "stop_lon": "101.465796",
+        "stop_id": "1009008",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PERUMAHAN SETIA PERDANA",
+        "stop_lat": "3.115046",
+        "stop_lon": "101.468444",
+        "stop_id": "1009010",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "CASA MAIA",
+        "stop_lat": "3.118567",
+        "stop_lon": "101.470306",
+        "stop_id": "1009012",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SURIA RAFFLESIA APARTMENT (OPP)",
+        "stop_lat": "3.122466",
+        "stop_lon": "101.470735",
+        "stop_id": "1009014",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SURIA IXORA APARTMENT",
+        "stop_lat": "3.122951",
+        "stop_lon": "101.468559",
+        "stop_id": "1009016",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KOMERSIAL TAIPAN 2",
+        "stop_lat": "3.125345",
+        "stop_lon": "101.468689",
+        "stop_id": "1009018",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI MUTIARA",
+        "stop_lat": "3.129003",
+        "stop_lon": "101.468862",
+        "stop_id": "1009020",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI BAIDURI",
+        "stop_lat": "3.128692",
+        "stop_lon": "101.474411",
+        "stop_id": "1009021",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PANGSAPURI DE BAYU",
+        "stop_lat": "3.134348",
+        "stop_lon": "101.472918",
+        "stop_id": "1009058",
+        "stop_sequence": "34"
+    }
+]

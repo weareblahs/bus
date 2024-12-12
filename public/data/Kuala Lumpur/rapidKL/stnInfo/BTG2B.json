@@ -1,0 +1,149 @@
+[
+    {
+        "stop_name": "BANDAR BANTING BARU",
+        "stop_lat": "2.817379",
+        "stop_lon": "101.454654",
+        "stop_id": "1008051",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KG SG RABA",
+        "stop_lat": "2.820547",
+        "stop_lon": "101.44684",
+        "stop_id": "1008052",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KOLEJ MATRIKULASI SELANGOR",
+        "stop_lat": "2.823137",
+        "stop_lon": "101.444143",
+        "stop_id": "1008053",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KG KATHONG",
+        "stop_lat": "2.826557",
+        "stop_lon": "101.440588",
+        "stop_id": "1008054",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "TAMAN DESA PERMATANG JAYA",
+        "stop_lat": "2.829783",
+        "stop_lon": "101.43741",
+        "stop_id": "1008063",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PEKAN PERMATANG PASIR",
+        "stop_lat": "2.829783",
+        "stop_lon": "101.43741",
+        "stop_id": "1008064",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PEKAN CHODOI",
+        "stop_lat": "2.841812",
+        "stop_lon": "101.441148",
+        "stop_id": "1008065",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "TAMAN CHODOI BESTARI",
+        "stop_lat": "2.843904",
+        "stop_lon": "101.444766",
+        "stop_id": "1008066",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SM SAINS BANTING",
+        "stop_lat": "2.827845",
+        "stop_lon": "101.44786",
+        "stop_id": "1008055",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KUARTERS TUDM",
+        "stop_lat": "2.824435",
+        "stop_lon": "101.449289",
+        "stop_id": "1008056",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "REJIMEN TUDM",
+        "stop_lat": "2.82063",
+        "stop_lon": "101.450658",
+        "stop_id": "1008057",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SK JUGRA",
+        "stop_lat": "2.819281",
+        "stop_lon": "101.456218",
+        "stop_id": "1008050",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "ILP KUALA LANGAT",
+        "stop_lat": "2.81946",
+        "stop_lon": "101.463326",
+        "stop_id": "1008048",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "IKBN KUALA LANGAT",
+        "stop_lat": "2.819503",
+        "stop_lon": "101.471632",
+        "stop_id": "1008046",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SPG JLN SERDANG BELAH",
+        "stop_lat": "2.816309",
+        "stop_lon": "101.479818",
+        "stop_id": "1008043",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "MADINA SEAFOOD",
+        "stop_lat": "2.812899",
+        "stop_lon": "101.487983",
+        "stop_id": "1008044",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KLINIK 1MALAYSIA BANTING",
+        "stop_lat": "2.811715",
+        "stop_lon": "101.490914",
+        "stop_id": "1008040",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PPD KUALA LANGAT",
+        "stop_lat": "2.811896",
+        "stop_lon": "101.495725",
+        "stop_id": "1008036",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AEON CREDIT BANTING",
+        "stop_lat": "2.81267",
+        "stop_lon": "101.498795",
+        "stop_id": "1008067",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "INDAH PESONA",
+        "stop_lat": "2.813592",
+        "stop_lon": "101.502695",
+        "stop_id": "1008037",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "HENTIAN BANTING",
+        "stop_lat": "2.811984",
+        "stop_lon": "101.503445",
+        "stop_id": "1006414",
+        "stop_sequence": "21"
+    }
+]

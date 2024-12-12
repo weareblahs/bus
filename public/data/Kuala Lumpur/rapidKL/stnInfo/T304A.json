@@ -1,0 +1,191 @@
+[
+    {
+        "stop_name": "AJ42 HENTIAN BUKIT INDAH",
+        "stop_lat": "3.1477654134509",
+        "stop_lon": "101.7768368781",
+        "stop_id": "1003681",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ43 FLAT TAMAN KOSAS",
+        "stop_lat": "3.147311",
+        "stop_lon": "101.776135",
+        "stop_id": "1000794",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ46 SK TAMAN KOSAS",
+        "stop_lat": "3.148325",
+        "stop_lon": "101.773321",
+        "stop_id": "1003322",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ422 APARTMENT ASTARIA",
+        "stop_lat": "3.146766",
+        "stop_lon": "101.772187",
+        "stop_id": "1001165",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ102 KOMERSIAL BANDAR BARU AMPANG",
+        "stop_lat": "3.1462402069788",
+        "stop_lon": "101.76847121536",
+        "stop_id": "1000447",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ104 AMPANG WATERFRONT 1",
+        "stop_lat": "3.147509",
+        "stop_lon": "101.765774",
+        "stop_id": "1003210",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ426 SJKT AMPANG",
+        "stop_lat": "3.148356",
+        "stop_lon": "101.763863",
+        "stop_id": "1003147",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ106 LRT AMPANG",
+        "stop_lat": "3.1512231111515",
+        "stop_lon": "101.76044748293",
+        "stop_id": "1001782",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ325 FLAT TAMAN DATO AHMAD RAZALI",
+        "stop_lat": "3.152936",
+        "stop_lon": "101.757275",
+        "stop_id": "1003932",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ107 APARTMENT CEMPAKA (OPP)",
+        "stop_lat": "3.154139",
+        "stop_lon": "101.754928",
+        "stop_id": "1008477",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) AJ108 AMPANG POINT (OPP)",
+        "stop_lat": "3.1568585598718",
+        "stop_lon": "101.75114580093",
+        "stop_id": "1000084",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ182 AMPANG POINT",
+        "stop_lat": "3.1573348926081",
+        "stop_lon": "101.75083358372",
+        "stop_id": "1000083",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ29 APARTMENT CEMPAKA",
+        "stop_lat": "3.1553037391852",
+        "stop_lon": "101.75383692473",
+        "stop_id": "1000546",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ30 TAMAN AHMAD RAZALI",
+        "stop_lat": "3.1530076058383",
+        "stop_lon": "101.75787275393",
+        "stop_id": "1003933",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ31 LRT AMPANG (OPP)",
+        "stop_lat": "3.151348",
+        "stop_lon": "101.760686",
+        "stop_id": "1001783",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ32 DEWAN DATO AHMAD RAZALI",
+        "stop_lat": "3.148583",
+        "stop_lon": "101.764107",
+        "stop_id": "1000602",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ61 AMPANG WATERFRONT (BARAT)",
+        "stop_lat": "3.147362",
+        "stop_lon": "101.766674",
+        "stop_id": "1000088",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ435 AMPANG WATERFRONT (TIMUR)",
+        "stop_lat": "3.146458",
+        "stop_lon": "101.768487",
+        "stop_id": "1003505",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AJ47 APARTMENT ASTARIA (OPP)",
+        "stop_lat": "3.146559",
+        "stop_lon": "101.771882",
+        "stop_id": "1000020",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "AJ33 SK TAMAN KOSAS (OPP)",
+        "stop_lat": "3.148576",
+        "stop_lon": "101.773337",
+        "stop_id": "1002347",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "AJ34 SMK TAMAN KOSAS",
+        "stop_lat": "3.149586",
+        "stop_lon": "101.772821",
+        "stop_id": "1003349",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "AJ36 TAMAN BUKIT INDAH (BARAT)",
+        "stop_lat": "3.152855",
+        "stop_lon": "101.773653",
+        "stop_id": "1002970",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "AJ37 EMERALD CONDOMINIUM",
+        "stop_lat": "3.155546",
+        "stop_lon": "101.773785",
+        "stop_id": "1003435",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "AJ38 SK TAMAN BUKIT INDAH (OPP)",
+        "stop_lat": "3.157005",
+        "stop_lon": "101.775765",
+        "stop_id": "1000609",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "AJ39 TAMAN REKREASI BUKIT INDAH",
+        "stop_lat": "3.152697",
+        "stop_lon": "101.778398",
+        "stop_id": "1003436",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "AJ40 TAMAN BUKIT INDAH (TIMUR)",
+        "stop_lat": "3.150916",
+        "stop_lon": "101.778412",
+        "stop_id": "1003783",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "AJ42 HENTIAN BUKIT INDAH",
+        "stop_lat": "3.1477654134509",
+        "stop_lon": "101.7768368781",
+        "stop_id": "1003681",
+        "stop_sequence": "27"
+    }
+]

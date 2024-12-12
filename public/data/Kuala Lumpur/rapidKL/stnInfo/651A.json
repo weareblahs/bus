@@ -1,0 +1,226 @@
+[
+    {
+        "stop_name": "KL1360 LRT MUHIBBAH",
+        "stop_lat": "3.062023",
+        "stop_lon": "101.662001",
+        "stop_id": "1002606",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1355 KOMERSIAL TAMAN BUKIT OUG",
+        "stop_lat": "3.062029",
+        "stop_lon": "101.664236",
+        "stop_id": "1001560",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1356 BUKIT OUG CONDOMINIUM",
+        "stop_lat": "3.062137",
+        "stop_lon": "101.667713",
+        "stop_id": "1001079",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL2163 BUKIT OUG CONDOMINIUM",
+        "stop_lat": "3.062544",
+        "stop_lon": "101.669045",
+        "stop_id": "1000307",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1745 FORTUNA COURT CONDOMINIUM",
+        "stop_lat": "3.0660668832474",
+        "stop_lon": "101.66856023851",
+        "stop_id": "1000808",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "UNION HEIGHTS CONDO (OPP)",
+        "stop_lat": "3.072295",
+        "stop_lon": "101.668466",
+        "stop_id": "1008145",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1246 BHP (OPP)",
+        "stop_lat": "3.074173",
+        "stop_lon": "101.671395",
+        "stop_id": "1000287",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL2149 TAMAN OUG (UTARA)",
+        "stop_lat": "3.076692",
+        "stop_lon": "101.675484",
+        "stop_id": "1002891",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL2150 PERUMAHAN HUJAN EMAS",
+        "stop_lat": "3.074126",
+        "stop_lon": "101.677774",
+        "stop_id": "1001236",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL2151 TAMAN OUG (SELATAN)",
+        "stop_lat": "3.072543",
+        "stop_lon": "101.677159",
+        "stop_id": "1003901",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL2152 SJKC YOKE NAM",
+        "stop_lat": "3.074812",
+        "stop_lon": "101.676816",
+        "stop_id": "1004111",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PERUMAHAN HUJAN EMAS 3",
+        "stop_lat": "3.077156",
+        "stop_lon": "101.675344",
+        "stop_id": "1002941",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PERUMAHAN HUJAN EMAS 1",
+        "stop_lat": "3.078426",
+        "stop_lon": "101.674323",
+        "stop_id": "1002896",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1249 OUG PLAZA (OPP)",
+        "stop_lat": "3.081988",
+        "stop_lon": "101.670445",
+        "stop_id": "1002569",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1272 PEARL POINT",
+        "stop_lat": "3.084468",
+        "stop_lon": "101.671892",
+        "stop_id": "1000506",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1274 ROZEL",
+        "stop_lat": "3.087139",
+        "stop_lon": "101.673633",
+        "stop_id": "1002401",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1267 PLAZA PRIMA",
+        "stop_lat": "3.0890109519977",
+        "stop_lon": "101.67435542147",
+        "stop_id": "1002575",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1268 WISMA TEOH CHIN KEE",
+        "stop_lat": "3.0866355709206",
+        "stop_lon": "101.67388225873",
+        "stop_id": "1004262",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) KL1269 PEARL POINT",
+        "stop_lat": "3.0835904519984",
+        "stop_lon": "101.67119037612",
+        "stop_id": "1002195",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1250 OUG PLAZA",
+        "stop_lat": "3.0823070670119",
+        "stop_lon": "101.67066982744",
+        "stop_id": "1002570",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1243 SK SERI MEGA",
+        "stop_lat": "3.077568",
+        "stop_lon": "101.670605",
+        "stop_id": "1003144",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1245 TAMAN YARL (TIMUR)",
+        "stop_lat": "3.075363",
+        "stop_lon": "101.670712",
+        "stop_id": "1001235",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1246 BHP (OPP)",
+        "stop_lat": "3.074173",
+        "stop_lon": "101.671395",
+        "stop_id": "1000287",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL2149 TAMAN OUG (UTARA)",
+        "stop_lat": "3.076692",
+        "stop_lon": "101.675484",
+        "stop_id": "1002891",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL2150 PERUMAHAN HUJAN EMAS",
+        "stop_lat": "3.074126",
+        "stop_lon": "101.677774",
+        "stop_id": "1001236",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KOMERSIAL HUJAN EMAS 8",
+        "stop_lat": "3.071426",
+        "stop_lon": "101.677384",
+        "stop_id": "1002753",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "UNION HEIGHTS CONDO",
+        "stop_lat": "3.072134",
+        "stop_lon": "101.668551",
+        "stop_id": "1008144",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL1744 FORTUNA COURT CONDOMINIUM",
+        "stop_lat": "3.065997722986",
+        "stop_lon": "101.6690883904",
+        "stop_id": "1000807",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL2162 KIARA RESIDENCE 2",
+        "stop_lat": "3.062922",
+        "stop_lon": "101.669177",
+        "stop_id": "1000308",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL2324 LRT AWAN BESAR",
+        "stop_lat": "3.061769",
+        "stop_lon": "101.669737",
+        "stop_id": "1006170",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL1357 BUKIT OUG CONDOMINIUM (OPP)",
+        "stop_lat": "3.061792",
+        "stop_lon": "101.666848",
+        "stop_id": "1000309",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL1360 LRT MUHIBBAH",
+        "stop_lat": "3.062023",
+        "stop_lon": "101.662001",
+        "stop_id": "1002606",
+        "stop_sequence": "32"
+    }
+]

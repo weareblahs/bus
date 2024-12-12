@@ -1,0 +1,506 @@
+[
+    {
+        "stop_name": "AJ468 HUB PANDAN INDAH",
+        "stop_lat": "3.134093",
+        "stop_lon": "101.753511",
+        "stop_id": "1000964",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ179 APARTMENT MERPATI",
+        "stop_lat": "3.133868",
+        "stop_lon": "101.75633771805",
+        "stop_id": "1000728",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ157 PANDAN MEWAH HEIGHTS",
+        "stop_lat": "3.130923",
+        "stop_lon": "101.762139",
+        "stop_id": "1001651",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ158 FLAT 610",
+        "stop_lat": "3.130479",
+        "stop_lon": "101.760369",
+        "stop_id": "1000992",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ159 SURAU MADRASATUL SOFWA",
+        "stop_lat": "3.1298841668666",
+        "stop_lon": "101.75896061054",
+        "stop_id": "1003749",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ160 APARTMENT BUNGA RAYA",
+        "stop_lat": "3.1292473326086",
+        "stop_lon": "101.7572669952",
+        "stop_id": "1000610",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ161 MENARA MPAJ",
+        "stop_lat": "3.128996",
+        "stop_lon": "101.753841",
+        "stop_id": "1002238",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ162 HOSPITAL PANTAI AMPANG",
+        "stop_lat": "3.1288426651762",
+        "stop_lon": "101.7518377104",
+        "stop_id": "1000927",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ163 BALAI POLIS PANDAN INDAH (OPP)",
+        "stop_lat": "3.127884",
+        "stop_lon": "101.750843",
+        "stop_id": "1000189",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ164 SK PANDAN INDAH",
+        "stop_lat": "3.125424",
+        "stop_lon": "101.751033",
+        "stop_id": "1003307",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ165 SMK PANDAN INDAH",
+        "stop_lat": "3.122964",
+        "stop_lon": "101.751258",
+        "stop_id": "1003351",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ166 TAMAN KENCANA (TIMUR)",
+        "stop_lat": "3.119356",
+        "stop_lon": "101.750688",
+        "stop_id": "1003991",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ331 TAMAN KENCANA (BARAT)",
+        "stop_lat": "3.119608",
+        "stop_lon": "101.748577",
+        "stop_id": "1003057",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ511 PANDAN PERDANA BUSINESS CENTRE",
+        "stop_lat": "3.1216530000232",
+        "stop_lon": "101.74651763891",
+        "stop_id": "1000701",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ268 FLAT PANDAN PERDANA",
+        "stop_lat": "3.124248",
+        "stop_lon": "101.746728",
+        "stop_id": "1000234",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ486 PANDAN JAYA",
+        "stop_lat": "3.136666",
+        "stop_lon": "101.742988",
+        "stop_id": "1003244",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ487 FLAT PANDAN JAYA (TIMUR)",
+        "stop_lat": "3.1360560000095",
+        "stop_lon": "101.74130364856",
+        "stop_id": "1002586",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ488 FLAT M3 PANDAN JAYA",
+        "stop_lat": "3.134528",
+        "stop_lon": "101.737814",
+        "stop_id": "1000509",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL394 CASARIA",
+        "stop_lat": "3.132369",
+        "stop_lon": "101.734785",
+        "stop_id": "1000465",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL395 KOMPLEKS MALURI (OPP)",
+        "stop_lat": "3.131161",
+        "stop_lon": "101.734689",
+        "stop_id": "1008137",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL379 WISMA SISTEM",
+        "stop_lat": "3.12822",
+        "stop_lon": "101.732537",
+        "stop_id": "1001302",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL372 KOMPLEKS KEDIAMAN AWAM",
+        "stop_lat": "3.131462",
+        "stop_lon": "101.729844",
+        "stop_id": "1002460",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL380 KUARTERS MRT (OPP)",
+        "stop_lat": "3.132807",
+        "stop_lon": "101.724773",
+        "stop_id": "1001700",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "(M) KL892 MRT COCHRANE PINTU A",
+        "stop_lat": "3.133402",
+        "stop_lon": "101.722553",
+        "stop_id": "1007444",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL381 PLAZA ELEKTRONIK",
+        "stop_lat": "3.135009",
+        "stop_lon": "101.716743",
+        "stop_id": "1001307",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL2228 KOMPLEKS E-MART (OPP)",
+        "stop_lat": "3.135016",
+        "stop_lon": "101.715319",
+        "stop_id": "1000526",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL1771 LRT PUDU/MAJESTIC",
+        "stop_lat": "3.136303587433",
+        "stop_lon": "101.71162064657",
+        "stop_id": "1001846",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL1772 FURAMA (OPP)",
+        "stop_lat": "3.139362",
+        "stop_lon": "101.709657",
+        "stop_id": "1000250",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL2197 SMK (P) BANDARAYA",
+        "stop_lat": "3.140187",
+        "stop_lon": "101.714044",
+        "stop_id": "1000527",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL2198 IMBI (UTARA)",
+        "stop_lat": "3.142599",
+        "stop_lon": "101.712849",
+        "stop_id": "1001744",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL123 MONOREL BUKIT BINTANG/SG WANG",
+        "stop_lat": "3.145928",
+        "stop_lon": "101.711388",
+        "stop_id": "1006729",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL86 MRT BUKIT BINTANG/HSBC",
+        "stop_lat": "3.1477176043261",
+        "stop_lon": "101.71085234878",
+        "stop_id": "1000958",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL9 WISMA BOUSTEAD",
+        "stop_lat": "3.15019853231",
+        "stop_lon": "101.70918482193",
+        "stop_id": "1001998",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL11 WISMA MPL",
+        "stop_lat": "3.150643",
+        "stop_lon": "101.707128",
+        "stop_id": "1008254",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL12 MENARA KL",
+        "stop_lat": "3.150379",
+        "stop_lon": "101.705928",
+        "stop_id": "1000076",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL13 WISMA BUDIMAN",
+        "stop_lat": "3.149205",
+        "stop_lon": "101.701929",
+        "stop_id": "1004230",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL14 MENARA OLYMPIA",
+        "stop_lat": "3.1486697702403",
+        "stop_lon": "101.700172348",
+        "stop_id": "1004247",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL1826 MUZIUM TELEKOM",
+        "stop_lat": "3.148182",
+        "stop_lon": "101.698924",
+        "stop_id": "1002519",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "(M) KL118 MENARA MAYBANK",
+        "stop_lat": "3.146474",
+        "stop_lon": "101.699712",
+        "stop_id": "1002011",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL119 HOSPITAL TUNG SHIN",
+        "stop_lat": "3.1452216666667",
+        "stop_lon": "101.70462",
+        "stop_id": "1000934",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL120 HOTEL SWISS GARDEN (OPP)",
+        "stop_lat": "3.144438",
+        "stop_lon": "101.706043",
+        "stop_id": "1000953",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL866 FURAMA",
+        "stop_lat": "3.138532",
+        "stop_lon": "101.710008",
+        "stop_id": "1003928",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL867 LRT PUDU/MAJESTIC (OPP)",
+        "stop_lat": "3.1365982275533",
+        "stop_lon": "101.71170165741",
+        "stop_id": "1001847",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KL382 KOMPLEKS E-MART",
+        "stop_lat": "3.135202",
+        "stop_lon": "101.714747",
+        "stop_id": "1002287",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KL383 PLAZA ELEKTRONIK",
+        "stop_lat": "3.1352373175407",
+        "stop_lon": "101.71667896782",
+        "stop_id": "1001306",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KL389 MYTOWN",
+        "stop_lat": "3.1338549894426",
+        "stop_lon": "101.72203668074",
+        "stop_id": "1003344",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KL390 KUARTERS MRT",
+        "stop_lat": "3.1329289754783",
+        "stop_lon": "101.72535735838",
+        "stop_id": "1001379",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "(M) KL374 SPRM KL",
+        "stop_lat": "3.131660999742",
+        "stop_lon": "101.72994169739",
+        "stop_id": "1003879",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KL376 PUSAT PERDAGANGAN MALURI",
+        "stop_lat": "3.129633316856",
+        "stop_lon": "101.73196900925",
+        "stop_id": "1001968",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KL377 WISMA SISTEM",
+        "stop_lat": "3.128251",
+        "stop_lon": "101.732786",
+        "stop_id": "1001607",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KL391 WISMA MALURI",
+        "stop_lat": "3.128875",
+        "stop_lon": "101.733862",
+        "stop_id": "1008138",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KL392 KOMPLEKS MALURI",
+        "stop_lat": "3.131045",
+        "stop_lon": "101.734541",
+        "stop_id": "1008136",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "KL393 CASARIA (OPP)",
+        "stop_lat": "3.132613",
+        "stop_lon": "101.734663",
+        "stop_id": "1000464",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "AJ483 PERUMAHAN PANDAN JAYA",
+        "stop_lat": "3.134906",
+        "stop_lon": "101.737833",
+        "stop_id": "1003839",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "AJ484 FLAT PANDAN JAYA M14",
+        "stop_lat": "3.136199",
+        "stop_lon": "101.740863",
+        "stop_id": "1001263",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "AJ505 FLAT PANDAN PERDANA (OPP)",
+        "stop_lat": "3.124361",
+        "stop_lon": "101.747171",
+        "stop_id": "1000702",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "AJ332 TAMAN KENCANA (TIMUR)",
+        "stop_lat": "3.11964",
+        "stop_lon": "101.750297",
+        "stop_id": "1003990",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "AJ169 SMK PANDAN INDAH (OPP)",
+        "stop_lat": "3.122488",
+        "stop_lon": "101.751166",
+        "stop_id": "1003350",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "AJ170 SK PANDAN INDAH",
+        "stop_lat": "3.125210333429",
+        "stop_lon": "101.75094395968",
+        "stop_id": "1003306",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "AJ171 KOMERSIAL PANDAN INDAH",
+        "stop_lat": "3.129133",
+        "stop_lon": "101.752023",
+        "stop_id": "1003689",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "AJ172 MENARA MAXISEGAR",
+        "stop_lat": "3.129223",
+        "stop_lon": "101.753449",
+        "stop_id": "1001962",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "AJ173 RHB PANDAN INDAH",
+        "stop_lat": "3.129258",
+        "stop_lon": "101.754982",
+        "stop_id": "1002821",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "AJ174 PANGSAPURI SRI INAI",
+        "stop_lat": "3.129512",
+        "stop_lon": "101.757193",
+        "stop_id": "1000110",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "AJ175 PERUMAHAN PANDAN INDAH 4",
+        "stop_lat": "3.1301713333459",
+        "stop_lon": "101.75901428473",
+        "stop_id": "1003811",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "AJ177 STOR MPAJ",
+        "stop_lat": "3.132183",
+        "stop_lon": "101.762236",
+        "stop_id": "1000636",
+        "stop_sequence": "65"
+    },
+    {
+        "stop_name": "AJ434 PANDAN INDAH AUTOCITY",
+        "stop_lat": "3.132713",
+        "stop_lon": "101.760186",
+        "stop_id": "1002320",
+        "stop_sequence": "66"
+    },
+    {
+        "stop_name": "AJ223 APARTMENT MERPATI",
+        "stop_lat": "3.134151",
+        "stop_lon": "101.757526",
+        "stop_id": "1000354",
+        "stop_sequence": "67"
+    },
+    {
+        "stop_name": "AJ423 APARTMENT NURI COURT",
+        "stop_lat": "3.135695",
+        "stop_lon": "101.756302",
+        "stop_id": "1000134",
+        "stop_sequence": "68"
+    },
+    {
+        "stop_name": "AJ224 APARTMENT KENARI COURT",
+        "stop_lat": "3.136451",
+        "stop_lon": "101.754541",
+        "stop_id": "1000129",
+        "stop_sequence": "69"
+    },
+    {
+        "stop_name": "AJ225 PANGSAPURI DAHLIA",
+        "stop_lat": "3.136262",
+        "stop_lon": "101.752881",
+        "stop_id": "1003522",
+        "stop_sequence": "70"
+    },
+    {
+        "stop_name": "AJ226 PANGSAPURI DAHLIA",
+        "stop_lat": "3.1342033330273",
+        "stop_lon": "101.75151040436",
+        "stop_id": "1000704",
+        "stop_sequence": "71"
+    },
+    {
+        "stop_name": "AJ468 HUB PANDAN INDAH",
+        "stop_lat": "3.134093",
+        "stop_lon": "101.753511",
+        "stop_id": "1000964",
+        "stop_sequence": "72"
+    }
+]

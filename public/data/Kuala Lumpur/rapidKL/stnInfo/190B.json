@@ -1,0 +1,247 @@
+[
+    {
+        "stop_name": "KL103 MAYBANK",
+        "stop_lat": "3.14694",
+        "stop_lon": "101.69683",
+        "stop_id": "1006277",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M) KL104 LIN HO",
+        "stop_lat": "3.147642",
+        "stop_lon": "101.697527",
+        "stop_id": "1000273",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL105 LRT MASJID JAMEK",
+        "stop_lat": "3.1494286865998",
+        "stop_lon": "101.69618952231",
+        "stop_id": "1001810",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL39 MENARA DBKL",
+        "stop_lat": "3.153669",
+        "stop_lon": "101.694597",
+        "stop_id": "1000533",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL40 MEDAN MARA",
+        "stop_lat": "3.157724",
+        "stop_lon": "101.694556",
+        "stop_id": "1001984",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SKPK LELAKI JLN BATU",
+        "stop_lat": "3.159643",
+        "stop_lon": "101.694843",
+        "stop_id": "1003299",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL41 LRT SULTAN ISMAIL/WISMA SIME DARBY",
+        "stop_lat": "3.162154",
+        "stop_lon": "101.695526",
+        "stop_id": "1003257",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL42 EDC HOTEL",
+        "stop_lat": "3.165085",
+        "stop_lon": "101.696133",
+        "stop_id": "1002694",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL46 CHOWKIT/KFC (BARAT)",
+        "stop_lat": "3.167208",
+        "stop_lon": "101.696275",
+        "stop_id": "1001418",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL47 DAMAI HOSPITAL (OPP)",
+        "stop_lat": "3.169272",
+        "stop_lon": "101.695689",
+        "stop_id": "1002537",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL47 PICOMS",
+        "stop_lat": "3.1704199968614",
+        "stop_lon": "101.6941562269",
+        "stop_id": "1002415",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL49 PERKIM/PUSRAWI",
+        "stop_lat": "3.171001",
+        "stop_lon": "101.693422",
+        "stop_id": "1002413",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL578 TAMAN GOLDEN",
+        "stop_lat": "3.174173",
+        "stop_lon": "101.690357",
+        "stop_id": "1002022",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL579 SK SRI DHANDAYUTHAPANI",
+        "stop_lat": "3.176318",
+        "stop_lon": "101.688001",
+        "stop_id": "1001710",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL1580 PETRON SENTUL WEST",
+        "stop_lat": "3.178511",
+        "stop_lon": "101.685795",
+        "stop_id": "1002041",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL580 RIVERCITY 3RD MILE",
+        "stop_lat": "3.180075",
+        "stop_lon": "101.683043",
+        "stop_id": "1002529",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL536 MENARA TKSS",
+        "stop_lat": "3.182464",
+        "stop_lon": "101.676725",
+        "stop_id": "1002017",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL537 TAMAN SEGAMBUT (BARAT)",
+        "stop_lat": "3.183037",
+        "stop_lon": "101.674726",
+        "stop_id": "1000827",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL539 TEMPLE SEGAMBUT",
+        "stop_lat": "3.183824",
+        "stop_lon": "101.672461",
+        "stop_id": "1004283",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL540 SJKC KHAI CHEE (OPP)",
+        "stop_lat": "3.184986",
+        "stop_lon": "101.669835",
+        "stop_id": "1001358",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL541 SMK SEGAMBUT (OPP)",
+        "stop_lat": "3.186952",
+        "stop_lon": "101.666972",
+        "stop_id": "1003191",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KTM KOMUTER SEGAMBUT",
+        "stop_lat": "3.1869616128388",
+        "stop_lon": "101.6630455465",
+        "stop_id": "1001688",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1581 KG SEGAMBUT BAHAGIA (BARAT)",
+        "stop_lat": "3.186033",
+        "stop_lon": "101.659412",
+        "stop_id": "1001582",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1583 SURAU IKHWANIAH",
+        "stop_lat": "3.183908",
+        "stop_lon": "101.655848",
+        "stop_id": "1003732",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1584 KLINIK KESIHATAN SEGAMBUT (OPP)",
+        "stop_lat": "3.182899",
+        "stop_lon": "101.654918",
+        "stop_id": "1001192",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1586 MASJID AL-UBUDIAH (OPP)",
+        "stop_lat": "3.178675",
+        "stop_lon": "101.652195",
+        "stop_id": "1001884",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL1588 KG SEGAMBUT DALAM (SELATAN)",
+        "stop_lat": "3.175384",
+        "stop_lon": "101.651265",
+        "stop_id": "1001021",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL1589 IMPIAN VILLAS (OPP)",
+        "stop_lat": "3.174035",
+        "stop_lon": "101.651114",
+        "stop_id": "1001475",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "RESIDENSI SEFINA",
+        "stop_lat": "3.170731",
+        "stop_lon": "101.64948",
+        "stop_id": "1001120",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL1674 KIARA 1888",
+        "stop_lat": "3.169728",
+        "stop_lon": "101.649317",
+        "stop_id": "1002061",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL1482 GARDEN INTERNATIONAL SCHOOL",
+        "stop_lat": "3.166853",
+        "stop_lon": "101.648723",
+        "stop_id": "1003109",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL1483 FLORA MURNI RESIDENCE",
+        "stop_lat": "3.165621",
+        "stop_lon": "101.648498",
+        "stop_id": "1003528",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL2338 PLAZA CRYSTELVILLE",
+        "stop_lat": "3.163064",
+        "stop_lon": "101.651408",
+        "stop_id": "1007470",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL1485 PLAZA PRISMA VILLE",
+        "stop_lat": "3.161209",
+        "stop_lon": "101.649637",
+        "stop_id": "1007112",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL1681 HAB DESA SRI HARTAMAS",
+        "stop_lat": "3.164054",
+        "stop_lon": "101.647807",
+        "stop_id": "1002059",
+        "stop_sequence": "35"
+    }
+]

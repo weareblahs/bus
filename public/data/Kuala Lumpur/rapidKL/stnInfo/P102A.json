@@ -1,0 +1,240 @@
+[
+    {
+        "stop_name": "PPJ132 APARTMENT PRESINT 11B",
+        "stop_lat": "2.957192",
+        "stop_lon": "101.676781",
+        "stop_id": "1005597",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PPJ266 PERUMAHAN PRESINT 11 (ZON 6B)",
+        "stop_lat": "2.952946",
+        "stop_lon": "101.677025",
+        "stop_id": "1005693",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PPJ101 PERUMAHAN PRESINT 11H",
+        "stop_lat": "2.954007",
+        "stop_lon": "101.674455",
+        "stop_id": "1005682",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PPJ102 SAUJANA ASTER CONDOMINIUM",
+        "stop_lat": "2.956264",
+        "stop_lon": "101.673701",
+        "stop_id": "1005683",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PPJ103 PERUMAHAN P11/1",
+        "stop_lat": "2.955665",
+        "stop_lon": "101.668883",
+        "stop_id": "1005684",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PPJ70 PRESINT 10 (BARAT)",
+        "stop_lat": "2.948226",
+        "stop_lon": "101.687507",
+        "stop_id": "1005593",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PPJ71 KOMPLEKS SERI PERDANA (BARAT)",
+        "stop_lat": "2.952559",
+        "stop_lon": "101.686793",
+        "stop_id": "1005594",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PPJ106 PRIMA PRESINT 11",
+        "stop_lat": "2.964656",
+        "stop_lon": "101.667984",
+        "stop_id": "1005687",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PPJ111 PERUMAHAN PRESINT 11C (BARAT)",
+        "stop_lat": "2.965627",
+        "stop_lon": "101.670996",
+        "stop_id": "1005688",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PPJ112 PERUMAHAN PRESINT 11C (TIMUR)",
+        "stop_lat": "2.967795",
+        "stop_lon": "101.675979",
+        "stop_id": "1005689",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PPJ114 BALAI POLIS PRESINT 11 (OPP)",
+        "stop_lat": "2.964662",
+        "stop_lon": "101.679583",
+        "stop_id": "1005690",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PPJ128 PERUMAHAN P11A 1/3",
+        "stop_lat": "2.957548",
+        "stop_lon": "101.682785",
+        "stop_id": "1008577",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PPJ129 PERUMAHAN P11A 1/1",
+        "stop_lat": "2.958563",
+        "stop_lon": "101.686359",
+        "stop_id": "1008576",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PPJ74 PERUMAHAN P10/9",
+        "stop_lat": "2.951926",
+        "stop_lon": "101.686773",
+        "stop_id": "1008592",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PPJ75 KOMPLEKS SERI PERDANA",
+        "stop_lat": "2.949071",
+        "stop_lon": "101.687234",
+        "stop_id": "1008593",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PPJ76 KOMPLEKS LANAI",
+        "stop_lat": "2.944683",
+        "stop_lon": "101.687606",
+        "stop_id": "1008595",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PPJ106 PRIMA PRESINT 11",
+        "stop_lat": "2.964656",
+        "stop_lon": "101.667984",
+        "stop_id": "1005687",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PPJ111 PERUMAHAN PRESINT 11C (BARAT)",
+        "stop_lat": "2.965627",
+        "stop_lon": "101.670996",
+        "stop_id": "1005688",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PPJ187 KOMPLEKS PARCEL E (BARAT)",
+        "stop_lat": "2.943665",
+        "stop_lon": "101.705229",
+        "stop_id": "1005626",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PPJ188 DATARAN PAHLAWAN",
+        "stop_lat": "2.941926",
+        "stop_lon": "101.704431",
+        "stop_id": "1005627",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PPJ189 KOMPLEKS KERAJAAN PARCEL D",
+        "stop_lat": "2.939138",
+        "stop_lon": "101.701795",
+        "stop_id": "1005628",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PPJ190 KOMPLEKS B/ LAMAN PERDANA (TIMUR)",
+        "stop_lat": "2.938926",
+        "stop_lon": "101.695456",
+        "stop_id": "1001201",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PPJ69 KOMPLEKS LANAI",
+        "stop_lat": "2.944801",
+        "stop_lon": "101.687373",
+        "stop_id": "1005592",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PPJ70 PRESINT 10 (BARAT)",
+        "stop_lat": "2.948226",
+        "stop_lon": "101.687507",
+        "stop_id": "1005593",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PPJ71 KOMPLEKS SERI PERDANA (BARAT)",
+        "stop_lat": "2.952559",
+        "stop_lon": "101.686793",
+        "stop_id": "1005594",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PPJ130 PRESINT 11A5",
+        "stop_lat": "2.958349",
+        "stop_lon": "101.686405",
+        "stop_id": "1005595",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PPJ186 TAMAN PUTRA PERDANA (TIMUR)",
+        "stop_lat": "2.9474605297495",
+        "stop_lon": "101.70363287265",
+        "stop_id": "1000315",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PPJ187 KOMPLEKS PARCEL E (BARAT)",
+        "stop_lat": "2.943665",
+        "stop_lon": "101.705229",
+        "stop_id": "1005626",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PPJ188 DATARAN PAHLAWAN",
+        "stop_lat": "2.941926",
+        "stop_lon": "101.704431",
+        "stop_id": "1005627",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PPJ189 KOMPLEKS KERAJAAN PARCEL D",
+        "stop_lat": "2.939138",
+        "stop_lon": "101.701795",
+        "stop_id": "1005628",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PPJ190 KOMPLEKS B/ LAMAN PERDANA (TIMUR)",
+        "stop_lat": "2.938926",
+        "stop_lon": "101.695456",
+        "stop_id": "1001201",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PPJ185 TAMAN BOTANI PUTRAJAYA",
+        "stop_lat": "2.946054",
+        "stop_lon": "101.697888",
+        "stop_id": "1000314",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PPJ186 TAMAN PUTRA PERDANA (TIMUR)",
+        "stop_lat": "2.9474605297495",
+        "stop_lon": "101.70363287265",
+        "stop_id": "1000315",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PPJ187 KOMPLEKS PARCEL E (BARAT)",
+        "stop_lat": "2.943665",
+        "stop_lon": "101.705229",
+        "stop_id": "1005626",
+        "stop_sequence": "34"
+    }
+]

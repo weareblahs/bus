@@ -1,0 +1,240 @@
+[
+    {
+        "stop_name": "SJ693 LRT USJ 7",
+        "stop_lat": "3.054758",
+        "stop_lon": "101.592176",
+        "stop_id": "1006526",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ687 DEPOH METROBUS",
+        "stop_lat": "3.0499695078056",
+        "stop_lon": "101.59199178151",
+        "stop_id": "1000545",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ549 LRT TAIPAN",
+        "stop_lat": "3.0482",
+        "stop_lon": "101.590702",
+        "stop_id": "1006590",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ23 USJ 9 TAIPAN (UTARA)",
+        "stop_lat": "3.047218",
+        "stop_lon": "101.588295",
+        "stop_id": "1006591",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ24 USJ 10 TAIPAN (UTARA)",
+        "stop_lat": "3.0489745864478",
+        "stop_lon": "101.58623859651",
+        "stop_id": "1002112",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "MENARA MPSJ",
+        "stop_lat": "3.05191",
+        "stop_lon": "101.583445",
+        "stop_id": "1008073",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SK SEAFIELD (OPP)",
+        "stop_lat": "3.056868",
+        "stop_lon": "101.588342",
+        "stop_id": "1008074",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ67 MYDIN USJ",
+        "stop_lat": "3.0580617790849",
+        "stop_lon": "101.59636180943",
+        "stop_id": "1002078",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ68 TAMAN SUBANG PERMAI (UTARA)",
+        "stop_lat": "3.0581150204968",
+        "stop_lon": "101.60135242851",
+        "stop_id": "1003239",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ71 REGALIA BUSINESS CENTRE",
+        "stop_lat": "3.055776",
+        "stop_lon": "101.604419",
+        "stop_id": "1004150",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ72 SJKC CHEE WEN",
+        "stop_lat": "3.051151",
+        "stop_lon": "101.602574",
+        "stop_id": "1003292",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ632 PUSAT INDUSTRI IKS USJ1",
+        "stop_lat": "3.048505987434",
+        "stop_lon": "101.60174838489",
+        "stop_id": "1002187",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ77 APARTMENT MERANTI",
+        "stop_lat": "3.046148",
+        "stop_lon": "101.601575",
+        "stop_id": "1004306",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ78 PANGSAPURI ANGSANA",
+        "stop_lat": "3.044505",
+        "stop_lon": "101.601982",
+        "stop_id": "1002123",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ81 APARTMENT ANGSANA (SELATAN)",
+        "stop_lat": "3.04299489717",
+        "stop_lon": "101.60075002658",
+        "stop_id": "1002758",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ690 ZON PERINDUSTRIAN USJ1",
+        "stop_lat": "3.043026",
+        "stop_lon": "101.596089",
+        "stop_id": "1001860",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ725 GOODYEAR COURT 6 (SELATAN)",
+        "stop_lat": "3.042999",
+        "stop_lon": "101.593605",
+        "stop_id": "1004185",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ82 GOODYEAR COURT 7",
+        "stop_lat": "3.042916",
+        "stop_lon": "101.590921",
+        "stop_id": "1000882",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SJ550 USJ 14 (TIMUR)",
+        "stop_lat": "3.0417448875508",
+        "stop_lon": "101.58832216768",
+        "stop_id": "1003867",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) SJ544 GOODYEAR COURT 10",
+        "stop_lat": "3.037925",
+        "stop_lon": "101.590717",
+        "stop_id": "1001529",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SJ688 SUBANG GOODYEAR 9",
+        "stop_lat": "3.038409",
+        "stop_lon": "101.592489",
+        "stop_id": "1008642",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "GOODYEAR COURT 9C (OPP)",
+        "stop_lat": "3.0401184450352",
+        "stop_lon": "101.59252720938",
+        "stop_id": "1000883",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SJ720 SUBANG PERDANA GOODYEAR COURT 6",
+        "stop_lat": "3.043239",
+        "stop_lon": "101.593236",
+        "stop_id": "1009083",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SJ689 ZON PERINDUSTRIAN USJ1",
+        "stop_lat": "3.043265",
+        "stop_lon": "101.595543",
+        "stop_id": "1001859",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SJ84 APARTMENT ANGSANA (SELATAN)",
+        "stop_lat": "3.043265",
+        "stop_lon": "101.600073",
+        "stop_id": "1002364",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SJ79 PANGSAPURI JATI1",
+        "stop_lat": "3.044832",
+        "stop_lon": "101.601621",
+        "stop_id": "1002122",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SJ628 MEDAN SELERA USJ1",
+        "stop_lat": "3.046581",
+        "stop_lon": "101.601258",
+        "stop_id": "1008641",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SJ80 PUSAT INDUSTRI IKS USJ1",
+        "stop_lat": "3.048662",
+        "stop_lon": "101.601492",
+        "stop_id": "1003290",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SJ73 GRAND VILLE USJ 1",
+        "stop_lat": "3.050822",
+        "stop_lon": "101.602152",
+        "stop_id": "1002802",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SJ74 REGALIA BUSINESS PARK (OPP)",
+        "stop_lat": "3.056047",
+        "stop_lon": "101.604231",
+        "stop_id": "1002960",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SJ69 TAMAN SUBANG PERMAI",
+        "stop_lat": "3.057852",
+        "stop_lon": "101.601312",
+        "stop_id": "1003238",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SJ70 MYDIN USJ (OPP)",
+        "stop_lat": "3.0578136092905",
+        "stop_lon": "101.59638897418",
+        "stop_id": "1002079",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "USJ SENTRAL",
+        "stop_lat": "3.057809",
+        "stop_lon": "101.594744",
+        "stop_id": "1006527",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SJ693 LRT USJ 7",
+        "stop_lat": "3.054758",
+        "stop_lon": "101.592176",
+        "stop_id": "1006526",
+        "stop_sequence": "34"
+    }
+]

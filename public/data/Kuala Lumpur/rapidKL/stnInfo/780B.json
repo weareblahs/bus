@@ -1,0 +1,415 @@
+[
+    {
+        "stop_name": "(M) KL2212 PASAR SENI (PLATFORM D1 - D6)",
+        "stop_lat": "3.141834",
+        "stop_lon": "101.695246",
+        "stop_id": "1004344",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL2144 TM BRICKFIELDS",
+        "stop_lat": "3.1374677062962",
+        "stop_lon": "101.69324504902",
+        "stop_id": "1000857",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL2145 HOTEL PRESCOTT",
+        "stop_lat": "3.136322",
+        "stop_lon": "101.690915",
+        "stop_id": "1002495",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1080 BRICKFIELDS",
+        "stop_lat": "3.1336400597905",
+        "stop_lon": "101.68908163724",
+        "stop_id": "1004276",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1082 SK METHODIST",
+        "stop_lat": "3.131473",
+        "stop_lon": "101.689089",
+        "stop_id": "1002023",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SK BRICKFIELDS 2",
+        "stop_lat": "3.1307549061485",
+        "stop_lon": "101.68823724022",
+        "stop_id": "1003335",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1083 PALM COURT",
+        "stop_lat": "3.129818",
+        "stop_lon": "101.687114",
+        "stop_id": "1002234",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1760 SUASANA SENTRAL LOFT",
+        "stop_lat": "3.1303212241286",
+        "stop_lon": "101.68364204616",
+        "stop_id": "1003608",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL1095 BANGSAR UTAMA",
+        "stop_lat": "3.129203160217",
+        "stop_lon": "101.68065981755",
+        "stop_id": "1002086",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) KL1096 LRT BANGSAR (OPP)",
+        "stop_lat": "3.1273688525384",
+        "stop_lon": "101.67914951654",
+        "stop_id": "1001788",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1097 PPR ABDULLAH HUKUM",
+        "stop_lat": "3.1231698334516",
+        "stop_lon": "101.67654695028",
+        "stop_id": "1002600",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1098 LRT ABDULLAH HUKUM",
+        "stop_lat": "3.1180320477095",
+        "stop_lon": "101.67260077298",
+        "stop_id": "1004110",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1099 SK BANGSAR",
+        "stop_lat": "3.1167609772467",
+        "stop_lon": "101.67034409462",
+        "stop_id": "1000365",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1191 IPD PANTAI",
+        "stop_lat": "3.117224",
+        "stop_lon": "101.667171",
+        "stop_id": "1008143",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL1441 KL GATEWAY - LRT UNIVERSITI",
+        "stop_lat": "3.1147478848012",
+        "stop_lon": "101.66181039156",
+        "stop_id": "1001410",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ251 UNIVERSITY TOWER",
+        "stop_lat": "3.113503",
+        "stop_lon": "101.650419",
+        "stop_id": "1004179",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ252 SK SULTAN ALAM SHAH 2",
+        "stop_lat": "3.112273",
+        "stop_lon": "101.647177",
+        "stop_id": "1003630",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ253 GERAK BUDAYA",
+        "stop_lat": "3.111712",
+        "stop_lon": "101.646397",
+        "stop_id": "1002142",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ443 YAYASAN CANCERLINK",
+        "stop_lat": "3.108473",
+        "stop_lon": "101.645841",
+        "stop_id": "1004272",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ441 TASIK TAMAN JAYA",
+        "stop_lat": "3.103962",
+        "stop_lon": "101.648321",
+        "stop_id": "1003857",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M) PJ435 WISMA MCIS",
+        "stop_lat": "3.101044",
+        "stop_lon": "101.641252",
+        "stop_id": "1001509",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) PJ437 LRT ASIA JAYA",
+        "stop_lat": "3.1038828935882",
+        "stop_lon": "101.63914593158",
+        "stop_id": "1001785",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PJ439 SK SRI PETALING (OPP)",
+        "stop_lat": "3.108625",
+        "stop_lon": "101.639152",
+        "stop_id": "1003320",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PJ278 DIGITAL MALL SEKSYEN 14",
+        "stop_lat": "3.110474",
+        "stop_lon": "101.636336",
+        "stop_id": "1000484",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PJ283 MASJID TUN ABDUL AZIZ",
+        "stop_lat": "3.111807",
+        "stop_lon": "101.633184",
+        "stop_id": "1001907",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PJ286 THE CREST (OPP)",
+        "stop_lat": "3.110708",
+        "stop_lon": "101.630782",
+        "stop_id": "1000419",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PJ287 PERUMAHAN SEKSYEN 20 (TIMUR)",
+        "stop_lat": "3.110484",
+        "stop_lon": "101.628414",
+        "stop_id": "1002881",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PJ288 PERUMAHAN SEKSYEN 20 (BARAT)",
+        "stop_lat": "3.109329",
+        "stop_lon": "101.625887",
+        "stop_id": "1002950",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PJ308 SHELL SEAPARK",
+        "stop_lat": "3.109686",
+        "stop_lon": "101.623135",
+        "stop_id": "1003232",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PJ309 HERBALINE SEAPARK",
+        "stop_lat": "3.111494",
+        "stop_lon": "101.621716",
+        "stop_id": "1006226",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PJ711 PETRON SEAPARK (OPP)",
+        "stop_lat": "3.1140025601091",
+        "stop_lon": "101.62057488852",
+        "stop_id": "1002049",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PJ346 PERUMAHAN SS2",
+        "stop_lat": "3.117175",
+        "stop_lon": "101.620643",
+        "stop_id": "1006254",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PJ627 KDU DAMANSARA JAYA",
+        "stop_lat": "3.1276560174203",
+        "stop_lon": "101.62332487017",
+        "stop_id": "1001248",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PJ723 JEJANTAS SS 22",
+        "stop_lat": "3.1321518191064",
+        "stop_lon": "101.62072174735",
+        "stop_id": "1001431",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PJ67 OCBC",
+        "stop_lat": "3.1330018226012",
+        "stop_lon": "101.62049666244",
+        "stop_id": "1002113",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "PJ134 LAVELL GALLERY",
+        "stop_lat": "3.135062",
+        "stop_lon": "101.620776",
+        "stop_id": "1004277",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PJ724 DAMANSARA UPTOWN (UTARA)",
+        "stop_lat": "3.137274",
+        "stop_lon": "101.620646",
+        "stop_id": "1001837",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "(M) PJ208 BHP DAMANSARA UTAMA",
+        "stop_lat": "3.1381528557811",
+        "stop_lon": "101.62287967808",
+        "stop_id": "1000297",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "PJ532 ONE UTAMA LDP",
+        "stop_lat": "3.1504336534116",
+        "stop_lon": "101.61652418032",
+        "stop_id": "1000248",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "PJ533 IKEA (BARAT)",
+        "stop_lat": "3.154912",
+        "stop_lon": "101.610549",
+        "stop_id": "1000990",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "PJ383 PELANGI ASTANA",
+        "stop_lat": "3.153593",
+        "stop_lon": "101.603289",
+        "stop_id": "1002389",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "PJ384 SHELL SUNWAY DAMANSARA",
+        "stop_lat": "3.149862",
+        "stop_lon": "101.600192",
+        "stop_id": "1003240",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "PJ387 MRT SURIAN",
+        "stop_lat": "3.149407",
+        "stop_lon": "101.593449",
+        "stop_id": "1007091",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "PJ388 CASA INDAH",
+        "stop_lat": "3.149751",
+        "stop_lon": "101.586405",
+        "stop_id": "1000462",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "PJ395 MRT KOTA DAMANSARA",
+        "stop_lat": "3.15011",
+        "stop_lon": "101.578551",
+        "stop_id": "1007070",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "PJ354 GUGUSAN SEROJA",
+        "stop_lat": "3.153494",
+        "stop_lon": "101.577674",
+        "stop_id": "1001047",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "PJ102 PANGSAPURI TERATAI",
+        "stop_lat": "3.155115",
+        "stop_lon": "101.577404",
+        "stop_id": "1000789",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "PJ103 PANGSAPURI TANJUNG",
+        "stop_lat": "3.155381",
+        "stop_lon": "101.575613",
+        "stop_id": "1000700",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "PJ104 PANGSAPURI CEMPAKA 6",
+        "stop_lat": "3.156663",
+        "stop_lon": "101.574355",
+        "stop_id": "1000254",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "PJ105 PANGSAPURI CEMPAKA 1",
+        "stop_lat": "3.158097",
+        "stop_lon": "101.574211",
+        "stop_id": "1002759",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "SMK SEKSYEN 10 KD (OPP)",
+        "stop_lat": "3.169991",
+        "stop_lon": "101.578117",
+        "stop_id": "1007063",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "PJ70 KOMERSIAL NURI 7A",
+        "stop_lat": "3.172511",
+        "stop_lon": "101.576523",
+        "stop_id": "1002299",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "PJ71 PANGSAPURI KASIA (OPP)",
+        "stop_lat": "3.170344",
+        "stop_lon": "101.575523",
+        "stop_id": "1001277",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "PJ72 SK SEKSYEN 7 KD (OPP)",
+        "stop_lat": "3.169023",
+        "stop_lon": "101.575702",
+        "stop_id": "1003314",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "PJ73 PERUMAHAN SEKSYEN 7",
+        "stop_lat": "3.167498",
+        "stop_lon": "101.577208",
+        "stop_id": "1003986",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "SMK SEKSYEN 10 KD (OPP)",
+        "stop_lat": "3.169991",
+        "stop_lon": "101.578117",
+        "stop_id": "1007063",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "PJ801 KASTURI IDAMAN",
+        "stop_lat": "3.176993",
+        "stop_lon": "101.577412",
+        "stop_id": "1004308",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "PJ63 PPR KOTA DAMANSARA",
+        "stop_lat": "3.176733",
+        "stop_lon": "101.577334",
+        "stop_id": "1003156",
+        "stop_sequence": "59"
+    }
+]

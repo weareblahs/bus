@@ -1,0 +1,457 @@
+[
+    {
+        "stop_name": "PANGSAPURI SRI AYU",
+        "stop_lat": "2.994351",
+        "stop_lon": "101.492657",
+        "stop_id": "1008432",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "TAMAN CAMELIA",
+        "stop_lat": "2.995259",
+        "stop_lon": "101.492097",
+        "stop_id": "1008433",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KILANG INTERGREEN",
+        "stop_lat": "2.993229",
+        "stop_lon": "101.489157",
+        "stop_id": "1009120",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PERUMAHAN JALAN PENDING",
+        "stop_lat": "2.993981",
+        "stop_lon": "101.470175",
+        "stop_id": "1009123",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "IMPIAN SENTOSA APARTMENT (OPP)",
+        "stop_lat": "2.997883",
+        "stop_lon": "101.468483",
+        "stop_id": "1009124",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "BD593 KOMERSIAL TAMAN SENTOSA",
+        "stop_lat": "3.002175",
+        "stop_lon": "101.470071",
+        "stop_id": "1009126",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "TAMAN MEWAH JAYA",
+        "stop_lat": "3.007932",
+        "stop_lon": "101.472124",
+        "stop_id": "1009129",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PASARAYA NSK",
+        "stop_lat": "3.007153",
+        "stop_lon": "101.478485",
+        "stop_id": "1008440",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "HOSPITAL PAKAR SENTOSA",
+        "stop_lat": "3.005388",
+        "stop_lon": "101.483227",
+        "stop_id": "1008438",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "BD355 AMJ INDUSTRIAL PARK (SELATAN)",
+        "stop_lat": "3.005597",
+        "stop_lon": "101.491575",
+        "stop_id": "1009119",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "BD10 AMJ INDUSTRIAL PARK (UTARA)",
+        "stop_lat": "3.006984",
+        "stop_lon": "101.490793",
+        "stop_id": "1009116",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "BD9 KG JAWA BATU 9",
+        "stop_lat": "3.008305",
+        "stop_lon": "101.489998",
+        "stop_id": "1009114",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "BD8 SJKT BATU AMPAT",
+        "stop_lat": "3.011781",
+        "stop_lon": "101.487975",
+        "stop_id": "1009112",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "BD7 TAMAN SENTOSA PERDANA",
+        "stop_lat": "3.014696",
+        "stop_lon": "101.486258",
+        "stop_id": "1009110",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "BD6 TAMAN KANDIS PERMAI (SELATAN)",
+        "stop_lat": "3.018175",
+        "stop_lon": "101.484214",
+        "stop_id": "1009108",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "BD5 TAMAN KANDIS PERMAI (UTARA)",
+        "stop_lat": "3.020566",
+        "stop_lon": "101.482805",
+        "stop_id": "1009106",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "BD356 DESA LATANIA",
+        "stop_lat": "3.021622",
+        "stop_lon": "101.482181",
+        "stop_id": "1009107",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "BD4 TAMAN KLANG INDAH",
+        "stop_lat": "3.022822",
+        "stop_lon": "101.481453",
+        "stop_id": "1009103",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "BD3 GIANT (SELATAN)",
+        "stop_lat": "3.024157",
+        "stop_lon": "101.480731",
+        "stop_id": "1009102",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "BD2 GIANT (UTARA)",
+        "stop_lat": "3.025776",
+        "stop_lon": "101.479804",
+        "stop_id": "1009099",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "BD1 KG SG KANDIS (BARAT)",
+        "stop_lat": "3.027773",
+        "stop_lon": "101.478977",
+        "stop_id": "1009097",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "BD40 TAMAN MENEGUN INDAH/SK TELOK MENEGON",
+        "stop_lat": "3.031412",
+        "stop_lon": "101.474477",
+        "stop_id": "1009095",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "BD42 TAMAN ALAM SHAH/KARYA RESIDENSI",
+        "stop_lat": "3.029398",
+        "stop_lon": "101.469291",
+        "stop_id": "1009093",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "BD43 TAMAN BIJAYA",
+        "stop_lat": "3.028332",
+        "stop_lon": "101.466493",
+        "stop_id": "1009092",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "BD44 TAMAN RAJA NONG",
+        "stop_lat": "3.028394",
+        "stop_lon": "101.461972",
+        "stop_id": "1008449",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "BD45 MASJID DATUK DAGANG (OPP)",
+        "stop_lat": "3.028896",
+        "stop_lon": "101.460574",
+        "stop_id": "1008451",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "BD46 TAMAN SHAHBANDARAYA",
+        "stop_lat": "3.030099",
+        "stop_lon": "101.45749",
+        "stop_id": "1008453",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "BD47 TAMAN NAKHODA YUSOF",
+        "stop_lat": "3.031185",
+        "stop_lon": "101.455172",
+        "stop_id": "1008455",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "BD48 KISAS (OPP)",
+        "stop_lat": "3.033743",
+        "stop_lon": "101.451732",
+        "stop_id": "1008457",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "BD49 ISTANA ALAM SHAH",
+        "stop_lat": "3.037576",
+        "stop_lon": "101.451473",
+        "stop_id": "1008459",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "BD50 DEWAN MELAYU KLANG",
+        "stop_lat": "3.039031",
+        "stop_lon": "101.451744",
+        "stop_id": "1008461",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "BD51 SK KLANG",
+        "stop_lat": "3.040408",
+        "stop_lon": "101.450591",
+        "stop_id": "1006001",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "BD579 PLAZA MPK",
+        "stop_lat": "3.047822",
+        "stop_lon": "101.448931",
+        "stop_id": "1006366",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SJKC KONG HOE",
+        "stop_lat": "3.047747",
+        "stop_lon": "101.451738",
+        "stop_id": "1006008",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "BD580 WISMA HAFIZ",
+        "stop_lat": "3.046749",
+        "stop_lon": "101.449869",
+        "stop_id": "1001516",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "BD28 KTM KLANG",
+        "stop_lat": "3.042817",
+        "stop_lon": "101.450068",
+        "stop_id": "1006000",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "BD29 KOMPLEKS SUKAN",
+        "stop_lat": "3.038694",
+        "stop_lon": "101.451862",
+        "stop_id": "1008462",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "BD30 SM CHUNG HUA",
+        "stop_lat": "3.037157",
+        "stop_lon": "101.451601",
+        "stop_id": "1008460",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "BD31 KISAS",
+        "stop_lat": "3.033162",
+        "stop_lon": "101.452857",
+        "stop_id": "1008458",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "BD32 TAMAN NAKHODA YUSOF",
+        "stop_lat": "3.031165",
+        "stop_lon": "101.455506",
+        "stop_id": "1008456",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "BD33 TAMAN SHAHBANDARAYA",
+        "stop_lat": "3.030178",
+        "stop_lon": "101.457712",
+        "stop_id": "1008454",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "BD34 MASJID DATUK DAGANG",
+        "stop_lat": "3.029205",
+        "stop_lon": "101.460269",
+        "stop_id": "1008452",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "BD35 TAMAN RAJA NONG",
+        "stop_lat": "3.028638",
+        "stop_lon": "101.461872",
+        "stop_id": "1008450",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "BD36 TAMAN SRI MEWAH",
+        "stop_lat": "3.028481",
+        "stop_lon": "101.466279",
+        "stop_id": "1009091",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "BD38 TAMAN ALAM SHAH",
+        "stop_lat": "3.030427",
+        "stop_lon": "101.471377",
+        "stop_id": "1009094",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "BD39 TAMAN MENEGUN INDAH/SURAU HIDAYAH",
+        "stop_lat": "3.032003",
+        "stop_lon": "101.475395",
+        "stop_id": "1009096",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SA867 KG SG KANDIS (BARAT)",
+        "stop_lat": "3.027196",
+        "stop_lon": "101.479328",
+        "stop_id": "1009098",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SA868 GIANT (UTARA)",
+        "stop_lat": "3.025792",
+        "stop_lon": "101.480005",
+        "stop_id": "1009100",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "SA869 GIANT (SELATAN)",
+        "stop_lat": "3.024212",
+        "stop_lon": "101.480891",
+        "stop_id": "1009101",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "SA872 TAMAN KLANG INDAH",
+        "stop_lat": "3.022705",
+        "stop_lon": "101.481839",
+        "stop_id": "1009104",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "SA873 DESA LATANIA",
+        "stop_lat": "3.021527",
+        "stop_lon": "101.482519",
+        "stop_id": "1009105",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "SA874 TAMAN KANDIS PERMAI (UTARA)",
+        "stop_lat": "3.018029",
+        "stop_lon": "101.484477",
+        "stop_id": "1009109",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "SA876 TAMAN SENTOSA PERDANA",
+        "stop_lat": "3.014196",
+        "stop_lon": "101.486744",
+        "stop_id": "1009111",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "SA877 SJKT BATU AMPAT (OPP)",
+        "stop_lat": "3.011562",
+        "stop_lon": "101.488294",
+        "stop_id": "1009113",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "SA878 KG JAWA BATU 9",
+        "stop_lat": "3.008646",
+        "stop_lon": "101.490004",
+        "stop_id": "1009115",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "SA879 AMJ INDUSTRIAL PARK (UTARA)",
+        "stop_lat": "3.006959",
+        "stop_lon": "101.490994",
+        "stop_id": "1009117",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "SA880 AMJ INDUSTRIAL PARK (SELATAN)",
+        "stop_lat": "3.005507",
+        "stop_lon": "101.491858",
+        "stop_id": "1009118",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "TAMAN SENTOSA PERDANA",
+        "stop_lat": "3.005074",
+        "stop_lon": "101.482971",
+        "stop_id": "1008437",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "PASARAYA NSK (OPP)",
+        "stop_lat": "3.006793",
+        "stop_lon": "101.478474",
+        "stop_id": "1008439",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "TAMAN MEWAH JAYA",
+        "stop_lat": "3.007778",
+        "stop_lon": "101.472266",
+        "stop_id": "1009128",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "KOMERSIAL TAMAN SENTOSA",
+        "stop_lat": "3.001896",
+        "stop_lon": "101.470108",
+        "stop_id": "1009127",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "IMPIAN SENTOSA APARTMENT",
+        "stop_lat": "2.997725",
+        "stop_lon": "101.468569",
+        "stop_id": "1009125",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "PERUMAHAN JALAN DATO ABDUL HAMID",
+        "stop_lat": "2.994264",
+        "stop_lon": "101.470038",
+        "stop_id": "1009122",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "KILANG INTERGREEN (OPP)",
+        "stop_lat": "2.993217",
+        "stop_lon": "101.488957",
+        "stop_id": "1009121",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "PANGSAPURI SRI AYU",
+        "stop_lat": "2.994351",
+        "stop_lon": "101.492657",
+        "stop_id": "1008432",
+        "stop_sequence": "65"
+    }
+]

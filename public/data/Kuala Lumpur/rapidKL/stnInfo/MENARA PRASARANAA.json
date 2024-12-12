@@ -1,0 +1,16 @@
+[
+    {
+        "stop_name": "PJ671 LRT LEMBAH SUBANG",
+        "stop_lat": "3.112072",
+        "stop_lon": "101.590682",
+        "stop_id": "1006519",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "MENARA PRASARANA",
+        "stop_lat": "3.113323",
+        "stop_lon": "101.584889",
+        "stop_id": "1006174",
+        "stop_sequence": "2"
+    }
+]

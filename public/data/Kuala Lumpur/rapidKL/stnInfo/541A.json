@@ -1,0 +1,142 @@
+[
+    {
+        "stop_name": "SJ213 HENTIAN PUTRA PERMAI",
+        "stop_lat": "2.995785",
+        "stop_lon": "101.669025",
+        "stop_id": "1003898",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PANGSAPURI SRI INDAH",
+        "stop_lat": "2.999578",
+        "stop_lon": "101.664741",
+        "stop_id": "1006264",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "DESAMINIUM FLORA",
+        "stop_lat": "3.007934",
+        "stop_lon": "101.664758",
+        "stop_id": "1006166",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SMK TAMAN DESAMINIUM",
+        "stop_lat": "3.008046",
+        "stop_lon": "101.662853",
+        "stop_id": "1006139",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "FLAT LESTARI PERDANA 2 (OPP)",
+        "stop_lat": "3.007937",
+        "stop_lon": "101.666521",
+        "stop_id": "1006265",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "LP8",
+        "stop_lat": "3.011795",
+        "stop_lon": "101.671703",
+        "stop_id": "1006145",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ702 PUJ 4 TAMAN PUNCAK JALIL",
+        "stop_lat": "3.017892",
+        "stop_lon": "101.674835",
+        "stop_id": "1006148",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PUJ 6",
+        "stop_lat": "3.023042",
+        "stop_lon": "101.67483",
+        "stop_id": "1006150",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PERUMAHAN PUJ 6/10",
+        "stop_lat": "3.025086",
+        "stop_lon": "101.679616",
+        "stop_id": "1006151",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PUJ 7",
+        "stop_lat": "3.02799",
+        "stop_lon": "101.6804",
+        "stop_id": "1006152",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "TAMAN PUNCAK JALIL",
+        "stop_lat": "3.033672",
+        "stop_lon": "101.678388",
+        "stop_id": "1006153",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ372 PANGSAPURI ENGGANG",
+        "stop_lat": "3.035791",
+        "stop_lon": "101.672771",
+        "stop_id": "1002146",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ373 SIMFONI KINRARA",
+        "stop_lat": "3.035739",
+        "stop_lon": "101.666748",
+        "stop_id": "1003262",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ379 MELODY KINRARA",
+        "stop_lat": "3.035801",
+        "stop_lon": "101.664132",
+        "stop_id": "1001994",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) SJ380 PERUMAHAN MELODY",
+        "stop_lat": "3.036053",
+        "stop_lon": "101.659926",
+        "stop_id": "1001848",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ381 PERUMAHAN HENING",
+        "stop_lat": "3.036186",
+        "stop_lon": "101.657467",
+        "stop_id": "1000906",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ382 KINRARA GOLF CLUB (OPP)",
+        "stop_lat": "3.0370217781682",
+        "stop_lon": "101.65453904768",
+        "stop_id": "1000878",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ15 KEJURUTERAAN BOMBA KINRARA",
+        "stop_lat": "3.041177",
+        "stop_lon": "101.650167",
+        "stop_id": "1008501",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SJ395 KINRARA GOLF CLUB (BARAT)",
+        "stop_lat": "3.043648",
+        "stop_lon": "101.648385",
+        "stop_id": "1008500",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) SJ398 LRT BK 5",
+        "stop_lat": "3.050161",
+        "stop_lon": "101.644297",
+        "stop_id": "1006167",
+        "stop_sequence": "20"
+    }
+]

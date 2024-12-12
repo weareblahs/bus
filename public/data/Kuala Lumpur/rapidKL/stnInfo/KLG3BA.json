@@ -1,0 +1,226 @@
+[
+    {
+        "stop_name": "PANGSAPURI SRI AYU",
+        "stop_lat": "2.994351",
+        "stop_lon": "101.492657",
+        "stop_id": "1008432",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "TAMAN CAMELIA",
+        "stop_lat": "2.995259",
+        "stop_lon": "101.492097",
+        "stop_id": "1008433",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "TAMAN SENTOSA PERDANA",
+        "stop_lat": "3.005074",
+        "stop_lon": "101.482971",
+        "stop_id": "1008437",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PASARAYA NSK (OPP)",
+        "stop_lat": "3.006793",
+        "stop_lon": "101.478474",
+        "stop_id": "1008439",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PASARAYA ECONMART",
+        "stop_lat": "3.010572",
+        "stop_lon": "101.466945",
+        "stop_id": "1008441",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "TAMAN SAUJANA JATI",
+        "stop_lat": "3.016154",
+        "stop_lon": "101.466786",
+        "stop_id": "1008443",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "BUNGA RAYA RESIDENCE",
+        "stop_lat": "3.020516",
+        "stop_lon": "101.466862",
+        "stop_id": "1008445",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "BD543 SK KAMPUNG JAWA",
+        "stop_lat": "3.024986",
+        "stop_lon": "101.466424",
+        "stop_id": "1008447",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "BD44 TAMAN RAJA NONG",
+        "stop_lat": "3.028394",
+        "stop_lon": "101.461972",
+        "stop_id": "1008449",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "BD45 MASJID DATUK DAGANG (OPP)",
+        "stop_lat": "3.028896",
+        "stop_lon": "101.460574",
+        "stop_id": "1008451",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "BD46 TAMAN SHAHBANDARAYA",
+        "stop_lat": "3.030099",
+        "stop_lon": "101.45749",
+        "stop_id": "1008453",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "BD47 TAMAN NAKHODA YUSOF",
+        "stop_lat": "3.031185",
+        "stop_lon": "101.455172",
+        "stop_id": "1008455",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "BD48 KISAS (OPP)",
+        "stop_lat": "3.033743",
+        "stop_lon": "101.451732",
+        "stop_id": "1008457",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "BD49 ISTANA ALAM SHAH",
+        "stop_lat": "3.037576",
+        "stop_lon": "101.451473",
+        "stop_id": "1008459",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "BD50 DEWAN MELAYU KLANG",
+        "stop_lat": "3.039031",
+        "stop_lon": "101.451744",
+        "stop_id": "1008461",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "BD51 SK KLANG",
+        "stop_lat": "3.040408",
+        "stop_lon": "101.450591",
+        "stop_id": "1006001",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "BD579 PLAZA MPK",
+        "stop_lat": "3.047822",
+        "stop_lon": "101.448931",
+        "stop_id": "1006366",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJKC KONG HOE",
+        "stop_lat": "3.047747",
+        "stop_lon": "101.451738",
+        "stop_id": "1006008",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "BD580 WISMA HAFIZ",
+        "stop_lat": "3.046749",
+        "stop_lon": "101.449869",
+        "stop_id": "1001516",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "BD28 KTM KLANG",
+        "stop_lat": "3.042817",
+        "stop_lon": "101.450068",
+        "stop_id": "1006000",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "BD30 SM CHUNG HUA",
+        "stop_lat": "3.037157",
+        "stop_lon": "101.451601",
+        "stop_id": "1008460",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "BD31 KISAS",
+        "stop_lat": "3.033162",
+        "stop_lon": "101.452857",
+        "stop_id": "1008458",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "BD33 TAMAN SHAHBANDARAYA",
+        "stop_lat": "3.030178",
+        "stop_lon": "101.457712",
+        "stop_id": "1008454",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "BD35 TAMAN RAJA NONG",
+        "stop_lat": "3.028638",
+        "stop_lon": "101.461872",
+        "stop_id": "1008450",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "BD544 SK KAMPUNG JAWA (OPP)",
+        "stop_lat": "3.025083",
+        "stop_lon": "101.466582",
+        "stop_id": "1008448",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "TAMAN SAGA 3",
+        "stop_lat": "3.020639",
+        "stop_lon": "101.467021",
+        "stop_id": "1008446",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "TAMAN SEJATI 5",
+        "stop_lat": "3.016177",
+        "stop_lon": "101.466968",
+        "stop_id": "1008444",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "DEWAN SERBAGUNA TAMAN SENTOSA",
+        "stop_lat": "3.010841",
+        "stop_lon": "101.467375",
+        "stop_id": "1008442",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PASARAYA NSK",
+        "stop_lat": "3.007153",
+        "stop_lon": "101.478485",
+        "stop_id": "1008440",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "HOSPITAL PAKAR SENTOSA",
+        "stop_lat": "3.005388",
+        "stop_lon": "101.483227",
+        "stop_id": "1008438",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA881 BUKIT NAGA (BARAT)",
+        "stop_lat": "3.001331",
+        "stop_lon": "101.494346",
+        "stop_id": "1008436",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PANGSAPURI SRI AYU",
+        "stop_lat": "2.994351",
+        "stop_lon": "101.492657",
+        "stop_id": "1008432",
+        "stop_sequence": "32"
+    }
+]

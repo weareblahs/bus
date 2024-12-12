@@ -1,0 +1,233 @@
+[
+    {
+        "stop_name": "PJ436 LRT ASIA JAYA",
+        "stop_lat": "3.1045478035286",
+        "stop_lon": "101.6384299877",
+        "stop_id": "1001784",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ439 SK SRI PETALING (OPP)",
+        "stop_lat": "3.108625",
+        "stop_lon": "101.639152",
+        "stop_id": "1003320",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ267 PLAZA 33",
+        "stop_lat": "3.1104344949151",
+        "stop_lon": "101.6388356904",
+        "stop_id": "1001578",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ268 PJ MIDTOWN",
+        "stop_lat": "3.113255",
+        "stop_lon": "101.641136",
+        "stop_id": "1000471",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ269 NISSAN SERVICE PJ",
+        "stop_lat": "3.116491",
+        "stop_lon": "101.643032",
+        "stop_id": "1000650",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ239 PUSAT ASASI UIA",
+        "stop_lat": "3.119615",
+        "stop_lon": "101.643201",
+        "stop_id": "1000467",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ619 EASTIN HOTEL",
+        "stop_lat": "3.127502",
+        "stop_lon": "101.645319",
+        "stop_id": "1000603",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "(M) PJ823 MRT PHILEO DAMANSARA PINTU A",
+        "stop_lat": "3.128421",
+        "stop_lon": "101.642747",
+        "stop_id": "1007136",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ620 KG SERI DAMANSARA",
+        "stop_lat": "3.131587",
+        "stop_lon": "101.631946",
+        "stop_id": "1001707",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PERUMAHAN SEKSYEN 17/26",
+        "stop_lat": "3.128111",
+        "stop_lon": "101.630067",
+        "stop_id": "1005765",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PERUMAHAN SEKSYEN 17/21I",
+        "stop_lat": "3.126167",
+        "stop_lon": "101.629825",
+        "stop_id": "1005766",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "THE HUB SS2",
+        "stop_lat": "3.123977",
+        "stop_lon": "101.629384",
+        "stop_id": "1005768",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PANGSAPURI DAMANSARA BISTARI",
+        "stop_lat": "3.122104",
+        "stop_lon": "101.629143",
+        "stop_id": "1005767",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KOMERSIAL SEKSYEN 17/45",
+        "stop_lat": "3.119964",
+        "stop_lon": "101.629679",
+        "stop_id": "1005769",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ713 MENARA AM FIRST",
+        "stop_lat": "3.118036",
+        "stop_lon": "101.629488",
+        "stop_id": "1008646",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ210 HOTEL LISA DE INN",
+        "stop_lat": "3.118249",
+        "stop_lon": "101.630639",
+        "stop_id": "1000944",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ211 FLAT SEKSYEN 17 (SELATAN)",
+        "stop_lat": "3.118937",
+        "stop_lon": "101.633375",
+        "stop_id": "1003538",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ212 JAYA ONE MALL (OPP)",
+        "stop_lat": "3.118939",
+        "stop_lon": "101.635496",
+        "stop_id": "1004190",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ237 PUSAT ASASI UIA (SELATAN)",
+        "stop_lat": "3.118802",
+        "stop_lon": "101.639562",
+        "stop_id": "1002675",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ238 MASJID KOLEJ ISLAM",
+        "stop_lat": "3.118732",
+        "stop_lon": "101.640579",
+        "stop_id": "1001955",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ245 SMK SULTAN ABD SAMAD (TIMUR)",
+        "stop_lat": "3.118566",
+        "stop_lon": "101.645001",
+        "stop_id": "1003407",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ246 MAHSA AVENUE",
+        "stop_lat": "3.118239",
+        "stop_lon": "101.648064",
+        "stop_id": "1001077",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PJ247 MAHSA UNIVERSITY (TIMUR)",
+        "stop_lat": "3.1170217390042",
+        "stop_lon": "101.6497825531",
+        "stop_id": "1001007",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PJ248 PPUM MAIN GATE",
+        "stop_lat": "3.1144523951478",
+        "stop_lon": "101.65100238888",
+        "stop_id": "1002619",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PJ251 UNIVERSITY TOWER",
+        "stop_lat": "3.113503",
+        "stop_lon": "101.650419",
+        "stop_id": "1004179",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PJ252 SK SULTAN ALAM SHAH 2",
+        "stop_lat": "3.112273",
+        "stop_lon": "101.647177",
+        "stop_id": "1003630",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PJ253 GERAK BUDAYA",
+        "stop_lat": "3.111712",
+        "stop_lon": "101.646397",
+        "stop_id": "1002142",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PJ254 CONDOMINIUM EHSAN RIA",
+        "stop_lat": "3.109897",
+        "stop_lon": "101.644861",
+        "stop_id": "1008434",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PJ443 YAYASAN CANCERLINK",
+        "stop_lat": "3.108473",
+        "stop_lon": "101.645841",
+        "stop_id": "1004272",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PJ441 TASIK TAMAN JAYA",
+        "stop_lat": "3.103962",
+        "stop_lon": "101.648321",
+        "stop_id": "1003857",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "(M) PJ435 WISMA MCIS",
+        "stop_lat": "3.101044",
+        "stop_lon": "101.641252",
+        "stop_id": "1001509",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PJ436 LRT ASIA JAYA",
+        "stop_lat": "3.1045478035286",
+        "stop_lon": "101.6384299877",
+        "stop_id": "1001784",
+        "stop_sequence": "33"
+    }
+]

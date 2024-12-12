@@ -1,0 +1,149 @@
+[
+    {
+        "stop_name": "KL2014 APARTMENT SERI CERIA",
+        "stop_lat": "3.049908",
+        "stop_lon": "101.654281",
+        "stop_id": "1005059",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL2015 PPR PINGGIRAN BUKIT JALIL",
+        "stop_lat": "3.047828",
+        "stop_lon": "101.653974",
+        "stop_id": "1005058",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PARAGON HEIGHTS",
+        "stop_lat": "3.046102",
+        "stop_lon": "101.658877",
+        "stop_id": "1005056",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL2016 TAMAN LTAT",
+        "stop_lat": "3.048706",
+        "stop_lon": "101.664286",
+        "stop_id": "1005054",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) SJ362 LRT ALAM SUTERA",
+        "stop_lat": "3.054798",
+        "stop_lon": "101.657387",
+        "stop_id": "1006154",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ363 TRINITY GROUP",
+        "stop_lat": "3.053037",
+        "stop_lon": "101.653427",
+        "stop_id": "1001806",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "GIANT BK (OPP)",
+        "stop_lat": "3.049758",
+        "stop_lon": "101.647706",
+        "stop_id": "1006155",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ396 SMK SEKSYEN 4 BK",
+        "stop_lat": "3.045756",
+        "stop_lon": "101.645926",
+        "stop_id": "1006169",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ390 PERUMAHAN BK 5",
+        "stop_lat": "3.0431383416948",
+        "stop_lon": "101.64181376715",
+        "stop_id": "1000014",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ391 SMK SEKSYEN 3 BK (OPP)",
+        "stop_lat": "3.039055",
+        "stop_lon": "101.642649",
+        "stop_id": "1003155",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ392 PERUMAHAN HARMONY (OPP)",
+        "stop_lat": "3.037455",
+        "stop_lon": "101.647072",
+        "stop_id": "1000584",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ393 PERUMAHAN PERMAI",
+        "stop_lat": "3.0374772748177",
+        "stop_lon": "101.6496461669",
+        "stop_id": "1002419",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ394 IPD SUBANG JAYA",
+        "stop_lat": "3.038108",
+        "stop_lon": "101.651419",
+        "stop_id": "1001698",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ366 KINRARA GOLF CLUB",
+        "stop_lat": "3.0372347705665",
+        "stop_lon": "101.6548361739",
+        "stop_id": "1000879",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ367 PERUMAHAN HENING (OPP)",
+        "stop_lat": "3.036455",
+        "stop_lon": "101.658491",
+        "stop_id": "1000907",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) SJ368 PERUMAHAN MELODY (OPP)",
+        "stop_lat": "3.036294",
+        "stop_lon": "101.662527",
+        "stop_id": "1001849",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ369 MELODY KINRARA (OPP)",
+        "stop_lat": "3.0360102430403",
+        "stop_lon": "101.66516950768",
+        "stop_id": "1001995",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ370 SIMFONI KINRARA",
+        "stop_lat": "3.03601",
+        "stop_lon": "101.666517",
+        "stop_id": "1003263",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SJ371 PANGSAPURI ENGGANG (OPP)",
+        "stop_lat": "3.036118",
+        "stop_lon": "101.672652",
+        "stop_id": "1002145",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PARAGON HEIGHTS (OPP)",
+        "stop_lat": "3.045751",
+        "stop_lon": "101.658777",
+        "stop_id": "1005055",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL2012 PPR PINGGIRAN BUKIT JALIL",
+        "stop_lat": "3.047876",
+        "stop_lon": "101.653822",
+        "stop_id": "1005057",
+        "stop_sequence": "21"
+    }
+]

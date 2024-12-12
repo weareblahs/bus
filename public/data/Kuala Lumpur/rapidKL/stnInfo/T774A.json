@@ -1,0 +1,177 @@
+[
+    {
+        "stop_name": "SA1069 LRT GLENMARIE",
+        "stop_lat": "3.095085",
+        "stop_lon": "101.590224",
+        "stop_id": "1006551",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA964 EON GLENMARIE (OPP)",
+        "stop_lat": "3.092243",
+        "stop_lon": "101.583826",
+        "stop_id": "1006552",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA972 AUTO CITY GLENMARIE (TIMUR)",
+        "stop_lat": "3.089831",
+        "stop_lon": "101.576363",
+        "stop_id": "1006554",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA973 AUTO CITY GLENMARIE (BARAT)",
+        "stop_lat": "3.086647",
+        "stop_lon": "101.571911",
+        "stop_id": "1006556",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA974 BMW GLENMARIE",
+        "stop_lat": "3.082586",
+        "stop_lon": "101.567999",
+        "stop_id": "1006558",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA975 SHELL MALAYSIA TRADING (OPP)",
+        "stop_lat": "3.081144",
+        "stop_lon": "101.563663",
+        "stop_id": "1006560",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA976 PETRONAS BT 3 (OPP)",
+        "stop_lat": "3.076595",
+        "stop_lon": "101.559788",
+        "stop_id": "1006562",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA977 JEJANTAS KTM BATU TIGA",
+        "stop_lat": "3.076135",
+        "stop_lon": "101.557129",
+        "stop_id": "1006564",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA985 BRUNSFIELD RIVERVIEW",
+        "stop_lat": "3.080616",
+        "stop_lon": "101.553383",
+        "stop_id": "1006566",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA115 EMIRA RESIDENCE",
+        "stop_lat": "3.078771",
+        "stop_lon": "101.547479",
+        "stop_id": "1006568",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA252 PUSAT SEDAR DIRI",
+        "stop_lat": "3.0824567568123",
+        "stop_lon": "101.54001137817",
+        "stop_id": "1002681",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA253 MBSA EXTREME PARK (TIMUR)",
+        "stop_lat": "3.086397",
+        "stop_lon": "101.541254",
+        "stop_id": "1006569",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA241 KOLEJ PTPL",
+        "stop_lat": "3.0913824476921",
+        "stop_lon": "101.54433875175",
+        "stop_id": "1001600",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA242 METIA RESIDENCES",
+        "stop_lat": "3.090292",
+        "stop_lon": "101.547757",
+        "stop_id": "1006658",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SA947 GIANT SEKSYEN 13",
+        "stop_lat": "3.085394",
+        "stop_lon": "101.54981",
+        "stop_id": "1000861",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) SA237 PANGSAPURI PERDANA",
+        "stop_lat": "3.085738",
+        "stop_lon": "101.548798",
+        "stop_id": "1006655",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA990 BRUNSFIELD RIVERVIEW (OPP)",
+        "stop_lat": "3.080713",
+        "stop_lon": "101.553239",
+        "stop_id": "1006567",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA978 JEJANTAS KTM BATU TIGA",
+        "stop_lat": "3.076272",
+        "stop_lon": "101.557189",
+        "stop_id": "1006565",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SA979 PETRONAS BT 3",
+        "stop_lat": "3.076618",
+        "stop_lon": "101.559599",
+        "stop_id": "1006563",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA980 SHELL MALAYSIA TRADING",
+        "stop_lat": "3.081252",
+        "stop_lon": "101.563412",
+        "stop_id": "1006561",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA981 BMW GLENMARIE (OPP)",
+        "stop_lat": "3.082695",
+        "stop_lon": "101.567745",
+        "stop_id": "1006559",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA982 TEMASYA KASIH",
+        "stop_lat": "3.086513",
+        "stop_lon": "101.571496",
+        "stop_id": "1006557",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA983 AUTO CITY GLENMARIE (TIMUR)",
+        "stop_lat": "3.089739",
+        "stop_lon": "101.575704",
+        "stop_id": "1006555",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SA984 EON GLENMARIE",
+        "stop_lat": "3.092256",
+        "stop_lon": "101.583298",
+        "stop_id": "1006553",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA1069 LRT GLENMARIE",
+        "stop_lat": "3.095085",
+        "stop_lon": "101.590224",
+        "stop_id": "1006551",
+        "stop_sequence": "25"
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "stop_name": "SJ212 HENTIAN PUTRA PERMAI",
+        "stop_lat": "2.996214",
+        "stop_lon": "101.668611",
+        "stop_id": "1006324",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ218 EQUINE PARK",
+        "stop_lat": "2.995113",
+        "stop_lon": "101.672158",
+        "stop_id": "1000208",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ219 AEON JUSCO EQUINE PARK",
+        "stop_lat": "2.993532",
+        "stop_lon": "101.674266",
+        "stop_id": "1001032",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ220 PETRONAS EQUINE PARK",
+        "stop_lat": "2.994787",
+        "stop_lon": "101.676741",
+        "stop_id": "1002482",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ191 EQUINE BOULEVARD",
+        "stop_lat": "2.995648",
+        "stop_lon": "101.678848",
+        "stop_id": "1000620",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ192 NAHRIM",
+        "stop_lat": "3.001042",
+        "stop_lon": "101.687174",
+        "stop_id": "1004011",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ186 SK TAMAN UNIVERSITI",
+        "stop_lat": "3.0050238519771",
+        "stop_lon": "101.69056572622",
+        "stop_id": "1000425",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ187 TAMAN UNIVERSITI INDAH (BARAT)",
+        "stop_lat": "3.0074275932976",
+        "stop_lon": "101.69080038812",
+        "stop_id": "1003425",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ188 TAMAN UNIVERSITI INDAH (TIMUR)",
+        "stop_lat": "3.008325",
+        "stop_lon": "101.693167",
+        "stop_id": "1003506",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KOMERSIAL SRI KEMBANGAN",
+        "stop_lat": "3.013945",
+        "stop_lon": "101.697211",
+        "stop_id": "1008113",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SUN GARDEN VILLA",
+        "stop_lat": "3.016653",
+        "stop_lon": "101.696538",
+        "stop_id": "1008114",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "BUKIT SERDANG 6",
+        "stop_lat": "3.021233",
+        "stop_lon": "101.696605",
+        "stop_id": "1008115",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "BUKIT SERDANG 5",
+        "stop_lat": "3.022298",
+        "stop_lon": "101.698693",
+        "stop_id": "1008116",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "APARTMENT SRI MEWAH",
+        "stop_lat": "3.023331",
+        "stop_lon": "101.698151",
+        "stop_id": "1008009",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PANGSAPURI KIAMBANG",
+        "stop_lat": "3.026123",
+        "stop_lon": "101.699251",
+        "stop_id": "1008117",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "APT SRI IMPIAN",
+        "stop_lat": "3.032655",
+        "stop_lon": "101.699001",
+        "stop_id": "1008118",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "APT MEGARIA TULIP",
+        "stop_lat": "3.034784",
+        "stop_lon": "101.700099",
+        "stop_id": "1008120",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "APT MEGARIA DAISI",
+        "stop_lat": "3.035849",
+        "stop_lon": "101.699306",
+        "stop_id": "1008122",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KOMERSIAL BUKIT SERDANG",
+        "stop_lat": "3.038119",
+        "stop_lon": "101.697874",
+        "stop_id": "1008124",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SIGNATURE BS9",
+        "stop_lat": "3.037441",
+        "stop_lon": "101.694248",
+        "stop_id": "1008126",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "APT VISTA SERDANG (OPP)",
+        "stop_lat": "3.037442",
+        "stop_lon": "101.690313",
+        "stop_id": "1008127",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "TAMAN BUKIT SERDANG BS11",
+        "stop_lat": "3.039762",
+        "stop_lon": "101.688321",
+        "stop_id": "1008129",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PANGSAPURI ORKID",
+        "stop_lat": "3.041807",
+        "stop_lon": "101.687801",
+        "stop_id": "1008131",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "VILLA PARK",
+        "stop_lat": "3.044055",
+        "stop_lon": "101.688872",
+        "stop_id": "1008132",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "DEWAN SERBAGUNA MPSJ",
+        "stop_lat": "3.042801",
+        "stop_lon": "101.690291",
+        "stop_id": "1008133",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "TAMAN BUKIT SERDANG",
+        "stop_lat": "3.039634",
+        "stop_lon": "101.688514",
+        "stop_id": "1008130",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "APT VISTA SERDANG",
+        "stop_lat": "3.037576",
+        "stop_lon": "101.689787",
+        "stop_id": "1008128",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KOMERSIAL 32 AVENUE",
+        "stop_lat": "3.037642",
+        "stop_lon": "101.698009",
+        "stop_id": "1008125",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PANGSAPURI BAYU",
+        "stop_lat": "3.035988",
+        "stop_lon": "101.69962",
+        "stop_id": "1008123",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "APT MEGARIA TULIP (OPP)",
+        "stop_lat": "3.034593",
+        "stop_lon": "101.700208",
+        "stop_id": "1008121",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "APT SRI IMPIAN (OPP)",
+        "stop_lat": "3.032628",
+        "stop_lon": "101.699337",
+        "stop_id": "1008119",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PERUMAHAN SK 1",
+        "stop_lat": "3.028501",
+        "stop_lon": "101.701419",
+        "stop_id": "1008012",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PERUMAHAN SK 2",
+        "stop_lat": "3.027655",
+        "stop_lon": "101.702553",
+        "stop_id": "1008013",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PERUMAHAN SK 8",
+        "stop_lat": "3.024905",
+        "stop_lon": "101.704751",
+        "stop_id": "1008014",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SJ177 PASAR SERI KEMBANGAN",
+        "stop_lat": "3.023464481587",
+        "stop_lon": "101.70684828288",
+        "stop_id": "1002256",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SJ109 BALAI POLIS SERI KEMBANGAN",
+        "stop_lat": "3.024048",
+        "stop_lon": "101.708811",
+        "stop_id": "1006261",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SJ786 MRT SERDANG JAYA PINTU A",
+        "stop_lat": "3.021584",
+        "stop_lon": "101.709085",
+        "stop_id": "1005352",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KOMERSIAL SERDANG JAYA",
+        "stop_lat": "3.019391",
+        "stop_lon": "101.711938",
+        "stop_id": "1006345",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PANGSAPURI PKNS CENDANA",
+        "stop_lat": "3.022493",
+        "stop_lon": "101.713234",
+        "stop_id": "1008168",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "PANGSAPURI PKNS",
+        "stop_lat": "3.023621",
+        "stop_lon": "101.710423",
+        "stop_id": "1008169",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "STADIUM SERDANG JAYA (OPP)",
+        "stop_lat": "3.021294",
+        "stop_lon": "101.711456",
+        "stop_id": "1008170",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KOMERSIAL SRI SERDANG",
+        "stop_lat": "3.019108",
+        "stop_lon": "101.711986",
+        "stop_id": "1006328",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "TAMAN SRI ANDALAS SK",
+        "stop_lat": "3.017118",
+        "stop_lon": "101.707892",
+        "stop_id": "1008017",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "TAMAN SERDANG JAYA",
+        "stop_lat": "3.01814",
+        "stop_lon": "101.70552",
+        "stop_id": "1008018",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "TAMAN BUKIT SERDANG SEKSYEN 4",
+        "stop_lat": "3.020698",
+        "stop_lon": "101.700278",
+        "stop_id": "1008010",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI PINANG (OPP)",
+        "stop_lat": "3.015485",
+        "stop_lon": "101.696907",
+        "stop_id": "1008167",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SJ183 TAMAN UNIVERSITI INDAH (TIMUR)",
+        "stop_lat": "3.008108",
+        "stop_lon": "101.693084",
+        "stop_id": "1003507",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SJ184 TAMAN UNIVERSITI INDAH (BARAT)",
+        "stop_lat": "3.0074292991803",
+        "stop_lon": "101.69104232711",
+        "stop_id": "1002771",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "(M) SJ185 SK TAMAN UNIVERSITI (OPP)",
+        "stop_lat": "3.0057995428809",
+        "stop_lon": "101.69082700717",
+        "stop_id": "1003333",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "SJ189 NAHRIM (OPP)",
+        "stop_lat": "3.000592",
+        "stop_lon": "101.687074",
+        "stop_id": "1004010",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "SJ190 EQUINE BOULEVARD",
+        "stop_lat": "2.995424",
+        "stop_lon": "101.679221",
+        "stop_id": "1008112",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "SJ205 AEON JUSCO EQUINE PARK (OPP)",
+        "stop_lat": "2.993285",
+        "stop_lon": "101.674086",
+        "stop_id": "1001033",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "SJ208 EQUINE PARK",
+        "stop_lat": "2.994967",
+        "stop_lon": "101.671973",
+        "stop_id": "1000207",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "SJ214 KOMERSIAL PUTRA PERMAI 9",
+        "stop_lat": "2.996404",
+        "stop_lon": "101.669648",
+        "stop_id": "1001272",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "SJ212 HENTIAN PUTRA PERMAI",
+        "stop_lat": "2.996214",
+        "stop_lon": "101.668611",
+        "stop_id": "1006324",
+        "stop_sequence": "55"
+    }
+]

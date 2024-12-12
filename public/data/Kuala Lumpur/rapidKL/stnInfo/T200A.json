@@ -1,0 +1,107 @@
+[
+    {
+        "stop_name": "(M) SL311 LRT GOMBAK",
+        "stop_lat": "3.231094",
+        "stop_lon": "101.724291",
+        "stop_id": "1001801",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL198 FLAT TAMAN MELATI E6",
+        "stop_lat": "3.227109",
+        "stop_lon": "101.725318",
+        "stop_id": "1001322",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SL162 HUB UIA",
+        "stop_lat": "3.251168",
+        "stop_lon": "101.741528",
+        "stop_id": "1000972",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SL152 UIAM (TIMUR)",
+        "stop_lat": "3.249705",
+        "stop_lon": "101.738919",
+        "stop_id": "1007531",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) SL153 KENMS",
+        "stop_lat": "3.249177",
+        "stop_lon": "101.736809",
+        "stop_id": "1000414",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SL154 MAHALLAH SAFIYYAH",
+        "stop_lat": "3.249358",
+        "stop_lon": "101.734785",
+        "stop_id": "1000415",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SL155 UIAM (SELATAN)",
+        "stop_lat": "3.2495734449227",
+        "stop_lon": "101.73377459816",
+        "stop_id": "1000408",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SL156 KAED UIAM",
+        "stop_lat": "3.2506262572119",
+        "stop_lon": "101.73125687949",
+        "stop_id": "1000405",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SL157 KULIYAH ENGINEERING UIAM",
+        "stop_lat": "3.2542958679968",
+        "stop_lon": "101.73214626876",
+        "stop_id": "1000409",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SL158 KULIYAH EDUCATION UIAM",
+        "stop_lat": "3.2541942351661",
+        "stop_lon": "101.73347022433",
+        "stop_id": "1000410",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SL159 UIAM (UTARA)",
+        "stop_lat": "3.254087",
+        "stop_lon": "101.734346",
+        "stop_id": "1000413",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SL160 IRKHS",
+        "stop_lat": "3.2530516598028",
+        "stop_lon": "101.73595531626",
+        "stop_id": "1000411",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SL161 PERPUSTAKAAN UIAM",
+        "stop_lat": "3.2522318220532",
+        "stop_lon": "101.73856438337",
+        "stop_id": "1000412",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL153 FLAT TAMAN MELATI A9",
+        "stop_lat": "3.226889",
+        "stop_lon": "101.725241",
+        "stop_id": "1001321",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) SL311 LRT GOMBAK",
+        "stop_lat": "3.231094",
+        "stop_lon": "101.724291",
+        "stop_id": "1001801",
+        "stop_sequence": "15"
+    }
+]

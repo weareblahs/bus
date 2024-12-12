@@ -1,0 +1,317 @@
+[
+    {
+        "stop_name": "SA442 HENTIAN SEKSYEN 19",
+        "stop_lat": "3.05578",
+        "stop_lon": "101.525905",
+        "stop_id": "1003088",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA431 MASJID NAHDHAH AL-ISLAM (OPP)",
+        "stop_lat": "3.0536166666667",
+        "stop_lon": "101.52243333333",
+        "stop_id": "1006009",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA432 FLAT BLOK 6 SEKSYEN 18",
+        "stop_lat": "3.048957",
+        "stop_lon": "101.522314",
+        "stop_id": "1006620",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA433 SEKSYEN 18  (SELATAN)",
+        "stop_lat": "3.046819",
+        "stop_lon": "101.522915",
+        "stop_id": "1006621",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "DEWAN MBSA SEKSYEN 18",
+        "stop_lat": "3.045434",
+        "stop_lon": "101.520781",
+        "stop_id": "1006623",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "MASJID AL-AZHARIAH (OPP)",
+        "stop_lat": "3.044988",
+        "stop_lon": "101.519455",
+        "stop_id": "1008171",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KOMERSIAL SEKSYEN 18",
+        "stop_lat": "3.045272",
+        "stop_lon": "101.518018",
+        "stop_id": "1006625",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJKT SG RENGGAM",
+        "stop_lat": "3.048146",
+        "stop_lon": "101.517196",
+        "stop_id": "1006626",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "MASJID ALHIDAYAH (OPP)",
+        "stop_lat": "3.049338",
+        "stop_lon": "101.515875",
+        "stop_id": "1006627",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA547 JPS SELANGOR",
+        "stop_lat": "3.047325",
+        "stop_lon": "101.509836",
+        "stop_id": "1001023",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "TERMINAL SEKSYEN 17",
+        "stop_lat": "3.046956",
+        "stop_lon": "101.503282",
+        "stop_id": "1006629",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA592 JPS SELANGOR",
+        "stop_lat": "3.047628",
+        "stop_lon": "101.509695",
+        "stop_id": "1001024",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA593 KOLEJ UITM SEKSYEN 18",
+        "stop_lat": "3.044767",
+        "stop_lon": "101.515034",
+        "stop_id": "1009246",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA479 PUSAT JAGAAN ALHAFIZ",
+        "stop_lat": "3.040972",
+        "stop_lon": "101.513652",
+        "stop_id": "1006630",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "FLAT PKNS BLOK 79 (SEKSYEN 24)",
+        "stop_lat": "3.039317",
+        "stop_lon": "101.514631",
+        "stop_id": "1008166",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA481 KOLEJ TINGKATAN ENAM SHAH ALAM",
+        "stop_lat": "3.037777",
+        "stop_lon": "101.515572",
+        "stop_id": "1006631",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "BLOK 72 SEKSYEN 24",
+        "stop_lat": "3.035219",
+        "stop_lon": "101.517245",
+        "stop_id": "1006632",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA484 KOMERSIAL SEKSYEN 24",
+        "stop_lat": "3.036664",
+        "stop_lon": "101.520485",
+        "stop_id": "1006633",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "DEWAN BERINGIN SEKSYEN 24",
+        "stop_lat": "3.042292",
+        "stop_lon": "101.520471",
+        "stop_id": "1008158",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA544 FLAT SEKSYEN 24",
+        "stop_lat": "3.043525",
+        "stop_lon": "101.520308",
+        "stop_id": "1002343",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA545 PANGSAPURI PKNS BLOK 12",
+        "stop_lat": "3.043472",
+        "stop_lon": "101.515672",
+        "stop_id": "1000642",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA546 KOLEJ UITM SEKSYEN 18",
+        "stop_lat": "3.044906",
+        "stop_lon": "101.514597",
+        "stop_id": "1000175",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA594 PETRON SEKSYEN 18",
+        "stop_lat": "3.043687",
+        "stop_lon": "101.515901",
+        "stop_id": "1000867",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "MASJID AL-AZHARIAH",
+        "stop_lat": "3.044962",
+        "stop_lon": "101.519006",
+        "stop_id": "1008172",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "DEWAN MBSA SEKSYEN 18 (OPP)",
+        "stop_lat": "3.045587",
+        "stop_lon": "101.520909",
+        "stop_id": "1006624",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA439 FLAT BLOK 6 (OPP)",
+        "stop_lat": "3.049676",
+        "stop_lon": "101.521917",
+        "stop_id": "1007755",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA434 PADANG SEKSYEN 18",
+        "stop_lat": "3.046971",
+        "stop_lon": "101.522713",
+        "stop_id": "1006622",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA440 MASJID NAHDHAH AL-ISLAM",
+        "stop_lat": "3.053578",
+        "stop_lon": "101.522316",
+        "stop_id": "1001946",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA442 HENTIAN SEKSYEN 19",
+        "stop_lat": "3.05578",
+        "stop_lon": "101.525905",
+        "stop_id": "1003088",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SA428 CIAST",
+        "stop_lat": "3.052867",
+        "stop_lon": "101.524969",
+        "stop_id": "1000478",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA934 SMK SEKSYEN 18 (OPP)",
+        "stop_lat": "3.0518101114951",
+        "stop_lon": "101.52435336625",
+        "stop_id": "1003090",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SA935 SEKYEN 19 (UTARA)",
+        "stop_lat": "3.0491676178905",
+        "stop_lon": "101.52511848214",
+        "stop_id": "1003091",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SA425 SEKSYEN 23 (BARAT)",
+        "stop_lat": "3.0485635236283",
+        "stop_lon": "101.52802579656",
+        "stop_id": "1000734",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SA454 SEKSYEN 19 (SELATAN)",
+        "stop_lat": "3.0486761746484",
+        "stop_lon": "101.53037420389",
+        "stop_id": "1002229",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "DEWAN BESAR TANJUNG",
+        "stop_lat": "3.049379",
+        "stop_lon": "101.532844",
+        "stop_id": "1006635",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KUARTERS PENDIDIKAN SEKSYEN 19",
+        "stop_lat": "3.050775",
+        "stop_lon": "101.533857",
+        "stop_id": "1006636",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KUARTERS MBSA SEKSYEN 20",
+        "stop_lat": "3.051916",
+        "stop_lon": "101.538132",
+        "stop_id": "1006701",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SA461 HENTIAN JUBLI PERAK",
+        "stop_lat": "3.0521086003269",
+        "stop_lon": "101.54180352842",
+        "stop_id": "1003757",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SA462 SEKSYEN 20 (TIMUR)",
+        "stop_lat": "3.0551123911709",
+        "stop_lon": "101.54269314337",
+        "stop_id": "1001566",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SA459 HOSPITAL KPJ",
+        "stop_lat": "3.056779",
+        "stop_lon": "101.540854",
+        "stop_id": "1006638",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "FLAT PKNS SEKSYEN 20",
+        "stop_lat": "3.057821",
+        "stop_lon": "101.536689",
+        "stop_id": "1006639",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "MASJID AL-UBUDIYAH (OPP)",
+        "stop_lat": "3.056516",
+        "stop_lon": "101.532726",
+        "stop_id": "1006640",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SA448 SRA INTEGRASI",
+        "stop_lat": "3.053781",
+        "stop_lon": "101.532178",
+        "stop_id": "1006641",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SA453 SEKSYEN 19 (TIMUR)",
+        "stop_lat": "3.052949",
+        "stop_lon": "101.529385",
+        "stop_id": "1006642",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "SA442 HENTIAN SEKSYEN 19",
+        "stop_lat": "3.05578",
+        "stop_lon": "101.525905",
+        "stop_id": "1003088",
+        "stop_sequence": "45"
+    }
+]

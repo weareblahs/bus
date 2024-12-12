@@ -1,0 +1,163 @@
+[
+    {
+        "stop_name": "(M) SL311 LRT GOMBAK",
+        "stop_lat": "3.231094",
+        "stop_lon": "101.724291",
+        "stop_id": "1001801",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL198 FLAT TAMAN MELATI E6",
+        "stop_lat": "3.227109",
+        "stop_lon": "101.725318",
+        "stop_id": "1001322",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SL467 SHELL TAMAN MELATI",
+        "stop_lat": "3.2336689399571",
+        "stop_lon": "101.72446424633",
+        "stop_id": "1003572",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SL222 TAMAN PRIMA SRI GOMBAK",
+        "stop_lat": "3.238024",
+        "stop_lon": "101.699406",
+        "stop_id": "1003525",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SL176 DEWAN BERINGIN GOMBAK",
+        "stop_lat": "3.2399559167038",
+        "stop_lon": "101.69941776228",
+        "stop_id": "1000554",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SL235 URBAN 360 (OPP)",
+        "stop_lat": "3.240734",
+        "stop_lon": "101.701382",
+        "stop_id": "1003881",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SL236 PETRONAS SRI GOMBAK (OPP)",
+        "stop_lat": "3.240782",
+        "stop_lon": "101.703325",
+        "stop_id": "1000216",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "(M) SL503 TAMAN SRI GOMBAK FASA 4 (BARAT)",
+        "stop_lat": "3.240822",
+        "stop_lon": "101.707059",
+        "stop_id": "1003500",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SL242 KOMERSIAL SERI GOMBAK FASA 5",
+        "stop_lat": "3.241993",
+        "stop_lon": "101.709589",
+        "stop_id": "1002956",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SL243 SMK HILLCREST (OPP)",
+        "stop_lat": "3.242916",
+        "stop_lon": "101.707509",
+        "stop_id": "1003377",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SL245 KOMERSIAL TAMAN SRI GOMBAK",
+        "stop_lat": "3.242964",
+        "stop_lon": "101.703227",
+        "stop_id": "1002583",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SL199 TAMAN SRI GOMBAK FASA 6",
+        "stop_lat": "3.244748",
+        "stop_lon": "101.702019",
+        "stop_id": "1001916",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SL505 MASJID SRI GOMBAK (OPP)",
+        "stop_lat": "3.247365",
+        "stop_lon": "101.703085",
+        "stop_id": "1001950",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SL200 TASIK SRI GOMBAK FASA 8",
+        "stop_lat": "3.248616",
+        "stop_lon": "101.705428",
+        "stop_id": "1003560",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "RUMAH NO 25",
+        "stop_lat": "3.249489",
+        "stop_lon": "101.704471",
+        "stop_id": "1006093",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SL201 PERUMAHAN TAMAN SRI GOMBAK (TIMUR)",
+        "stop_lat": "3.250064",
+        "stop_lon": "101.703258",
+        "stop_id": "1003796",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SL202 TAMAN TASIK SRI GOMBAK",
+        "stop_lat": "3.248729",
+        "stop_lon": "101.701441",
+        "stop_id": "1003556",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SL203 PERUMAHAN SRI GOMBAK FASA 9",
+        "stop_lat": "3.2492518767276",
+        "stop_lon": "101.69920552823",
+        "stop_id": "1003779",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SL177 FLAT PINGGIRAN",
+        "stop_lat": "3.250229363404",
+        "stop_lon": "101.69428942392",
+        "stop_id": "1003743",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SL179 KG MELAYU WIRA DAMAI",
+        "stop_lat": "3.250272",
+        "stop_lon": "101.691855",
+        "stop_id": "1000895",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SL180 APARTMENT SAUJANA",
+        "stop_lat": "3.251327",
+        "stop_lon": "101.688986",
+        "stop_id": "1000141",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SL181 PANGSAPURI KENANGA (OPP)",
+        "stop_lat": "3.251065",
+        "stop_lon": "101.685414",
+        "stop_id": "1000880",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SL294 HAB WIRA DAMAI",
+        "stop_lat": "3.251574",
+        "stop_lon": "101.684494",
+        "stop_id": "1002132",
+        "stop_sequence": "23"
+    }
+]

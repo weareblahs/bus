@@ -1,0 +1,352 @@
+[
+    {
+        "stop_name": "(M) KL101 HUB LEBUH PUDU",
+        "stop_lat": "3.1464756605009",
+        "stop_lon": "101.69819178245",
+        "stop_id": "1002081",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL119 HOSPITAL TUNG SHIN",
+        "stop_lat": "3.1452216666667",
+        "stop_lon": "101.70462",
+        "stop_id": "1000934",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL120 HOTEL SWISS GARDEN (OPP)",
+        "stop_lat": "3.144438",
+        "stop_lon": "101.706043",
+        "stop_id": "1000953",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL866 FURAMA",
+        "stop_lat": "3.138532",
+        "stop_lon": "101.710008",
+        "stop_id": "1003928",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL867 LRT PUDU/MAJESTIC (OPP)",
+        "stop_lat": "3.1365982275533",
+        "stop_lon": "101.71170165741",
+        "stop_id": "1001847",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL382 KOMPLEKS E-MART",
+        "stop_lat": "3.135202",
+        "stop_lon": "101.714747",
+        "stop_id": "1002287",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL383 PLAZA ELEKTRONIK",
+        "stop_lat": "3.1352373175407",
+        "stop_lon": "101.71667896782",
+        "stop_id": "1001306",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL891 WISMA INDAH",
+        "stop_lat": "3.1337223802537",
+        "stop_lon": "101.71838281705",
+        "stop_id": "1004241",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL868 ALL SAINTS CHURCH",
+        "stop_lat": "3.1303842695455",
+        "stop_lon": "101.71871223005",
+        "stop_id": "1000855",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL366 WARISAN CITYVIEW (OPP)",
+        "stop_lat": "3.128962",
+        "stop_lon": "101.720501",
+        "stop_id": "1001035",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL367 SUNWAY MEDICAL VELOCITY",
+        "stop_lat": "3.127684",
+        "stop_lon": "101.722349",
+        "stop_id": "1000666",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL368 AEON MALURI",
+        "stop_lat": "3.1253230755966",
+        "stop_lon": "101.72697999582",
+        "stop_id": "1001206",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1702 STADIUM BADMINTON KL (OPP)",
+        "stop_lat": "3.119263",
+        "stop_lon": "101.728402",
+        "stop_id": "1000276",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1703 KOMPLEKS DARUL PUTERI",
+        "stop_lat": "3.116648",
+        "stop_lon": "101.728274",
+        "stop_id": "1002248",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1704 BHP CHERAS",
+        "stop_lat": "3.1097296624857",
+        "stop_lon": "101.730216195",
+        "stop_id": "1001723",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1705 TAMAN MIDAH (UTARA)",
+        "stop_lat": "3.102694",
+        "stop_lon": "101.734135",
+        "stop_id": "1003485",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "(M) KL756 MRT TAMAN MUTIARA PINTU B",
+        "stop_lat": "3.091753",
+        "stop_lon": "101.740472",
+        "stop_id": "1007156",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL757 CHERAS LEISURE MALL",
+        "stop_lat": "3.08921001753",
+        "stop_lon": "101.74116607053",
+        "stop_id": "1001748",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL919 TAMAN BUKIT HIJAU",
+        "stop_lat": "3.0855949503916",
+        "stop_lon": "101.7419797396",
+        "stop_id": "1000438",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KJ712 CHERAS ZEN PARK",
+        "stop_lat": "3.0784949256787",
+        "stop_lon": "101.75010903326",
+        "stop_id": "1002520",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KJ702 PGA/CUEPACS",
+        "stop_lat": "3.0763218861465",
+        "stop_lon": "101.75597940914",
+        "stop_id": "1002523",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KJ38 TAMAN SUNTEX",
+        "stop_lat": "3.0713270806228",
+        "stop_lon": "101.76731929123",
+        "stop_id": "1002809",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KJ39 SK BT 9 (OPP)",
+        "stop_lat": "3.070484956708",
+        "stop_lon": "101.76874376578",
+        "stop_id": "1003288",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KJ40 BALAI POLIS BT 9 (OPP)",
+        "stop_lat": "3.0689271880417",
+        "stop_lon": "101.77057332421",
+        "stop_id": "1000193",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KJ41 SRK BATU 9",
+        "stop_lat": "3.0676408187344",
+        "stop_lon": "101.77353610581",
+        "stop_id": "1003631",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KJ42 SRA BATU 10",
+        "stop_lat": "3.064788",
+        "stop_lon": "101.775537",
+        "stop_id": "1003597",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KJ43 KILANG PAPAN",
+        "stop_lat": "3.0620392931633",
+        "stop_lon": "101.77498546239",
+        "stop_id": "1001495",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KJ717 MASJID BATU 10 CHERAS",
+        "stop_lat": "3.059464",
+        "stop_lon": "101.774237",
+        "stop_id": "1001905",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KJ720 SPG PEKAN BT 11",
+        "stop_lat": "3.042845",
+        "stop_lon": "101.774955",
+        "stop_id": "1003532",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KJ721 PUSAT FLORA CHERAS",
+        "stop_lat": "3.039165",
+        "stop_lon": "101.773322",
+        "stop_id": "1002659",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KJ722 SPG SG LONG",
+        "stop_lat": "3.0362484782274",
+        "stop_lon": "101.7718772234",
+        "stop_id": "1003544",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KJ723 PERABOT AL-QAMAR",
+        "stop_lat": "3.030482756913",
+        "stop_lon": "101.7698826228",
+        "stop_id": "1002399",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KJ184 TAMAN DESA BARU",
+        "stop_lat": "3.0281435609237",
+        "stop_lon": "101.77164616172",
+        "stop_id": "1000461",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KJ185 JALAN SARJAN MAT",
+        "stop_lat": "3.025809",
+        "stop_lon": "101.773917",
+        "stop_id": "1000614",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KJ186 LOT 4291",
+        "stop_lat": "3.024653",
+        "stop_lon": "101.774385",
+        "stop_id": "1002083",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KJ187 MASJID SG SEKAMAT (OPP)",
+        "stop_lat": "3.0219241574636",
+        "stop_lon": "101.77556894731",
+        "stop_id": "1003764",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KJ188 SHELL TAMAN DELIMA",
+        "stop_lat": "3.0165904633369",
+        "stop_lon": "101.77696140086",
+        "stop_id": "1003226",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KJ189 TAMAN MESRA",
+        "stop_lat": "3.013138",
+        "stop_lon": "101.778157",
+        "stop_id": "1003763",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KJ190 RTM KAJANG",
+        "stop_lat": "3.0083430164605",
+        "stop_lon": "101.78117899078",
+        "stop_id": "1002836",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KJ191 SMK SAAS",
+        "stop_lat": "3.0058163904371",
+        "stop_lon": "101.78223202472",
+        "stop_id": "1003391",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KJ642 KPJ KAJANG",
+        "stop_lat": "2.9985519956914",
+        "stop_lon": "101.78591191589",
+        "stop_id": "1001622",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KJ643 KAJANG PLAZA MEDICAL CENTRE",
+        "stop_lat": "2.995466",
+        "stop_lon": "101.787812",
+        "stop_id": "1000924",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KJ508 PEKAN KAJANG",
+        "stop_lat": "2.991911",
+        "stop_lon": "101.787865",
+        "stop_id": "1004231",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KJ509 MASJID INDIA KAJANG",
+        "stop_lat": "2.985971774422",
+        "stop_lon": "101.78985371103",
+        "stop_id": "1000890",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KJ510 MRT KAJANG",
+        "stop_lat": "2.982685",
+        "stop_lon": "101.790098",
+        "stop_id": "1007267",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KJ511 TAMAN HIJAU",
+        "stop_lat": "2.9808280635305",
+        "stop_lon": "101.78989943649",
+        "stop_id": "1001332",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KJ512 TAMAN SRI REKO",
+        "stop_lat": "2.979076",
+        "stop_lon": "101.789857",
+        "stop_id": "1001571",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KJ205 TAMAN SRI LANGAT 2",
+        "stop_lat": "2.974815",
+        "stop_lon": "101.789903",
+        "stop_id": "1008354",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KJ206 SAVILLE KAJANG (OPP)",
+        "stop_lat": "2.971819",
+        "stop_lon": "101.789861",
+        "stop_id": "1003759",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KJ208 SHELL (OPP)",
+        "stop_lat": "2.963936",
+        "stop_lon": "101.791419",
+        "stop_id": "1003225",
+        "stop_sequence": "50"
+    }
+]

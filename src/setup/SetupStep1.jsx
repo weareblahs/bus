@@ -43,7 +43,7 @@ export const SetupStep1 = () => {
           {providers.map((p) => {
             return (
               <div
-                className={buttonStatus}
+                className="grid grid-cols-2 hover:bg-white hover:text-black transition-all p-6 rounded-lg"
                 onClick={() => setAll(p.providerName, p.state, p.endpoint)}
               >
                 <div className="col-span-1 ms-auto me-auto mt-auto mb-auto text-4xl">

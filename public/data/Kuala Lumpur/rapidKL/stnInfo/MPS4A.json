@@ -1,0 +1,338 @@
+[
+    {
+        "stop_name": "SL315 KEPONG INDUSTRIAL PARK",
+        "stop_lat": "3.206837",
+        "stop_lon": "101.607239",
+        "stop_id": "1001404",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SL316 TAMAN WANGSA PERMAI/COCOMART",
+        "stop_lat": "3.208377",
+        "stop_lon": "101.611257",
+        "stop_id": "1000499",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SL312 DESA AMAN PURI (SELATAN)",
+        "stop_lat": "3.208862",
+        "stop_lon": "101.614937",
+        "stop_id": "1003213",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SL623 SK AMANPURI",
+        "stop_lat": "3.216236",
+        "stop_lon": "101.613845",
+        "stop_id": "1007597",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SL624 APARTMENT DESA SATU",
+        "stop_lat": "3.214185",
+        "stop_lon": "101.615035",
+        "stop_id": "1007598",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SL1 APARTMENT DESA DUA",
+        "stop_lat": "3.212391",
+        "stop_lon": "101.615622",
+        "stop_id": "1000074",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SL2 DESA AMAN PURI (UTARA)",
+        "stop_lat": "3.211352",
+        "stop_lon": "101.616918",
+        "stop_id": "1000547",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SL628 PADANG BOLA TAMAN EHSAN",
+        "stop_lat": "3.218822",
+        "stop_lon": "101.621881",
+        "stop_id": "1007600",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SL629 PASAR MODEN TAMAN EHSAN",
+        "stop_lat": "3.220915",
+        "stop_lon": "101.624777",
+        "stop_id": "1007601",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SL630 PERUMAHAN TAMAN EHSAN JLN E5/1",
+        "stop_lat": "3.223003",
+        "stop_lon": "101.627665",
+        "stop_id": "1007602",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SL631 PERUMAHAN TAMAN EHSAN JLN E5/1",
+        "stop_lat": "3.224206",
+        "stop_lon": "101.631003",
+        "stop_id": "1007604",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SL632 KG KEPONG ULU",
+        "stop_lat": "3.224597",
+        "stop_lon": "101.633144",
+        "stop_id": "1007606",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SL633 SMK KEPONG (OPP)",
+        "stop_lat": "3.226353",
+        "stop_lon": "101.635487",
+        "stop_id": "1007608",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SL16 FRIM",
+        "stop_lat": "3.227907",
+        "stop_lon": "101.63771",
+        "stop_id": "1000811",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SL634 KUARTERS FRIM",
+        "stop_lat": "3.233569",
+        "stop_lon": "101.640526",
+        "stop_id": "1003234",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SL523 SK SELAYANG UTAMA",
+        "stop_lat": "3.235677",
+        "stop_lon": "101.64116",
+        "stop_id": "1007611",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SL100 SELAYANG MALL",
+        "stop_lat": "3.236597",
+        "stop_lon": "101.644088",
+        "stop_id": "1003157",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SL513 TAMAN SELAYANG JAYA",
+        "stop_lat": "3.236372",
+        "stop_lon": "101.645195",
+        "stop_id": "1007613",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SL514 TAMAN SELAYANG JAYA (BARAT)",
+        "stop_lat": "3.236617",
+        "stop_lon": "101.646895",
+        "stop_id": "1001178",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SL99 TAMAN SELAYANG JAYA (UTARA)",
+        "stop_lat": "3.238926",
+        "stop_lon": "101.646561",
+        "stop_id": "1004047",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SL24 HOSPITAL SELAYANG",
+        "stop_lat": "3.241316",
+        "stop_lon": "101.648081",
+        "stop_id": "1000931",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SL25 IDEAL CONVENTION CENTRE",
+        "stop_lat": "3.244937",
+        "stop_lon": "101.653269",
+        "stop_id": "1000505",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SL524 BOMBA BANDAR SELAYANG",
+        "stop_lat": "3.254808",
+        "stop_lon": "101.655816",
+        "stop_id": "1000368",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SL266 SELAYANG 18 RESIDENCES",
+        "stop_lat": "3.255311",
+        "stop_lon": "101.654675",
+        "stop_id": "1007614",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SL282 SELAYANG 18 RESIDENCES (OPP)",
+        "stop_lat": "3.255524",
+        "stop_lon": "101.654888",
+        "stop_id": "1003162",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SL283 DATARAN BANDAR BARU SELAYANG",
+        "stop_lat": "3.255694",
+        "stop_lon": "101.657104",
+        "stop_id": "1000959",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SL288 BULATAN BERINGIN SELAYANG",
+        "stop_lat": "3.250878",
+        "stop_lon": "101.657971",
+        "stop_id": "1003159",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SL26 MAGNA VILLE CONDOMINIUM",
+        "stop_lat": "3.243914",
+        "stop_lon": "101.652866",
+        "stop_id": "1001842",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SL27 KOMPLEKS SELAYANG CAPITOL",
+        "stop_lat": "3.240852",
+        "stop_lon": "101.647885",
+        "stop_id": "1002194",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SL91 TAMAN SELAYANG JAYA",
+        "stop_lat": "3.239014",
+        "stop_lon": "101.646772",
+        "stop_id": "1004048",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SL510 TAMAN SELAYANG JAYA",
+        "stop_lat": "3.236613",
+        "stop_lon": "101.647045",
+        "stop_id": "1001179",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SL513 TAMAN SELAYANG JAYA",
+        "stop_lat": "3.236372",
+        "stop_lon": "101.645195",
+        "stop_id": "1007613",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SL517 TAMAN SELAYANG (BARAT)",
+        "stop_lat": "3.235584",
+        "stop_lon": "101.6414",
+        "stop_id": "1007612",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SL639 PARAGON UTAMA",
+        "stop_lat": "3.233444",
+        "stop_lon": "101.6408",
+        "stop_id": "1007610",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SL518 TAMAN KEPONG INDAH",
+        "stop_lat": "3.227875",
+        "stop_lon": "101.63797",
+        "stop_id": "1000810",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SMK KEPONG",
+        "stop_lat": "3.226183",
+        "stop_lon": "101.635549",
+        "stop_id": "1007609",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KG KEPONG ULU",
+        "stop_lat": "3.224797",
+        "stop_lon": "101.633742",
+        "stop_id": "1007607",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PERUMAHAN TAMAN EHSAN JLN E5/2",
+        "stop_lat": "3.223948",
+        "stop_lon": "101.631299",
+        "stop_id": "1007605",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PERUMAHAN TAMAN EHSAN JLN E5/2",
+        "stop_lat": "3.222961",
+        "stop_lon": "101.627926",
+        "stop_id": "1007603",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SL6 TAMAN EHSAN (TIMUR)",
+        "stop_lat": "3.220164",
+        "stop_lon": "101.624017",
+        "stop_id": "1000641",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SL7 TAMAN EHSAN (SELATAN)",
+        "stop_lat": "3.218421",
+        "stop_lon": "101.621584",
+        "stop_id": "1002312",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SL623 SK AMANPURI",
+        "stop_lat": "3.216236",
+        "stop_lon": "101.613845",
+        "stop_id": "1007597",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SL624 APARTMENT DESA SATU",
+        "stop_lat": "3.214185",
+        "stop_lon": "101.615035",
+        "stop_id": "1007598",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SL1 APARTMENT DESA DUA",
+        "stop_lat": "3.212391",
+        "stop_lon": "101.615622",
+        "stop_id": "1000074",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "SL2 DESA AMAN PURI (UTARA)",
+        "stop_lat": "3.211352",
+        "stop_lon": "101.616918",
+        "stop_id": "1000547",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SL209 TAMAN WANGSA PERMAI/COCOMART (OPP)",
+        "stop_lat": "3.208317",
+        "stop_lon": "101.611406",
+        "stop_id": "1000500",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SL616 MAS KIPARK DAMANSARA",
+        "stop_lat": "3.207006",
+        "stop_lon": "101.608651",
+        "stop_id": "1007599",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SL315 KEPONG INDUSTRIAL PARK",
+        "stop_lat": "3.206837",
+        "stop_lon": "101.607239",
+        "stop_id": "1001404",
+        "stop_sequence": "48"
+    }
+]

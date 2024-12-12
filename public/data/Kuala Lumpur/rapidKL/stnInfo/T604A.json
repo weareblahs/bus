@@ -1,0 +1,226 @@
+[
+    {
+        "stop_name": "SJ749 LRT PERINDUSTRIAN PUCHONG",
+        "stop_lat": "3.022707",
+        "stop_lon": "101.613332",
+        "stop_id": "1006311",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ750 POS LAJU PUCHONG",
+        "stop_lat": "3.021478",
+        "stop_lon": "101.610378",
+        "stop_id": "1006308",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ751 PANGSAPURI DESA IMPIAN",
+        "stop_lat": "3.021649",
+        "stop_lon": "101.607231",
+        "stop_id": "1006306",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ752 TAMAN SRI PUCHONG (SELATAN)",
+        "stop_lat": "3.022975",
+        "stop_lon": "101.606616",
+        "stop_id": "1006304",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ753 TAMAN SRI PUCHONG (TENGAH)",
+        "stop_lat": "3.026812",
+        "stop_lon": "101.607364",
+        "stop_id": "1006302",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ754 SURAU ALHIDAYAH (OPP)",
+        "stop_lat": "3.028994",
+        "stop_lon": "101.607972",
+        "stop_id": "1006300",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ755 TAMAN SRI PUCHONG (UTARA)",
+        "stop_lat": "3.029936",
+        "stop_lon": "101.608795",
+        "stop_id": "1006298",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ756 TAMAN PERINDUSTRIAN PUCHONG",
+        "stop_lat": "3.030828",
+        "stop_lon": "101.610509",
+        "stop_id": "1006296",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ757 TAMAN MUTIARA PUCHONG (BARAT)",
+        "stop_lat": "3.032191",
+        "stop_lon": "101.610732",
+        "stop_id": "1006295",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ758 TAMAN MUTIARA PUCHONG (TIMUR)",
+        "stop_lat": "3.032654",
+        "stop_lon": "101.612265",
+        "stop_id": "1006294",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ735 LRT PUSAT BANDAR PUCHONG",
+        "stop_lat": "3.033481",
+        "stop_lon": "101.61616",
+        "stop_id": "1006286",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ516 LOTUS EXTRA PUCHONG",
+        "stop_lat": "3.035177",
+        "stop_lon": "101.616545",
+        "stop_id": "1003913",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) SJ610 IOI MALL PUCHONG",
+        "stop_lat": "3.0435545736493",
+        "stop_lon": "101.61873927724",
+        "stop_id": "1001010",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) SJ680 LRT IOI PUCHONG",
+        "stop_lat": "3.048111",
+        "stop_lon": "101.62074",
+        "stop_id": "1006287",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ681 KOMERSIAL RAJAWALI",
+        "stop_lat": "3.0525738384977",
+        "stop_lon": "101.62219229894",
+        "stop_id": "1004199",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ682 KOLEJ PUTRA",
+        "stop_lat": "3.054673",
+        "stop_lon": "101.619448",
+        "stop_id": "1001601",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ306 APARTMENT SRI ANGGERIK",
+        "stop_lat": "3.055012",
+        "stop_lon": "101.620867",
+        "stop_id": "1000091",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ307 APARTMENT SRI ANGGERIK 2",
+        "stop_lat": "3.0568067650048",
+        "stop_lon": "101.62154402408",
+        "stop_id": "1000147",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SJ308 APARTMENT SRI ANGGERIK 2",
+        "stop_lat": "3.058445",
+        "stop_lon": "101.621545",
+        "stop_id": "1000148",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) SJ309 PERUMAHAN BELATOK 7",
+        "stop_lat": "3.059481",
+        "stop_lon": "101.622942",
+        "stop_id": "1002932",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M) SJ310 APARTMENT SRI TANJUNG",
+        "stop_lat": "3.060544",
+        "stop_lon": "101.625614",
+        "stop_id": "1003622",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SJ313 SMK BATU 8 (OPP)",
+        "stop_lat": "3.061966",
+        "stop_lon": "101.628941",
+        "stop_id": "1003341",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SJ314 JASMINE COURT (OPP)",
+        "stop_lat": "3.063283",
+        "stop_lon": "101.630361",
+        "stop_id": "1001029",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SJ315 TAMAN MAWAR",
+        "stop_lat": "3.064898",
+        "stop_lon": "101.632245",
+        "stop_id": "1002805",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SJ316 APARTMENT KINRARA",
+        "stop_lat": "3.066432",
+        "stop_lon": "101.636847",
+        "stop_id": "1000732",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SJ317 PANGSAPURI SURIA",
+        "stop_lat": "3.066359",
+        "stop_lon": "101.639419",
+        "stop_id": "1002761",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SJ318 APARTMENT SRI SUNWAY",
+        "stop_lat": "3.065094",
+        "stop_lon": "101.639875",
+        "stop_id": "1003618",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SJ336 APARTMENT SURIA KINRARA",
+        "stop_lat": "3.061628",
+        "stop_lon": "101.641727",
+        "stop_id": "1002151",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SJ348 TUDM KINRARA (OPP)",
+        "stop_lat": "3.059714993532",
+        "stop_lon": "101.64272805478",
+        "stop_id": "1001269",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SJ338 KOMERSIAL PAIK SIONG",
+        "stop_lat": "3.0613621064222",
+        "stop_lon": "101.64556669176",
+        "stop_id": "1004014",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "(M) SJ339 KOMERSIAL TAMAN KINRARA",
+        "stop_lat": "3.0626925917768",
+        "stop_lon": "101.64745798043",
+        "stop_id": "1002193",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "(M) SJ345 JEJANTAS TAMAN KINRARA",
+        "stop_lat": "3.0640580865611",
+        "stop_lon": "101.64927564385",
+        "stop_id": "1000025",
+        "stop_sequence": "32"
+    }
+]

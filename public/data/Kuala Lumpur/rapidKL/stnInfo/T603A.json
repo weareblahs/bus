@@ -1,0 +1,156 @@
+[
+    {
+        "stop_name": "PJ272 LRT PUCHONG PRIMA",
+        "stop_lat": "2.999871",
+        "stop_lon": "101.596714",
+        "stop_id": "1006574",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ273 SMK PUCHONG PERMAI",
+        "stop_lat": "2.994193",
+        "stop_lon": "101.595251",
+        "stop_id": "1003310",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ274 PANGSAPURI LILI",
+        "stop_lat": "2.992162",
+        "stop_lon": "101.595106",
+        "stop_id": "1002144",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ278 PANGSAPURI AMAN (OPP)",
+        "stop_lat": "2.990821",
+        "stop_lon": "101.595118",
+        "stop_id": "1002154",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ279 PPMU PUCHONG PERDANA",
+        "stop_lat": "2.989377",
+        "stop_lon": "101.595088",
+        "stop_id": "1002207",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "(M) KOMERSIAL TAMAN PUTRA PERMAI",
+        "stop_lat": "2.977545",
+        "stop_lon": "101.592466",
+        "stop_id": "1008326",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "TAMAN PUTRA PRIMA 2B",
+        "stop_lat": "2.974266",
+        "stop_lon": "101.589378",
+        "stop_id": "1008327",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SP242 CALISA RESIDENCE",
+        "stop_lat": "2.975515",
+        "stop_lon": "101.582665",
+        "stop_id": "1008329",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KOMERSIAL TAMAN PUTRA PERMAI",
+        "stop_lat": "2.979677",
+        "stop_lon": "101.591514",
+        "stop_id": "1008330",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "TAMAN PUCHONG TEKALI",
+        "stop_lat": "2.980366",
+        "stop_lon": "101.594754",
+        "stop_id": "1006583",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ275 PANGSAPURI MELUR",
+        "stop_lat": "2.988061",
+        "stop_lon": "101.594752",
+        "stop_id": "1002156",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ277 PANGSAPURI AMAN",
+        "stop_lat": "2.990875",
+        "stop_lon": "101.594811",
+        "stop_id": "1002143",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ280 PANGSAPURI LILI (OPP)",
+        "stop_lat": "2.9928979198191",
+        "stop_lon": "101.59486387577",
+        "stop_id": "1002153",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ281 DESA IMPIANA",
+        "stop_lat": "2.995276476385",
+        "stop_lon": "101.59489289101",
+        "stop_id": "1002141",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ282 LRT PUCHONG PRIMA",
+        "stop_lat": "2.999823",
+        "stop_lon": "101.596442",
+        "stop_id": "1006576",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ670 PUCHONG PRIMA SEKSYEN 2",
+        "stop_lat": "3.002367",
+        "stop_lon": "101.597387",
+        "stop_id": "1002514",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ283 FLAT PUCHONG PRIMA A14",
+        "stop_lat": "3.0053918568915",
+        "stop_lon": "101.59797615813",
+        "stop_id": "1001985",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ284 FLAT PUCHONG PRIMA A35",
+        "stop_lat": "3.007689",
+        "stop_lon": "101.597608",
+        "stop_id": "1001742",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SJ270 FLAT PUCHONG PRIMA (UTARA)",
+        "stop_lat": "3.007593",
+        "stop_lon": "101.597938",
+        "stop_id": "1001939",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SJ271 FLAT PUCHONG PRIMA (SELATAN)",
+        "stop_lat": "3.005145",
+        "stop_lon": "101.598267",
+        "stop_id": "1001986",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SJ669 PUCHONG PRIMA SEKSYEN 2",
+        "stop_lat": "3.002474",
+        "stop_lon": "101.597729",
+        "stop_id": "1002430",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ272 LRT PUCHONG PRIMA",
+        "stop_lat": "2.999871",
+        "stop_lon": "101.596714",
+        "stop_id": "1006574",
+        "stop_sequence": "22"
+    }
+]

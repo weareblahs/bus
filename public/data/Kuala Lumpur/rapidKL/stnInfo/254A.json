@@ -1,0 +1,226 @@
+[
+    {
+        "stop_name": "KL2080 PPR SUNGAI BONUS",
+        "stop_lat": "3.1880822384405",
+        "stop_lon": "101.72141951436",
+        "stop_id": "1000760",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL2081 PASAR AIR PANAS (OPP)",
+        "stop_lat": "3.188891",
+        "stop_lon": "101.719586",
+        "stop_id": "1002366",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL706 KG BARU AIR PANAS",
+        "stop_lat": "3.188806",
+        "stop_lon": "101.716806",
+        "stop_id": "1001772",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL2083 SK/SMK AIR PANAS (OPP)",
+        "stop_lat": "3.189187",
+        "stop_lon": "101.715207",
+        "stop_id": "1003101",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL707 APT RESOURCE SPRINGS",
+        "stop_lat": "3.189817",
+        "stop_lon": "101.713891",
+        "stop_id": "1003733",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL708 CATHOLIC CHURCH",
+        "stop_lat": "3.190929",
+        "stop_lon": "101.712656",
+        "stop_id": "1003772",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL2084 TAMAN AIR PANAS (BARAT)",
+        "stop_lat": "3.191737",
+        "stop_lon": "101.710246",
+        "stop_id": "1006125",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL690 COURTS MEGASTORE SETAPAK (OPP)",
+        "stop_lat": "3.1912368032815",
+        "stop_lon": "101.70804716495",
+        "stop_id": "1003186",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL691 GUAN YING TING (OPP)",
+        "stop_lat": "3.187681",
+        "stop_lon": "101.703603",
+        "stop_id": "1001281",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL692 SRJKC CHONG HWA (OPP)",
+        "stop_lat": "3.183543",
+        "stop_lon": "101.702285",
+        "stop_id": "1000296",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL693 TITIWANGSA (BARAT)",
+        "stop_lat": "3.1800513185029",
+        "stop_lon": "101.70116164237",
+        "stop_id": "1003561",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL694 SJKC CHIAO NAN (OPP)",
+        "stop_lat": "3.178573",
+        "stop_lon": "101.700485",
+        "stop_id": "1002557",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) KL1818 HAB TITIWANGSA",
+        "stop_lat": "3.1720151676225",
+        "stop_lon": "101.69593158369",
+        "stop_id": "1000968",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL2249 PERKIM",
+        "stop_lat": "3.171261",
+        "stop_lon": "101.693485",
+        "stop_id": "1002414",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL50 DAMAI HOSPITAL",
+        "stop_lat": "3.169987",
+        "stop_lon": "101.695148",
+        "stop_id": "1000514",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL53 GRAND SEASONS HOTEL",
+        "stop_lat": "3.1701675672584",
+        "stop_lon": "101.69824199219",
+        "stop_id": "1000887",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL54 HKL (OPP)",
+        "stop_lat": "3.1727016599494",
+        "stop_lon": "101.69894622509",
+        "stop_id": "1000915",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL668 HOSPITAL TAWAKAL",
+        "stop_lat": "3.177278",
+        "stop_lon": "101.699941",
+        "stop_id": "1003871",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) KL670 TITIWANGSA (BARAT)",
+        "stop_lat": "3.1816966341743",
+        "stop_lon": "101.70141734218",
+        "stop_id": "1003428",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL672 WISMA LOTUS",
+        "stop_lat": "3.1857101543812",
+        "stop_lon": "101.70184070767",
+        "stop_id": "1000822",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL673 GUAN YING TING",
+        "stop_lat": "3.188411",
+        "stop_lon": "101.704123",
+        "stop_id": "1001330",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL674 COURTS MEGASTORE SETAPAK",
+        "stop_lat": "3.190798",
+        "stop_lon": "101.707093",
+        "stop_id": "1000507",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL675 TAMAN P.RAMLEE",
+        "stop_lat": "3.1919098657668",
+        "stop_lon": "101.70841657374",
+        "stop_id": "1003187",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL2072 TAMAN AIR PANAS (BARAT)",
+        "stop_lat": "3.191752",
+        "stop_lon": "101.710682",
+        "stop_id": "1002839",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL2073 MEDAN SELERA AIR PANAS",
+        "stop_lat": "3.191053",
+        "stop_lon": "101.712693",
+        "stop_id": "1003773",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL709 SURAU ALJAMIYYIAH (OPP)",
+        "stop_lat": "3.189987",
+        "stop_lon": "101.713891",
+        "stop_id": "1003100",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL2074 SK/SMK AIR PANAS",
+        "stop_lat": "3.189339",
+        "stop_lon": "101.715134",
+        "stop_id": "1006096",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL2075 KG BARU AIR PANAS",
+        "stop_lat": "3.188861",
+        "stop_lon": "101.717082",
+        "stop_id": "1001773",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL2077 PASAR AIR PANAS",
+        "stop_lat": "3.189066",
+        "stop_lon": "101.719201",
+        "stop_id": "1002367",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL2078 PPR SERI SEMARAK",
+        "stop_lat": "3.188785",
+        "stop_lon": "101.721349",
+        "stop_id": "1000759",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL2080 PPR SUNGAI BONUS",
+        "stop_lat": "3.1880822384405",
+        "stop_lon": "101.72141951436",
+        "stop_id": "1000760",
+        "stop_sequence": "32"
+    }
+]

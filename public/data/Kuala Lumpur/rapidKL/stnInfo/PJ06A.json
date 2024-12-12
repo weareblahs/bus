@@ -1,0 +1,289 @@
+[
+    {
+        "stop_name": "(M) PJ530 HENTIAN BANDAR UTAMA",
+        "stop_lat": "3.151359",
+        "stop_lon": "101.613382",
+        "stop_id": "1000909",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ532 ONE UTAMA LDP",
+        "stop_lat": "3.1504336534116",
+        "stop_lon": "101.61652418032",
+        "stop_id": "1000248",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ533 IKEA (BARAT)",
+        "stop_lat": "3.154912",
+        "stop_lon": "101.610549",
+        "stop_id": "1000990",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ814 MRT MUTIARA DAMANSARA PINTU C",
+        "stop_lat": "3.156489",
+        "stop_lon": "101.607885",
+        "stop_id": "1007098",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ371 THE CURVE (OPP)",
+        "stop_lat": "3.157948",
+        "stop_lon": "101.608719",
+        "stop_id": "1007471",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ372 LOTUS MUTIARA DAMANSARA (OPP)",
+        "stop_lat": "3.159688",
+        "stop_lon": "101.611884",
+        "stop_id": "1007473",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ373 RITZE PERDANA",
+        "stop_lat": "3.164513",
+        "stop_lon": "101.611072",
+        "stop_id": "1007474",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ375 PERDANA SHOPPING CENTRE",
+        "stop_lat": "3.16759",
+        "stop_lon": "101.606371",
+        "stop_id": "1002810",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ817 PERDANA EXCLUSIVE CONDO",
+        "stop_lat": "3.169401",
+        "stop_lon": "101.605361",
+        "stop_id": "1007475",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ377 METROPOLITAN SQUARE",
+        "stop_lat": "3.1660577576591",
+        "stop_lon": "101.60797944856",
+        "stop_id": "1002036",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ644 SOPHEA RESIDENCE",
+        "stop_lat": "3.189981",
+        "stop_lon": "101.617612",
+        "stop_id": "1003243",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ21 BANDAR SRI DAMANSARA 8",
+        "stop_lat": "3.189215",
+        "stop_lon": "101.616229",
+        "stop_id": "1007480",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KOMERSIAL SRI DAMANSARA",
+        "stop_lat": "3.187211",
+        "stop_lon": "101.615129",
+        "stop_id": "1002796",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) PJ22 KOMERSIAL BANDAR SRI DAMANSARA 7",
+        "stop_lat": "3.185369",
+        "stop_lon": "101.613436",
+        "stop_id": "1003869",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ23 SJKC DESA JAYA",
+        "stop_lat": "3.185389",
+        "stop_lon": "101.606998",
+        "stop_id": "1007482",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ863 KOMERSIAL BANDAR SRI DAMANSARA",
+        "stop_lat": "3.188383",
+        "stop_lon": "101.605487",
+        "stop_id": "1007484",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ864 SD APARTMENT",
+        "stop_lat": "3.189776",
+        "stop_lon": "101.605382",
+        "stop_id": "1007486",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SK BANDAR SRI DAMANSARA",
+        "stop_lat": "3.191209",
+        "stop_lon": "101.605695",
+        "stop_id": "1007487",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ31 MEDAN SELERA SRI DAMANSARA",
+        "stop_lat": "3.19341",
+        "stop_lon": "101.607121",
+        "stop_id": "1001217",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ784 SPHERE DAMANSARA",
+        "stop_lat": "3.198239",
+        "stop_lon": "101.59916",
+        "stop_id": "1007105",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ850 THE ZIZZ",
+        "stop_lat": "3.198234",
+        "stop_lon": "101.596464",
+        "stop_id": "1008657",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ49 APARTMENT LESTARI",
+        "stop_lat": "3.197343",
+        "stop_lon": "101.594348",
+        "stop_id": "1002782",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PJ52 APARTMENT IDAMAN",
+        "stop_lat": "3.190686",
+        "stop_lon": "101.592366",
+        "stop_id": "1002590",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PJ53 APARTMENT IMPIAN",
+        "stop_lat": "3.191978",
+        "stop_lon": "101.588458",
+        "stop_id": "1000127",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PJ54 APARTMENT PERMAI",
+        "stop_lat": "3.194259",
+        "stop_lon": "101.588235",
+        "stop_id": "1000135",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PJ55 RESIDENSI SUASANA DAMAI (OPP)",
+        "stop_lat": "3.194511",
+        "stop_lon": "101.591378",
+        "stop_id": "1007488",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PJ62 APARTMENT LESTARI (OPP)",
+        "stop_lat": "3.197228",
+        "stop_lon": "101.594008",
+        "stop_id": "1002781",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PJ32 MEDAN SELERA SRI DAMANSARA (OPP)",
+        "stop_lat": "3.193598",
+        "stop_lon": "101.607479",
+        "stop_id": "1001218",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SK BANDAR SRI DAMANSARA (OPP)",
+        "stop_lat": "3.19075",
+        "stop_lon": "101.60589",
+        "stop_id": "1008083",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "MAYBANK SRI DAMANSARA (OPP)",
+        "stop_lat": "3.188177",
+        "stop_lon": "101.605813",
+        "stop_id": "1007485",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PJ36 TAMAN CENTRAL SPINE SD",
+        "stop_lat": "3.185258",
+        "stop_lon": "101.607655",
+        "stop_id": "1007483",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PJ37 BANDAR SRI DAMANSARA 7",
+        "stop_lat": "3.185592",
+        "stop_lon": "101.613301",
+        "stop_id": "1003870",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KOMERSIAL SRI DAMANSARA (OPP)",
+        "stop_lat": "3.187535",
+        "stop_lon": "101.614998",
+        "stop_id": "1002795",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PJ38 BANDAR SRI DAMANSARA 8",
+        "stop_lat": "3.189218",
+        "stop_lon": "101.615927",
+        "stop_id": "1007481",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PJ643 SOPHEA RESIDENCE (OPP)",
+        "stop_lat": "3.190264",
+        "stop_lon": "101.617323",
+        "stop_id": "1003242",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PJ380 NEO DAMANSARA",
+        "stop_lat": "3.164177",
+        "stop_lon": "101.611665",
+        "stop_id": "1007321",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "PJ381 LOTUS MUTIARA DAMANSARA",
+        "stop_lat": "3.160333",
+        "stop_lon": "101.612264",
+        "stop_id": "1007320",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PJ382 THE CURVE",
+        "stop_lat": "3.157901",
+        "stop_lon": "101.609333",
+        "stop_id": "1007472",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PJ809 MRT MUTIARA DAMANSARA PINTU B",
+        "stop_lat": "3.155687",
+        "stop_lon": "101.608187",
+        "stop_id": "1007099",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "PJ822 OASIS BANDAR UTAMA",
+        "stop_lat": "3.150327",
+        "stop_lon": "101.610151",
+        "stop_id": "1007489",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "(M) PJ530 HENTIAN BANDAR UTAMA",
+        "stop_lat": "3.151359",
+        "stop_lon": "101.613382",
+        "stop_id": "1000909",
+        "stop_sequence": "41"
+    }
+]

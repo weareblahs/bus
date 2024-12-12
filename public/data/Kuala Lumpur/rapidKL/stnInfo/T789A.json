@@ -1,0 +1,156 @@
+[
+    {
+        "stop_name": "KL1440 LRT UNIVERSITI (TIMUR)",
+        "stop_lat": "3.114012",
+        "stop_lon": "101.662208",
+        "stop_id": "1001833",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1102 MASJID AR-RAHMAN UM",
+        "stop_lat": "3.1171330559243",
+        "stop_lon": "101.66247395852",
+        "stop_id": "1001897",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL2137 FAKULTI UNDANG-UNDANG UM",
+        "stop_lat": "3.118674",
+        "stop_lon": "101.661071",
+        "stop_id": "1000583",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1103 KOLEJ KEDIAMAN PERTAMA UM",
+        "stop_lat": "3.1181239305332",
+        "stop_lon": "101.65932260272",
+        "stop_id": "1001596",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1104 JABATAN BIOPERUBATAN UM",
+        "stop_lat": "3.119083",
+        "stop_lon": "101.655587",
+        "stop_id": "1000655",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1109 PERPUSTAKAAN UM",
+        "stop_lat": "3.1211198097451",
+        "stop_lon": "101.6535801967",
+        "stop_id": "1002427",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "(M) KL1107 DEWAN TUNKU CANSELOR UM",
+        "stop_lat": "3.121867",
+        "stop_lon": "101.657186",
+        "stop_id": "1000578",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1108 PUSAT ASASI SAINS UM",
+        "stop_lat": "3.121738",
+        "stop_lon": "101.658348",
+        "stop_id": "1006747",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL1397 FLAT PKNS KERINCHI/KL GATEWAY",
+        "stop_lat": "3.112801",
+        "stop_lon": "101.662745",
+        "stop_id": "1000838",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1399 THE VERTICAL",
+        "stop_lat": "3.1101911614985",
+        "stop_lon": "101.66600163396",
+        "stop_id": "1000226",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1400 FLAT SRI ANGKASA",
+        "stop_lat": "3.109576",
+        "stop_lon": "101.668172",
+        "stop_id": "1000761",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "CENTRIO PANTAI HILLPARK",
+        "stop_lat": "3.108325",
+        "stop_lon": "101.665709",
+        "stop_id": "1008483",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "CONDOMINIUM ANDALUSIA",
+        "stop_lat": "3.107632",
+        "stop_lon": "101.662365",
+        "stop_id": "1008484",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PANTAI HILLPARK PHASE 5",
+        "stop_lat": "3.106502",
+        "stop_lon": "101.661532",
+        "stop_id": "1008485",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PUSAT KOMUNITI LEMBAH PANTAI",
+        "stop_lat": "3.103629",
+        "stop_lon": "101.661219",
+        "stop_id": "1008486",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "INWOOD RESIDENCES",
+        "stop_lat": "3.102553",
+        "stop_lon": "101.663576",
+        "stop_id": "1008487",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1402 PANTAI MURNI",
+        "stop_lat": "3.104087",
+        "stop_lon": "101.666116",
+        "stop_id": "1000312",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1414 CENTRIO PANTAI HILLPARK",
+        "stop_lat": "3.106853",
+        "stop_lon": "101.666039",
+        "stop_id": "1002251",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL1438 BANGSAR SOUTH",
+        "stop_lat": "3.1089238252724",
+        "stop_lon": "101.66799880187",
+        "stop_id": "1000453",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1439 NEXUS BANGSAR SOUTH",
+        "stop_lat": "3.1098943241081",
+        "stop_lon": "101.66608889972",
+        "stop_id": "1000227",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL2134 FLAT PKNS KERINCHI",
+        "stop_lat": "3.112272",
+        "stop_lon": "101.662094",
+        "stop_id": "1001650",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1440 LRT UNIVERSITI (TIMUR)",
+        "stop_lat": "3.114012",
+        "stop_lon": "101.662208",
+        "stop_id": "1001833",
+        "stop_sequence": "22"
+    }
+]

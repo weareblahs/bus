@@ -1,0 +1,373 @@
+[
+    {
+        "stop_name": "TERMINAL MALURI",
+        "stop_lat": "3.1240393709154",
+        "stop_lon": "101.72784145398",
+        "stop_id": "1003900",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1702 STADIUM BADMINTON KL (OPP)",
+        "stop_lat": "3.119263",
+        "stop_lon": "101.728402",
+        "stop_id": "1000276",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1703 KOMPLEKS DARUL PUTERI",
+        "stop_lat": "3.116648",
+        "stop_lon": "101.728274",
+        "stop_id": "1002248",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL354 KOMPLEKS DARUL PUTERI (OPP)",
+        "stop_lat": "3.116736",
+        "stop_lon": "101.727994",
+        "stop_id": "1000783",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL355 STADIUM BADMINTON KL",
+        "stop_lat": "3.119397",
+        "stop_lon": "101.728157",
+        "stop_id": "1003671",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL361 MRT MALURI PINTU A",
+        "stop_lat": "3.123425",
+        "stop_lon": "101.72776833333",
+        "stop_id": "1001808",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL874 AEON MALURI (OPP)",
+        "stop_lat": "3.1250635680885",
+        "stop_lon": "101.72670707363",
+        "stop_id": "1001205",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL362 JABATAN KESIHATAN DBKL",
+        "stop_lat": "3.1266833333333",
+        "stop_lon": "101.72353",
+        "stop_id": "1001526",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL363 SUNWAY MEDICAL VELOCITY (OPP)",
+        "stop_lat": "3.1280183333333",
+        "stop_lon": "101.72146166667",
+        "stop_id": "1001644",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL365 WARISAN CITYVIEW",
+        "stop_lat": "3.1292066666667",
+        "stop_lon": "101.71979",
+        "stop_id": "1001069",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL2225 WISMA INDAH",
+        "stop_lat": "3.133487",
+        "stop_lon": "101.718056",
+        "stop_id": "1004120",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL384 MASJID ALAM SHAH",
+        "stop_lat": "3.135489",
+        "stop_lon": "101.718685",
+        "stop_id": "1001889",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL267 THE FORUM CONDOMINIUM",
+        "stop_lat": "3.144363",
+        "stop_lon": "101.721486",
+        "stop_id": "1004261",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1955 EMBASSY INDONESIA",
+        "stop_lat": "3.1465646324331",
+        "stop_lon": "101.72212670116",
+        "stop_id": "1001186",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL270 TABUNG HAJI",
+        "stop_lat": "3.1577485646228",
+        "stop_lon": "101.72061082747",
+        "stop_id": "1003768",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) LRT AMPANG PARK (OPP)",
+        "stop_lat": "3.159957",
+        "stop_lon": "101.719123",
+        "stop_id": "1006137",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL91 CITIBANK / INTERCONTINENTAL HOTEL",
+        "stop_lat": "3.1602776153032",
+        "stop_lon": "101.71730268036",
+        "stop_id": "1000492",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M) KL93 MENARA ATLAN",
+        "stop_lat": "3.159962",
+        "stop_lon": "101.715857",
+        "stop_id": "1002014",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) KL94 KLCC (UTARA)",
+        "stop_lat": "3.158876",
+        "stop_lon": "101.712331",
+        "stop_id": "1001518",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL96 MENARA AMBANK",
+        "stop_lat": "3.1607922350002",
+        "stop_lon": "101.71098241514",
+        "stop_id": "1000077",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1945 MENARA PTPTN",
+        "stop_lat": "3.162313",
+        "stop_lon": "101.713241",
+        "stop_id": "1002764",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1948 FLAT PKNS",
+        "stop_lat": "3.1661583681554",
+        "stop_lon": "101.71454310215",
+        "stop_id": "1000757",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1947 MENARA TH SELBORN",
+        "stop_lat": "3.1687530634558",
+        "stop_lon": "101.71168831954",
+        "stop_id": "1001185",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL271 IJN (BARAT)",
+        "stop_lat": "3.1704403737768",
+        "stop_lon": "101.70987576141",
+        "stop_id": "1000987",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL273 PADANG HKL",
+        "stop_lat": "3.1727203940251",
+        "stop_lon": "101.70501855458",
+        "stop_id": "1002318",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M) KL1818 HAB TITIWANGSA",
+        "stop_lat": "3.1720151676225",
+        "stop_lon": "101.69593158369",
+        "stop_id": "1000968",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL2249 PERKIM",
+        "stop_lat": "3.171261",
+        "stop_lon": "101.693485",
+        "stop_id": "1002414",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL50 DAMAI HOSPITAL",
+        "stop_lat": "3.169987",
+        "stop_lon": "101.695148",
+        "stop_id": "1000514",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL53 GRAND SEASONS HOTEL",
+        "stop_lat": "3.1701675672584",
+        "stop_lon": "101.69824199219",
+        "stop_id": "1000887",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL54 HKL (OPP)",
+        "stop_lat": "3.1727016599494",
+        "stop_lon": "101.69894622509",
+        "stop_id": "1000915",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL1837 ISTANA BUDAYA",
+        "stop_lat": "3.173355",
+        "stop_lon": "101.703764",
+        "stop_id": "1004081",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL1633 PUSAT DARAH NEGARA",
+        "stop_lat": "3.1728883608172",
+        "stop_lon": "101.70572814201",
+        "stop_id": "1001015",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL1638 HOSPITAL PUSRAWI",
+        "stop_lat": "3.1708582512026",
+        "stop_lon": "101.7099522543",
+        "stop_id": "1000928",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL1949 INTERMARK MALL",
+        "stop_lat": "3.161832",
+        "stop_lon": "101.719627",
+        "stop_id": "1004279",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "(M) LRT AMPANG PARK (OPP)",
+        "stop_lat": "3.159957",
+        "stop_lon": "101.719123",
+        "stop_id": "1006137",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL91 CITIBANK / INTERCONTINENTAL HOTEL",
+        "stop_lat": "3.1602776153032",
+        "stop_lon": "101.71730268036",
+        "stop_id": "1000492",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "(M) KL93 MENARA ATLAN",
+        "stop_lat": "3.159962",
+        "stop_lon": "101.715857",
+        "stop_id": "1002014",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "(M) KL94 KLCC (UTARA)",
+        "stop_lat": "3.158876",
+        "stop_lon": "101.712331",
+        "stop_id": "1001518",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL95 KLCC",
+        "stop_lat": "3.1567934424776",
+        "stop_lon": "101.71068637862",
+        "stop_id": "1001087",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL88 GRAND HYATT HOTEL",
+        "stop_lat": "3.1538628211002",
+        "stop_lon": "101.71173141902",
+        "stop_id": "1000998",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL89 EXXON MOBIL",
+        "stop_lat": "3.1537964103351",
+        "stop_lon": "101.71576153914",
+        "stop_id": "1000649",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL1951 THE BINJAI",
+        "stop_lat": "3.154225691432",
+        "stop_lon": "101.71732406322",
+        "stop_id": "1001088",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "(M) KL270 TABUNG HAJI",
+        "stop_lat": "3.1577485646228",
+        "stop_lon": "101.72061082747",
+        "stop_id": "1003768",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KL266 RHB BANK",
+        "stop_lat": "3.1440737436028",
+        "stop_lon": "101.72180146915",
+        "stop_id": "1002818",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KL1953 TREC KL",
+        "stop_lat": "3.1425479316033",
+        "stop_lon": "101.72143544397",
+        "stop_id": "1002578",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "(M) KL890 PETRONAS JLN COCHRANE",
+        "stop_lat": "3.136194",
+        "stop_lon": "101.719181",
+        "stop_id": "1002491",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KL891 WISMA INDAH",
+        "stop_lat": "3.1337223802537",
+        "stop_lon": "101.71838281705",
+        "stop_id": "1004241",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KL868 ALL SAINTS CHURCH",
+        "stop_lat": "3.1303842695455",
+        "stop_lon": "101.71871223005",
+        "stop_id": "1000855",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KL366 WARISAN CITYVIEW (OPP)",
+        "stop_lat": "3.128962",
+        "stop_lon": "101.720501",
+        "stop_id": "1001035",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KL367 SUNWAY MEDICAL VELOCITY",
+        "stop_lat": "3.127684",
+        "stop_lon": "101.722349",
+        "stop_id": "1000666",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KL368 AEON MALURI",
+        "stop_lat": "3.1253230755966",
+        "stop_lon": "101.72697999582",
+        "stop_id": "1001206",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "TERMINAL MALURI",
+        "stop_lat": "3.1240393709154",
+        "stop_lon": "101.72784145398",
+        "stop_id": "1003900",
+        "stop_sequence": "53"
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "stop_name": "KL113 HAB LEBUH PUDU",
+        "stop_lat": "3.146744",
+        "stop_lon": "101.698695",
+        "stop_id": "1002080",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1939 MEDAN PASAR",
+        "stop_lat": "3.148202",
+        "stop_lon": "101.696375",
+        "stop_id": "1004240",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL117 BSN LEBUH AMPANG",
+        "stop_lat": "3.1492454039518",
+        "stop_lon": "101.69737177094",
+        "stop_id": "1000383",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL30 AMANAHRAYA",
+        "stop_lat": "3.1519126007803",
+        "stop_lon": "101.69799809706",
+        "stop_id": "1003683",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) KL31 HENTIAN MUNSHI ABDULLAH",
+        "stop_lat": "3.1532582998069",
+        "stop_lon": "101.69848425418",
+        "stop_id": "1000823",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "(M) KL32 CAPSQUARE",
+        "stop_lat": "3.1546522393082",
+        "stop_lon": "101.69837470998",
+        "stop_id": "1002560",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "(M) KL1940 SOGO KL",
+        "stop_lat": "3.1567788096169",
+        "stop_lon": "101.69535839244",
+        "stop_id": "1003415",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL40 MEDAN MARA",
+        "stop_lat": "3.157724",
+        "stop_lon": "101.694556",
+        "stop_id": "1001984",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL41 LRT SULTAN ISMAIL/WISMA SIME DARBY",
+        "stop_lat": "3.162154",
+        "stop_lon": "101.695526",
+        "stop_id": "1003257",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL42 EDC HOTEL",
+        "stop_lat": "3.165085",
+        "stop_lon": "101.696133",
+        "stop_id": "1002694",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL46 CHOWKIT/KFC (BARAT)",
+        "stop_lat": "3.167208",
+        "stop_lon": "101.696275",
+        "stop_id": "1001418",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL47 DAMAI HOSPITAL (OPP)",
+        "stop_lat": "3.169272",
+        "stop_lon": "101.695689",
+        "stop_id": "1002537",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL49 PERKIM/PUSRAWI",
+        "stop_lat": "3.171001",
+        "stop_lon": "101.693422",
+        "stop_id": "1002413",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL578 TAMAN GOLDEN",
+        "stop_lat": "3.174173",
+        "stop_lon": "101.690357",
+        "stop_id": "1002022",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL579 SK SRI DHANDAYUTHAPANI",
+        "stop_lat": "3.176318",
+        "stop_lon": "101.688001",
+        "stop_id": "1001710",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) KL1580 MRT SENTUL BARAT PINTU B",
+        "stop_lat": "3.178238",
+        "stop_lon": "101.685753",
+        "stop_id": "1005139",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL580 RIVERCITY 3RD MILE",
+        "stop_lat": "3.180075",
+        "stop_lon": "101.683043",
+        "stop_id": "1002529",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL581 BATU COMPLEX BUSINESS CENTRE",
+        "stop_lat": "3.183872",
+        "stop_lon": "101.681078",
+        "stop_id": "1002530",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL583 SMK (P) JLN IPOH",
+        "stop_lat": "3.187494",
+        "stop_lon": "101.681611",
+        "stop_id": "1003385",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL584 KOMPLEKS MUTIARA",
+        "stop_lat": "3.188964",
+        "stop_lon": "101.680933",
+        "stop_id": "1001626",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL585 MRT KENTOMEN PINTU B",
+        "stop_lat": "3.194339",
+        "stop_lon": "101.679474",
+        "stop_id": "1002533",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL586 KOMPLEKS MIKASA",
+        "stop_lat": "3.198519",
+        "stop_lon": "101.678381",
+        "stop_id": "1002534",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1577 SK KAMPUNG BATU (OPP)",
+        "stop_lat": "3.201914",
+        "stop_lon": "101.676269",
+        "stop_id": "1001253",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL587 KOMERSIAL KOK LIAN",
+        "stop_lat": "3.202668",
+        "stop_lon": "101.673614",
+        "stop_id": "1001634",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL565 KTM TAMAN WAHYU (OPP)",
+        "stop_lat": "3.214823",
+        "stop_lon": "101.671769",
+        "stop_id": "1004086",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M) KL566 LOTUS SELAYANG",
+        "stop_lat": "3.222303",
+        "stop_lon": "101.671636",
+        "stop_id": "1003909",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL2247 KOMERSIAL KIP",
+        "stop_lat": "3.224288",
+        "stop_lon": "101.671585",
+        "stop_id": "1008667",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL567 TAMAN SRI SELAYANG",
+        "stop_lat": "3.235105",
+        "stop_lon": "101.671394",
+        "stop_id": "1004214",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL569 TAMAN DESA BAKTI",
+        "stop_lat": "3.242992",
+        "stop_lon": "101.662831",
+        "stop_id": "1004213",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SL531 SELAYANG PANDANG",
+        "stop_lat": "3.244594",
+        "stop_lon": "101.658687",
+        "stop_id": "1000427",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SL532 SELAYANG PANDANG",
+        "stop_lat": "3.245313",
+        "stop_lon": "101.658162",
+        "stop_id": "1008666",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SL533 POS MALAYSIA SELAYANG (OPP)",
+        "stop_lat": "3.244942",
+        "stop_lon": "101.669029",
+        "stop_id": "1008665",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SL55 GIANT SELAYANG",
+        "stop_lat": "3.246598",
+        "stop_lon": "101.671185",
+        "stop_id": "1002191",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SL45 BALAI POLIS SELAYANG BARU",
+        "stop_lat": "3.248103",
+        "stop_lon": "101.671316",
+        "stop_id": "1000198",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SL46 PERUMAHAN SELAYANG BARU",
+        "stop_lat": "3.251207",
+        "stop_lon": "101.669677",
+        "stop_id": "1002098",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SL51 SELAYANG BARU (UTARA)",
+        "stop_lat": "3.250971",
+        "stop_lon": "101.666894",
+        "stop_id": "1000007",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SL52 SELAYANG BARU (BARAT)",
+        "stop_lat": "3.249764",
+        "stop_lon": "101.664336",
+        "stop_id": "1003138",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SL291 TAMAN SELAYANG INDAH",
+        "stop_lat": "3.249575",
+        "stop_lon": "101.662586",
+        "stop_id": "1007619",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SL292 TAMAN SELAYANG SEGAR",
+        "stop_lat": "3.251495",
+        "stop_lon": "101.659824",
+        "stop_id": "1001067",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SL293 BULATAN BERINGIN",
+        "stop_lat": "3.250406",
+        "stop_lon": "101.658164",
+        "stop_id": "1003160",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SL524 BOMBA BANDAR SELAYANG",
+        "stop_lat": "3.254808",
+        "stop_lon": "101.655816",
+        "stop_id": "1000368",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SL266 SELAYANG 18 RESIDENCES",
+        "stop_lat": "3.255311",
+        "stop_lon": "101.654675",
+        "stop_id": "1007614",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SL282 SELAYANG 18 RESIDENCES (OPP)",
+        "stop_lat": "3.255524",
+        "stop_lon": "101.654888",
+        "stop_id": "1003162",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SL283 DATARAN BANDAR BARU SELAYANG",
+        "stop_lat": "3.255694",
+        "stop_lon": "101.657104",
+        "stop_id": "1000959",
+        "stop_sequence": "44"
+    }
+]

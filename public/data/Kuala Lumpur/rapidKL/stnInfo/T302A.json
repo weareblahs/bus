@@ -1,0 +1,107 @@
+[
+    {
+        "stop_name": "AJ66 HENTIAN LEMBAH JAYA UTARA",
+        "stop_lat": "3.1494989114735",
+        "stop_lon": "101.79111145871",
+        "stop_id": "1000963",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ67 APARTMENT DESA PERMAI (UTARA)",
+        "stop_lat": "3.146261",
+        "stop_lon": "101.787794",
+        "stop_id": "1001149",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ68 KG LEMBAH JAYA UTARA",
+        "stop_lat": "3.144473",
+        "stop_lon": "101.786796",
+        "stop_id": "1007629",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ96 SIMPANG LEMBAH JAYA",
+        "stop_lat": "3.1429451267456",
+        "stop_lon": "101.78124187939",
+        "stop_id": "1003563",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ97 KOMERSIAL AMPANG",
+        "stop_lat": "3.143167",
+        "stop_lon": "101.778132",
+        "stop_id": "1001283",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ98 AMPANG WATERFRONT 3",
+        "stop_lat": "3.143148",
+        "stop_lon": "101.776899",
+        "stop_id": "1001093",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ100 AMPANG WATERFRONT 2 (TIMUR)",
+        "stop_lat": "3.143197",
+        "stop_lon": "101.773386",
+        "stop_id": "1001254",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ101 AMPANG WATERFRONT (BARAT)",
+        "stop_lat": "3.144586",
+        "stop_lon": "101.770723",
+        "stop_id": "1003514",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ102 KOMERSIAL BANDAR BARU AMPANG",
+        "stop_lat": "3.1462402069788",
+        "stop_lon": "101.76847121536",
+        "stop_id": "1000447",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ104 AMPANG WATERFRONT 1",
+        "stop_lat": "3.147509",
+        "stop_lon": "101.765774",
+        "stop_id": "1003210",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ426 SJKT AMPANG",
+        "stop_lat": "3.148356",
+        "stop_lon": "101.763863",
+        "stop_id": "1003147",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ106 LRT AMPANG",
+        "stop_lat": "3.1512231111515",
+        "stop_lon": "101.76044748293",
+        "stop_id": "1001782",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ325 FLAT TAMAN DATO AHMAD RAZALI",
+        "stop_lat": "3.152936",
+        "stop_lon": "101.757275",
+        "stop_id": "1003932",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) AJ108 AMPANG POINT (OPP)",
+        "stop_lat": "3.1568585598718",
+        "stop_lon": "101.75114580093",
+        "stop_id": "1000084",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ182 AMPANG POINT",
+        "stop_lat": "3.1573348926081",
+        "stop_lon": "101.75083358372",
+        "stop_id": "1000083",
+        "stop_sequence": "15"
+    }
+]

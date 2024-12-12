@@ -1,0 +1,93 @@
+[
+    {
+        "stop_name": "AJ182 AMPANG POINT",
+        "stop_lat": "3.1573348926081",
+        "stop_lon": "101.75083358372",
+        "stop_id": "1000083",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ29 APARTMENT CEMPAKA",
+        "stop_lat": "3.1553037391852",
+        "stop_lon": "101.75383692473",
+        "stop_id": "1000546",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ30 TAMAN AHMAD RAZALI",
+        "stop_lat": "3.1530076058383",
+        "stop_lon": "101.75787275393",
+        "stop_id": "1003933",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ31 LRT AMPANG (OPP)",
+        "stop_lat": "3.151348",
+        "stop_lon": "101.760686",
+        "stop_id": "1001783",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ32 DEWAN DATO AHMAD RAZALI",
+        "stop_lat": "3.148583",
+        "stop_lon": "101.764107",
+        "stop_id": "1000602",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ61 AMPANG WATERFRONT (BARAT)",
+        "stop_lat": "3.147362",
+        "stop_lon": "101.766674",
+        "stop_id": "1000088",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ435 AMPANG WATERFRONT (TIMUR)",
+        "stop_lat": "3.146458",
+        "stop_lon": "101.768487",
+        "stop_id": "1003505",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ63 AMPANG WATERFRONT 3",
+        "stop_lat": "3.143428",
+        "stop_lon": "101.777202",
+        "stop_id": "1000853",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ431 KOMERSIAL AMPANG",
+        "stop_lat": "3.143416",
+        "stop_lon": "101.778513",
+        "stop_id": "1001284",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ64 SIMPANG LEMBAH JAYA",
+        "stop_lat": "3.143476",
+        "stop_lon": "101.780809",
+        "stop_id": "1003562",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ311 KG LEMBAH JAYA UTARA",
+        "stop_lat": "3.144753",
+        "stop_lon": "101.786825",
+        "stop_id": "1007628",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ65 APARTMENT DESA PERMAI (UTARA)",
+        "stop_lat": "3.147114",
+        "stop_lon": "101.788099",
+        "stop_id": "1001148",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ66 HENTIAN LEMBAH JAYA UTARA",
+        "stop_lat": "3.1494989114735",
+        "stop_lon": "101.79111145871",
+        "stop_id": "1000963",
+        "stop_sequence": "13"
+    }
+]

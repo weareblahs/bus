@@ -1,0 +1,240 @@
+[
+    {
+        "stop_name": "SJ275 PANGSAPURI MELUR",
+        "stop_lat": "2.988061",
+        "stop_lon": "101.594752",
+        "stop_id": "1002156",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ277 PANGSAPURI AMAN",
+        "stop_lat": "2.990875",
+        "stop_lon": "101.594811",
+        "stop_id": "1002143",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ280 PANGSAPURI LILI (OPP)",
+        "stop_lat": "2.9928979198191",
+        "stop_lon": "101.59486387577",
+        "stop_id": "1002153",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ281 DESA IMPIANA",
+        "stop_lat": "2.995276476385",
+        "stop_lon": "101.59489289101",
+        "stop_id": "1002141",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ282 LRT PUCHONG PRIMA",
+        "stop_lat": "2.999823",
+        "stop_lon": "101.596442",
+        "stop_id": "1006576",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ670 PUCHONG PRIMA SEKSYEN 2",
+        "stop_lat": "3.002367",
+        "stop_lon": "101.597387",
+        "stop_id": "1002514",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ283 FLAT PUCHONG PRIMA A14",
+        "stop_lat": "3.0053918568915",
+        "stop_lon": "101.59797615813",
+        "stop_id": "1001985",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ284 FLAT PUCHONG PRIMA A35",
+        "stop_lat": "3.007689",
+        "stop_lon": "101.597608",
+        "stop_id": "1001742",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ285 PERMAI COURT PUCHONG PERDANA (OPP)",
+        "stop_lat": "3.007936",
+        "stop_lon": "101.599682",
+        "stop_id": "1000432",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ286 FLAT PUCHONG PERDANA (OPP)",
+        "stop_lat": "3.007926",
+        "stop_lon": "101.601774",
+        "stop_id": "1000338",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ299 LRT PUCHONG PERDANA",
+        "stop_lat": "3.008053",
+        "stop_lon": "101.606129",
+        "stop_id": "1000849",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ300 MASJID PUCHONG PERDANA",
+        "stop_lat": "3.009608",
+        "stop_lon": "101.608224",
+        "stop_id": "1001921",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ301 FLAT PUCHONG INDAH",
+        "stop_lat": "3.010214",
+        "stop_lon": "101.609935",
+        "stop_id": "1000745",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ605 TRACTORS MALAYSIA",
+        "stop_lat": "3.0159634449745",
+        "stop_lon": "101.61023858797",
+        "stop_id": "1004140",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ677 KOMPLEKS RAKAN MUDA",
+        "stop_lat": "3.0204021983635",
+        "stop_lon": "101.61167012268",
+        "stop_id": "1001615",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ609 SETIA WALK (SELATAN)",
+        "stop_lat": "3.029122",
+        "stop_lon": "101.614638",
+        "stop_id": "1002155",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ516 LOTUS EXTRA PUCHONG",
+        "stop_lat": "3.035177",
+        "stop_lon": "101.616545",
+        "stop_id": "1003913",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M) SJ610 IOI MALL PUCHONG",
+        "stop_lat": "3.0435545736493",
+        "stop_lon": "101.61873927724",
+        "stop_id": "1001010",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) SJ680 LRT IOI PUCHONG",
+        "stop_lat": "3.048111",
+        "stop_lon": "101.62074",
+        "stop_id": "1006287",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SJ447 SKYPOD RESIDENCE",
+        "stop_lat": "3.043501",
+        "stop_lon": "101.620776",
+        "stop_id": "1006678",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M) SJ449 SETIA WALK",
+        "stop_lat": "3.0329749146266",
+        "stop_lon": "101.61732496691",
+        "stop_id": "1002768",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SJ611 SETIAWALK MALL",
+        "stop_lat": "3.0288195079409",
+        "stop_lon": "101.61521542686",
+        "stop_id": "1003510",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SJ667 TAMAN INDUSTRI PUCHONG",
+        "stop_lat": "3.0227373948343",
+        "stop_lon": "101.61417436779",
+        "stop_id": "1000070",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SJ625 TRACTOR MALAYSIA",
+        "stop_lat": "3.015995",
+        "stop_lon": "101.610628",
+        "stop_id": "1004141",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SJ623 FLAT PUCHONG INDAH",
+        "stop_lat": "3.0099794568679",
+        "stop_lon": "101.61026827472",
+        "stop_id": "1003977",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M) SJ302 MASJID PUCHONG PERDANA (OPP)",
+        "stop_lat": "3.009161",
+        "stop_lon": "101.608268",
+        "stop_id": "1001940",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "CHAI GUAN HARDWARE",
+        "stop_lat": "3.007731589501",
+        "stop_lon": "101.60573008663",
+        "stop_id": "1004147",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SJ268 FLAT PUCHONG PERDANA",
+        "stop_lat": "3.007673",
+        "stop_lon": "101.601724",
+        "stop_id": "1000339",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SJ269 PERMAI COURT PUCHONG PERDANA",
+        "stop_lat": "3.0077011483503",
+        "stop_lon": "101.59945715149",
+        "stop_id": "1000433",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SJ270 FLAT PUCHONG PRIMA (UTARA)",
+        "stop_lat": "3.007593",
+        "stop_lon": "101.597938",
+        "stop_id": "1001939",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PJ272 LRT PUCHONG PRIMA",
+        "stop_lat": "2.999871",
+        "stop_lon": "101.596714",
+        "stop_id": "1006574",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SJ273 SMK PUCHONG PERMAI",
+        "stop_lat": "2.994193",
+        "stop_lon": "101.595251",
+        "stop_id": "1003310",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SJ274 PANGSAPURI LILI",
+        "stop_lat": "2.992162",
+        "stop_lon": "101.595106",
+        "stop_id": "1002144",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SJ275 PANGSAPURI MELUR",
+        "stop_lat": "2.988061",
+        "stop_lon": "101.594752",
+        "stop_id": "1002156",
+        "stop_sequence": "34"
+    }
+]

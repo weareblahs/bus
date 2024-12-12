@@ -1,0 +1,366 @@
+[
+    {
+        "stop_name": "KL2324 LRT AWAN BESAR",
+        "stop_lat": "3.061769",
+        "stop_lon": "101.669737",
+        "stop_id": "1006170",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL424 ARKED ESPLANADE",
+        "stop_lat": "3.060988",
+        "stop_lon": "101.676295",
+        "stop_id": "1006611",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL571 TAMAN ESPLANADE (BARAT)",
+        "stop_lat": "3.060309",
+        "stop_lon": "101.678176",
+        "stop_id": "1006613",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL572 TAMAN ESPLANADE (TIMUR)",
+        "stop_lat": "3.059633",
+        "stop_lon": "101.680948",
+        "stop_id": "1006615",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "COVILLEA CONDOMINIUM",
+        "stop_lat": "3.058765",
+        "stop_lon": "101.685124",
+        "stop_id": "1006619",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL576 IMU BUKIT JALIL",
+        "stop_lat": "3.059171",
+        "stop_lon": "101.687342",
+        "stop_id": "1002658",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL151 LRT BKT JALIL",
+        "stop_lat": "3.058519",
+        "stop_lon": "101.691519",
+        "stop_id": "1001791",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1320 ENDAH VILLA CONDOMINIUM",
+        "stop_lat": "3.0647242316022",
+        "stop_lon": "101.6918424036",
+        "stop_id": "1000612",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL2029 8 PETALING CONDOMINIUM",
+        "stop_lat": "3.066401",
+        "stop_lon": "101.690988",
+        "stop_id": "1001580",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1327 SMK SRI PETALING",
+        "stop_lat": "3.066578",
+        "stop_lon": "101.688183",
+        "stop_id": "1003146",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1328 BANDAR BARU SRI PETALING",
+        "stop_lat": "3.0670949316121",
+        "stop_lon": "101.68613487437",
+        "stop_id": "1002204",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1240 PERUMAHAN JALAN PERISA",
+        "stop_lat": "3.0725999211481",
+        "stop_lon": "101.68239640296",
+        "stop_id": "1003619",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1241 TAMAN BANDARAYA",
+        "stop_lat": "3.077603",
+        "stop_lon": "101.681197",
+        "stop_id": "1001238",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) KL1242 TAMAN BUKIT INDAH",
+        "stop_lat": "3.0813230868955",
+        "stop_lon": "101.68091284237",
+        "stop_id": "1002117",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1251 TAMAN GEMBIRA",
+        "stop_lat": "3.084113",
+        "stop_lon": "101.682045",
+        "stop_id": "1003765",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1252 TAMAN GEMBIRA (UTARA)",
+        "stop_lat": "3.085075",
+        "stop_lon": "101.681929",
+        "stop_id": "1003497",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1253 TAMAN CONTINENTAL",
+        "stop_lat": "3.087849",
+        "stop_lon": "101.681617",
+        "stop_id": "1001154",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1254 TAMAN CONTINENTAL (TENGAH)",
+        "stop_lat": "3.088722",
+        "stop_lon": "101.681392",
+        "stop_id": "1001377",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL1531 TAMAN CONTINENTAL (UTARA)",
+        "stop_lat": "3.0899787628094",
+        "stop_lon": "101.68087230078",
+        "stop_id": "1001155",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1266 KUCHAI BUSINESS PARK",
+        "stop_lat": "3.091183",
+        "stop_lon": "101.676011",
+        "stop_id": "1001370",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1276 VERVE SUITES",
+        "stop_lat": "3.092457906865",
+        "stop_lon": "101.67462926176",
+        "stop_id": "1004255",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M) KL1277 SCOTT GARDEN/AMBANK",
+        "stop_lat": "3.0959619224579",
+        "stop_lon": "101.67534789075",
+        "stop_id": "1000072",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) KL1280 TAMAN SHANGHAI (SELATAN)",
+        "stop_lat": "3.099155",
+        "stop_lon": "101.675978",
+        "stop_id": "1001474",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1281 SOUTHBANK RESIDENCE",
+        "stop_lat": "3.101513",
+        "stop_lon": "101.676822",
+        "stop_id": "1003199",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1282 3RD MILES SQUARE",
+        "stop_lat": "3.103537",
+        "stop_lon": "101.677629",
+        "stop_id": "1004204",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1283 SHELL (OPP)",
+        "stop_lat": "3.105557",
+        "stop_lon": "101.678057",
+        "stop_id": "1001009",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL1284 WISMA BUDDHIST",
+        "stop_lat": "3.108093",
+        "stop_lon": "101.678386",
+        "stop_id": "1004229",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL1395 SAVILLE RESIDENCE (OPP)",
+        "stop_lat": "3.110688",
+        "stop_lon": "101.678065",
+        "stop_id": "1001346",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL1179 MAZDA",
+        "stop_lat": "3.1094981426141",
+        "stop_lon": "101.678508753",
+        "stop_id": "1000981",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "(M) KL1180 BHP",
+        "stop_lat": "3.1072844280663",
+        "stop_lon": "101.67868293317",
+        "stop_id": "1000289",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL1181 SHELL",
+        "stop_lat": "3.105637",
+        "stop_lon": "101.678384",
+        "stop_id": "1003216",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL1182 THAM WAH WAN",
+        "stop_lat": "3.1034073153277",
+        "stop_lon": "101.67791957298",
+        "stop_id": "1004113",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL1183 AVANTAS RESIDENCE",
+        "stop_lat": "3.1001431566626",
+        "stop_lon": "101.6765307254",
+        "stop_id": "1000493",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "(M) KL1184 TAMAN SHANGHAI (SELATAN)",
+        "stop_lat": "3.098404",
+        "stop_lon": "101.676208",
+        "stop_id": "1003568",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL1750 THE SCOTT GARDEN",
+        "stop_lat": "3.0953143908189",
+        "stop_lon": "101.67572573982",
+        "stop_id": "1003004",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL1212 PASAR KLANG LAMA",
+        "stop_lat": "3.0923666487538",
+        "stop_lon": "101.67504495979",
+        "stop_id": "1002263",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL1213 KUCHAI BUSINESS CENTRE",
+        "stop_lat": "3.0913213800017",
+        "stop_lon": "101.67659427669",
+        "stop_id": "1000416",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL1214 TAMAN LIEN HO",
+        "stop_lat": "3.090819",
+        "stop_lon": "101.679588",
+        "stop_id": "1002833",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL1751 TAMAN CONTINENTAL",
+        "stop_lat": "3.090276",
+        "stop_lon": "101.681048",
+        "stop_id": "1003474",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL1255 KOMERSIAL TAMAN CONTINENTAL",
+        "stop_lat": "3.0886429685409",
+        "stop_lon": "101.68209010132",
+        "stop_id": "1003682",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL1256 TAMAN GEMBIRA",
+        "stop_lat": "3.0851898111191",
+        "stop_lon": "101.68207112473",
+        "stop_id": "1003498",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL1257 KOMERSIAL TAMAN GEMBIRA",
+        "stop_lat": "3.0838850004781",
+        "stop_lon": "101.68221812928",
+        "stop_id": "1003766",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "(M) KL1226 TAMAN BUKIT INDAH",
+        "stop_lat": "3.080661",
+        "stop_lon": "101.681185",
+        "stop_id": "1001136",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KL1237 PERUMAHAN SRI PETALING",
+        "stop_lat": "3.0726025816592",
+        "stop_lon": "101.68262116566",
+        "stop_id": "1003620",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "(M) KL1238 PERUMAHAN SRI PETALING",
+        "stop_lat": "3.070787",
+        "stop_lon": "101.683416",
+        "stop_id": "1002663",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KL2031 KOMERSIAL SRI PETALING",
+        "stop_lat": "3.0668173856689",
+        "stop_lon": "101.692536059",
+        "stop_id": "1001564",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KL149 LRT BKT JALIL",
+        "stop_lat": "3.058047",
+        "stop_lon": "101.691406",
+        "stop_id": "1001792",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KL577 IMU BUKIT JALIL (OPP)",
+        "stop_lat": "3.059003",
+        "stop_lon": "101.687388",
+        "stop_id": "1004126",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KL1288 TAMAN ESPLANADE",
+        "stop_lat": "3.059451",
+        "stop_lon": "101.680901",
+        "stop_id": "1006616",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KL1289 TAMAN ESPLANADE",
+        "stop_lat": "3.060112",
+        "stop_lon": "101.678101",
+        "stop_id": "1006614",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KL1290 ARKED ESPLANAD (OPP)",
+        "stop_lat": "3.060823",
+        "stop_lon": "101.676138",
+        "stop_id": "1006612",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KL2324 LRT AWAN BESAR",
+        "stop_lat": "3.061769",
+        "stop_lon": "101.669737",
+        "stop_id": "1006170",
+        "stop_sequence": "52"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "stop_name": "(M) PJ530 HENTIAN BANDAR UTAMA",
+        "stop_lat": "3.151359",
+        "stop_lon": "101.613382",
+        "stop_id": "1000909",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ722 SMK DAMANSARA UTAMA",
+        "stop_lat": "3.137431",
+        "stop_lon": "101.624474",
+        "stop_id": "1007127",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ162 TAMAN MEGAH",
+        "stop_lat": "3.1122163182399",
+        "stop_lon": "101.61043199238",
+        "stop_id": "1001169",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ585 LRT KELANA JAYA",
+        "stop_lat": "3.112745",
+        "stop_lon": "101.604492",
+        "stop_id": "1001804",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ633 SMK KELANA JAYA",
+        "stop_lat": "3.1090534541627",
+        "stop_lon": "101.59607154107",
+        "stop_id": "1003347",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ634 POS MALAYSIA",
+        "stop_lat": "3.1011573713852",
+        "stop_lon": "101.59766835737",
+        "stop_id": "1002595",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ447 SKYPOD RESIDENCE",
+        "stop_lat": "3.043501",
+        "stop_lon": "101.620776",
+        "stop_id": "1006678",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "(M) SJ449 SETIA WALK",
+        "stop_lat": "3.0329749146266",
+        "stop_lon": "101.61732496691",
+        "stop_id": "1002768",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ611 SETIAWALK MALL",
+        "stop_lat": "3.0288195079409",
+        "stop_lon": "101.61521542686",
+        "stop_id": "1003510",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ667 TAMAN INDUSTRI PUCHONG",
+        "stop_lat": "3.0227373948343",
+        "stop_lon": "101.61417436779",
+        "stop_id": "1000070",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) PPJ254 MRT PUTRAJAYA SENTRAL",
+        "stop_lat": "2.932136",
+        "stop_lon": "101.671763",
+        "stop_id": "1005584",
+        "stop_sequence": "11"
+    }
+]

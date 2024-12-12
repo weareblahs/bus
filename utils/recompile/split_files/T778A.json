@@ -1,0 +1,8 @@
+{"trip_id":"weekend_T7780_T778002_10","arrival_time":"23:30:00","departure_time":"23:30:00","stop_id":"1006533","stop_sequence":"1","stop_headsign":"ONE CITY"},
+{"trip_id":"weekend_T7780_T778002_10","arrival_time":"23:31:09","departure_time":"23:31:09","stop_id":"1006534","stop_sequence":"2","stop_headsign":"ONE CITY"},
+{"trip_id":"weekend_T7780_T778002_10","arrival_time":"23:31:39","departure_time":"23:31:39","stop_id":"1006535","stop_sequence":"3","stop_headsign":"ONE CITY"},
+{"trip_id":"weekend_T7780_T778002_10","arrival_time":"23:32:05","departure_time":"23:32:05","stop_id":"1006536","stop_sequence":"4","stop_headsign":"ONE CITY"},
+{"trip_id":"weekend_T7780_T778002_10","arrival_time":"23:32:54","departure_time":"23:32:54","stop_id":"1006537","stop_sequence":"5","stop_headsign":"STESEN LRT USJ 21"},
+{"trip_id":"weekend_T7780_T778002_10","arrival_time":"23:36:15","departure_time":"23:36:15","stop_id":"1006538","stop_sequence":"6","stop_headsign":"STESEN LRT USJ 21"},
+{"trip_id":"weekend_T7780_T778002_10","arrival_time":"23:37:02","departure_time":"23:37:02","stop_id":"1006539","stop_sequence":"7","stop_headsign":"STESEN LRT USJ 21"},
+{"trip_id":"weekend_T7780_T778002_10","arrival_time":"23:40:00","departure_time":"23:40:00","stop_id":"1006533","stop_sequence":"8","stop_headsign":"STESEN LRT USJ 21"}

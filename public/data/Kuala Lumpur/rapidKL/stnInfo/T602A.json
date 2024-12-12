@@ -1,0 +1,212 @@
+[
+    {
+        "stop_name": "SJ237 TERMINAL PUCHONG UTAMA",
+        "stop_lat": "2.990446",
+        "stop_lon": "101.615552",
+        "stop_id": "1002641",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ492 KLINIK KESIHATAN BATU 14",
+        "stop_lat": "2.995178",
+        "stop_lon": "101.620301",
+        "stop_id": "1002369",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ483 SJKC HAN MING",
+        "stop_lat": "2.996321",
+        "stop_lon": "101.622156",
+        "stop_id": "1003116",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ484 SK PUCHONG",
+        "stop_lat": "2.995773",
+        "stop_lon": "101.623623",
+        "stop_id": "1003123",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ485 KG BARU PUCHONG",
+        "stop_lat": "2.992586",
+        "stop_lon": "101.626602",
+        "stop_id": "1000976",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ486 BANDAR BUKIT PUCHONG 3 (BARAT)",
+        "stop_lat": "2.992765",
+        "stop_lon": "101.629084",
+        "stop_id": "1006111",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ498 BANDAR BUKIT PUCHONG 3 (TIMUR)",
+        "stop_lat": "2.992163",
+        "stop_lon": "101.630844",
+        "stop_id": "1001240",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ499 MUTIARA INDAH",
+        "stop_lat": "2.989807",
+        "stop_lon": "101.634622",
+        "stop_id": "1002073",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ500 SK SAUJANA PUCHONG (OPP)",
+        "stop_lat": "2.989372",
+        "stop_lon": "101.639507",
+        "stop_id": "1002728",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ501 SAUJANA PUTRA 8",
+        "stop_lat": "2.993024",
+        "stop_lon": "101.640986",
+        "stop_id": "1002510",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PANGSAPURI SRI SENTOSA",
+        "stop_lat": "2.994158",
+        "stop_lon": "101.638003",
+        "stop_id": "1008334",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SAUJANA PUCHONG 5",
+        "stop_lat": "3.000523",
+        "stop_lon": "101.634934",
+        "stop_id": "1008335",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ503 SAUJANA PUTRA 10 (SELATAN)",
+        "stop_lat": "3.000969",
+        "stop_lon": "101.640977",
+        "stop_id": "1003419",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ504 SAUJANA PUTRA 7",
+        "stop_lat": "2.998506",
+        "stop_lon": "101.641637",
+        "stop_id": "1004115",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) SJ505 SAUJANA PUTRA 9",
+        "stop_lat": "2.996402",
+        "stop_lon": "101.641502",
+        "stop_id": "1007641",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ506 SAUJANA PUTRA 8",
+        "stop_lat": "2.994113",
+        "stop_lon": "101.641367",
+        "stop_id": "1002511",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ511 SK SAUJANA PUCHONG",
+        "stop_lat": "2.989374",
+        "stop_lon": "101.640082",
+        "stop_id": "1002729",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ512 MUTIARA INDAH",
+        "stop_lat": "2.989665",
+        "stop_lon": "101.634428",
+        "stop_id": "1002074",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SJ513 BANDAR BUKIT PUCHONG 3 (TIMUR)",
+        "stop_lat": "2.991886",
+        "stop_lon": "101.630928",
+        "stop_id": "1001239",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SJ487 BANDAR BUKIT PUCHONG 3 (BARAT)",
+        "stop_lat": "2.992546",
+        "stop_lon": "101.628894",
+        "stop_id": "1006129",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SJ514 VISTA PRIMA/PURI TOWER (OPP)",
+        "stop_lat": "2.988056",
+        "stop_lon": "101.626825",
+        "stop_id": "1004206",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SJ602 BANDAR BUKIT PUCHONG BP1",
+        "stop_lat": "2.986096",
+        "stop_lon": "101.630722",
+        "stop_id": "1000675",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "BANDAR BUKIT PUCHONG BP4 (TIMUR)",
+        "stop_lat": "2.982002",
+        "stop_lon": "101.630998",
+        "stop_id": "1001497",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SJ221 BANDAR BUKIT PUCHONG BP4 (TIMUR)",
+        "stop_lat": "2.981142",
+        "stop_lon": "101.629846",
+        "stop_id": "1003921",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SJ228 BANDAR BUKIT PUCHONG BP4 (SELATAN)",
+        "stop_lat": "2.980139",
+        "stop_lon": "101.627518",
+        "stop_id": "1001231",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SJ229 BANDAR BUKIT PUCHONG BP5 (SELATAN)",
+        "stop_lat": "2.980949",
+        "stop_lon": "101.624167",
+        "stop_id": "1001230",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SJ230 BANDAR BUKIT PUCHONG BP5 (UTARA)",
+        "stop_lat": "2.985357",
+        "stop_lon": "101.624334",
+        "stop_id": "1002813",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SJ231 BANDAR BUKIT PUCHONG",
+        "stop_lat": "2.986967",
+        "stop_lon": "101.621235",
+        "stop_id": "1002580",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SJ236 KOMERSIAL BANDAR BUKIT PUCHONG",
+        "stop_lat": "2.989254",
+        "stop_lon": "101.617986",
+        "stop_id": "1001151",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SJ237 TERMINAL PUCHONG UTAMA",
+        "stop_lat": "2.990446",
+        "stop_lon": "101.615552",
+        "stop_id": "1002641",
+        "stop_sequence": "30"
+    }
+]

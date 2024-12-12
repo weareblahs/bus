@@ -1,0 +1,261 @@
+[
+    {
+        "stop_name": "SJ629 TAMAN PERINDUSTRIAN USJ1",
+        "stop_lat": "3.048568",
+        "stop_lon": "101.605762",
+        "stop_id": "1004184",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ630 SJKC CHEE WEN (OPP)",
+        "stop_lat": "3.049619",
+        "stop_lon": "101.602492",
+        "stop_id": "1003291",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ632 PUSAT INDUSTRI IKS USJ1",
+        "stop_lat": "3.048505987434",
+        "stop_lon": "101.60174838489",
+        "stop_id": "1002187",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ77 APARTMENT MERANTI",
+        "stop_lat": "3.046148",
+        "stop_lon": "101.601575",
+        "stop_id": "1004306",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ78 PANGSAPURI ANGSANA",
+        "stop_lat": "3.044505",
+        "stop_lon": "101.601982",
+        "stop_id": "1002123",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ81 APARTMENT ANGSANA (SELATAN)",
+        "stop_lat": "3.04299489717",
+        "stop_lon": "101.60075002658",
+        "stop_id": "1002758",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ690 ZON PERINDUSTRIAN USJ1",
+        "stop_lat": "3.043026",
+        "stop_lon": "101.596089",
+        "stop_id": "1001860",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ725 GOODYEAR COURT 6 (SELATAN)",
+        "stop_lat": "3.042999",
+        "stop_lon": "101.593605",
+        "stop_id": "1004185",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ82 GOODYEAR COURT 7",
+        "stop_lat": "3.042916",
+        "stop_lon": "101.590921",
+        "stop_id": "1000882",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ537 IPD SUBANG JAYA (OPP)",
+        "stop_lat": "3.045879",
+        "stop_lon": "101.588305",
+        "stop_id": "1001938",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ546 LRT TAIPAN",
+        "stop_lat": "3.0482",
+        "stop_lon": "101.59038333333",
+        "stop_id": "1006025",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ692 BRT USJ 7",
+        "stop_lat": "3.05345",
+        "stop_lon": "101.5918",
+        "stop_id": "1006026",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ633 DA MEN MALL (OPP)",
+        "stop_lat": "3.058043",
+        "stop_lon": "101.591806",
+        "stop_id": "1002508",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ634 SUMMIT USJ (OPP)",
+        "stop_lat": "3.059654",
+        "stop_lon": "101.592127",
+        "stop_id": "1003702",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ695 FLAT SS13 (OPP)",
+        "stop_lat": "3.066269",
+        "stop_lon": "101.592863",
+        "stop_id": "1002110",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ636 KOMPLEKS 3K (OPP)",
+        "stop_lat": "3.069686",
+        "stop_lon": "101.592848",
+        "stop_id": "1001758",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ229 KOMPLEKS 3C (OPP)",
+        "stop_lat": "3.073384",
+        "stop_lon": "101.601469",
+        "stop_id": "1000523",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ294 SUNWAY CLIO (OPP)",
+        "stop_lat": "3.0737225504127",
+        "stop_lon": "101.60355896913",
+        "stop_id": "1003708",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ561 SUNWAY PYRAMID (OPP)",
+        "stop_lat": "3.074113",
+        "stop_lon": "101.605891",
+        "stop_id": "1008430",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) PJ614 MASJID AL-HUSNA",
+        "stop_lat": "3.074256",
+        "stop_lon": "101.608951",
+        "stop_id": "1001873",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ178 BRT MENTARI",
+        "stop_lat": "3.076421",
+        "stop_lon": "101.610095",
+        "stop_id": "1002624",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ179 SUNWAY MENTARI (BARAT)",
+        "stop_lat": "3.076606",
+        "stop_lon": "101.611625",
+        "stop_id": "1008663",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PJ180 SUNWAY MENTARI (TIMUR)",
+        "stop_lat": "3.076579",
+        "stop_lon": "101.613017",
+        "stop_id": "1008664",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "(M) PJ560 ICON CITY",
+        "stop_lat": "3.084379",
+        "stop_lon": "101.614769",
+        "stop_id": "1002065",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PJ601 PLAZA SERI SETIA",
+        "stop_lat": "3.0845601901256",
+        "stop_lon": "101.61833988511",
+        "stop_id": "1003173",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PJ599 HIGHWAY CENTER",
+        "stop_lat": "3.0919462531599",
+        "stop_lon": "101.63208087033",
+        "stop_id": "1001734",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M) PJ437 LRT ASIA JAYA",
+        "stop_lat": "3.1038828935882",
+        "stop_lon": "101.63914593158",
+        "stop_id": "1001785",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PJ442 FINAS",
+        "stop_lat": "3.109654",
+        "stop_lon": "101.643371",
+        "stop_id": "1000671",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PJ443 YAYASAN CANCERLINK",
+        "stop_lat": "3.108473",
+        "stop_lon": "101.645841",
+        "stop_id": "1004272",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PJ597 PPUM FEDERAL",
+        "stop_lat": "3.110181",
+        "stop_lon": "101.652903",
+        "stop_id": "1002620",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL1535 MIDVALLEY",
+        "stop_lat": "3.119766",
+        "stop_lon": "101.679256",
+        "stop_id": "1004209",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL1086 IPD BRICKFIELDS",
+        "stop_lat": "3.126168",
+        "stop_lon": "101.682412",
+        "stop_id": "1000206",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL1079 KL SENTRAL",
+        "stop_lat": "3.132961",
+        "stop_lon": "101.687618",
+        "stop_id": "1001512",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL1090 SENTRAL EXHIBITION MALL",
+        "stop_lat": "3.134408",
+        "stop_lon": "101.688902",
+        "stop_id": "1004275",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL1925 JABATAN WARISAN NEGARA",
+        "stop_lat": "3.138258",
+        "stop_lon": "101.694216",
+        "stop_id": "1003588",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL1091 PUBLIC BANK (OPP)",
+        "stop_lat": "3.138761",
+        "stop_lon": "101.695062",
+        "stop_id": "1002639",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "(M) KL2213 PASAR SENI (PLATFORM B5)",
+        "stop_lat": "3.142408",
+        "stop_lon": "101.695313",
+        "stop_id": "1002297",
+        "stop_sequence": "37"
+    }
+]

@@ -1,0 +1,247 @@
+[
+    {
+        "stop_name": "KL2324 LRT AWAN BESAR",
+        "stop_lat": "3.061769",
+        "stop_lon": "101.669737",
+        "stop_id": "1006170",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1291 KM1 BUKIT JALIL",
+        "stop_lat": "3.058376",
+        "stop_lon": "101.674439",
+        "stop_id": "1006173",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL2020 AFC (OPP)",
+        "stop_lat": "3.0560439806125",
+        "stop_lon": "101.67321488454",
+        "stop_id": "1000044",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL2026 AURORA PLACE",
+        "stop_lat": "3.054211",
+        "stop_lon": "101.669275",
+        "stop_id": "1003940",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1293 APARTMENT ARENA GREEN",
+        "stop_lat": "3.053789",
+        "stop_lon": "101.688308",
+        "stop_id": "1000160",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL151 LRT BKT JALIL",
+        "stop_lat": "3.058519",
+        "stop_lon": "101.691519",
+        "stop_id": "1001791",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1320 ENDAH VILLA CONDOMINIUM",
+        "stop_lat": "3.0647242316022",
+        "stop_lon": "101.6918424036",
+        "stop_id": "1000612",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1321 APT SRI ENDAH (OPP)",
+        "stop_lat": "3.064294",
+        "stop_lon": "101.691108",
+        "stop_id": "1000613",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL2027 DEWAN SRI ENDAH",
+        "stop_lat": "3.0642100414548",
+        "stop_lon": "101.68781556643",
+        "stop_id": "1000574",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL2028 FLAT SRI ENDAH",
+        "stop_lat": "3.063841723806",
+        "stop_lon": "101.68891143219",
+        "stop_id": "1002306",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1322 APT TAMAN SRI ENDAH",
+        "stop_lat": "3.064179",
+        "stop_lon": "101.690972",
+        "stop_id": "1000103",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL2029 8 PETALING CONDOMINIUM",
+        "stop_lat": "3.066401",
+        "stop_lon": "101.690988",
+        "stop_id": "1001580",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL2031 KOMERSIAL SRI PETALING",
+        "stop_lat": "3.0668173856689",
+        "stop_lon": "101.692536059",
+        "stop_id": "1001564",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1313 BANK ISLAM SRI PETALING",
+        "stop_lat": "3.068718",
+        "stop_lon": "101.695328",
+        "stop_id": "1003926",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1306 ZON J, BANDAR BARU SRI PETALING (UTARA)",
+        "stop_lat": "3.069572",
+        "stop_lon": "101.696299",
+        "stop_id": "1002884",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1307 ZON H, BANDAR BARU SRI PETALING (UTARA)",
+        "stop_lat": "3.069741",
+        "stop_lon": "101.699385",
+        "stop_id": "1002907",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1308 ZON G, SRI PETALING (TIMUR)",
+        "stop_lat": "3.0676795159265",
+        "stop_lon": "101.70077002231",
+        "stop_id": "1003024",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1310 ENDAH RIA CONDOMINIUM",
+        "stop_lat": "3.064168",
+        "stop_lon": "101.699606",
+        "stop_id": "1000122",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) KL1311 ENDAH PROMENADE",
+        "stop_lat": "3.0639369330267",
+        "stop_lon": "101.69740585285",
+        "stop_id": "1000611",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1312 ENDAH PARADE",
+        "stop_lat": "3.063836",
+        "stop_lon": "101.695435",
+        "stop_id": "1000449",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL149 LRT BKT JALIL",
+        "stop_lat": "3.058047",
+        "stop_lon": "101.691406",
+        "stop_id": "1001792",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1299 APARTMENT ARENA GREEN (OPP)",
+        "stop_lat": "3.0518229558133",
+        "stop_lon": "101.68870475194",
+        "stop_id": "1000161",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1550 I SHOPPE TPM",
+        "stop_lat": "3.047908",
+        "stop_lon": "101.688859",
+        "stop_id": "1000984",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL2007 ENTERPRISE 3 TPM",
+        "stop_lat": "3.048086",
+        "stop_lon": "101.691714",
+        "stop_id": "1001008",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL2008 MAXIS TOC TPM",
+        "stop_lat": "3.051657",
+        "stop_lon": "101.697283",
+        "stop_id": "1002031",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL2009 TPM CARPARK",
+        "stop_lat": "3.055012",
+        "stop_lon": "101.702792",
+        "stop_id": "1004139",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL1540 ASTRO TPM",
+        "stop_lat": "3.052423",
+        "stop_lon": "101.700636",
+        "stop_id": "1000176",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL2010 MAXIS TOC TPM",
+        "stop_lat": "3.051317",
+        "stop_lon": "101.697391",
+        "stop_id": "1002032",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL1542 ENTERPRISE 3 TPM",
+        "stop_lat": "3.048593",
+        "stop_lon": "101.692752",
+        "stop_id": "1004159",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL1551 MAYBANK TPM",
+        "stop_lat": "3.047402",
+        "stop_lon": "101.688837",
+        "stop_id": "1001978",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL2018 CALVARY CONVENTION CENTRE",
+        "stop_lat": "3.050626",
+        "stop_lon": "101.679712",
+        "stop_id": "1001072",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL2019 ANJUNG HIJAU GREENFIELDS",
+        "stop_lat": "3.055941",
+        "stop_lon": "101.675214",
+        "stop_id": "1000111",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL2020 AFC (OPP)",
+        "stop_lat": "3.0560439806125",
+        "stop_lon": "101.67321488454",
+        "stop_id": "1000044",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL1743 GREEN AVENUE CONDOMINIUM",
+        "stop_lat": "3.058659",
+        "stop_lon": "101.673981",
+        "stop_id": "1006172",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL2324 LRT AWAN BESAR",
+        "stop_lat": "3.061769",
+        "stop_lon": "101.669737",
+        "stop_id": "1006170",
+        "stop_sequence": "35"
+    }
+]

@@ -1,0 +1,289 @@
+[
+    {
+        "stop_name": "KL117 BSN LEBUH AMPANG",
+        "stop_lat": "3.1492454039518",
+        "stop_lon": "101.69737177094",
+        "stop_id": "1000383",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL30 AMANAHRAYA",
+        "stop_lat": "3.1519126007803",
+        "stop_lon": "101.69799809706",
+        "stop_id": "1003683",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "(M) KL31 HENTIAN MUNSHI ABDULLAH",
+        "stop_lat": "3.1532582998069",
+        "stop_lon": "101.69848425418",
+        "stop_id": "1000823",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M) KL32 CAPSQUARE",
+        "stop_lat": "3.1546522393082",
+        "stop_lon": "101.69837470998",
+        "stop_id": "1002560",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) KL1940 SOGO KL",
+        "stop_lat": "3.1567788096169",
+        "stop_lon": "101.69535839244",
+        "stop_id": "1003415",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL40 MEDAN MARA",
+        "stop_lat": "3.157724",
+        "stop_lon": "101.694556",
+        "stop_id": "1001984",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SKPK LELAKI JLN BATU",
+        "stop_lat": "3.159643",
+        "stop_lon": "101.694843",
+        "stop_id": "1003299",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL41 LRT SULTAN ISMAIL/WISMA SIME DARBY",
+        "stop_lat": "3.162154",
+        "stop_lon": "101.695526",
+        "stop_id": "1003257",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL42 EDC HOTEL",
+        "stop_lat": "3.165085",
+        "stop_lon": "101.696133",
+        "stop_id": "1002694",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL46 CHOWKIT/KFC (BARAT)",
+        "stop_lat": "3.167208",
+        "stop_lon": "101.696275",
+        "stop_id": "1001418",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL53 GRAND SEASONS HOTEL",
+        "stop_lat": "3.1701675672584",
+        "stop_lon": "101.69824199219",
+        "stop_id": "1000887",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL54 HKL (OPP)",
+        "stop_lat": "3.1727016599494",
+        "stop_lon": "101.69894622509",
+        "stop_id": "1000915",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL668 HOSPITAL TAWAKAL",
+        "stop_lat": "3.177278",
+        "stop_lon": "101.699941",
+        "stop_id": "1003871",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL670 TITIWANGSA (BARAT)",
+        "stop_lat": "3.1816966341743",
+        "stop_lon": "101.70141734218",
+        "stop_id": "1003428",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL672 WISMA LOTUS",
+        "stop_lat": "3.1857101543812",
+        "stop_lon": "101.70184070767",
+        "stop_id": "1000822",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL673 GUAN YING TING",
+        "stop_lat": "3.188411",
+        "stop_lon": "101.704123",
+        "stop_id": "1001330",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL674 COURTS MEGASTORE SETAPAK",
+        "stop_lat": "3.190798",
+        "stop_lon": "101.707093",
+        "stop_id": "1000507",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL675 TAMAN P.RAMLEE",
+        "stop_lat": "3.1919098657668",
+        "stop_lon": "101.70841657374",
+        "stop_id": "1003187",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL676 KFC GENTING KLANG",
+        "stop_lat": "3.195394",
+        "stop_lon": "101.712216",
+        "stop_id": "1001417",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL677 SRI PELANGI CONDOMINIUM (SELATAN)",
+        "stop_lat": "3.196295",
+        "stop_lon": "101.713091",
+        "stop_id": "1002233",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL678 SRI PELANGI CONDOMINIUM",
+        "stop_lat": "3.1972044536909",
+        "stop_lon": "101.71399522754",
+        "stop_id": "1001335",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL679 PV128 SETAPAK",
+        "stop_lat": "3.199125",
+        "stop_lon": "101.716094",
+        "stop_id": "1000285",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "(M) KL1598 COLUMBIA HOSPITAL",
+        "stop_lat": "3.200977",
+        "stop_lon": "101.718495",
+        "stop_id": "1003849",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL680 SETAPAK SENTRAL (SELATAN)",
+        "stop_lat": "3.202388",
+        "stop_lon": "101.720442",
+        "stop_id": "1007521",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL681 STARPARC POINT",
+        "stop_lat": "3.2043434187729",
+        "stop_lon": "101.72286788476",
+        "stop_id": "1001199",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL682 KEM WARDIEBURN",
+        "stop_lat": "3.2060699282867",
+        "stop_lon": "101.72534810808",
+        "stop_id": "1001400",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "UTAR PINTU 2",
+        "stop_lat": "3.213774",
+        "stop_lon": "101.727103",
+        "stop_id": "1002545",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL162 UTAR MAIN GATE",
+        "stop_lat": "3.2152638066092",
+        "stop_lon": "101.7292470894",
+        "stop_id": "1003846",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "UTAR PINTU 4",
+        "stop_lat": "3.214897",
+        "stop_lon": "101.730169",
+        "stop_id": "1003489",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL2101 SURAU TAMAN BUNGA RAYA",
+        "stop_lat": "3.213066",
+        "stop_lon": "101.729618",
+        "stop_id": "1008325",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL169 TAR VILLA",
+        "stop_lat": "3.2074455955313",
+        "stop_lon": "101.72952884294",
+        "stop_id": "1003848",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL170 LRT WANGSA MAJU",
+        "stop_lat": "3.205606",
+        "stop_lon": "101.731913",
+        "stop_id": "1001834",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL172 FLAT BLOK G9",
+        "stop_lat": "3.209006",
+        "stop_lon": "101.732225",
+        "stop_id": "1006268",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL173 PUSAT PENJAJA SEKSYEN 2",
+        "stop_lat": "3.211222",
+        "stop_lon": "101.733151",
+        "stop_id": "1002266",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL174 BLOK E10 (OPP)",
+        "stop_lat": "3.2118968009637",
+        "stop_lon": "101.73527509179",
+        "stop_id": "1000349",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL175 BLOK C14",
+        "stop_lat": "3.210641",
+        "stop_lon": "101.737187",
+        "stop_id": "1000345",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL176 HOSPITAL TENTERA TUANKU MIZAN",
+        "stop_lat": "3.2091975809309",
+        "stop_lon": "101.7380061917",
+        "stop_id": "1000344",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL177 BLOK A5",
+        "stop_lat": "3.2070661975135",
+        "stop_lon": "101.73854492429",
+        "stop_id": "1000341",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL178 BLOK 5",
+        "stop_lat": "3.2057653046191",
+        "stop_lon": "101.73737386896",
+        "stop_id": "1000330",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "(M) KL192 LRT WANGSA MAJU",
+        "stop_lat": "3.204959",
+        "stop_lon": "101.732321",
+        "stop_id": "1001835",
+        "stop_sequence": "41"
+    }
+]

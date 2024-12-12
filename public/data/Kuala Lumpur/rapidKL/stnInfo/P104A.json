@@ -1,0 +1,142 @@
+[
+    {
+        "stop_name": "PPJ34 DATARAN GEMILANG",
+        "stop_lat": "2.903404",
+        "stop_lon": "101.681176",
+        "stop_id": "1005662",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PPJ35 KEMENTERIAN WANITA & MASYARAKAT",
+        "stop_lat": "2.902484",
+        "stop_lon": "101.680169",
+        "stop_id": "1008624",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PPJ5 PRESINT 5 (BARAT)",
+        "stop_lat": "2.895592",
+        "stop_lon": "101.673208",
+        "stop_id": "1008626",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PPJ6 HERIOT-WATT UNIVERSITY P5 (OPP)",
+        "stop_lat": "2.897694",
+        "stop_lon": "101.671086",
+        "stop_id": "1008628",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PPJ7 KEMENTERIAN PELANCONGAN",
+        "stop_lat": "2.898823",
+        "stop_lon": "101.668346",
+        "stop_id": "1008630",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PPJ8 APARTMENT 5R1 P5 (OPP)",
+        "stop_lat": "2.898637",
+        "stop_lon": "101.666378",
+        "stop_id": "1008632",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PPJ9 PRESINT 6 (SELATAN)",
+        "stop_lat": "2.897135",
+        "stop_lon": "101.665762",
+        "stop_id": "1008634",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PPJ12 APARTMENT 5R3 P5",
+        "stop_lat": "2.896223",
+        "stop_lon": "101.664215",
+        "stop_id": "1008636",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PPJ14 PRESINT 6 (SELATAN)",
+        "stop_lat": "2.897006",
+        "stop_lon": "101.665447",
+        "stop_id": "1008635",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PPJ15 APARTMENT 5R1 P5",
+        "stop_lat": "2.898928",
+        "stop_lon": "101.666136",
+        "stop_id": "1008633",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PPJ16 MARINA PUTRAJAYA",
+        "stop_lat": "2.899133",
+        "stop_lon": "101.668458",
+        "stop_id": "1008631",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PPJ19 HERIOT-WATT UNIVERSITY P5",
+        "stop_lat": "2.898268",
+        "stop_lon": "101.670839",
+        "stop_id": "1008629",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PPJ327 PRESINT 5 (BARAT)",
+        "stop_lat": "2.896024",
+        "stop_lon": "101.673401",
+        "stop_id": "1008627",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PPJ1 PICC P5",
+        "stop_lat": "2.893569",
+        "stop_lon": "101.675186",
+        "stop_id": "1005731",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PPJ29 PICC MAIN ENTRANCE",
+        "stop_lat": "2.895659",
+        "stop_lon": "101.677529",
+        "stop_id": "1005718",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PPJ20 APARTMENT 5R4",
+        "stop_lat": "2.889199",
+        "stop_lon": "101.675535",
+        "stop_id": "1005719",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PPJ23 SK PUTRAJAYA P5 (1)",
+        "stop_lat": "2.888995",
+        "stop_lon": "101.678403",
+        "stop_id": "1008638",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PPJ26 APARTMENT 5R6 P5",
+        "stop_lat": "2.890675",
+        "stop_lon": "101.679819",
+        "stop_id": "1008637",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PPJ36 KEMENTERIAN WANITA & MASYARAKAT",
+        "stop_lat": "2.902493",
+        "stop_lon": "101.679655",
+        "stop_id": "1008625",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PPJ34 DATARAN GEMILANG",
+        "stop_lat": "2.903404",
+        "stop_lon": "101.681176",
+        "stop_id": "1005662",
+        "stop_sequence": "20"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA19 GRAND BLUEWAVE",
+        "stop_lat": "3.073544",
+        "stop_lon": "101.522647",
+        "stop_id": "1000936",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA367 DATARAN KEMERDEKAAN",
+        "stop_lat": "3.076122",
+        "stop_lon": "101.524897",
+        "stop_id": "1006644",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA21 SAMT TENGKU AMPUAN JEMAAH",
+        "stop_lat": "3.078956",
+        "stop_lon": "101.525796",
+        "stop_id": "1001091",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA28 PERUMAHAN SEKSYEN 10",
+        "stop_lat": "3.081103",
+        "stop_lon": "101.527212",
+        "stop_id": "1000938",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA29 PLAZA SHAH ALAM (OPP)",
+        "stop_lat": "3.084189",
+        "stop_lon": "101.521877",
+        "stop_id": "1001976",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA30 PINTU 3 SUK",
+        "stop_lat": "3.086192",
+        "stop_lon": "101.517409",
+        "stop_id": "1003700",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA322 PERUMAHAN JALAN TEPIAN 8",
+        "stop_lat": "3.090228",
+        "stop_lon": "101.513563",
+        "stop_id": "1003465",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA323 KOMERSIAL SEKSYEN 8",
+        "stop_lat": "3.091379",
+        "stop_lon": "101.508826",
+        "stop_id": "1003719",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA324 FLAT SEKSYEN 8",
+        "stop_lat": "3.0902113958282",
+        "stop_lon": "101.50578521312",
+        "stop_id": "1003686",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA45 PANGSAPURI PKNS SEKSYEN 8",
+        "stop_lat": "3.088918",
+        "stop_lon": "101.509158",
+        "stop_id": "1003079",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA349 PERUMAHAN JLN HELANG",
+        "stop_lat": "3.088339",
+        "stop_lon": "101.510258",
+        "stop_id": "1000556",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA351 FLAT SEKSYEN 6 (OPP)",
+        "stop_lat": "3.086614",
+        "stop_lon": "101.509767",
+        "stop_id": "1000319",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA352 SK BANDAR ANGGERIK (OPP)",
+        "stop_lat": "3.086587",
+        "stop_lon": "101.508471",
+        "stop_id": "1000674",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SA345 KOLEJ CENDANA UITM",
+        "stop_lat": "3.084763",
+        "stop_lon": "101.507069",
+        "stop_id": "1000201",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) SA358 SRA SEKSYEN 3 (OPP)",
+        "stop_lat": "3.078728",
+        "stop_lon": "101.508271",
+        "stop_id": "1006014",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA361 SK RAJA MUDA",
+        "stop_lat": "3.0768691961795",
+        "stop_lon": "101.50980264463",
+        "stop_id": "1003312",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA15 TAMAN TASIK SHAH ALAM",
+        "stop_lat": "3.068967",
+        "stop_lon": "101.515673",
+        "stop_id": "1004224",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SA16 KOMPLEKS PKNS (OPP)",
+        "stop_lat": "3.071462",
+        "stop_lon": "101.516276",
+        "stop_id": "1003856",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA856 WISMA MBSA",
+        "stop_lat": "3.073127",
+        "stop_lon": "101.519848",
+        "stop_id": "1006643",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "21"
+    }
+]

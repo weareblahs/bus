@@ -1,0 +1,303 @@
+[
+    {
+        "stop_name": "KJ461 HENTIAN KAJANG",
+        "stop_lat": "2.9570042504083",
+        "stop_lon": "101.79171937538",
+        "stop_id": "1003903",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KJ462 PLAZA PERABOT",
+        "stop_lat": "2.961152",
+        "stop_lon": "101.792062",
+        "stop_id": "1002571",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KJ463 SHELL",
+        "stop_lat": "2.9646004641002",
+        "stop_lon": "101.79096441243",
+        "stop_id": "1003224",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KJ451 SJK (T) WEST COUNTRY",
+        "stop_lat": "2.965352",
+        "stop_lon": "101.788903",
+        "stop_id": "1006251",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SENG HENG",
+        "stop_lat": "2.965467",
+        "stop_lon": "101.780922",
+        "stop_id": "1006249",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "TASKA BESTARI SEK 8",
+        "stop_lat": "2.968784",
+        "stop_lon": "101.772868",
+        "stop_id": "1006247",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "99 SPEEDMART SEK 7 (OPP)",
+        "stop_lat": "2.971535",
+        "stop_lon": "101.773478",
+        "stop_id": "1006245",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PINTU 3 SK SEK 7",
+        "stop_lat": "2.970502",
+        "stop_lon": "101.774785",
+        "stop_id": "1006312",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "JPJ BANGI (OPP)",
+        "stop_lat": "2.968574",
+        "stop_lon": "101.775248",
+        "stop_id": "1006313",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "RUMAH NO 17",
+        "stop_lat": "2.96817",
+        "stop_lon": "101.777421",
+        "stop_id": "1006314",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI TANJUNG (OPP)",
+        "stop_lat": "2.968784",
+        "stop_lon": "101.780438",
+        "stop_id": "1006315",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "INTANA RIA (OPP)",
+        "stop_lat": "2.970096",
+        "stop_lon": "101.78063",
+        "stop_id": "1006316",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SURAU AL ISLAH",
+        "stop_lat": "2.972848",
+        "stop_lon": "101.779703",
+        "stop_id": "1006241",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "99 SPEEDMART KJG MEWAH",
+        "stop_lat": "2.975796",
+        "stop_lon": "101.780369",
+        "stop_id": "1006317",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "JING AN MEMORIAL VILLAGE",
+        "stop_lat": "2.977431",
+        "stop_lon": "101.780722",
+        "stop_id": "1006239",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "TMN KOPERASI LLN (OPP)",
+        "stop_lat": "2.979689",
+        "stop_lon": "101.780663",
+        "stop_id": "1006237",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "TMN KAJANG INDAH",
+        "stop_lat": "2.985456",
+        "stop_lon": "101.779206",
+        "stop_id": "1006235",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "FLAT SRI SAGA (OPP)",
+        "stop_lat": "2.988415",
+        "stop_lon": "101.778013",
+        "stop_id": "1006233",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KJ172 WINNIE PLAZA (OPP)",
+        "stop_lat": "2.990825",
+        "stop_lon": "101.78033",
+        "stop_id": "1006079",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KJ822 MRT STADIUM KAJANG",
+        "stop_lat": "2.994009",
+        "stop_lon": "101.78641",
+        "stop_id": "1007233",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SMJKC YU HUA (OPP)",
+        "stop_lat": "2.996792",
+        "stop_lon": "101.790922",
+        "stop_id": "1008068",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KJ506 PEJABAT AIR SELANGOR",
+        "stop_lat": "2.992459",
+        "stop_lon": "101.793035",
+        "stop_id": "1004267",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KJ507 KOMERSIAL BANDAR KAJANG",
+        "stop_lat": "2.992967",
+        "stop_lon": "101.790135",
+        "stop_id": "1001750",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KJ508 PEKAN KAJANG",
+        "stop_lat": "2.991911",
+        "stop_lon": "101.787865",
+        "stop_id": "1004231",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KJ644 WINNIE PLAZA",
+        "stop_lat": "2.990711",
+        "stop_lon": "101.780377",
+        "stop_id": "1006064",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "FLAT SRI SAGA",
+        "stop_lat": "2.988491",
+        "stop_lon": "101.778122",
+        "stop_id": "1006232",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PEARL AVENUE",
+        "stop_lat": "2.985275",
+        "stop_lon": "101.779403",
+        "stop_id": "1006234",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "TMN KOPERASI LLN",
+        "stop_lat": "2.979613",
+        "stop_lon": "101.78079",
+        "stop_id": "1006236",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "TMN SRI KEJORA",
+        "stop_lat": "2.977745",
+        "stop_lon": "101.780896",
+        "stop_id": "1006238",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "99 SPEEDMART KJG MEWAH (OPP)",
+        "stop_lat": "2.975737",
+        "stop_lon": "101.780491",
+        "stop_id": "1006318",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SURAU AL ISLAH (OPP)",
+        "stop_lat": "2.972804",
+        "stop_lon": "101.779891",
+        "stop_id": "1006240",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "INTANA RIA",
+        "stop_lat": "2.970123",
+        "stop_lon": "101.780749",
+        "stop_id": "1006319",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI TANJUNG",
+        "stop_lat": "2.968668",
+        "stop_lon": "101.780551",
+        "stop_id": "1006320",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "RUMAH NO 24",
+        "stop_lat": "2.968032",
+        "stop_lon": "101.777446",
+        "stop_id": "1006321",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "JPJ BANGI",
+        "stop_lat": "2.96836",
+        "stop_lon": "101.77515",
+        "stop_id": "1006322",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PINTU 3 SK SEK 7 (OPP)",
+        "stop_lat": "2.970483",
+        "stop_lon": "101.774694",
+        "stop_id": "1006323",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "99 SPEEDMART SEK 7",
+        "stop_lat": "2.971453",
+        "stop_lon": "101.773123",
+        "stop_id": "1006244",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "WISMA CK RAHIM",
+        "stop_lat": "2.970108",
+        "stop_lon": "101.772791",
+        "stop_id": "1006246",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SEK 4 TAMBAHAN",
+        "stop_lat": "2.965731",
+        "stop_lon": "101.781044",
+        "stop_id": "1006248",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KJ450 REKO SENTRAL",
+        "stop_lat": "2.965787",
+        "stop_lon": "101.789334",
+        "stop_id": "1006250",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KJ208 SHELL (OPP)",
+        "stop_lat": "2.963936",
+        "stop_lon": "101.791419",
+        "stop_id": "1003225",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KJ209 PLAZA PERABOT (OPP)",
+        "stop_lat": "2.960963",
+        "stop_lon": "101.792391",
+        "stop_id": "1002572",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KJ461 HENTIAN KAJANG",
+        "stop_lat": "2.9570042504083",
+        "stop_lon": "101.79171937538",
+        "stop_id": "1003903",
+        "stop_sequence": "43"
+    }
+]

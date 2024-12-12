@@ -1,0 +1,198 @@
+[
+    {
+        "stop_name": "KL1013 TAMAN DATO SENU",
+        "stop_lat": "3.193997",
+        "stop_lon": "101.694054",
+        "stop_id": "1002791",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1005 PADANG DATO SENU",
+        "stop_lat": "3.1959661287747",
+        "stop_lon": "101.69574646695",
+        "stop_id": "1003788",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1007 KOMERSIAL DATO SENU",
+        "stop_lat": "3.193629",
+        "stop_lon": "101.695757",
+        "stop_id": "1002372",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1013 TAMAN DATO SENU",
+        "stop_lat": "3.193997",
+        "stop_lon": "101.694054",
+        "stop_id": "1002791",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1014 PERUMAHAN SENTUL IMPIAN",
+        "stop_lat": "3.195259",
+        "stop_lon": "101.692095",
+        "stop_id": "1003035",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL2063 SPG DATO SENU",
+        "stop_lat": "3.1945987428565",
+        "stop_lon": "101.69102565218",
+        "stop_id": "1000638",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL643 MASJID AL-HIDAYAH SENTUL",
+        "stop_lat": "3.1920734599953",
+        "stop_lon": "101.6910158276",
+        "stop_id": "1000770",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL644 PANGSAPURI SENTUL UTARA",
+        "stop_lat": "3.190131",
+        "stop_lon": "101.691354",
+        "stop_id": "1002171",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL645 SENTUL BOULEVARD (UTARA)",
+        "stop_lat": "3.1860286814606",
+        "stop_lon": "101.69248897523",
+        "stop_id": "1003168",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL647 FENNEL SENTUL",
+        "stop_lat": "3.183666",
+        "stop_lon": "101.694169",
+        "stop_id": "1003169",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL2065 CAPERS SENTUL",
+        "stop_lat": "3.181731",
+        "stop_lon": "101.693202",
+        "stop_id": "1003515",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "D6 SENTUL",
+        "stop_lat": "3.180778",
+        "stop_lon": "101.692479",
+        "stop_id": "1008377",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL665 SJKC SENTUL KL",
+        "stop_lat": "3.179894",
+        "stop_lon": "101.692594",
+        "stop_id": "1000573",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL665 SJKT SENTUL",
+        "stop_lat": "3.1768647215315",
+        "stop_lon": "101.69294053604",
+        "stop_id": "1001524",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL666 PERUMAHAN AWAM SERI TERENGGANU",
+        "stop_lat": "3.1751537428436",
+        "stop_lon": "101.6931426527",
+        "stop_id": "1000785",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL2249 PERKIM",
+        "stop_lat": "3.171261",
+        "stop_lon": "101.693485",
+        "stop_id": "1002414",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL50 DAMAI HOSPITAL",
+        "stop_lat": "3.169987",
+        "stop_lon": "101.695148",
+        "stop_id": "1000514",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL69 PASAR CHOW KIT",
+        "stop_lat": "3.1649075811687",
+        "stop_lon": "101.69838214605",
+        "stop_id": "1000477",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL70 SRI AMAR",
+        "stop_lat": "3.1621045678315",
+        "stop_lon": "101.69799859061",
+        "stop_id": "1004169",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL71 KOMERSIAL TAR",
+        "stop_lat": "3.1612475525248",
+        "stop_lon": "101.69761374186",
+        "stop_id": "1002359",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL36 KOMPLEKS PERTAMA",
+        "stop_lat": "3.157889",
+        "stop_lon": "101.696133",
+        "stop_id": "1001629",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL37 GLOBE KL",
+        "stop_lat": "3.1551536529193",
+        "stop_lon": "101.69640777292",
+        "stop_id": "1000875",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL38 COLISEUM",
+        "stop_lat": "3.1529928729368",
+        "stop_lon": "101.69660138684",
+        "stop_id": "1000502",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL106 MENARA UAB/CIMB",
+        "stop_lat": "3.1507023375653",
+        "stop_lon": "101.69556669879",
+        "stop_id": "1000488",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL107 LRT MASJID JAMEK",
+        "stop_lat": "3.1495093326694",
+        "stop_lon": "101.69651785383",
+        "stop_id": "1001183",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL108 KOTA RAYA",
+        "stop_lat": "3.1452717451374",
+        "stop_lon": "101.69818921129",
+        "stop_id": "1001673",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "(M) PASAR SENI (PLATFORM A7 - A8)",
+        "stop_lat": "3.142984",
+        "stop_lon": "101.695636",
+        "stop_id": "1001170",
+        "stop_sequence": "28"
+    }
+]

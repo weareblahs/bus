@@ -13,16 +13,13 @@ const routes = JSON.parse(
 let outFile = [];
 trips.forEach((t) => {
   outFile.push({
-    trip_id: t.trip_id,
-    route: `${routes.filter((r) => r.id === t.route_id)[0]["name"]}${
+    id: t.trip_id,
+    name: `${routes.filter((r) => r.id === t.route_id)[0]["name"]}${
       t.direction_id == 0 ? "A" : "B"
     }`,
   });
 });
-fs.writeFile(
-  "../public/data/Penang/rapidPenang_trips.json",
-  JSON.stringify(outFile),
-  () => {
-    return "Write successful";
-  }
-);
+
+fs.writeFile("./trips.json", JSON.stringify(outFile), () => {
+  return "Write successful";
+});

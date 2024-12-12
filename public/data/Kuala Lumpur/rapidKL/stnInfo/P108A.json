@@ -1,0 +1,247 @@
+[
+    {
+        "stop_name": "(M) PPJ254 MRT PUTRAJAYA SENTRAL",
+        "stop_lat": "2.932136",
+        "stop_lon": "101.671763",
+        "stop_id": "1005584",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PPJ87 HOSPITAL PUTRAJAYA (OPP)",
+        "stop_lat": "2.930477",
+        "stop_lon": "101.672441",
+        "stop_id": "1000929",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PPJ88 APARTMENT PUTRA HARMONI (SELATAN)",
+        "stop_lat": "2.936823",
+        "stop_lon": "101.672706",
+        "stop_id": "1005675",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PPJ89 PANGSAPURI PUTRA HARMONI P9",
+        "stop_lat": "2.939167",
+        "stop_lon": "101.671713",
+        "stop_id": "1000714",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PPJ93 PERUMAHAN RAJAWALI P9B",
+        "stop_lat": "2.942354",
+        "stop_lon": "101.672834",
+        "stop_id": "1005589",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PPJ90 PERUMAHAN P9 FASA 5&6 (SELATAN)",
+        "stop_lat": "2.944294",
+        "stop_lon": "101.675795",
+        "stop_id": "1005590",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PPJ98 PERUMAHAN P9 FASA 5&6 (TIMUR)",
+        "stop_lat": "2.945218",
+        "stop_lon": "101.677892",
+        "stop_id": "1005679",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PPJ136 P9N7 KOMERSIAL P9G/7",
+        "stop_lat": "2.945928",
+        "stop_lon": "101.678562",
+        "stop_id": "1008516",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PPJ137 PPA P9 FASA 2 (OPP)",
+        "stop_lat": "2.947126",
+        "stop_lon": "101.680361",
+        "stop_id": "1008518",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PPJ138 P9N9 PERUMAHAN P9G/1",
+        "stop_lat": "2.947157",
+        "stop_lon": "101.682136",
+        "stop_id": "1008521",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PPJ140 P9N11 PPA FASA 3 P9",
+        "stop_lat": "2.944788",
+        "stop_lon": "101.681533",
+        "stop_id": "1008523",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PPJ147 SK PUTRAJAYA P9 (1) (TIMUR)",
+        "stop_lat": "2.942957",
+        "stop_lon": "101.679481",
+        "stop_id": "1005591",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PPJ185 TAMAN BOTANI PUTRAJAYA",
+        "stop_lat": "2.946054",
+        "stop_lon": "101.697888",
+        "stop_id": "1000314",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PPJ186 TAMAN PUTRA PERDANA (TIMUR)",
+        "stop_lat": "2.9474605297495",
+        "stop_lon": "101.70363287265",
+        "stop_id": "1000315",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PPJ187 KOMPLEKS PARCEL E (BARAT)",
+        "stop_lat": "2.943665",
+        "stop_lon": "101.705229",
+        "stop_id": "1005626",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PPJ188 DATARAN PAHLAWAN",
+        "stop_lat": "2.941926",
+        "stop_lon": "101.704431",
+        "stop_id": "1005627",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PPJ189 KOMPLEKS KERAJAAN PARCEL D",
+        "stop_lat": "2.939138",
+        "stop_lon": "101.701795",
+        "stop_id": "1005628",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PPJ190 KOMPLEKS B/ LAMAN PERDANA (TIMUR)",
+        "stop_lat": "2.938926",
+        "stop_lon": "101.695456",
+        "stop_id": "1001201",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PPJ141 P9N12 PPA FASA 3 P9 (OPP)",
+        "stop_lat": "2.944885",
+        "stop_lon": "101.681595",
+        "stop_id": "1008522",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PPJ143 P9N10 PERUMAHAN P9G/1",
+        "stop_lat": "2.947182",
+        "stop_lon": "101.681664",
+        "stop_id": "1008520",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PPJ144 PPA P9 FASA 2",
+        "stop_lat": "2.947068",
+        "stop_lon": "101.680482",
+        "stop_id": "1008519",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PPJ145 P9N8 PERUMAHAN P9G/5",
+        "stop_lat": "2.945945",
+        "stop_lon": "101.679219",
+        "stop_id": "1008517",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PPJ146 PERUMAHAN  P9G",
+        "stop_lat": "2.944782",
+        "stop_lon": "101.678104",
+        "stop_id": "1005601",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PPJ190 KOMPLEKS B/ LAMAN PERDANA (TIMUR)",
+        "stop_lat": "2.938926",
+        "stop_lon": "101.695456",
+        "stop_id": "1001201",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PPJ141 P9N12 PPA FASA 3 P9 (OPP)",
+        "stop_lat": "2.944885",
+        "stop_lon": "101.681595",
+        "stop_id": "1008522",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PPJ143 P9N10 PERUMAHAN P9G/1",
+        "stop_lat": "2.947182",
+        "stop_lon": "101.681664",
+        "stop_id": "1008520",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PPJ168 CENDERAWASIH P9A",
+        "stop_lat": "2.934715",
+        "stop_lon": "101.672865",
+        "stop_id": "1005651",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PPJ86 HOSPITAL PUTRAJAYA",
+        "stop_lat": "2.930368",
+        "stop_lon": "101.672702",
+        "stop_id": "1000930",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M) PPJ254 MRT PUTRAJAYA SENTRAL",
+        "stop_lat": "2.932136",
+        "stop_lon": "101.671763",
+        "stop_id": "1005584",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PPJ91 PERUMAHAN P9 FASA 5&6 (SELATAN)",
+        "stop_lat": "2.944078",
+        "stop_lon": "101.675649",
+        "stop_id": "1005602",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PPJ92 PERUMAHAN TEMPUA P9B",
+        "stop_lat": "2.942339",
+        "stop_lon": "101.672996",
+        "stop_id": "1005603",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PPJ167 SK PUTRAJAYA PRESINT 9 (2)",
+        "stop_lat": "2.937819",
+        "stop_lon": "101.673321",
+        "stop_id": "1005650",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PPJ168 CENDERAWASIH P9A",
+        "stop_lat": "2.934715",
+        "stop_lon": "101.672865",
+        "stop_id": "1005651",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PPJ86 HOSPITAL PUTRAJAYA",
+        "stop_lat": "2.930368",
+        "stop_lon": "101.672702",
+        "stop_id": "1000930",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PPJ373 PUTRAJAYA SENTRAL",
+        "stop_lat": "2.931146",
+        "stop_lon": "101.669816",
+        "stop_id": "1002692",
+        "stop_sequence": "35"
+    }
+]

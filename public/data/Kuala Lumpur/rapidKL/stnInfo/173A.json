@@ -1,0 +1,422 @@
+[
+    {
+        "stop_name": "SL473 HAB TAMAN JASA UTAMA",
+        "stop_lat": "3.268909",
+        "stop_lon": "101.681395",
+        "stop_id": "1003985",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SL62 BDR BARU SELAYANG FASA 2A",
+        "stop_lat": "3.262902",
+        "stop_lon": "101.678608",
+        "stop_id": "1000241",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SL63 KG BENDAHARA",
+        "stop_lat": "3.261787",
+        "stop_lon": "101.675915",
+        "stop_id": "1001426",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SL64 TAMAN SELAYANG MUTIARA",
+        "stop_lat": "3.260214",
+        "stop_lon": "101.673732",
+        "stop_id": "1001496",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SL65 KG SG TUA BARU",
+        "stop_lat": "3.256445",
+        "stop_lon": "101.673152",
+        "stop_id": "1003984",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SL66 SRA SG TUA",
+        "stop_lat": "3.252986",
+        "stop_lon": "101.674986",
+        "stop_id": "1001470",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SL82 SIMPANG MASUK KG NAKHODA",
+        "stop_lat": "3.250468",
+        "stop_lon": "101.675729",
+        "stop_id": "1003566",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SL75 AZMIDA TECHNICAL COLLEGE (OPP)",
+        "stop_lat": "3.249893",
+        "stop_lon": "101.676544",
+        "stop_id": "1002449",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SL72 MASJID KG NAKHODA",
+        "stop_lat": "3.249407",
+        "stop_lon": "101.677987",
+        "stop_id": "1001917",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SL73 KG LAKSAMANA (UTARA)",
+        "stop_lat": "3.250065",
+        "stop_lon": "101.679948",
+        "stop_id": "1003261",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SL78 KG BARU SG TUA (TIMUR)",
+        "stop_lat": "3.2539201119329",
+        "stop_lon": "101.67987988416",
+        "stop_id": "1001726",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SL67 WISMA YATI AHMAD",
+        "stop_lat": "3.249807",
+        "stop_lon": "101.675391",
+        "stop_id": "1004264",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SL481 BALAI MUKIM BATU (OPP)",
+        "stop_lat": "3.247876",
+        "stop_lon": "101.674629",
+        "stop_id": "1002584",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SL83 KOMPLEKS SRI SIANTAN (OPP)",
+        "stop_lat": "3.2463647736084",
+        "stop_lon": "101.67438233996",
+        "stop_id": "1001636",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SL482 SMK TAMAN SELAYANG (OPP)",
+        "stop_lat": "3.2433294788351",
+        "stop_lon": "101.67406081935",
+        "stop_id": "1001555",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SL84 SMK SERI SELAYANG (OPP)",
+        "stop_lat": "3.2419046233919",
+        "stop_lon": "101.67360488632",
+        "stop_id": "1003331",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SL86 PETRONAS DATARAN SELAYANG",
+        "stop_lat": "3.238351",
+        "stop_lon": "101.673264",
+        "stop_id": "1002592",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SL88 KOMPLEKS AMANIAH",
+        "stop_lat": "3.235404",
+        "stop_lon": "101.675139",
+        "stop_id": "1001892",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SL89 PADANG AWAM BATU CAVES",
+        "stop_lat": "3.235693",
+        "stop_lon": "101.677353",
+        "stop_id": "1001444",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SL485 PLAZA UMNO BATU CAVES",
+        "stop_lat": "3.236009",
+        "stop_lon": "101.679157",
+        "stop_id": "1004263",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SL486 NISSAN (OPP)",
+        "stop_lat": "3.2339503068994",
+        "stop_lon": "101.68282168319",
+        "stop_id": "1002756",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SL487 AMARI BUSINESS PARK",
+        "stop_lat": "3.2317086959154",
+        "stop_lon": "101.68266378678",
+        "stop_id": "1002019",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SL488 KJCF",
+        "stop_lat": "3.2292616919648",
+        "stop_lon": "101.68245586758",
+        "stop_id": "1001505",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL630 HENTIAN BATU MUDA",
+        "stop_lat": "3.2279776751935",
+        "stop_lon": "101.68351131053",
+        "stop_id": "1001506",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL631 TAMAN BATU MUDA (TENGAH)",
+        "stop_lat": "3.228024",
+        "stop_lon": "101.68612",
+        "stop_id": "1004103",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL632 TAMAN BATU MUDA (TIMUR)",
+        "stop_lat": "3.228132",
+        "stop_lon": "101.688189",
+        "stop_id": "1003009",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M) KL633 RAUDHATUL SAKINAH",
+        "stop_lat": "3.226651",
+        "stop_lon": "101.689353",
+        "stop_id": "1004271",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL634 IIC/PICOMS (OPP)",
+        "stop_lat": "3.223155",
+        "stop_lon": "101.689429",
+        "stop_id": "1001591",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL636 TAMAN KOPERASI POLIS",
+        "stop_lat": "3.220635",
+        "stop_lon": "101.689417",
+        "stop_id": "1003996",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL621 MASJID SAIDINA HAMZAH",
+        "stop_lat": "3.217681304031",
+        "stop_lon": "101.68854051147",
+        "stop_id": "1001945",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL2244 PADANG BOLA BATU MUDA",
+        "stop_lat": "3.215874",
+        "stop_lon": "101.687073",
+        "stop_id": "1002871",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL2246 PERUMAHAN TENTERA AMPAT TIN (OPP)",
+        "stop_lat": "3.214984",
+        "stop_lon": "101.684749",
+        "stop_id": "1002874",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL2276 SK BATU MUDA",
+        "stop_lat": "3.213314",
+        "stop_lon": "101.684033",
+        "stop_id": "1003444",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL591 PPR BATU MUDA BLOK A",
+        "stop_lat": "3.208154",
+        "stop_lon": "101.680684",
+        "stop_id": "1002613",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL592 PPR BATU MUDA BLOK G",
+        "stop_lat": "3.206943",
+        "stop_lon": "101.679831",
+        "stop_id": "1002615",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL594 MRT KG BATU",
+        "stop_lat": "3.205422",
+        "stop_lon": "101.675887",
+        "stop_id": "1008365",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL598 SK KAMPUNG BATU",
+        "stop_lat": "3.201994",
+        "stop_lon": "101.676612",
+        "stop_id": "1003379",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL599 TAMAN IMPIAN",
+        "stop_lat": "3.200533",
+        "stop_lon": "101.677558",
+        "stop_id": "1001966",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL600 BATU KENTOMEN",
+        "stop_lat": "3.197445",
+        "stop_lon": "101.679383",
+        "stop_id": "1000401",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL601 TAMAN RAINBOW",
+        "stop_lat": "3.194458",
+        "stop_lon": "101.679934",
+        "stop_id": "1002536",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL602 TAMAN KAYA",
+        "stop_lat": "3.191318",
+        "stop_lon": "101.680711",
+        "stop_id": "1002535",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL603 SMK (P) JLN IPOH (OPP)",
+        "stop_lat": "3.187823",
+        "stop_lon": "101.682087",
+        "stop_id": "1003386",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL605 TAMAN MILLION",
+        "stop_lat": "3.182668",
+        "stop_lon": "101.681709",
+        "stop_id": "1002532",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "(M) KL606 RIVERWALK VILLAGE",
+        "stop_lat": "3.180072",
+        "stop_lon": "101.683532",
+        "stop_id": "1001414",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KL607 SENTUL WEST",
+        "stop_lat": "3.178841",
+        "stop_lon": "101.686031",
+        "stop_id": "1003170",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KL608 HOTEL TROPICANA",
+        "stop_lat": "3.176957",
+        "stop_lon": "101.687597",
+        "stop_id": "1000949",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KL609 SMK SENTUL UTAMA",
+        "stop_lat": "3.174777",
+        "stop_lon": "101.690071",
+        "stop_id": "1002528",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KL2249 PERKIM",
+        "stop_lat": "3.171261",
+        "stop_lon": "101.693485",
+        "stop_id": "1002414",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KL50 DAMAI HOSPITAL",
+        "stop_lat": "3.169987",
+        "stop_lon": "101.695148",
+        "stop_id": "1000514",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KL69 PASAR CHOW KIT",
+        "stop_lat": "3.1649075811687",
+        "stop_lon": "101.69838214605",
+        "stop_id": "1000477",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KL70 SRI AMAR",
+        "stop_lat": "3.1621045678315",
+        "stop_lon": "101.69799859061",
+        "stop_id": "1004169",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "KL71 KOMERSIAL TAR",
+        "stop_lat": "3.1612475525248",
+        "stop_lon": "101.69761374186",
+        "stop_id": "1002359",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "KL36 KOMPLEKS PERTAMA",
+        "stop_lat": "3.157889",
+        "stop_lon": "101.696133",
+        "stop_id": "1001629",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "KL37 GLOBE KL",
+        "stop_lat": "3.1551536529193",
+        "stop_lon": "101.69640777292",
+        "stop_id": "1000875",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "KL38 COLISEUM",
+        "stop_lat": "3.1529928729368",
+        "stop_lon": "101.69660138684",
+        "stop_id": "1000502",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "KL114 DATARAN MERDEKA",
+        "stop_lat": "3.149162",
+        "stop_lon": "101.694376",
+        "stop_id": "1000521",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "KL1934 MUZIUM TEKSTIL NEGARA",
+        "stop_lat": "3.147136",
+        "stop_lon": "101.69481",
+        "stop_id": "1000047",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "KL1939 MEDAN PASAR",
+        "stop_lat": "3.148202",
+        "stop_lon": "101.696375",
+        "stop_id": "1004240",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "KL117 BSN LEBUH AMPANG",
+        "stop_lat": "3.1492454039518",
+        "stop_lon": "101.69737177094",
+        "stop_id": "1000383",
+        "stop_sequence": "60"
+    }
+]

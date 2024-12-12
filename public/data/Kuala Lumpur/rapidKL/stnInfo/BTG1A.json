@@ -1,0 +1,331 @@
+[
+    {
+        "stop_name": "HENTIAN BANTING",
+        "stop_lat": "2.811984",
+        "stop_lon": "101.503445",
+        "stop_id": "1006414",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "LG115 PEJABAT PERTANIAN",
+        "stop_lat": "2.817882",
+        "stop_lon": "101.518711",
+        "stop_id": "1006367",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "LG116 JKR KUALA LANGAT",
+        "stop_lat": "2.819277",
+        "stop_lon": "101.521956",
+        "stop_id": "1006369",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "LG117 KAFA INTEGRASI",
+        "stop_lat": "2.820608",
+        "stop_lon": "101.525184",
+        "stop_id": "1006371",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "LG118 SMK BANTING (OPP)",
+        "stop_lat": "2.822258",
+        "stop_lon": "101.529163",
+        "stop_id": "1006373",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "LG119 AIMPOINT PLAZA (OPP)",
+        "stop_lat": "2.824055",
+        "stop_lon": "101.533376",
+        "stop_id": "1006375",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "LG120 SMK SG MANGGIS",
+        "stop_lat": "2.825598",
+        "stop_lon": "101.536892",
+        "stop_id": "1006377",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "LG121 SJKT MANGGIS",
+        "stop_lat": "2.826731",
+        "stop_lon": "101.540579",
+        "stop_id": "1006379",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "LG122 MAHKOTA INDUSTRIAL BANTING",
+        "stop_lat": "2.830321",
+        "stop_lon": "101.549008",
+        "stop_id": "1006381",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "LG124 KG SG MANGGIS",
+        "stop_lat": "2.833871",
+        "stop_lon": "101.554631",
+        "stop_id": "1006383",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "LG125 KG OLAK LEMPIT (BARAT)",
+        "stop_lat": "2.835663",
+        "stop_lon": "101.560635",
+        "stop_id": "1006385",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "LG126 TAMAN DESA IDAMAN 2",
+        "stop_lat": "2.837151",
+        "stop_lon": "101.567174",
+        "stop_id": "1006387",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "LG127 TAMAN DESA IDAMAN,KG OLAK LEMPIT",
+        "stop_lat": "2.837348",
+        "stop_lon": "101.573825",
+        "stop_id": "1006388",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "LG129 PERUMAHAN TAMAN MERBAH",
+        "stop_lat": "2.836944",
+        "stop_lon": "101.582561",
+        "stop_id": "1006390",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "LG130 SRA OLAK LEMPIT",
+        "stop_lat": "2.836604",
+        "stop_lon": "101.586811",
+        "stop_id": "1006392",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "LG131 KG OLAK LEMPIT (TIMUR)",
+        "stop_lat": "2.835566",
+        "stop_lon": "101.595052",
+        "stop_id": "1006394",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "LG132 KOMPLEKS NIAGA",
+        "stop_lat": "2.835158",
+        "stop_lon": "101.597981",
+        "stop_id": "1006396",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "LG133 TAMAN NURI INDAH",
+        "stop_lat": "2.833833",
+        "stop_lon": "101.606184",
+        "stop_id": "1006398",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PERUSAHAAN OLAK LEMPIT",
+        "stop_lat": "2.826847",
+        "stop_lon": "101.609873",
+        "stop_id": "1006400",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KOLEJ MARA BANTING",
+        "stop_lat": "2.812737",
+        "stop_lon": "101.624357",
+        "stop_id": "1006402",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "LG145 GENTING SANYEN (OPP)",
+        "stop_lat": "2.802827",
+        "stop_lon": "101.653231",
+        "stop_id": "1006404",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "TAMAN LANGAT MURNI",
+        "stop_lat": "2.799123",
+        "stop_lon": "101.657588",
+        "stop_id": "1002838",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "LG146 APARTMENT LANGAT UTAMA",
+        "stop_lat": "2.796264",
+        "stop_lon": "101.660854",
+        "stop_id": "1006406",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "MITSUI",
+        "stop_lat": "2.778686",
+        "stop_lon": "101.678057",
+        "stop_id": "1006408",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KLIA 2",
+        "stop_lat": "2.745307",
+        "stop_lon": "101.684533",
+        "stop_id": "1006409",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KOMPLEKS TABUNG HAJI",
+        "stop_lat": "2.788397",
+        "stop_lon": "101.678793",
+        "stop_id": "1008290",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "LG147 APARTMENT LANGAT UTAMA",
+        "stop_lat": "2.798963",
+        "stop_lon": "101.657267",
+        "stop_id": "1006407",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "LG148 GENTING SANYEN",
+        "stop_lat": "2.802627",
+        "stop_lon": "101.653074",
+        "stop_id": "1006405",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "TADOM HILL",
+        "stop_lat": "2.812211",
+        "stop_lon": "101.624274",
+        "stop_id": "1006403",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "LG9 TAMAN NURI INDAH",
+        "stop_lat": "2.833607",
+        "stop_lon": "101.605377",
+        "stop_id": "1006399",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "LG10 KOMPLEKS NIAGA",
+        "stop_lat": "2.834976",
+        "stop_lon": "101.598232",
+        "stop_id": "1006397",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "LG11 KG OLAK LEMPIT (TIMUR)",
+        "stop_lat": "2.835518",
+        "stop_lon": "101.594453",
+        "stop_id": "1006395",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "LG12 SK OLAK LEMPIT",
+        "stop_lat": "2.836452",
+        "stop_lon": "101.586649",
+        "stop_id": "1006393",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "LG13 PERUMAHAN TAMAN MERBAH",
+        "stop_lat": "2.836806",
+        "stop_lon": "101.582108",
+        "stop_id": "1006391",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "LG14 TAMAN MERBAH RIMBA",
+        "stop_lat": "2.836925",
+        "stop_lon": "101.579386",
+        "stop_id": "1006413",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "LG15 TAMAN DESA IDAMAN,KG OLAK LEMPIT",
+        "stop_lat": "2.837193",
+        "stop_lon": "101.574031",
+        "stop_id": "1006389",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "LG17 KG OLAK LEMPIT (BARAT)",
+        "stop_lat": "2.835499",
+        "stop_lon": "101.560656",
+        "stop_id": "1006386",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "LG18 KG SG MANGGIS",
+        "stop_lat": "2.833268",
+        "stop_lon": "101.554115",
+        "stop_id": "1006384",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "LG19 MAHKOTA INDUSTRIAL (OPP)",
+        "stop_lat": "2.831658",
+        "stop_lon": "101.551535",
+        "stop_id": "1006382",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "LG21 KOMPLEKS PENGHULU MANGGIS",
+        "stop_lat": "2.826558",
+        "stop_lon": "101.540526",
+        "stop_id": "1006380",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "LG22 SMK SG MANGGIS (OPP)",
+        "stop_lat": "2.825643",
+        "stop_lon": "101.537589",
+        "stop_id": "1006378",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "LG23 AIMPOINT PLAZA",
+        "stop_lat": "2.823871",
+        "stop_lon": "101.533347",
+        "stop_id": "1006376",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "LG25 SMK BANTING",
+        "stop_lat": "2.821658",
+        "stop_lon": "101.528247",
+        "stop_id": "1006374",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "LG26 SMK TELOK DATOK",
+        "stop_lat": "2.820041",
+        "stop_lon": "101.524656",
+        "stop_id": "1006372",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "LG27 TAMAN SRI TELOK DATOK",
+        "stop_lat": "2.818938",
+        "stop_lon": "101.521836",
+        "stop_id": "1006370",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "LG28 PEJABAT PERTANIAN (OPP)",
+        "stop_lat": "2.817628",
+        "stop_lon": "101.518756",
+        "stop_id": "1006368",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "HENTIAN BANTING",
+        "stop_lat": "2.811984",
+        "stop_lon": "101.503445",
+        "stop_id": "1006414",
+        "stop_sequence": "47"
+    }
+]

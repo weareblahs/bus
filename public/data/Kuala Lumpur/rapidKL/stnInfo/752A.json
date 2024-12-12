@@ -1,0 +1,226 @@
+[
+    {
+        "stop_name": "SJ705 LRT PUTRA HEIGHT",
+        "stop_lat": "2.995283",
+        "stop_lon": "101.575734",
+        "stop_id": "1006550",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ518 GIANT PUTRA HEIGHTS",
+        "stop_lat": "2.989968",
+        "stop_lon": "101.572613",
+        "stop_id": "1006510",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ519 TAMAN PUTRA PERMAI SEKSYEN 10",
+        "stop_lat": "2.989953",
+        "stop_lon": "101.564102",
+        "stop_id": "1006511",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ520 KOMERSIAL PUTRA HEIGHTS",
+        "stop_lat": "2.991562",
+        "stop_lon": "101.560907",
+        "stop_id": "1000709",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ521 PANGSAPURI SRI MUTIARA",
+        "stop_lat": "2.994181",
+        "stop_lon": "101.560901",
+        "stop_id": "1000708",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA77 TAMAN ALAM MEGAH (SELATAN)",
+        "stop_lat": "3.004108",
+        "stop_lon": "101.561252",
+        "stop_id": "1000063",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA78 FLAT TAMAN ALAM MEGAH",
+        "stop_lat": "3.0040748096969",
+        "stop_lon": "101.56364617404",
+        "stop_id": "1000737",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA80 SK TAMAN ALAM MEGAH",
+        "stop_lat": "3.0063060959548",
+        "stop_lon": "101.56588768468",
+        "stop_id": "1003281",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA81 TAMAN REKREASI ALAM MEGAH",
+        "stop_lat": "3.008067",
+        "stop_lon": "101.564309",
+        "stop_id": "1006104",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA83 BHP ALAM MEGAH",
+        "stop_lat": "3.0094254920673",
+        "stop_lon": "101.56151920393",
+        "stop_id": "1000303",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA86 TAMAN ALAM MEGAH",
+        "stop_lat": "3.0114800329119",
+        "stop_lon": "101.56033284097",
+        "stop_id": "1001202",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA87 HICOM INDUSTRIAL (TIMUR)",
+        "stop_lat": "3.013682",
+        "stop_lon": "101.560309",
+        "stop_id": "1006577",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA89 KOBAKIN",
+        "stop_lat": "3.0164495299106",
+        "stop_lon": "101.56031059654",
+        "stop_id": "1001196",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA90 CLARIANT",
+        "stop_lat": "3.0181558725758",
+        "stop_lon": "101.56033352203",
+        "stop_id": "1004095",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) SA91 SEKSYEN 26 (SELATAN)",
+        "stop_lat": "3.0238781432019",
+        "stop_lon": "101.56151412936",
+        "stop_id": "1002390",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA51 FLAT PROTON (BARAT)",
+        "stop_lat": "3.0236288779962",
+        "stop_lon": "101.5665102546",
+        "stop_id": "1001094",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA120 TAMAN BUKIT SAGA",
+        "stop_lat": "3.0314345209961",
+        "stop_lon": "101.56936023913",
+        "stop_id": "1000443",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA121 PROTON HICOM (TIMUR)",
+        "stop_lat": "3.034298",
+        "stop_lon": "101.564048",
+        "stop_id": "1000812",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SA122 I-PARC",
+        "stop_lat": "3.0351388518713",
+        "stop_lon": "101.55991458153",
+        "stop_id": "1001838",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA124 PROTON HICOM",
+        "stop_lat": "3.0355074868275",
+        "stop_lon": "101.55797791479",
+        "stop_id": "1000618",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA125 KG BARU HICOM",
+        "stop_lat": "3.036568",
+        "stop_lon": "101.551422",
+        "stop_id": "1001424",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA127 TAMAN PERINDUSTRIAN SUBANG UTAMA",
+        "stop_lat": "3.040397",
+        "stop_lon": "101.546612",
+        "stop_id": "1000651",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA128 TAMAN PERINDUSTRIAN (UTARA)",
+        "stop_lat": "3.044452",
+        "stop_lon": "101.545823",
+        "stop_id": "1001752",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SA462 SEKSYEN 20 (TIMUR)",
+        "stop_lat": "3.0551123911709",
+        "stop_lon": "101.54269314337",
+        "stop_id": "1001566",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA464 SEKSYEN 20 (UTARA)",
+        "stop_lat": "3.059433681361",
+        "stop_lon": "101.54137834258",
+        "stop_id": "1000740",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA1 LOTUS EXTRA SHAH ALAM (OPP)",
+        "stop_lat": "3.0709296781301",
+        "stop_lon": "101.53776620702",
+        "stop_id": "1003915",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M) SA2 BULATAN KAYANGAN",
+        "stop_lat": "3.0730095590396",
+        "stop_lon": "101.53293127036",
+        "stop_id": "1000358",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA3 PERUMAHAN SEKSYEN 11 (OPP)",
+        "stop_lat": "3.0684856773854",
+        "stop_lon": "101.52978798901",
+        "stop_id": "1003083",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "VISTA ALAM APARTMENT",
+        "stop_lat": "3.070032",
+        "stop_lon": "101.525336",
+        "stop_id": "1008398",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SA24 PUSAT DAGANGAN SHAH ALAM",
+        "stop_lat": "3.071991",
+        "stop_lon": "101.525397",
+        "stop_id": "1001730",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA18 WISMA PKPS",
+        "stop_lat": "3.0733481810602",
+        "stop_lon": "101.52298177514",
+        "stop_id": "1004249",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "32"
+    }
+]

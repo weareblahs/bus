@@ -1,0 +1,282 @@
+[
+    {
+        "stop_name": "SJ237 TERMINAL PUCHONG UTAMA",
+        "stop_lat": "2.990446",
+        "stop_lon": "101.615552",
+        "stop_id": "1002641",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ603 PUCHONG UTAMA 1 (PRESINT10)",
+        "stop_lat": "3.001928",
+        "stop_lon": "101.611521",
+        "stop_id": "1001048",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ605 TRACTORS MALAYSIA",
+        "stop_lat": "3.0159634449745",
+        "stop_lon": "101.61023858797",
+        "stop_id": "1004140",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ677 KOMPLEKS RAKAN MUDA",
+        "stop_lat": "3.0204021983635",
+        "stop_lon": "101.61167012268",
+        "stop_id": "1001615",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ516 LOTUS EXTRA PUCHONG",
+        "stop_lat": "3.035177",
+        "stop_lon": "101.616545",
+        "stop_id": "1003913",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "(M) SJ610 IOI MALL PUCHONG",
+        "stop_lat": "3.0435545736493",
+        "stop_lon": "101.61873927724",
+        "stop_id": "1001010",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ330 PUSAT IT KOMUNITI",
+        "stop_lat": "3.05312255214",
+        "stop_lon": "101.6243507846",
+        "stop_id": "1002662",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ331 TM KINRARA",
+        "stop_lat": "3.0568381561533",
+        "stop_lon": "101.62831918758",
+        "stop_id": "1003690",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ332 APARTMENT SRI CEMPAKA",
+        "stop_lat": "3.0574526123317",
+        "stop_lon": "101.63062513102",
+        "stop_id": "1004080",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ333 PERUMAHAN AMAN SARI",
+        "stop_lat": "3.0576663725663",
+        "stop_lon": "101.63284739765",
+        "stop_id": "1001241",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ334 TAMAN BUKIT KUCHAI",
+        "stop_lat": "3.0584740354052",
+        "stop_lon": "101.63895995946",
+        "stop_id": "1003943",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ348 TUDM KINRARA (OPP)",
+        "stop_lat": "3.059714993532",
+        "stop_lon": "101.64272805478",
+        "stop_id": "1001269",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ338 KOMERSIAL PAIK SIONG",
+        "stop_lat": "3.0613621064222",
+        "stop_lon": "101.64556669176",
+        "stop_id": "1004014",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) SJ339 KOMERSIAL TAMAN KINRARA",
+        "stop_lat": "3.0626925917768",
+        "stop_lon": "101.64745798043",
+        "stop_id": "1002193",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ340 JEJANTAS TAMAN KINRARA",
+        "stop_lat": "3.0646661482707",
+        "stop_lon": "101.64930516488",
+        "stop_id": "1000977",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1342 MENARA IIP (OPP)",
+        "stop_lat": "3.0689529989657",
+        "stop_lon": "101.65504988486",
+        "stop_id": "1003533",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1343 OUG PARKLANE (OPP)",
+        "stop_lat": "3.0699834974841",
+        "stop_lon": "101.65616583845",
+        "stop_id": "1001338",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1344 CALTEX TAMAN KUCHAI",
+        "stop_lat": "3.0733168962789",
+        "stop_lon": "101.65793524654",
+        "stop_id": "1000437",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL1345 MASJID JAMEK PETALING",
+        "stop_lat": "3.0762449803645",
+        "stop_lon": "101.66164947585",
+        "stop_id": "1001933",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1346 PANGSAPURI SRI JATI (OPP)",
+        "stop_lat": "3.078180689134",
+        "stop_lon": "101.6638491875",
+        "stop_id": "1001872",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1347 MASJID ABDUL RAHMAN (OPP)",
+        "stop_lat": "3.080146371525",
+        "stop_lon": "101.66530040274",
+        "stop_id": "1002400",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1271 TAMAN YARL (UTARA)",
+        "stop_lat": "3.0823313189399",
+        "stop_lon": "101.66828836662",
+        "stop_id": "1000730",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1272 PEARL POINT",
+        "stop_lat": "3.084468",
+        "stop_lon": "101.671892",
+        "stop_id": "1000506",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1274 ROZEL",
+        "stop_lat": "3.087139",
+        "stop_lon": "101.673633",
+        "stop_id": "1002401",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1275 PLAZA PRIMA (OPP)",
+        "stop_lat": "3.0905681300214",
+        "stop_lon": "101.67420902381",
+        "stop_id": "1003828",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1276 VERVE SUITES",
+        "stop_lat": "3.092457906865",
+        "stop_lon": "101.67462926176",
+        "stop_id": "1004255",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M) KL1277 SCOTT GARDEN/AMBANK",
+        "stop_lat": "3.0959619224579",
+        "stop_lon": "101.67534789075",
+        "stop_id": "1000072",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "(M) KL1280 TAMAN SHANGHAI (SELATAN)",
+        "stop_lat": "3.099155",
+        "stop_lon": "101.675978",
+        "stop_id": "1001474",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL1281 SOUTHBANK RESIDENCE",
+        "stop_lat": "3.101513",
+        "stop_lon": "101.676822",
+        "stop_id": "1003199",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL1282 3RD MILES SQUARE",
+        "stop_lat": "3.103537",
+        "stop_lon": "101.677629",
+        "stop_id": "1004204",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL1283 SHELL (OPP)",
+        "stop_lat": "3.105557",
+        "stop_lon": "101.678057",
+        "stop_id": "1001009",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL1284 WISMA BUDDHIST",
+        "stop_lat": "3.108093",
+        "stop_lon": "101.678386",
+        "stop_id": "1004229",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL1395 SAVILLE RESIDENCE (OPP)",
+        "stop_lat": "3.110688",
+        "stop_lon": "101.678065",
+        "stop_id": "1001346",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL1535 MIDVALLEY",
+        "stop_lat": "3.119766",
+        "stop_lon": "101.679256",
+        "stop_id": "1004209",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL1086 IPD BRICKFIELDS",
+        "stop_lat": "3.126168",
+        "stop_lon": "101.682412",
+        "stop_id": "1000206",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL1079 KL SENTRAL",
+        "stop_lat": "3.132961",
+        "stop_lon": "101.687618",
+        "stop_id": "1001512",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL1090 SENTRAL EXHIBITION MALL",
+        "stop_lat": "3.134408",
+        "stop_lon": "101.688902",
+        "stop_id": "1004275",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL1925 JABATAN WARISAN NEGARA",
+        "stop_lat": "3.138258",
+        "stop_lon": "101.694216",
+        "stop_id": "1003588",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL1091 PUBLIC BANK (OPP)",
+        "stop_lat": "3.138761",
+        "stop_lon": "101.695062",
+        "stop_id": "1002639",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "(M) KL1933 PASAR SENI (PLATFORM E1 - E3)",
+        "stop_lat": "3.141408",
+        "stop_lon": "101.695443",
+        "stop_id": "1000531",
+        "stop_sequence": "40"
+    }
+]

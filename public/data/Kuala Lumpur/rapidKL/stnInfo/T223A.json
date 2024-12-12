@@ -1,0 +1,142 @@
+[
+    {
+        "stop_name": "KL812 LRT SETIAWANGSA",
+        "stop_lat": "3.175839",
+        "stop_lon": "101.735726",
+        "stop_id": "1001822",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ413 SRA AL-AZIZIAH (OPP)",
+        "stop_lat": "3.173119",
+        "stop_lon": "101.737152",
+        "stop_id": "1002812",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ414 PANGSAPURI PKNS (OPP)",
+        "stop_lat": "3.173853",
+        "stop_lon": "101.73771",
+        "stop_id": "1002332",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ479 TAMAN KERAMAT PERMAI BARAT",
+        "stop_lat": "3.176344",
+        "stop_lon": "101.738925",
+        "stop_id": "1001267",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL431 SETIAWANGSA BUSINESS CENTRE",
+        "stop_lat": "3.177623",
+        "stop_lon": "101.742667",
+        "stop_id": "1000048",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL2188 PANGSAPURI ATM SETIAWANGSA (OPP)",
+        "stop_lat": "3.1774984131365",
+        "stop_lon": "101.74485486242",
+        "stop_id": "1001180",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL448 AEON AU2 (OPP)",
+        "stop_lat": "3.178681",
+        "stop_lon": "101.750687",
+        "stop_id": "1002471",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL844 KELUMPUK EMBUN EMAS",
+        "stop_lat": "3.182873",
+        "stop_lon": "101.754693",
+        "stop_id": "1008386",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) KL2193 SRA AL-TABRANI (OPP)",
+        "stop_lat": "3.184113",
+        "stop_lon": "101.756325",
+        "stop_id": "1001278",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ475 AU3 (SELATAN)",
+        "stop_lat": "3.183246660916",
+        "stop_lon": "101.75797894361",
+        "stop_id": "1001311",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ9 FLAT UTM (OPP)",
+        "stop_lat": "3.1850311328965",
+        "stop_lon": "101.75916097828",
+        "stop_id": "1000995",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ10 LOJI IWK",
+        "stop_lat": "3.1879037937925",
+        "stop_lon": "101.76030871743",
+        "stop_id": "1001761",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL841 MENARA JENTAYU",
+        "stop_lat": "3.1894930542881",
+        "stop_lon": "101.75755925931",
+        "stop_id": "1002005",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) KL842 KELUMPUK TEMPUA",
+        "stop_lat": "3.1874273947893",
+        "stop_lon": "101.75613448493",
+        "stop_id": "1001394",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL843 KELUMPUK CEMPERLING",
+        "stop_lat": "3.1826784756681",
+        "stop_lon": "101.75495003077",
+        "stop_id": "1001391",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL432 AEON SETIAWANGSA AU2",
+        "stop_lat": "3.1782885883224",
+        "stop_lon": "101.7503093569",
+        "stop_id": "1001204",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL436 PANGSAPURI ATM SETIAWANGSA",
+        "stop_lat": "3.177267936051",
+        "stop_lon": "101.74508088429",
+        "stop_id": "1002125",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL437 SETIAWANGSA BUSINESS PARK",
+        "stop_lat": "3.1773107212048",
+        "stop_lon": "101.74285342193",
+        "stop_id": "1002490",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL438 MASJID MUADZ JABAL (OPP)",
+        "stop_lat": "3.1775515551234",
+        "stop_lon": "101.73841975529",
+        "stop_id": "1002214",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL812 LRT SETIAWANGSA",
+        "stop_lat": "3.175839",
+        "stop_lon": "101.735726",
+        "stop_id": "1001822",
+        "stop_sequence": "20"
+    }
+]

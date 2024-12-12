@@ -1,0 +1,779 @@
+[
+    {
+        "stop_name": "HENTIAN SELAYANG MUTIARA",
+        "stop_lat": "3.260901",
+        "stop_lon": "101.673262",
+        "stop_id": "1006476",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KG SELAYANG PERMAI",
+        "stop_lat": "3.25942",
+        "stop_lon": "101.666999",
+        "stop_id": "1006481",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SPG JLN MUTIARA 6",
+        "stop_lat": "3.256476",
+        "stop_lon": "101.661784",
+        "stop_id": "1006479",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SELAYANG SEGAR 2",
+        "stop_lat": "3.255054",
+        "stop_lon": "101.659263",
+        "stop_id": "1006477",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SL286 STADIUM SELAYANG",
+        "stop_lat": "3.255335",
+        "stop_lon": "101.656733",
+        "stop_id": "1007618",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SL266 SELAYANG 18 RESIDENCES",
+        "stop_lat": "3.255311",
+        "stop_lon": "101.654675",
+        "stop_id": "1007614",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SL267 MPS",
+        "stop_lat": "3.253696",
+        "stop_lon": "101.652835",
+        "stop_id": "1002068",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SL268 APT DAHLIA BLOK B",
+        "stop_lat": "3.252464",
+        "stop_lon": "101.650775",
+        "stop_id": "1000118",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SL272 APT DAHLIA BLOK A",
+        "stop_lat": "3.252717",
+        "stop_lon": "101.647661",
+        "stop_id": "1000116",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SL527 PUNCAK TEMPLER",
+        "stop_lat": "3.256829",
+        "stop_lon": "101.647681",
+        "stop_id": "1002653",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SL528 KI PARK SELAYANG",
+        "stop_lat": "3.259302",
+        "stop_lon": "101.651664",
+        "stop_id": "1001471",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SL278 MAJLIS PEPERIKSAAN MSIA",
+        "stop_lat": "3.260836",
+        "stop_lon": "101.652611",
+        "stop_id": "1001851",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PEJABAT TANAH DAERAH GOMBAK",
+        "stop_lat": "3.262729",
+        "stop_lon": "101.653016",
+        "stop_id": "1007621",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SL20 IPD GOMBAK (OPP)",
+        "stop_lat": "3.250183698747",
+        "stop_lon": "101.64100340711",
+        "stop_id": "1003378",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SL21 PANGSAPURI MERAK",
+        "stop_lat": "3.246421",
+        "stop_lon": "101.642195",
+        "stop_id": "1002452",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SL22 TAMAN BIDARA (UTARA)",
+        "stop_lat": "3.243248",
+        "stop_lon": "101.643574",
+        "stop_id": "1001078",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SL515 SURAU FIRDAUS TAMAN BIDARA",
+        "stop_lat": "3.241904",
+        "stop_lon": "101.644135",
+        "stop_id": "1007620",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SL91 TAMAN SELAYANG JAYA",
+        "stop_lat": "3.239014",
+        "stop_lon": "101.646772",
+        "stop_id": "1004048",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SL510 TAMAN SELAYANG JAYA",
+        "stop_lat": "3.236613",
+        "stop_lon": "101.647045",
+        "stop_id": "1001179",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SL511 SELAYANG MALL (OPP)",
+        "stop_lat": "3.236374",
+        "stop_lon": "101.644596",
+        "stop_id": "1003158",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SL24 HOSPITAL SELAYANG",
+        "stop_lat": "3.241316",
+        "stop_lon": "101.648081",
+        "stop_id": "1000931",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SL25 IDEAL CONVENTION CENTRE",
+        "stop_lat": "3.244937",
+        "stop_lon": "101.653269",
+        "stop_id": "1000505",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SL288 BULATAN BERINGIN SELAYANG",
+        "stop_lat": "3.250878",
+        "stop_lon": "101.657971",
+        "stop_id": "1003159",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SL289 TAMAN SELAYANG SEGAR",
+        "stop_lat": "3.251781",
+        "stop_lon": "101.660001",
+        "stop_id": "1003826",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SL290 TAMAN SELAYANG INDAH",
+        "stop_lat": "3.249568",
+        "stop_lon": "101.662934",
+        "stop_id": "1003516",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SL37 SELAYANG BARU (BARAT)",
+        "stop_lat": "3.249922",
+        "stop_lon": "101.664378",
+        "stop_id": "1002097",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SL536 SELAYANG BARU (UTARA)",
+        "stop_lat": "3.250902",
+        "stop_lon": "101.666458",
+        "stop_id": "1002288",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SL43 PERUMAHAN SELAYANG BARU",
+        "stop_lat": "3.250014",
+        "stop_lon": "101.670495",
+        "stop_id": "1001317",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SL44 BALAI POLIS SELAYANG BARU (OPP)",
+        "stop_lat": "3.248185",
+        "stop_lon": "101.671422",
+        "stop_id": "1001336",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SL83 KOMPLEKS SRI SIANTAN (OPP)",
+        "stop_lat": "3.2463647736084",
+        "stop_lon": "101.67438233996",
+        "stop_id": "1001636",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SL482 SMK TAMAN SELAYANG (OPP)",
+        "stop_lat": "3.2433294788351",
+        "stop_lon": "101.67406081935",
+        "stop_id": "1001555",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SL84 SMK SERI SELAYANG (OPP)",
+        "stop_lat": "3.2419046233919",
+        "stop_lon": "101.67360488632",
+        "stop_id": "1003331",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SL85 SK TAMAN SELAYANG (OPP)",
+        "stop_lat": "3.241390294951",
+        "stop_lon": "101.67356789119",
+        "stop_id": "1001166",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SL86 PETRONAS DATARAN SELAYANG",
+        "stop_lat": "3.238351",
+        "stop_lon": "101.673264",
+        "stop_id": "1002592",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SL87 MASJID AL-AMANIAH",
+        "stop_lat": "3.2360780145787",
+        "stop_lon": "101.67393897808",
+        "stop_id": "1001874",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SL88 KOMPLEKS AMANIAH",
+        "stop_lat": "3.235404",
+        "stop_lon": "101.675139",
+        "stop_id": "1001892",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SL89 PADANG AWAM BATU CAVES",
+        "stop_lat": "3.235693",
+        "stop_lon": "101.677353",
+        "stop_id": "1001444",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SL485 PLAZA UMNO BATU CAVES",
+        "stop_lat": "3.236009",
+        "stop_lon": "101.679157",
+        "stop_id": "1004263",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SL465 KOMERSIAL SRI GOMBAK",
+        "stop_lat": "3.236141",
+        "stop_lon": "101.698475",
+        "stop_id": "1000479",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SL212 HAB BAS GREENWOOD (OPP)",
+        "stop_lat": "3.234304",
+        "stop_lon": "101.706215",
+        "stop_id": "1003973",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SL213 JEJANTAS SPG 3",
+        "stop_lat": "3.233993",
+        "stop_lon": "101.709501",
+        "stop_id": "1001052",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SL510 AYUMAN SUITES (OPP)",
+        "stop_lat": "3.234313",
+        "stop_lon": "101.713826",
+        "stop_id": "1008379",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SL106 SK SG PUSU (OPP)",
+        "stop_lat": "3.236011",
+        "stop_lon": "101.714303",
+        "stop_id": "1001638",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SL107 SK GOMBAK UTARA (OPP)",
+        "stop_lat": "3.238763",
+        "stop_lon": "101.714013",
+        "stop_id": "1003638",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "SL498 KG SG PUSU (UTARA)",
+        "stop_lat": "3.241288",
+        "stop_lon": "101.713754",
+        "stop_id": "1007512",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SL499 KG SG CHINCIN (SELATAN)",
+        "stop_lat": "3.242534",
+        "stop_lon": "101.713711",
+        "stop_id": "1007513",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SL108 KG SG CHINCHIN",
+        "stop_lat": "3.245066",
+        "stop_lon": "101.715124",
+        "stop_id": "1001255",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SL113 MASJID SG CHINCHIN",
+        "stop_lat": "3.2450934959555",
+        "stop_lon": "101.71631757995",
+        "stop_id": "1003801",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "SL114 KG SG CHINCIN (TIMUR)",
+        "stop_lat": "3.243951",
+        "stop_lon": "101.720037",
+        "stop_id": "1001457",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "SL146 SK INTEGRASI GOMBAK",
+        "stop_lat": "3.2451216968165",
+        "stop_lon": "101.72282634143",
+        "stop_id": "1003118",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "SL147 KUARTERS INSTITUT PENDIDIKAN",
+        "stop_lat": "3.245128",
+        "stop_lon": "101.724581",
+        "stop_id": "1001696",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "SL148 INTERNATIONAL ISLAMIC SCHOOL",
+        "stop_lat": "3.2469294895777",
+        "stop_lon": "101.72816557199",
+        "stop_id": "1003361",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "PINTU UTAMA UIA",
+        "stop_lat": "3.248593",
+        "stop_lon": "101.732684",
+        "stop_id": "1008656",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "KL153 FLAT TAMAN MELATI A9",
+        "stop_lat": "3.226889",
+        "stop_lon": "101.725241",
+        "stop_id": "1001321",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "(M) SL311 LRT GOMBAK",
+        "stop_lat": "3.231094",
+        "stop_lon": "101.724291",
+        "stop_id": "1001801",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "KL198 FLAT TAMAN MELATI E6",
+        "stop_lat": "3.227109",
+        "stop_lon": "101.725318",
+        "stop_id": "1001322",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "SL163 KOLEJ VOKASIONAL GOMBAK",
+        "stop_lat": "3.246681237351",
+        "stop_lon": "101.72831266652",
+        "stop_id": "1003362",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "SL164 KUARTERS GURU BATU 8",
+        "stop_lat": "3.244887",
+        "stop_lon": "101.725061",
+        "stop_id": "1001697",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "SL165 SBP INTEGRASI GOMBAK",
+        "stop_lat": "3.2442038128716",
+        "stop_lon": "101.72203012305",
+        "stop_id": "1003117",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "SL166 KG SG CHINCIN (TIMUR)",
+        "stop_lat": "3.243757",
+        "stop_lon": "101.720204",
+        "stop_id": "1003164",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "SL167 MASJID SG CHINCHIN (OPP)",
+        "stop_lat": "3.244645495729",
+        "stop_lon": "101.71670083534",
+        "stop_id": "1002869",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "SL168 KG SG CHINCHIN",
+        "stop_lat": "3.244675",
+        "stop_lon": "101.714887",
+        "stop_id": "1001256",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "SL169 KG SG CHINCHIN (UTARA)",
+        "stop_lat": "3.242955",
+        "stop_lon": "101.713955",
+        "stop_id": "1001456",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "SL500 KG GOMBAK UTARA",
+        "stop_lat": "3.241485",
+        "stop_lon": "101.714034",
+        "stop_id": "1000265",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "SL170 SK GOMBAK UTARA",
+        "stop_lat": "3.2394194168769",
+        "stop_lon": "101.71426129667",
+        "stop_id": "1003639",
+        "stop_sequence": "65"
+    },
+    {
+        "stop_name": "SL171 SK SG PUSU",
+        "stop_lat": "3.237334",
+        "stop_lon": "101.714453",
+        "stop_id": "1003654",
+        "stop_sequence": "66"
+    },
+    {
+        "stop_name": "SL172 AYUMAN SUITES",
+        "stop_lat": "3.234067467189",
+        "stop_lon": "101.71410370288",
+        "stop_id": "1001949",
+        "stop_sequence": "67"
+    },
+    {
+        "stop_name": "SL214 JEJANTAS SPG 3",
+        "stop_lat": "3.233572",
+        "stop_lon": "101.709758",
+        "stop_id": "1001051",
+        "stop_sequence": "68"
+    },
+    {
+        "stop_name": "SL215 HAB BAS GREENWOOD",
+        "stop_lat": "3.234012",
+        "stop_lon": "101.706193",
+        "stop_id": "1003974",
+        "stop_sequence": "69"
+    },
+    {
+        "stop_name": "SL234 HENTIAN GREENWOOD",
+        "stop_lat": "3.234798",
+        "stop_lon": "101.704505",
+        "stop_id": "1008342",
+        "stop_sequence": "70"
+    },
+    {
+        "stop_name": "BANJARIA COURT",
+        "stop_lat": "3.235857",
+        "stop_lon": "101.698832",
+        "stop_id": "1006472",
+        "stop_sequence": "71"
+    },
+    {
+        "stop_name": "GIANT BATU CAVES",
+        "stop_lat": "3.235583",
+        "stop_lon": "101.692558",
+        "stop_id": "1006473",
+        "stop_sequence": "72"
+    },
+    {
+        "stop_name": "SL494 PLAZA UMNO BATU CAVES",
+        "stop_lat": "3.235775",
+        "stop_lon": "101.679588",
+        "stop_id": "1001708",
+        "stop_sequence": "73"
+    },
+    {
+        "stop_name": "SL28 PADANG AWAM BATU CAVES (OPP)",
+        "stop_lat": "3.235465",
+        "stop_lon": "101.677474",
+        "stop_id": "1001445",
+        "stop_sequence": "74"
+    },
+    {
+        "stop_name": "SL29 KOMPLEKS AMANIAH (OPP)",
+        "stop_lat": "3.235101",
+        "stop_lon": "101.675116",
+        "stop_id": "1001728",
+        "stop_sequence": "75"
+    },
+    {
+        "stop_name": "SL30 KOMERSIAL TAMAN SELAYANG",
+        "stop_lat": "3.2359674149813",
+        "stop_lon": "101.67359839481",
+        "stop_id": "1002356",
+        "stop_sequence": "76"
+    },
+    {
+        "stop_name": "SL483 DATARAN SELAYANG (OPP)",
+        "stop_lat": "3.23787",
+        "stop_lon": "101.67325",
+        "stop_id": "1007547",
+        "stop_sequence": "77"
+    },
+    {
+        "stop_name": "SL31 SK TMN SELAYANG",
+        "stop_lat": "3.241483",
+        "stop_lon": "101.673317",
+        "stop_id": "1003330",
+        "stop_sequence": "78"
+    },
+    {
+        "stop_name": "SL443 SMK SERI SELAYANG",
+        "stop_lat": "3.241907",
+        "stop_lon": "101.673347",
+        "stop_id": "1008344",
+        "stop_sequence": "79"
+    },
+    {
+        "stop_name": "SL32 SMK TAMAN SELAYANG",
+        "stop_lat": "3.24367",
+        "stop_lon": "101.673877",
+        "stop_id": "1001167",
+        "stop_sequence": "80"
+    },
+    {
+        "stop_name": "SL33 KOMPLEKS SRI SIANTAN",
+        "stop_lat": "3.2462734187942",
+        "stop_lon": "101.67408086665",
+        "stop_id": "1001635",
+        "stop_sequence": "81"
+    },
+    {
+        "stop_name": "SL45 BALAI POLIS SELAYANG BARU",
+        "stop_lat": "3.248103",
+        "stop_lon": "101.671316",
+        "stop_id": "1000198",
+        "stop_sequence": "82"
+    },
+    {
+        "stop_name": "SL46 PERUMAHAN SELAYANG BARU",
+        "stop_lat": "3.251207",
+        "stop_lon": "101.669677",
+        "stop_id": "1002098",
+        "stop_sequence": "83"
+    },
+    {
+        "stop_name": "SL51 SELAYANG BARU (UTARA)",
+        "stop_lat": "3.250971",
+        "stop_lon": "101.666894",
+        "stop_id": "1000007",
+        "stop_sequence": "84"
+    },
+    {
+        "stop_name": "SL52 SELAYANG BARU (BARAT)",
+        "stop_lat": "3.249764",
+        "stop_lon": "101.664336",
+        "stop_id": "1003138",
+        "stop_sequence": "85"
+    },
+    {
+        "stop_name": "SL291 TAMAN SELAYANG INDAH",
+        "stop_lat": "3.249575",
+        "stop_lon": "101.662586",
+        "stop_id": "1007619",
+        "stop_sequence": "86"
+    },
+    {
+        "stop_name": "SL292 TAMAN SELAYANG SEGAR",
+        "stop_lat": "3.251495",
+        "stop_lon": "101.659824",
+        "stop_id": "1001067",
+        "stop_sequence": "87"
+    },
+    {
+        "stop_name": "SL293 BULATAN BERINGIN",
+        "stop_lat": "3.250406",
+        "stop_lon": "101.658164",
+        "stop_id": "1003160",
+        "stop_sequence": "88"
+    },
+    {
+        "stop_name": "SL26 MAGNA VILLE CONDOMINIUM",
+        "stop_lat": "3.243914",
+        "stop_lon": "101.652866",
+        "stop_id": "1001842",
+        "stop_sequence": "89"
+    },
+    {
+        "stop_name": "SL27 KOMPLEKS SELAYANG CAPITOL",
+        "stop_lat": "3.240852",
+        "stop_lon": "101.647885",
+        "stop_id": "1002194",
+        "stop_sequence": "90"
+    },
+    {
+        "stop_name": "SL100 SELAYANG MALL",
+        "stop_lat": "3.236597",
+        "stop_lon": "101.644088",
+        "stop_id": "1003157",
+        "stop_sequence": "91"
+    },
+    {
+        "stop_name": "SL513 TAMAN SELAYANG JAYA",
+        "stop_lat": "3.236372",
+        "stop_lon": "101.645195",
+        "stop_id": "1007613",
+        "stop_sequence": "92"
+    },
+    {
+        "stop_name": "SL514 TAMAN SELAYANG JAYA (BARAT)",
+        "stop_lat": "3.236617",
+        "stop_lon": "101.646895",
+        "stop_id": "1001178",
+        "stop_sequence": "93"
+    },
+    {
+        "stop_name": "SL99 TAMAN SELAYANG JAYA (UTARA)",
+        "stop_lat": "3.238926",
+        "stop_lon": "101.646561",
+        "stop_id": "1004047",
+        "stop_sequence": "94"
+    },
+    {
+        "stop_name": "SL516 SHELL TAMAN BIDARA",
+        "stop_lat": "3.241402",
+        "stop_lon": "101.644149",
+        "stop_id": "1003245",
+        "stop_sequence": "95"
+    },
+    {
+        "stop_name": "SL17 TAMAN BIDARA (UTARA)",
+        "stop_lat": "3.243532",
+        "stop_lon": "101.643183",
+        "stop_id": "1003434",
+        "stop_sequence": "96"
+    },
+    {
+        "stop_name": "SL18 PANGSAPURI MERAK",
+        "stop_lat": "3.246566",
+        "stop_lon": "101.641694",
+        "stop_id": "1000684",
+        "stop_sequence": "97"
+    },
+    {
+        "stop_name": "SL19 IPD GOMBAK",
+        "stop_lat": "3.251437",
+        "stop_lon": "101.641266",
+        "stop_id": "1001012",
+        "stop_sequence": "98"
+    },
+    {
+        "stop_name": "PEJABAT TANAH DAERAH GOMBAK",
+        "stop_lat": "3.262729",
+        "stop_lon": "101.653016",
+        "stop_id": "1007621",
+        "stop_sequence": "99"
+    },
+    {
+        "stop_name": "SL281 MAJLIS PEPERIKSAAN MSIA",
+        "stop_lat": "3.260809",
+        "stop_lon": "101.652854",
+        "stop_id": "1001852",
+        "stop_sequence": "100"
+    },
+    {
+        "stop_name": "SL525 KI PARK SELAYANG",
+        "stop_lat": "3.259155",
+        "stop_lon": "101.651905",
+        "stop_id": "1001472",
+        "stop_sequence": "101"
+    },
+    {
+        "stop_name": "SL526 PUNCAK TEMPLER",
+        "stop_lat": "3.256881",
+        "stop_lon": "101.647885",
+        "stop_id": "1002654",
+        "stop_sequence": "102"
+    },
+    {
+        "stop_name": "SL273 APT DAHLIA BLOK A",
+        "stop_lat": "3.252912082885",
+        "stop_lon": "101.64790709688",
+        "stop_id": "1000117",
+        "stop_sequence": "103"
+    },
+    {
+        "stop_name": "SL276 APT DAHLIA BLOK B",
+        "stop_lat": "3.252443",
+        "stop_lon": "101.650597",
+        "stop_id": "1000119",
+        "stop_sequence": "104"
+    },
+    {
+        "stop_name": "SL277 MPS",
+        "stop_lat": "3.253944",
+        "stop_lon": "101.652798",
+        "stop_id": "1002067",
+        "stop_sequence": "105"
+    },
+    {
+        "stop_name": "SL282 SELAYANG 18 RESIDENCES (OPP)",
+        "stop_lat": "3.255524",
+        "stop_lon": "101.654888",
+        "stop_id": "1003162",
+        "stop_sequence": "106"
+    },
+    {
+        "stop_name": "SL283 DATARAN BANDAR BARU SELAYANG",
+        "stop_lat": "3.255694",
+        "stop_lon": "101.657104",
+        "stop_id": "1000959",
+        "stop_sequence": "107"
+    },
+    {
+        "stop_name": "SELAYANG SEGAR 1",
+        "stop_lat": "3.255075",
+        "stop_lon": "101.658964",
+        "stop_id": "1006475",
+        "stop_sequence": "108"
+    },
+    {
+        "stop_name": "SPG JLN MUTIARA 5/7",
+        "stop_lat": "3.256725",
+        "stop_lon": "101.662055",
+        "stop_id": "1006478",
+        "stop_sequence": "109"
+    },
+    {
+        "stop_name": "KG SELAYANG MUTIARA 4",
+        "stop_lat": "3.259349",
+        "stop_lon": "101.666583",
+        "stop_id": "1006480",
+        "stop_sequence": "110"
+    },
+    {
+        "stop_name": "HENTIAN SELAYANG MUTIARA",
+        "stop_lat": "3.260901",
+        "stop_lon": "101.673262",
+        "stop_id": "1006476",
+        "stop_sequence": "111"
+    }
+]

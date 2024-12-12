@@ -1,0 +1,352 @@
+[
+    {
+        "stop_name": "PPJ352 KEMENTERIAN BELIA DAN SUKAN",
+        "stop_lat": "2.913298",
+        "stop_lon": "101.686814",
+        "stop_id": "1005749",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PPJ177 KEMENTERIAN PENGANGKUTAN",
+        "stop_lat": "2.913212",
+        "stop_lon": "101.684406",
+        "stop_id": "1005729",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PPJ189 KOMPLEKS KERAJAAN PARCEL D",
+        "stop_lat": "2.939138",
+        "stop_lon": "101.701795",
+        "stop_id": "1005628",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PPJ190 KOMPLEKS B/ LAMAN PERDANA (TIMUR)",
+        "stop_lat": "2.938926",
+        "stop_lon": "101.695456",
+        "stop_id": "1001201",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PPJ185 TAMAN BOTANI PUTRAJAYA",
+        "stop_lat": "2.946054",
+        "stop_lon": "101.697888",
+        "stop_id": "1000314",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PPJ186 TAMAN PUTRA PERDANA (TIMUR)",
+        "stop_lat": "2.9474605297495",
+        "stop_lon": "101.70363287265",
+        "stop_id": "1000315",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PPJ191 KOMPLEKS PARCEL F",
+        "stop_lat": "2.944757",
+        "stop_lon": "101.708408",
+        "stop_id": "1005696",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PPJ235 ALAMANDA (UTARA)",
+        "stop_lat": "2.941358",
+        "stop_lon": "101.712079",
+        "stop_id": "1008239",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PPJ274 SHAFTSBURY MALL",
+        "stop_lat": "2.938818",
+        "stop_lon": "101.712875",
+        "stop_id": "1008525",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PPJ222 P16N1 APARTMENT P16 BLOK A2",
+        "stop_lat": "2.935545",
+        "stop_lon": "101.710106",
+        "stop_id": "1008551",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PPAM SELASIH",
+        "stop_lat": "2.923976",
+        "stop_lon": "101.700861",
+        "stop_id": "1005722",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PPJ287 SK PUTRAJAYA P17 1",
+        "stop_lat": "2.923462",
+        "stop_lon": "101.704754",
+        "stop_id": "1008557",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PPJ282 PRESINT 17 (UTARA)",
+        "stop_lat": "2.926333",
+        "stop_lon": "101.706829",
+        "stop_id": "1005634",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PPJ236 KOMPLEKS TAMAN WARISAN",
+        "stop_lat": "2.927127",
+        "stop_lon": "101.699923",
+        "stop_id": "1005629",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PPJ286 APARTMENT RK2 P17",
+        "stop_lat": "2.923285",
+        "stop_lon": "101.704913",
+        "stop_id": "1008558",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PPAM SELASIH (OPP)",
+        "stop_lat": "2.924217",
+        "stop_lon": "101.700632",
+        "stop_id": "1005721",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PPJ349 SK PUTRAJAYA PRESINT 18",
+        "stop_lat": "2.923833",
+        "stop_lon": "101.694185",
+        "stop_id": "1005630",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PPJ297 SMK PUTRAJAYA P18 (1)",
+        "stop_lat": "2.921772",
+        "stop_lon": "101.693807",
+        "stop_id": "1008559",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PPJ298 PERUMAHAN P18D",
+        "stop_lat": "2.919798",
+        "stop_lon": "101.696975",
+        "stop_id": "1008562",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PPJ300 APARTMENT P18R4 (OPP)",
+        "stop_lat": "2.916013",
+        "stop_lon": "101.697548",
+        "stop_id": "1008563",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PPJ233 PPAM SADERI",
+        "stop_lat": "2.935685",
+        "stop_lon": "101.709924",
+        "stop_id": "1005623",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PPJ234 ALAMANDA (SELATAN)",
+        "stop_lat": "2.940285",
+        "stop_lon": "101.712628",
+        "stop_id": "1005624",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PPJ276 KOMPLEKS PARCEL E (UTARA)",
+        "stop_lat": "2.944436",
+        "stop_lon": "101.707934",
+        "stop_id": "1005625",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PPJ187 KOMPLEKS PARCEL E (BARAT)",
+        "stop_lat": "2.943665",
+        "stop_lon": "101.705229",
+        "stop_id": "1005626",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PPJ41 KEMENTERIAN PERTANIAN",
+        "stop_lat": "2.914798",
+        "stop_lon": "101.683859",
+        "stop_id": "1005667",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PPJ305 TAMAN PANCARONA P18",
+        "stop_lat": "2.913629",
+        "stop_lon": "101.689197",
+        "stop_id": "1008568",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PPJ319 PERUMAHAN P18K 1/1 (OPP)",
+        "stop_lat": "2.914018",
+        "stop_lon": "101.692157",
+        "stop_id": "1008566",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PERUMAHAN P18H (OPP)",
+        "stop_lat": "2.914615",
+        "stop_lon": "101.695677",
+        "stop_id": "1005726",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PPJ320 APARTMENT P18R4 BLOK C",
+        "stop_lat": "2.915876",
+        "stop_lon": "101.697253",
+        "stop_id": "1008564",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PPJ321 PERUMAHAN P18D",
+        "stop_lat": "2.918613",
+        "stop_lon": "101.697465",
+        "stop_id": "1005728",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PPJ294 SMK PUTRAJAYA P18 (1) (OPP)",
+        "stop_lat": "2.921438",
+        "stop_lon": "101.693835",
+        "stop_id": "1008560",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PPJ274 SHAFTSBURY MALL",
+        "stop_lat": "2.938818",
+        "stop_lon": "101.712875",
+        "stop_id": "1008525",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PPJ222 P16N1 APARTMENT P16 BLOK A2",
+        "stop_lat": "2.935545",
+        "stop_lon": "101.710106",
+        "stop_id": "1008551",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PPJ224 P16N3 SURAU AR-RAHMAN",
+        "stop_lat": "2.932627",
+        "stop_lon": "101.707035",
+        "stop_id": "1008553",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PPJ184 KOMPLEKS TAMAN WARISAN",
+        "stop_lat": "2.927041",
+        "stop_lon": "101.699675",
+        "stop_id": "1005617",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PPJ227 SK PUTRAJAYA PRESINT 16 (2)",
+        "stop_lat": "2.928364",
+        "stop_lon": "101.700162",
+        "stop_id": "1005618",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "PPJ229 KOMERSIAL PRESINT 16",
+        "stop_lat": "2.929671",
+        "stop_lon": "101.701051",
+        "stop_id": "1005619",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PPJ230 PRESINT 16E RESIDENCE",
+        "stop_lat": "2.932616",
+        "stop_lon": "101.703548",
+        "stop_id": "1005620",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PPJ231 SURAU AR-RAHMAN PRESINT 16 (OPP)",
+        "stop_lat": "2.932883",
+        "stop_lon": "101.706906",
+        "stop_id": "1005621",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "PPJ232 D'MUTIARA RESIDENCE",
+        "stop_lat": "2.934551",
+        "stop_lon": "101.708156",
+        "stop_id": "1005622",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "PPJ233 PPAM SADERI",
+        "stop_lat": "2.935685",
+        "stop_lon": "101.709924",
+        "stop_id": "1005623",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "PPJ234 ALAMANDA (SELATAN)",
+        "stop_lat": "2.940285",
+        "stop_lon": "101.712628",
+        "stop_id": "1005624",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "PPJ297 SMK PUTRAJAYA P18 (1)",
+        "stop_lat": "2.921772",
+        "stop_lon": "101.693807",
+        "stop_id": "1008559",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "PPJ298 PERUMAHAN P18D",
+        "stop_lat": "2.919798",
+        "stop_lon": "101.696975",
+        "stop_id": "1008562",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "PPJ300 APARTMENT P18R4 (OPP)",
+        "stop_lat": "2.916013",
+        "stop_lon": "101.697548",
+        "stop_id": "1008563",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "PPJ189 KOMPLEKS KERAJAAN PARCEL D",
+        "stop_lat": "2.939138",
+        "stop_lon": "101.701795",
+        "stop_id": "1005628",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "PPJ190 KOMPLEKS B/ LAMAN PERDANA (TIMUR)",
+        "stop_lat": "2.938926",
+        "stop_lon": "101.695456",
+        "stop_id": "1001201",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "PPJ185 TAMAN BOTANI PUTRAJAYA",
+        "stop_lat": "2.946054",
+        "stop_lon": "101.697888",
+        "stop_id": "1000314",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "PPJ186 TAMAN PUTRA PERDANA (TIMUR)",
+        "stop_lat": "2.9474605297495",
+        "stop_lon": "101.70363287265",
+        "stop_id": "1000315",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "PPJ187 KOMPLEKS PARCEL E (BARAT)",
+        "stop_lat": "2.943665",
+        "stop_lon": "101.705229",
+        "stop_id": "1005626",
+        "stop_sequence": "50"
+    }
+]

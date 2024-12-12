@@ -1,0 +1,233 @@
+[
+    {
+        "stop_name": "KTM BATU 3",
+        "stop_lat": "3.075738",
+        "stop_lon": "101.559838",
+        "stop_id": "1006662",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ573 KILANG GULA CSR",
+        "stop_lat": "3.071667",
+        "stop_lon": "101.556446",
+        "stop_id": "1001482",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA132 AVENUE CREST (OPP)",
+        "stop_lat": "3.068423",
+        "stop_lon": "101.556178",
+        "stop_id": "1008216",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA133 KG KEBUN BUNGA (UTARA)",
+        "stop_lat": "3.0644410039442",
+        "stop_lon": "101.55656890814",
+        "stop_id": "1000643",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA962 KG KEBUN BUNGA (SELATAN)",
+        "stop_lat": "3.0619621588086",
+        "stop_lon": "101.55697246259",
+        "stop_id": "1001046",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA946 MASJID FASTABIQUL",
+        "stop_lat": "3.059446",
+        "stop_lon": "101.556919",
+        "stop_id": "1008218",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA961 SEKSYEN 22/PETRONAS",
+        "stop_lat": "3.0575857155066",
+        "stop_lon": "101.55630435158",
+        "stop_id": "1002506",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PERUMAHAN PINGGIRAN USJ",
+        "stop_lat": "3.052927",
+        "stop_lon": "101.555519",
+        "stop_id": "1008221",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ587 SM TEKNIK VOKASIONAL",
+        "stop_lat": "3.0477495997066",
+        "stop_lon": "101.5533577906",
+        "stop_id": "1003357",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ588 SIME UEP",
+        "stop_lat": "3.044406549994",
+        "stop_lon": "101.55057678395",
+        "stop_id": "1002751",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA127 TAMAN PERINDUSTRIAN SUBANG UTAMA",
+        "stop_lat": "3.040397",
+        "stop_lon": "101.546612",
+        "stop_id": "1000651",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA128 TAMAN PERINDUSTRIAN (UTARA)",
+        "stop_lat": "3.044452",
+        "stop_lon": "101.545823",
+        "stop_id": "1001752",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA462 SEKSYEN 20 (TIMUR)",
+        "stop_lat": "3.0551123911709",
+        "stop_lon": "101.54269314337",
+        "stop_id": "1001566",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA459 HOSPITAL KPJ",
+        "stop_lat": "3.056779",
+        "stop_lon": "101.540854",
+        "stop_id": "1006638",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PERUMAHAN SEKSYEN 20",
+        "stop_lat": "3.056032",
+        "stop_lon": "101.538522",
+        "stop_id": "1008222",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PERUMAHAN SEKSYEN 19",
+        "stop_lat": "3.052536",
+        "stop_lon": "101.536149",
+        "stop_id": "1008223",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA446 HOTEL DE PALMA (OPP)",
+        "stop_lat": "3.050311",
+        "stop_lon": "101.535464",
+        "stop_id": "1006637",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA456 PUSAT PERNIAGAAN JUBLI PERAK",
+        "stop_lat": "3.0490685211587",
+        "stop_lon": "101.53708882392",
+        "stop_id": "1000536",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PUSAT PERNIAGAAN SURI PUTRI",
+        "stop_lat": "3.051006",
+        "stop_lon": "101.540037",
+        "stop_id": "1008224",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA461 HENTIAN JUBLI PERAK",
+        "stop_lat": "3.0521086003269",
+        "stop_lon": "101.54180352842",
+        "stop_id": "1003757",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M) SA129 TAMAN PERINDUSTRIAN (UTARA)",
+        "stop_lat": "3.043785",
+        "stop_lon": "101.546307",
+        "stop_id": "1001753",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA130 BHP/MCD (SELATAN)",
+        "stop_lat": "3.040343",
+        "stop_lon": "101.547071",
+        "stop_id": "1000302",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SJ589 SIME UEP",
+        "stop_lat": "3.0444537728179",
+        "stop_lon": "101.55031434331",
+        "stop_id": "1002750",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SJ638 SM TEKNIK VOKASIONAL (OPP)",
+        "stop_lat": "3.0478713452406",
+        "stop_lon": "101.55306493489",
+        "stop_id": "1003356",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "AISB",
+        "stop_lat": "3.0511971457509",
+        "stop_lon": "101.5551150906",
+        "stop_id": "1000050",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SJ585 TAMAN PERINDUSTRIAN LION",
+        "stop_lat": "3.053458",
+        "stop_lon": "101.555385",
+        "stop_id": "1008220",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA384 SEKSYEN 22",
+        "stop_lat": "3.057551",
+        "stop_lon": "101.555891",
+        "stop_id": "1008219",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA385 KG KEBUN BUNGA/PETRONAS",
+        "stop_lat": "3.0618238253554",
+        "stop_lon": "101.55666669176",
+        "stop_id": "1002507",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA131 KG KEBUN BUNGA/PETRON",
+        "stop_lat": "3.064131",
+        "stop_lon": "101.556343",
+        "stop_id": "1006666",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KG KEBUN BUNGA SEKSYEN 22",
+        "stop_lat": "3.065138",
+        "stop_lon": "101.556186",
+        "stop_id": "1008217",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA386 AVENUE CREST",
+        "stop_lat": "3.068578",
+        "stop_lon": "101.555871",
+        "stop_id": "1006667",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SJ574 APARTMENT INDAHRIA",
+        "stop_lat": "3.072656",
+        "stop_lon": "101.556539",
+        "stop_id": "1006661",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KTM BATU 3",
+        "stop_lat": "3.075738",
+        "stop_lon": "101.559838",
+        "stop_id": "1006662",
+        "stop_sequence": "33"
+    }
+]

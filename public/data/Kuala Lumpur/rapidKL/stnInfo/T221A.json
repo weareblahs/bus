@@ -1,0 +1,198 @@
+[
+    {
+        "stop_name": "(M) KL746 LRT SRI RAMPAI",
+        "stop_lat": "3.1988359275043",
+        "stop_lon": "101.73752617997",
+        "stop_id": "1001827",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "WANGSA 9 RESIDENCY",
+        "stop_lat": "3.198697",
+        "stop_lon": "101.739854",
+        "stop_id": "1004212",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL747 WANGSA WALK (TIMUR)",
+        "stop_lat": "3.199022",
+        "stop_lon": "101.743877",
+        "stop_id": "1000986",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL2106 AEON BIG WANGSA MAJU",
+        "stop_lat": "3.1953502937695",
+        "stop_lon": "101.7421385335",
+        "stop_id": "1000450",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) KL750 SHELL WANGSA MAJU",
+        "stop_lat": "3.1964796609795",
+        "stop_lon": "101.74469474394",
+        "stop_id": "1002626",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL748 SMK SEKSYEN 5 WANGSA MAJU (OPP)",
+        "stop_lat": "3.198281",
+        "stop_lon": "101.745938",
+        "stop_id": "1003394",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL186 KOMERSIAL WANGSA DELIMA",
+        "stop_lat": "3.200916",
+        "stop_lon": "101.745084",
+        "stop_id": "1001964",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL187 FLAT SEKSYEN 4 BLOK C7 (BARAT)",
+        "stop_lat": "3.203164",
+        "stop_lon": "101.743274",
+        "stop_id": "1002290",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL188 SK WANGSA JAYA/BLOK A7 (BARAT)",
+        "stop_lat": "3.2053388778925",
+        "stop_lon": "101.74164019657",
+        "stop_id": "1000342",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1617 DATARAN WANGSA MAJU",
+        "stop_lat": "3.207986",
+        "stop_lon": "101.742255",
+        "stop_id": "1006132",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1616 PETRONAS WANGSA MELAWATI",
+        "stop_lat": "3.2099882301966",
+        "stop_lon": "101.74359739819",
+        "stop_id": "1002462",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ489 MELAWATI MALL",
+        "stop_lat": "3.208921",
+        "stop_lon": "101.748699",
+        "stop_id": "1001368",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) AJ379 GIANT ULU KELANG (OPP)",
+        "stop_lat": "3.206217",
+        "stop_lon": "101.752282",
+        "stop_id": "1000866",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ380 TASKA PASTI ILMI",
+        "stop_lat": "3.203687",
+        "stop_lon": "101.751966",
+        "stop_id": "1000182",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL385 TAMAN LEMBAH KERAMAT AU5",
+        "stop_lat": "3.202967",
+        "stop_lon": "101.750287",
+        "stop_id": "1006130",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1 KOMERSIAL WANGSA SIAGA",
+        "stop_lat": "3.202919",
+        "stop_lon": "101.747242",
+        "stop_id": "1007535",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL3 PERUMAHAN WANGSA CERIA",
+        "stop_lat": "3.204958",
+        "stop_lon": "101.745113",
+        "stop_id": "1006131",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1615 KOMERSIAL WANGSA CERIA (OPP)",
+        "stop_lat": "3.208016",
+        "stop_lon": "101.743833",
+        "stop_id": "1007536",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL185 DATARAN WANGSA MAJU (OPP)",
+        "stop_lat": "3.2077061450607",
+        "stop_lon": "101.74234003905",
+        "stop_id": "1003775",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1610 FLAT SEKSYEN 4 (OPP)",
+        "stop_lat": "3.205543",
+        "stop_lon": "101.741816",
+        "stop_id": "1006133",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1611 PERUMAHAN WANGSA BUDI",
+        "stop_lat": "3.203434",
+        "stop_lon": "101.743406",
+        "stop_id": "1006134",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1612 PERUMAHAN WANGSA BUDI",
+        "stop_lat": "3.200789",
+        "stop_lon": "101.745559",
+        "stop_id": "1006135",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL749 SMK SEKSYEN 5 WANGSA MAJU",
+        "stop_lat": "3.198094",
+        "stop_lon": "101.746158",
+        "stop_id": "1006136",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL824 SHELL WANGSA MAJU (OPP)",
+        "stop_lat": "3.196349955598",
+        "stop_lon": "101.74497117936",
+        "stop_id": "1003206",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL820 WANGSA 118",
+        "stop_lat": "3.195604",
+        "stop_lon": "101.741666",
+        "stop_id": "1003603",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL821 KOMERSIAL WANGSA DELIMA",
+        "stop_lat": "3.197132",
+        "stop_lon": "101.742443",
+        "stop_id": "1000458",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "WANGSA WALK MALL",
+        "stop_lat": "3.199117",
+        "stop_lon": "101.741457",
+        "stop_id": "1006745",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "(M) KL746 LRT SRI RAMPAI",
+        "stop_lat": "3.1988359275043",
+        "stop_lon": "101.73752617997",
+        "stop_id": "1001827",
+        "stop_sequence": "28"
+    }
+]

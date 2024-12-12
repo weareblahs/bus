@@ -1,0 +1,5 @@
+{"trip_id":"weekday_R0210_R021002_0","arrival_time":"06:35:00","departure_time":"06:35:00","stop_id":"1000542","stop_sequence":"1","stop_headsign":"KLCC (VIA AKLEH)"},
+{"trip_id":"weekday_R0210_R021002_0","arrival_time":"06:35:25","departure_time":"06:35:25","stop_id":"1000082","stop_sequence":"2","stop_headsign":"KLCC (VIA AKLEH)"},
+{"trip_id":"weekday_R0210_R021002_0","arrival_time":"06:38:26","departure_time":"06:38:26","stop_id":"1001783","stop_sequence":"3","stop_headsign":"LRT AMPANG"},
+{"trip_id":"weekday_R0210_R021002_0","arrival_time":"06:39:41","departure_time":"06:39:41","stop_id":"1001782","stop_sequence":"4","stop_headsign":"LRT AMPANG"},
+{"trip_id":"weekday_R0210_R021002_0","arrival_time":"06:45:00","departure_time":"06:45:00","stop_id":"1000542","stop_sequence":"5","stop_headsign":"LRT AMPANG"}

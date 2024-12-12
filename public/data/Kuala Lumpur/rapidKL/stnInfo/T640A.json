@@ -1,0 +1,268 @@
+[
+    {
+        "stop_name": "PJ445 LRT TAMAN JAYA",
+        "stop_lat": "3.103876",
+        "stop_lon": "101.644993",
+        "stop_id": "1001828",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ429 IPD PJ",
+        "stop_lat": "3.098077",
+        "stop_lon": "101.641393",
+        "stop_id": "1000203",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ430 SEKSYEN 8 (SELATAN)",
+        "stop_lat": "3.096506",
+        "stop_lon": "101.641083",
+        "stop_id": "1002848",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ464 BALAI BOMBA JLN PENCHALA (OPP)",
+        "stop_lat": "3.093375",
+        "stop_lon": "101.640679",
+        "stop_id": "1001628",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ465 SEKSYEN 51 (UTARA)",
+        "stop_lat": "3.091156",
+        "stop_lon": "101.640418",
+        "stop_id": "1002958",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ466 SEKSYEN 4",
+        "stop_lat": "3.089138",
+        "stop_lon": "101.640615",
+        "stop_id": "1001487",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ468 PASAR PJ OLD TOWN",
+        "stop_lat": "3.087565",
+        "stop_lon": "101.643974",
+        "stop_id": "1002270",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) PJ469 TERMINAL BAS",
+        "stop_lat": "3.087051",
+        "stop_lon": "101.647131",
+        "stop_id": "1003891",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ455 MAHKAMAH SYARIAH",
+        "stop_lat": "3.086795",
+        "stop_lon": "101.650753",
+        "stop_id": "1001844",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ411 APT INAI COURT (OPP)",
+        "stop_lat": "3.085194",
+        "stop_lon": "101.654585",
+        "stop_id": "1001000",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1367 BOMBA KLANG LAMA (OPP)",
+        "stop_lat": "3.082215",
+        "stop_lon": "101.660945",
+        "stop_id": "1000369",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1368 TAMAN SERI SENTOSA (TIMUR)",
+        "stop_lat": "3.079737",
+        "stop_lon": "101.661893",
+        "stop_id": "1002594",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1369 AVENUE COURT",
+        "stop_lat": "3.077789",
+        "stop_lon": "101.658869",
+        "stop_id": "1000186",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1370 APT SERI SENTOSA AC4 (OPP)",
+        "stop_lat": "3.077293",
+        "stop_lon": "101.656362",
+        "stop_id": "1000692",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1371 APT SERI SENTOSA (OPP)",
+        "stop_lat": "3.076993",
+        "stop_lon": "101.654873",
+        "stop_id": "1000143",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1381 APT PINANG 1A SERI SENTOSA",
+        "stop_lat": "3.076273",
+        "stop_lon": "101.653644",
+        "stop_id": "1000138",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1382 APT PINANG BLOK 13",
+        "stop_lat": "3.075151",
+        "stop_lon": "101.653141",
+        "stop_id": "1000137",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL1383 FLAT TAMAN SERI SENTOSA",
+        "stop_lat": "3.073152578695",
+        "stop_lon": "101.65191453151",
+        "stop_id": "1002296",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1372 1K TRICOURT",
+        "stop_lat": "3.0711292077064",
+        "stop_lon": "101.65163999894",
+        "stop_id": "1000326",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1373 SURAU NURUL IMAN (OPP)",
+        "stop_lat": "3.0711451758857",
+        "stop_lon": "101.64981970302",
+        "stop_id": "1000327",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1374 BAYVIEW COURT ID",
+        "stop_lat": "3.0716721193317",
+        "stop_lon": "101.6484691135",
+        "stop_id": "1000237",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) PJ124 SRI MANJA SQUARE",
+        "stop_lat": "3.0734890746854",
+        "stop_lon": "101.64688810437",
+        "stop_id": "1003612",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "(M) PJ126 HAB BAS SERI MANJA",
+        "stop_lat": "3.074771",
+        "stop_lon": "101.643962",
+        "stop_id": "1002949",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PJ768 SPG SRI MANJA 5",
+        "stop_lat": "3.075261",
+        "stop_lon": "101.645564",
+        "stop_id": "1001150",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PJ769 SURAU AL-ISLAH (OPP)",
+        "stop_lat": "3.077348",
+        "stop_lon": "101.646284",
+        "stop_id": "1003750",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PJ129 PANGSAPURI PERMAI (OPP)",
+        "stop_lat": "3.079745",
+        "stop_lon": "101.646488",
+        "stop_id": "1002479",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PJ734 TAMAN PETALING UTAMA",
+        "stop_lat": "3.081794",
+        "stop_lon": "101.649809",
+        "stop_id": "1000943",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PJ412 APT INAI COURT",
+        "stop_lat": "3.085098",
+        "stop_lon": "101.654377",
+        "stop_id": "1000999",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PJ413 UITM PJ (OPP)",
+        "stop_lat": "3.086949",
+        "stop_lon": "101.652272",
+        "stop_id": "1004161",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PJ415 TERMINAL BAS (OPP)",
+        "stop_lat": "3.086895",
+        "stop_lon": "101.646789",
+        "stop_id": "1001981",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PJ416 PASAR PJ OLD TOWN (OPP)",
+        "stop_lat": "3.087244",
+        "stop_lon": "101.644418",
+        "stop_id": "1002269",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PJ751 PJ OLD TOWN SEKSYEN 2",
+        "stop_lat": "3.087546",
+        "stop_lon": "101.642545",
+        "stop_id": "1000046",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PJ417 SEKSYEN 51 (SELATAN)",
+        "stop_lat": "3.088242",
+        "stop_lon": "101.640685",
+        "stop_id": "1003502",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PJ420 KOMPLEKS WAN KIEN",
+        "stop_lat": "3.094208",
+        "stop_lon": "101.640514",
+        "stop_id": "1001627",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "(M) PJ435 WISMA MCIS",
+        "stop_lat": "3.101044",
+        "stop_lon": "101.641252",
+        "stop_id": "1001509",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PJ445 LRT TAMAN JAYA",
+        "stop_lat": "3.103876",
+        "stop_lon": "101.644993",
+        "stop_id": "1001828",
+        "stop_sequence": "38"
+    }
+]

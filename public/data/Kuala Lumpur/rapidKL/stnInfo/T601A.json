@@ -1,0 +1,142 @@
+[
+    {
+        "stop_name": "SJ237 TERMINAL PUCHONG UTAMA",
+        "stop_lat": "2.990446",
+        "stop_lon": "101.615552",
+        "stop_id": "1002641",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M) SJ245 TAMAN PUCHONG UTAMA 8",
+        "stop_lat": "2.987038",
+        "stop_lon": "101.615507",
+        "stop_id": "1003820",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ247 TAMAN PUCHONG UTAMA 10 (SELATAN)",
+        "stop_lat": "2.9843824266469",
+        "stop_lon": "101.61310387347",
+        "stop_id": "1003027",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ248 TAMAN PUCHONG UTAMA 10 (TIMUR)",
+        "stop_lat": "2.985405",
+        "stop_lon": "101.612348",
+        "stop_id": "1002222",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ249 TAMAN PUCHONG UTAMA 10 (TIMUR)",
+        "stop_lat": "2.986396",
+        "stop_lon": "101.611857",
+        "stop_id": "1002924",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ256 SK PUCHONG UTAMA 1",
+        "stop_lat": "2.988302",
+        "stop_lon": "101.611422",
+        "stop_id": "1003647",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ259 TAMAN PUCHONG UTAMA 12",
+        "stop_lat": "2.990412",
+        "stop_lon": "101.612515",
+        "stop_id": "1002230",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ260 TAMAN PUCHONG UTAMA 6",
+        "stop_lat": "2.993282",
+        "stop_lon": "101.613019",
+        "stop_id": "1003029",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ262 TAMAN PERINDUSTRIAN MAJU JAYA",
+        "stop_lat": "2.995563",
+        "stop_lon": "101.612445",
+        "stop_id": "1003998",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ264 TAMAN PERINDUSTRIAN PUCHONG UTAMA (SELATAN)",
+        "stop_lat": "3.00158019011",
+        "stop_lon": "101.60929615772",
+        "stop_id": "1002346",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ265 TAMAN PERINDUSTRIAN PUCHONG UTAMA (UTARA)",
+        "stop_lat": "3.003265",
+        "stop_lon": "101.609156",
+        "stop_id": "1001722",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ266 BALAI MASYARAKAT PUCHONG PERDANA",
+        "stop_lat": "3.005584",
+        "stop_lon": "101.609054",
+        "stop_id": "1008639",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) SJ267 LRT PUCHONG PERDANA",
+        "stop_lat": "3.007707",
+        "stop_lon": "101.605601",
+        "stop_id": "1006575",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ268 FLAT PUCHONG PERDANA",
+        "stop_lat": "3.007673",
+        "stop_lon": "101.601724",
+        "stop_id": "1000339",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ269 PERMAI COURT PUCHONG PERDANA",
+        "stop_lat": "3.0077011483503",
+        "stop_lon": "101.59945715149",
+        "stop_id": "1000433",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ271 FLAT PUCHONG PRIMA (SELATAN)",
+        "stop_lat": "3.005145",
+        "stop_lon": "101.598267",
+        "stop_id": "1001986",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ272 LRT PUCHONG PRIMA",
+        "stop_lat": "2.999871",
+        "stop_lon": "101.596714",
+        "stop_id": "1006574",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ273 SMK PUCHONG PERMAI",
+        "stop_lat": "2.994193",
+        "stop_lon": "101.595251",
+        "stop_id": "1003310",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SJ274 PANGSAPURI LILI",
+        "stop_lat": "2.992162",
+        "stop_lon": "101.595106",
+        "stop_id": "1002144",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SJ275 PANGSAPURI MELUR",
+        "stop_lat": "2.988061",
+        "stop_lon": "101.594752",
+        "stop_id": "1002156",
+        "stop_sequence": "20"
+    }
+]

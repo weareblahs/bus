@@ -1,0 +1,177 @@
+[
+    {
+        "stop_name": "(M) KL1818 HAB TITIWANGSA",
+        "stop_lat": "3.1720151676225",
+        "stop_lon": "101.69593158369",
+        "stop_id": "1000968",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL2249 PERKIM",
+        "stop_lat": "3.171261",
+        "stop_lon": "101.693485",
+        "stop_id": "1002414",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL50 DAMAI HOSPITAL",
+        "stop_lat": "3.169987",
+        "stop_lon": "101.695148",
+        "stop_id": "1000514",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL57 NS PENYELIDIKAN PERUBATAN",
+        "stop_lat": "3.1676749834573",
+        "stop_lon": "101.69936041071",
+        "stop_id": "1002104",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL58 MEDAN SELERA",
+        "stop_lat": "3.168009",
+        "stop_lon": "101.704354",
+        "stop_id": "1004138",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL59 SK JLN RAJA MUDA",
+        "stop_lat": "3.167985",
+        "stop_lon": "101.707342",
+        "stop_id": "1003643",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL60 YAYASAN SELANGOR",
+        "stop_lat": "3.168012",
+        "stop_lon": "101.708793",
+        "stop_id": "1004274",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL61 SETIA SKY RESIDENCE",
+        "stop_lat": "3.168117",
+        "stop_lon": "101.710298",
+        "stop_id": "1002016",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1943 FLAT PKNS (OPP)",
+        "stop_lat": "3.166433",
+        "stop_lon": "101.714857",
+        "stop_id": "1000758",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1949 INTERMARK MALL",
+        "stop_lat": "3.161832",
+        "stop_lon": "101.719627",
+        "stop_id": "1004279",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL91 CITIBANK / INTERCONTINENTAL HOTEL",
+        "stop_lat": "3.1602776153032",
+        "stop_lon": "101.71730268036",
+        "stop_id": "1000492",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) KL93 MENARA ATLAN",
+        "stop_lat": "3.159962",
+        "stop_lon": "101.715857",
+        "stop_id": "1002014",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) KL94 KLCC (UTARA)",
+        "stop_lat": "3.158876",
+        "stop_lon": "101.712331",
+        "stop_id": "1001518",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL96 MENARA AMBANK",
+        "stop_lat": "3.1607922350002",
+        "stop_lon": "101.71098241514",
+        "stop_id": "1000077",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1945 MENARA PTPTN",
+        "stop_lat": "3.162313",
+        "stop_lon": "101.713241",
+        "stop_id": "1002764",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1948 FLAT PKNS",
+        "stop_lat": "3.1661583681554",
+        "stop_lon": "101.71454310215",
+        "stop_id": "1000757",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL62 SETIA SKY RESIDENCE (OPP)",
+        "stop_lat": "3.167926",
+        "stop_lon": "101.711238",
+        "stop_id": "1002484",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL63 YAYASAN SELANGOR (OPP)",
+        "stop_lat": "3.1678324523453",
+        "stop_lon": "101.70881962425",
+        "stop_id": "1004273",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL64 SK JLN RAJA MUDA (OPP)",
+        "stop_lat": "3.167832",
+        "stop_lon": "101.706461",
+        "stop_id": "1003642",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL65 MENARA ARINA UNITI",
+        "stop_lat": "3.1678637715982",
+        "stop_lon": "101.70450734947",
+        "stop_id": "1000945",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL66 HOTEL PUTRA MUDA",
+        "stop_lat": "3.1674947470273",
+        "stop_lon": "101.6995491578",
+        "stop_id": "1000946",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL53 GRAND SEASONS HOTEL",
+        "stop_lat": "3.1701675672584",
+        "stop_lon": "101.69824199219",
+        "stop_id": "1000887",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL54 HKL (OPP)",
+        "stop_lat": "3.1727016599494",
+        "stop_lon": "101.69894622509",
+        "stop_id": "1000915",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "(M) KL1818 HAB TITIWANGSA",
+        "stop_lat": "3.1720151676225",
+        "stop_lon": "101.69593158369",
+        "stop_id": "1000968",
+        "stop_sequence": "25"
+    }
+]
