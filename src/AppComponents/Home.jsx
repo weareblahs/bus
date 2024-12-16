@@ -4,11 +4,16 @@ import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 import { getData } from "./getData";
 import { BusStatus } from "./BusStatus";
-import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from "react-icons/fa";
+import {
+  FaArrowAltCircleLeft,
+  FaArrowAltCircleRight,
+  FaBus,
+  FaExchangeAlt,
+} from "react-icons/fa";
 export const Home = () => {
   const [stationList, setStationList] = useState([]);
 
-  const [data, setData] = useState([{ status: "No bus station selected" }]);
+  const [data, setData] = useState([{ status: "No route selected" }]);
 
   const [route, setRoute] = useState("");
   useEffect(() => {
@@ -29,10 +34,15 @@ export const Home = () => {
   const [sd, setSD] = useState([]);
   return (
     <>
-      <div className="text-black dark p-2">
+      <div className="text-center mt-5">
+        <span className="italic">
+          {Cookies.get("provider")} selected as bus provider
+        </span>
+      </div>
+      <div className="grid grid-cols-10 text-black dark p-2">
         <Select
           aria-label="Select"
-          className="p-2"
+          className="p-2 col-span-8"
           onChange={(e) => setTrip(e.target.value)}
           placeholder="Select route..."
           label="Bus route"
@@ -57,6 +67,15 @@ export const Home = () => {
             );
           })}
         </Select>
+        <Button
+          onClick={() => {
+            Cookies.remove("isSetUp");
+            window.location.reload();
+          }}
+          className="col-span-2 mt-auto mb-auto p-7 bg-slate-800"
+        >
+          <FaExchangeAlt />
+        </Button>
       </div>
       <div className="ms-auto me-auto">
         {!data[0].status ? (
@@ -70,16 +89,7 @@ export const Home = () => {
         style={{ width: "100vw" }}
       >
         <p className="text-center ">
-          {Cookies.get("provider")} selected. Not your preferred provider?
-          <span className="p-4">
-            <Button
-              onClick={() => {
-                Cookies.remove("isSetUp");
-                window.location.reload();
-              }}
-            >
-              Change provider
-            </Button>
+          <span className="p-8">
             <br />
             Data sourced from data.gov.my which is used under the terms of use,
             which can be viewed{" "}
