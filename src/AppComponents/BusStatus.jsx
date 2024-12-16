@@ -46,7 +46,7 @@ export const BusStatus = (data) => {
                         <Chip className="bg-red-500 text-white">Waiting</Chip>
                       ) : (
                         <Chip className="bg-green-500">
-                          {d[0].vehicle.position.speed}km/h
+                          {d[0].vehicle.position.speed.toFixed(0)}km/h
                         </Chip>
                       )}
                     </div>
