@@ -1,8 +1,12 @@
 import GtfsRealtimeBindings from "gtfs-realtime-bindings";
-import trips from "../privData/rapidPenang_trips.json";
 import Cookies from "js-cookie";
+import tripMainData from "../privData/trips.json";
 export const getData = async (route) => {
   let foundTrips = [];
+  const tripProvider = Cookies.get("provider");
+  var trips = tripMainData.filter(
+    (t) => t.providerName == Cookies.get("provider")
+  )[0]["trips"];
   try {
     const response = await fetch(Cookies.get("endpoint"));
     if (!response.ok) {
@@ -24,7 +28,8 @@ export const getData = async (route) => {
     const feed = GtfsRealtimeBindings.transit_realtime.FeedMessage.decode(
       new Uint8Array(buffer)
     );
-
+    console.log(route);
+    console.log(trips);
     const foundTripIds = trips
       .filter((t) => t.route === route)
       .map(({ trip_id }) => ({ trip_id }));

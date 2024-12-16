@@ -8,12 +8,12 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 # Status
 
-| Provider          | Data source                               | Status         | Remarks                                                                                                                 |
-| ----------------- | ----------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| rapidPenang       | `data.gov.my` GTFS-Realtime data (Direct) | Available      | Station stop data might be inaccurate due to manual generation of stop files based on the static GTFS data              |
-| rapidKL           | `data.gov.my` GTFS-Realtime data (Direct) | Data available | Bus only. Data available, but route data unavailable - will fix soon so do not select this option until further notice. |
-| rapidKuantan      | `data.gov.my`                             | Planned        |                                                                                                                         |
-| myBAS Johor Bahru | `data.gov.my`                             | Planned        |                                                                                                                         |
+| Provider          | Data source                               | Status    | Remarks                                                                                                    |
+| ----------------- | ----------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------- |
+| rapidPenang       | `data.gov.my` GTFS-Realtime data (Direct) | Available | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
+| rapidKL           | `data.gov.my` GTFS-Realtime data (Direct) | Available | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
+| rapidKuantan      | `data.gov.my`                             | Planned   |                                                                                                            |
+| myBAS Johor Bahru | `data.gov.my`                             | Planned   |                                                                                                            |
 
 ### What does "Direct" mean?
 
@@ -21,8 +21,8 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 # Issues
 
-- rapidPenang: Station info inaccurate for stations in Penang mainland (previous, current, next). Please see myRapid PULSE app for accurate info. Location data is accurate.
-- rapidPenang: Some data shows "unknown location" for all 3 station placeholders. This is due to some bugs on the `getNearest` code.
+- rapidPenang and rapidKL: Station info inaccurate for stations in Penang mainland (previous, current, next). Please see myRapid PULSE app for accurate info. Location data is accurate.
+- rapidPenang and rapidKL: Some data shows "unknown location" for all 3 station placeholders. This is due to some bugs on the `getNearest` code.
 - Global: If the array is blank (no data), nothing will be shown except for "Bus info". There will be a placeholder soon.
 
 # Disclaimer

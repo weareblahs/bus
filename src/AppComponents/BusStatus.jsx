@@ -15,7 +15,7 @@ import { FaMap } from "react-icons/fa";
 export const BusStatus = (data) => {
   // const data0 = JSON.stringify(data);
   if (data != []) {
-    console.log(data[0]);
+    console.log(data);
     return (
       <>
         <div className="ms-auto me-auto mb-24">
