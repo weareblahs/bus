@@ -6,7 +6,7 @@
     "endpoint": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana/?category=rapid-bus-penang"
   },
   {
-    "providerName": "rapidKL (Route Data Coming Soon)",
+    "providerName": "rapidKL",
     "state": "Kuala Lumpur",
     "country": "Malaysia",
     "endpoint": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana/?category=rapid-bus-kl"
