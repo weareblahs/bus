@@ -84,13 +84,9 @@ export const Home = () => {
           <h1 className="text-center text-4xl p-4">{data[0].status}</h1>
         )}
       </div>
-      <div
-        className="fixed bottom-0 w-100 block ms-auto me-auto text-center bg-black p-5"
-        style={{ width: "100vw" }}
-      >
+      <div className="fixed bottom-0 block text-center bg-black p-4">
         <p className="text-center ">
-          <span className="p-4">
-            <br />
+          <span className="">
             Data sourced from data.gov.my which is used under the terms of use,
             which can be viewed{" "}
             <a
