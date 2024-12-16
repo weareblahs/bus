@@ -84,8 +84,13 @@ export const Home = () => {
             <br />
             Data sourced from data.gov.my which is used under the terms of use,
             which can be viewed{" "}
-            <a href="https://archive.data.gov.my/p/terma-pengguna">here</a> (in
-            Malay).
+            <a
+              href="https://archive.data.gov.my/p/terma-pengguna"
+              className="underline"
+            >
+              here
+            </a>{" "}
+            (in Malay).
           </span>
         </p>
       </div>
