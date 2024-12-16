@@ -6,7 +6,7 @@ export const getNearest = (lat, lon, rte, provider, state) => {
   useEffect(() => {
     // reference URL: http://localhost:5173/data/Penang/rapidPenang/StnInfo/301B.json
     const url = `${window.location.protocol}//${window.location.host}/data/${state}/${provider}/StnInfo/${rte}.json`;
-    console.log(url);
+
     axios.get(url).then((res) => {
       const nearest0 = res.data.filter(
         (d) => parseFloat(d?.stop_lat) >= lat && parseFloat(d?.stop_lon) >= lon
@@ -43,7 +43,7 @@ export const getNearest = (lat, lon, rte, provider, state) => {
       ]);
     });
   }, []);
-  console.log(data);
+
   return data;
 };
 //:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

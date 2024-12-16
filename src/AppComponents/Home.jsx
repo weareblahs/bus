@@ -25,7 +25,6 @@ export const Home = () => {
     setData([{ status: "Loading..." }]);
     const d = await getData(route);
     setData(d);
-    console.log(data);
   };
   const [sd, setSD] = useState([]);
   return (
@@ -63,7 +62,7 @@ export const Home = () => {
         {!data[0].status ? (
           <BusStatus data={JSON.parse(data)} route={route} />
         ) : (
-          <h1 className="text-center">{data[0].status}</h1>
+          <h1 className="text-center text-4xl p-4">{data[0].status}</h1>
         )}
       </div>
       <div

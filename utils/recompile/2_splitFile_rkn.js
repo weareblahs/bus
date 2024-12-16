@@ -41,7 +41,7 @@ for (let i = 0; i < data.length; i++) {
     //     ? "A"
     //     : "B"
     // }.json`;
-    // console.log(outFile);
+    //
     // const out2 = data2;
     // const outputFile = join(outputDir, outFile);
     // writeFileSync(
@@ -53,5 +53,3 @@ for (let i = 0; i < data.length; i++) {
     console.log(data1.filter((t) => t.trip_id == data[i]["trip_id"]));
   }
 }
-
-console.log(`Split into ${fileCounter - 1} files in ${outputDir} directory`);

@@ -6,8 +6,8 @@
 //   const data = JSON.parse(`[${fileContent}]`);
 //   var outData = [];
 //   //   const outData
-//   //   console.log(data);
-//   //   console.log(fileContent);
+//   //
+//   //
 //   data.forEach((d) => {
 //     outData.push({
 //       stop_name: data0.filter((data) => data.stop_id === d.stop_id)[0][
@@ -32,7 +32,7 @@
 //   );
 //   outData = [];
 // }
-// console.log("Finish process");
+//
 import { readFileSync, writeFile, promises } from "fs";
 const fileContent0 = readFileSync(`./stops.json`, "utf8");
 const data0 = JSON.parse(`${fileContent0}`);
@@ -44,8 +44,8 @@ async function ls(path) {
     const data = JSON.parse(`[${fileContent}]`);
     var outData = [];
     //   const outData
-    //   console.log(data);
-    //   console.log(fileContent);
+    //
+    //
     data.forEach((d) => {
       outData.push({
         stop_name: data0.filter((data) => data.stop_id === d.stop_id)[0][

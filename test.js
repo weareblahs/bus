@@ -4,7 +4,7 @@ export const getNearest = (lat, lon, rte, provider, state) => {
   //   const [data, setData] = useState([]);
   // reference URL: http://localhost:5173/data/Penang/rapidPenang/StnInfo/301B.json
   const url = `http://localhost:5173/data/Penang/rapidPenang/StnInfo/${rte}.json`;
-  console.log(url);
+
   axios.get(url).then((res) => {
     const nearest0 = res.data.filter(
       (d) => d?.stop_lat >= lat && d?.stop_lon >= lon
@@ -19,7 +19,6 @@ export const getNearest = (lat, lon, rte, provider, state) => {
     );
     // const prevDataCheck = (res.data.indexOf(nearest)-1) >= 0) ? (res.data.indexOf(nearest) - 1) : -1
     // const nextDataCheck = (res.data.indexOf(nearest)+1) <= (res.data.length-1) ? (res.data.indexOf(nearest) + 1) : -1
-    console.log(nearest, getDistance);
   });
 };
 

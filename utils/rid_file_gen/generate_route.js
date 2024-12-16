@@ -32,7 +32,7 @@ const of1 = outFile.filter(
   (value, index, self) =>
     index === self.findIndex((t) => t.id === value.id && t.name === value.name)
 );
-console.log(of1);
+
 fs.writeFile("./routes_1.json", JSON.stringify(of1), () => {
   return "Write successful";
 });

@@ -23,7 +23,6 @@ export const SetupStep1 = () => {
     setProvider(provider);
     setState(state);
     setEndpoint(endpoint);
-    console.log(provider);
   };
   const startApp = () => {
     Cookies.set("isSetUp", true, { expires: 365 });
@@ -50,11 +49,10 @@ export const SetupStep1 = () => {
                   <FaBus />
                 </div>
                 <div className="col-span-1">
-                  <h1 className="">
-                    {p.providerName}
-                    <br />
+                  <h1 className="text-2xl">{p.providerName}</h1>
+                  <p>
                     {p.state}, {p.country}
-                  </h1>
+                  </p>
                 </div>
               </div>
             );

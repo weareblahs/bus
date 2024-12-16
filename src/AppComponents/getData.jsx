@@ -13,7 +13,7 @@ export const getData = async (route) => {
       const error = new Error(
         `${response.url}: ${response.status} ${response.statusText}`
       );
-      console.log(response);
+
       error.response = response;
       return [
         {
@@ -28,23 +28,19 @@ export const getData = async (route) => {
     const feed = GtfsRealtimeBindings.transit_realtime.FeedMessage.decode(
       new Uint8Array(buffer)
     );
-    console.log(route);
-    console.log(trips);
+
     const foundTripIds = trips
       .filter((t) => t.name === route)
       .map(({ id }) => ({ trip_id: id }));
     foundTripIds.forEach((t) => {
-      console.log(t);
       const trip = feed.entity.filter(
         (f) => f.vehicle.trip.tripId === t.trip_id
       );
       if (trip.length !== 0) {
         foundTrips.push(trip);
       }
-      console.log(foundTripIds);
     });
   } catch (error) {
-    console.log(error);
     process.exit(1);
   }
   return JSON.stringify(foundTrips);

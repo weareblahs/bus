@@ -14,8 +14,8 @@ import { getNearest } from "./getNearest";
 import { FaMap } from "react-icons/fa";
 export const BusStatus = (data) => {
   // const data0 = JSON.stringify(data);
-  if (data != []) {
-    console.log(data);
+  if (data.data.length != 0) {
+    //
     return (
       <>
         <div className="ms-auto me-auto mb-24">
@@ -147,9 +147,16 @@ export const BusStatus = (data) => {
     );
   } else {
     return (
-      <h1 className="text-center">
-        Data unavailable. Please re-select station in a few minutes.
-      </h1>
+      <>
+        <h1 className="text-center text-4xl p-4">
+          Data unavailable or bus route is closed for this time.
+        </h1>
+
+        <h1 className="text-center text-xl px-6">
+          To check for other routes, please change the bus route on the Bus
+          Route selection.
+        </h1>
+      </>
     );
   }
 };
