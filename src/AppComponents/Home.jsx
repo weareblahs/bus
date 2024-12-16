@@ -89,7 +89,7 @@ export const Home = () => {
         style={{ width: "100vw" }}
       >
         <p className="text-center ">
-          <span className="p-8">
+          <span className="p-4">
             <br />
             Data sourced from data.gov.my which is used under the terms of use,
             which can be viewed{" "}
