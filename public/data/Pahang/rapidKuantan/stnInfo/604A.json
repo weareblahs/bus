@@ -1,0 +1,296 @@
+[
+    {
+        "stop_name": "(M) BALOK MAKMUR",
+        "stop_lat": "3.9648293690809",
+        "stop_lon": "103.38295154249",
+        "stop_id": "2000556",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SIMPANG CARGILL",
+        "stop_lat": "3.9763157664811",
+        "stop_lon": "103.39290642855",
+        "stop_id": "2000956",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KAWASAN PERINDUSTRIAN GEBENG",
+        "stop_lat": "4.0151522094961",
+        "stop_lon": "103.4043484775",
+        "stop_id": "2000911",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SURAU AT TAUFIK",
+        "stop_lat": "4.03920607336",
+        "stop_lon": "103.39444062451",
+        "stop_id": "2000913",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SK SG ULAR",
+        "stop_lat": "4.0411941135053",
+        "stop_lon": "103.39368926074",
+        "stop_id": "2000914",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "MASJID BARU SG ULAR",
+        "stop_lat": "4.0439153726767",
+        "stop_lon": "103.39329666701",
+        "stop_id": "2000952",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SENCTUARY RESORT",
+        "stop_lat": "4.0522182510402",
+        "stop_lon": "103.39385665264",
+        "stop_id": "2000916",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PERKAMPUNGAN SG ULAR AMAN",
+        "stop_lat": "4.0628545117113",
+        "stop_lon": "103.38999020302",
+        "stop_id": "2000949",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "TAMAN AGROTEKNOLOGI MARDI",
+        "stop_lat": "4.0775426628989",
+        "stop_lon": "103.38640371094",
+        "stop_id": "2000919",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) PERUMAHAN KAKITANGAN MARDI",
+        "stop_lat": "4.080335102871",
+        "stop_lon": "103.38544351653",
+        "stop_id": "2000920",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "BIZ CLUB",
+        "stop_lat": "4.0980161221718",
+        "stop_lon": "103.38167961679",
+        "stop_id": "2000921",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "LEGEND RESORT",
+        "stop_lat": "4.1012438744106",
+        "stop_lon": "103.38133989903",
+        "stop_id": "2000923",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KLINIK DESA CHERATING",
+        "stop_lat": "4.1043544292716",
+        "stop_lon": "103.38118053195",
+        "stop_id": "2000924",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "TAMAN ARMANI CHERATING",
+        "stop_lat": "4.1071487089291",
+        "stop_lon": "103.38113887647",
+        "stop_id": "2000925",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "S.K CHERATING",
+        "stop_lat": "4.1104404748522",
+        "stop_lon": "103.38115025035",
+        "stop_id": "2000926",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "LAGOONA VILLA",
+        "stop_lat": "4.121573530473",
+        "stop_lon": "103.38155105548",
+        "stop_id": "2000928",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PANTAI CHERATING",
+        "stop_lat": "4.1317863961167",
+        "stop_lon": "103.40084925303",
+        "stop_id": "2000929",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "CLUB MED",
+        "stop_lat": "4.140098732345",
+        "stop_lon": "103.40159814562",
+        "stop_id": "2000939",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KG KUBANG IKAN",
+        "stop_lat": "4.1449820391856",
+        "stop_lon": "103.40155231518",
+        "stop_id": "2000931",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "TAMAN BIMBINGAN KG KUBANG IKAN",
+        "stop_lat": "4.1483454328081",
+        "stop_lon": "103.40119429447",
+        "stop_id": "2000932",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "IMPIANA RESORT",
+        "stop_lat": "4.1595152706871",
+        "stop_lon": "103.40184731437",
+        "stop_id": "2000933",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M) BANDAR BARU CHENDOR",
+        "stop_lat": "4.162084389814",
+        "stop_lon": "103.40224744334",
+        "stop_id": "2000934",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "BANDAR BARU CHENDOR",
+        "stop_lat": "4.162102732702",
+        "stop_lon": "103.40237350244",
+        "stop_id": "2000935",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "TAMAN BIMBINGAN KG KUBANG IKAN",
+        "stop_lat": "4.1483637019838",
+        "stop_lon": "103.40128432475",
+        "stop_id": "2000937",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KG KUBANG IKAN",
+        "stop_lat": "4.1450272009387",
+        "stop_lon": "103.40152520446",
+        "stop_id": "2000938",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "CLUB MED",
+        "stop_lat": "4.1400988416548",
+        "stop_lon": "103.40165218506",
+        "stop_id": "2000930",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PANTAI CHERATING",
+        "stop_lat": "4.1318406195052",
+        "stop_lon": "103.40083113137",
+        "stop_id": "2000940",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "LAGOONA VILLA",
+        "stop_lat": "4.1215644321674",
+        "stop_lon": "103.38152405495",
+        "stop_id": "2000941",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M) SK CHERATING",
+        "stop_lat": "4.1104494814245",
+        "stop_lon": "103.3811322198",
+        "stop_id": "2000942",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "TAMAN ARMANI CHERATING",
+        "stop_lat": "4.1071938700761",
+        "stop_lon": "103.38111176698",
+        "stop_id": "2000943",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KLINIK DESA CHERATING",
+        "stop_lat": "4.1043092132039",
+        "stop_lon": "103.38118062303",
+        "stop_id": "2000944",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "LEGEND RESORT",
+        "stop_lat": "4.1014520511241",
+        "stop_lon": "103.38142954087",
+        "stop_id": "2000945",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "BIZ CLUB",
+        "stop_lat": "4.0982422208605",
+        "stop_lon": "103.38168816821",
+        "stop_id": "2000946",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "TAMAN AGROTEKNOLOGI MARDI",
+        "stop_lat": "4.0784829970869",
+        "stop_lon": "103.3863207823",
+        "stop_id": "2000948",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PERKAMPUNGAN SG ULAR AMAN",
+        "stop_lat": "4.062836533239",
+        "stop_lon": "103.39004427283",
+        "stop_id": "2000918",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SENCTUARY RESORT",
+        "stop_lat": "4.0523904676054",
+        "stop_lon": "103.39405443589",
+        "stop_id": "2000951",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "MASJID BARU SG ULAR",
+        "stop_lat": "4.0441328407456",
+        "stop_lon": "103.39351237063",
+        "stop_id": "2000915",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SK SG ULAR",
+        "stop_lat": "4.0413929585053",
+        "stop_lon": "103.39363483657",
+        "stop_id": "2000953",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SURAU AT TAUFIK",
+        "stop_lat": "4.0390978395699",
+        "stop_lon": "103.3945849245",
+        "stop_id": "2000954",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KAWASAN PERINDUSTRIAN GEBENG",
+        "stop_lat": "4.0154049642391",
+        "stop_lon": "103.40411385055",
+        "stop_id": "2000955",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SIMPANG CARGILL",
+        "stop_lat": "3.9763073741053",
+        "stop_lon": "103.39323962076",
+        "stop_id": "2000910",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "(M) BALOK MAKMUR",
+        "stop_lat": "3.9648293690809",
+        "stop_lon": "103.38295154249",
+        "stop_id": "2000556",
+        "stop_sequence": "42"
+    }
+]

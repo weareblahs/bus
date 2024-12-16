@@ -1,0 +1,79 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KOSPEK MPK",
+        "stop_lat": "3.8147507256109",
+        "stop_lon": "103.31921841975",
+        "stop_id": "2000185",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PEJABAT KEMAS",
+        "stop_lat": "3.8182846933878",
+        "stop_lon": "103.31367487094",
+        "stop_id": "2000147",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "JKR DAERAH KUANTAN",
+        "stop_lat": "3.8199777398678",
+        "stop_lon": "103.31010648715",
+        "stop_id": "2000159",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "MASJID INDERA MAHKOTA",
+        "stop_lat": "3.8239299287656",
+        "stop_lon": "103.30574142016",
+        "stop_id": "2000393",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 8",
+        "stop_lat": "3.8258865279963",
+        "stop_lon": "103.30285669655",
+        "stop_id": "2000007",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SIMPANG KOMPLEKS TUN RAZAK",
+        "stop_lat": "3.8277388582334",
+        "stop_lon": "103.2930400631",
+        "stop_id": "2000812",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KLINIK KESIHATAN INDERA MAHKOTA",
+        "stop_lat": "3.8244633286134",
+        "stop_lon": "103.28751890834",
+        "stop_id": "2000813",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SEK REN KEB IM",
+        "stop_lat": "3.82399974475",
+        "stop_lon": "103.28632247625",
+        "stop_id": "2000814",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SK TUNKU AZIZAH",
+        "stop_lat": "3.8247561472125",
+        "stop_lon": "103.28472750435",
+        "stop_id": "2000815",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) TERMINAL SENTRAL KUANTAN",
+        "stop_lat": "3.8307689764174",
+        "stop_lon": "103.28439143973",
+        "stop_id": "2000500",
+        "stop_sequence": "11"
+    }
+]

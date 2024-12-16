@@ -1,0 +1,191 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "UOB BANK",
+        "stop_lat": "3.8072837119611",
+        "stop_lon": "103.32978402323",
+        "stop_id": "2000198",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "MENARA KUANTAN 188",
+        "stop_lat": "3.8035149065029",
+        "stop_lon": "103.32624424933",
+        "stop_id": "2000470",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PERKESO",
+        "stop_lat": "3.8038960341228",
+        "stop_lon": "103.32228236404",
+        "stop_id": "2000487",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PETRONAS DARAT MAKBAR",
+        "stop_lat": "3.8085535417308",
+        "stop_lon": "103.31783504601",
+        "stop_id": "2000275",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "BKT SETONGKOL",
+        "stop_lat": "3.8091086801758",
+        "stop_lon": "103.31501614425",
+        "stop_id": "2000343",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "BKT SETONGKOL 1",
+        "stop_lat": "3.8089427419141",
+        "stop_lon": "103.31340499821",
+        "stop_id": "2000243",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "BKT SETONGKOL JAYA",
+        "stop_lat": "3.8088928718177",
+        "stop_lon": "103.31103740897",
+        "stop_id": "2000356",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "MASJID BUKIT SETONGKOL",
+        "stop_lat": "3.8097516811451",
+        "stop_lon": "103.30630936792",
+        "stop_id": "2000129",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "TAMAN DAHLIA",
+        "stop_lat": "3.80840021441",
+        "stop_lon": "103.30425042172",
+        "stop_id": "2000499",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SHELL BUKIT SETONGKOL",
+        "stop_lat": "3.805141117356",
+        "stop_lon": "103.30241128044",
+        "stop_id": "2000203",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SURAU BKT SETONGKOL",
+        "stop_lat": "3.8007514275614",
+        "stop_lon": "103.30045733109",
+        "stop_id": "2000080",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "CENDERAWASIH",
+        "stop_lat": "3.7985624748627",
+        "stop_lon": "103.30017353757",
+        "stop_id": "2000135",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SURAU BKT SETONGKOL",
+        "stop_lat": "3.8003168344097",
+        "stop_lon": "103.30018810802",
+        "stop_id": "2000355",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PERUMAHAN PAYA TIGA",
+        "stop_lat": "3.8071728186873",
+        "stop_lon": "103.29634859702",
+        "stop_id": "2000208",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "LOT KEDAI PAYA TIGA",
+        "stop_lat": "3.8088977939033",
+        "stop_lon": "103.29522889063",
+        "stop_id": "2000372",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KOMPLEKS PENYAYANG",
+        "stop_lat": "3.8107455870137",
+        "stop_lon": "103.29220940085",
+        "stop_id": "2000052",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KAMPUNG TIRAM",
+        "stop_lat": "3.8136328604328",
+        "stop_lon": "103.28897178437",
+        "stop_id": "2000044",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 2",
+        "stop_lat": "3.8146373544047",
+        "stop_lon": "103.29387619946",
+        "stop_id": "2000465",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "TUNAS MANJA",
+        "stop_lat": "3.816253469523",
+        "stop_lon": "103.29713195485",
+        "stop_id": "2000427",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "LOT KEDAI IM 2",
+        "stop_lat": "3.8187764226545",
+        "stop_lon": "103.30167332314",
+        "stop_id": "2000093",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "MASJID INDERA MAHKOTA",
+        "stop_lat": "3.8227878437513",
+        "stop_lon": "103.30439325451",
+        "stop_id": "2000157",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "DEWAN SERBAGUNA",
+        "stop_lat": "3.8247197239521",
+        "stop_lon": "103.30272395177",
+        "stop_id": "2000090",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PERUMAHAN IM 1",
+        "stop_lat": "3.8240758358514",
+        "stop_lon": "103.30179793834",
+        "stop_id": "2000206",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M) INDERA MAHKOTA 1",
+        "stop_lat": "3.8226507540185",
+        "stop_lon": "103.30366430394",
+        "stop_id": "2000339",
+        "stop_sequence": "27"
+    }
+]

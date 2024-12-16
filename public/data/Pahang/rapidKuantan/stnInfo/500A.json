@@ -1,0 +1,359 @@
+[
+    {
+        "stop_name": "(M) SUNGAI LEMBING",
+        "stop_lat": "3.9159885041067",
+        "stop_lon": "103.03403555962",
+        "stop_id": "2000081",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "BALAI POLIS SG. LEMBING",
+        "stop_lat": "3.9185425612079",
+        "stop_lon": "103.03587508456",
+        "stop_id": "2000211",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID SUNGAI LEMBING",
+        "stop_lat": "3.9205600325729",
+        "stop_lon": "103.03638351306",
+        "stop_id": "2000545",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PINTU GERBANG SG. LEMBING",
+        "stop_lat": "3.9225872246792",
+        "stop_lon": "103.03717999702",
+        "stop_id": "2000457",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SK SUNGAI LEMBING",
+        "stop_lat": "3.9277952046663",
+        "stop_lon": "103.04487398377",
+        "stop_id": "2000112",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KAMPUNG KUALA KENAU",
+        "stop_lat": "3.9306304861208",
+        "stop_lon": "103.04710902031",
+        "stop_id": "2000126",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "LOJI AIR SG.LEMBING",
+        "stop_lat": "3.9319546199736",
+        "stop_lon": "103.05655868535",
+        "stop_id": "2000183",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KLINIK KESIHATAN SG. LEMBING",
+        "stop_lat": "3.9254098644661",
+        "stop_lon": "103.07274253039",
+        "stop_id": "2000292",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SIMPANG KG. KAWAH",
+        "stop_lat": "3.9244243223905",
+        "stop_lon": "103.07666094621",
+        "stop_id": "2000409",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KAMPUNG BATU 6",
+        "stop_lat": "3.9137547868303",
+        "stop_lon": "103.09631100598",
+        "stop_id": "2000546",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KAMPUNG NADAK",
+        "stop_lat": "3.909987506054",
+        "stop_lon": "103.10568225661",
+        "stop_id": "2000023",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KAMPUNG KOLEK",
+        "stop_lat": "3.907795",
+        "stop_lon": "103.104436",
+        "stop_id": "2000042",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KAMPUNG SUNGAI DERHAKA",
+        "stop_lat": "3.9048270455653",
+        "stop_lon": "103.12285289372",
+        "stop_id": "2000551",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KAMPUNG SUNGAI CHARU",
+        "stop_lat": "3.9031976380388",
+        "stop_lon": "103.12607047352",
+        "stop_id": "2000322",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) P.A.K.R PANCHING",
+        "stop_lat": "3.8998522782859",
+        "stop_lon": "103.13833955529",
+        "stop_id": "2000410",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PEKAN PANCHING",
+        "stop_lat": "3.8963132513556",
+        "stop_lon": "103.14490130867",
+        "stop_id": "2000319",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KLINIK DESA PANCHING",
+        "stop_lat": "3.8913568110965",
+        "stop_lon": "103.14839619796",
+        "stop_id": "2000115",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SK PANCHING",
+        "stop_lat": "3.8901199214569",
+        "stop_lon": "103.14925415328",
+        "stop_id": "2000258",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KAMPUNG PANCHING",
+        "stop_lat": "3.8869328345096",
+        "stop_lon": "103.15143974725",
+        "stop_id": "2000242",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KAMPUNG BARU ATONG",
+        "stop_lat": "3.8829331365734",
+        "stop_lon": "103.16659090949",
+        "stop_id": "2000036",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "TONG AH ESTATE",
+        "stop_lat": "3.8821781326942",
+        "stop_lon": "103.16868116135",
+        "stop_id": "2000215",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SURAU KAMPUNGBARU ATONG",
+        "stop_lat": "3.8816847411959",
+        "stop_lon": "103.17049176499",
+        "stop_id": "2000314",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SIMPANG SUNGAI PANDAN",
+        "stop_lat": "3.8805810181696",
+        "stop_lon": "103.1744013086",
+        "stop_id": "2000219",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SIMPANG JALAN JELAWAT",
+        "stop_lat": "3.8792444288284",
+        "stop_lon": "103.17935566292",
+        "stop_id": "2000477",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PASIR KEMUDI",
+        "stop_lat": "3.8759320456425",
+        "stop_lon": "103.18641186099",
+        "stop_id": "2000503",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "BALAI PEMERIKSAAN",
+        "stop_lat": "3.872240047982",
+        "stop_lon": "103.19358586572",
+        "stop_id": "2000346",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SIMPANG BUKIT KUIN 3",
+        "stop_lat": "3.8630940673617",
+        "stop_lon": "103.20440840167",
+        "stop_id": "2000085",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KAMPUNG BATU SAWAR",
+        "stop_lat": "3.8620619866378",
+        "stop_lon": "103.21236893429",
+        "stop_id": "2000228",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SIMPANG BUKIT KUIN",
+        "stop_lat": "3.8627752190175",
+        "stop_lon": "103.21612157103",
+        "stop_id": "2000504",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PEJABAT RENJER HUTAN",
+        "stop_lat": "3.8642574477549",
+        "stop_lon": "103.24168641428",
+        "stop_id": "2000317",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KAMPUNG PADANG PERDANA",
+        "stop_lat": "3.8637213385405",
+        "stop_lon": "103.24479350495",
+        "stop_id": "2000400",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "MEDAN SELERA",
+        "stop_lat": "3.8629896121866",
+        "stop_lon": "103.24951251323",
+        "stop_id": "2000549",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SM PENDIDIKAN KHAS VOKASIONAL",
+        "stop_lat": "3.8576859504549",
+        "stop_lon": "103.25603243199",
+        "stop_id": "2000337",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SK KG.PADANG JAYA",
+        "stop_lat": "3.8558990521118",
+        "stop_lon": "103.25776462113",
+        "stop_id": "2000136",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KAMPUNG PADANG",
+        "stop_lat": "3.851024853895",
+        "stop_lon": "103.26209588754",
+        "stop_id": "2000031",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KOLEJ PROFESSIONAL MARA",
+        "stop_lat": "3.8381990936407",
+        "stop_lon": "103.26499372247",
+        "stop_id": "2000070",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SMK INDERA MAHKOTA 2",
+        "stop_lat": "3.8322688033775",
+        "stop_lon": "103.27031724512",
+        "stop_id": "2000216",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "ASTANA GOLF",
+        "stop_lat": "3.8376264819222",
+        "stop_lon": "103.2858902335",
+        "stop_id": "2000467",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KUANTAN MEDICAL CENTER",
+        "stop_lat": "3.8286463880665",
+        "stop_lon": "103.29919614036",
+        "stop_id": "2000547",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 8",
+        "stop_lat": "3.8265456771183",
+        "stop_lon": "103.30236024786",
+        "stop_id": "2000054",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SHAHPUTRA VILLAGE",
+        "stop_lat": "3.8236328139972",
+        "stop_lon": "103.30639920328",
+        "stop_id": "2000256",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SHELL JLN SG. LEMBING",
+        "stop_lat": "3.8220353148566",
+        "stop_lon": "103.30796881233",
+        "stop_id": "2000195",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "JKR DAERAH KUANTAN",
+        "stop_lat": "3.8199782730532",
+        "stop_lon": "103.31037656759",
+        "stop_id": "2000016",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "PERSATUAN BOLA SEPAK NEGERI PAHANG",
+        "stop_lat": "3.8185102888075",
+        "stop_lon": "103.31343135728",
+        "stop_id": "2000452",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "LOT KEDAI BKT UBI",
+        "stop_lat": "3.8148957136223",
+        "stop_lon": "103.31937118394",
+        "stop_id": "2000442",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "PADANG MPK 2",
+        "stop_lat": "3.8114547216031",
+        "stop_lon": "103.32161953427",
+        "stop_id": "2000156",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS KONTINJEN PAHANG",
+        "stop_lat": "3.8097340263436",
+        "stop_lon": "103.32959924464",
+        "stop_id": "2000267",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "UTC KUANTAN",
+        "stop_lat": "3.813708",
+        "stop_lon": "103.324358",
+        "stop_id": "2000193",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "51"
+    }
+]

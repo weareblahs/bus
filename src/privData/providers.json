@@ -10,5 +10,11 @@
     "state": "Kuala Lumpur",
     "country": "Malaysia",
     "endpoint": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana/?category=rapid-bus-kl"
+  },
+  {
+    "providerName": "rapidKuantan",
+    "state": "Pahang",
+    "country": "Malaysia",
+    "endpoint": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana/?category=rapid-bus-kuantan"
   }
 ]

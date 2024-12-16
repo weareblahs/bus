@@ -1,0 +1,205 @@
+[
+    {
+        "stop_name": "(M) BUKIT SAGU",
+        "stop_lat": "3.9634048790893",
+        "stop_lon": "103.18914052341",
+        "stop_id": "2000440",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SIMPANG JLN TERATAI",
+        "stop_lat": "3.9490673555917",
+        "stop_lon": "103.19496993176",
+        "stop_id": "2000526",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "BUKIT KUANTAN",
+        "stop_lat": "3.9506789134269",
+        "stop_lon": "103.23786887934",
+        "stop_id": "2000524",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "TAMAN BUKIT GOH PERDANA",
+        "stop_lat": "3.9093065056273",
+        "stop_lon": "103.25396370428",
+        "stop_id": "2000048",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "BUKIT GOH",
+        "stop_lat": "3.9126668967999",
+        "stop_lon": "103.25662176519",
+        "stop_id": "2000433",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SHELL  BUKIT GOH",
+        "stop_lat": "3.9042191472467",
+        "stop_lon": "103.24706867471",
+        "stop_id": "2000239",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "MAN AIK TRADING",
+        "stop_lat": "3.8725397704687",
+        "stop_lon": "103.25003309113",
+        "stop_id": "2000426",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PASARAYA JAYA GADING",
+        "stop_lat": "3.8696401692459",
+        "stop_lon": "103.24716710538",
+        "stop_id": "2000001",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "TERUS MAJU",
+        "stop_lat": "3.8650009248669",
+        "stop_lon": "103.24263918674",
+        "stop_id": "2000368",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KAMPUNG PADANG PERDANA",
+        "stop_lat": "3.8637213385405",
+        "stop_lon": "103.24479350495",
+        "stop_id": "2000400",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SM PENDIDIKAN KHAS VOKASIONAL",
+        "stop_lat": "3.8576859504549",
+        "stop_lon": "103.25603243199",
+        "stop_id": "2000337",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SK KG.PADANG JAYA",
+        "stop_lat": "3.8558990521118",
+        "stop_lon": "103.25776462113",
+        "stop_id": "2000136",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KAMPUNG PADANG",
+        "stop_lat": "3.851024853895",
+        "stop_lon": "103.26209588754",
+        "stop_id": "2000031",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KOLEJ PROFESSIONAL MARA",
+        "stop_lat": "3.8381990936407",
+        "stop_lon": "103.26499372247",
+        "stop_id": "2000070",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SMK INDERA MAHKOTA 2",
+        "stop_lat": "3.8322688033775",
+        "stop_lon": "103.27031724512",
+        "stop_id": "2000216",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "ASTANA GOLF",
+        "stop_lat": "3.8376264819222",
+        "stop_lon": "103.2858902335",
+        "stop_id": "2000467",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KUANTAN MEDICAL CENTER",
+        "stop_lat": "3.8286463880665",
+        "stop_lon": "103.29919614036",
+        "stop_id": "2000547",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 8",
+        "stop_lat": "3.8265456771183",
+        "stop_lon": "103.30236024786",
+        "stop_id": "2000054",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SHAHPUTRA VILLAGE",
+        "stop_lat": "3.8236328139972",
+        "stop_lon": "103.30639920328",
+        "stop_id": "2000256",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SHELL JLN SG. LEMBING",
+        "stop_lat": "3.8220353148566",
+        "stop_lon": "103.30796881233",
+        "stop_id": "2000195",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "JKR DAERAH KUANTAN",
+        "stop_lat": "3.8199782730532",
+        "stop_lon": "103.31037656759",
+        "stop_id": "2000016",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PERSATUAN BOLA SEPAK NEGERI PAHANG",
+        "stop_lat": "3.8185102888075",
+        "stop_lon": "103.31343135728",
+        "stop_id": "2000452",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "LOT KEDAI BKT UBI",
+        "stop_lat": "3.8148957136223",
+        "stop_lon": "103.31937118394",
+        "stop_id": "2000442",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PADANG MPK 2",
+        "stop_lat": "3.8114547216031",
+        "stop_lon": "103.32161953427",
+        "stop_id": "2000156",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS KONTINJEN PAHANG",
+        "stop_lat": "3.8097340263436",
+        "stop_lon": "103.32959924464",
+        "stop_id": "2000267",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "UTC KUANTAN",
+        "stop_lat": "3.813708",
+        "stop_lon": "103.324358",
+        "stop_id": "2000193",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "29"
+    }
+]

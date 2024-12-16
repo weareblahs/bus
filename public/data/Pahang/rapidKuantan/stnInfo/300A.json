@@ -1,0 +1,163 @@
+[
+    {
+        "stop_name": "(M) TAMAN IMPIAN",
+        "stop_lat": "3.8688146451361",
+        "stop_lon": "103.25025681088",
+        "stop_id": "2000255",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PERUMAHAN TAMAN IMPIAN",
+        "stop_lat": "3.8660006658705",
+        "stop_lon": "103.24943431518",
+        "stop_id": "2000035",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SM PENDIDIKAN KHAS VOKASIONAL",
+        "stop_lat": "3.8576859504549",
+        "stop_lon": "103.25603243199",
+        "stop_id": "2000337",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SK KG.PADANG JAYA",
+        "stop_lat": "3.8558990521118",
+        "stop_lon": "103.25776462113",
+        "stop_id": "2000136",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KAMPUNG PADANG",
+        "stop_lat": "3.851024853895",
+        "stop_lon": "103.26209588754",
+        "stop_id": "2000031",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KOLEJ PROFESSIONAL MARA",
+        "stop_lat": "3.8381990936407",
+        "stop_lon": "103.26499372247",
+        "stop_id": "2000070",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "(M) WISMA BELIA",
+        "stop_lat": "3.8237644780805",
+        "stop_lon": "103.28174060313",
+        "stop_id": "2000430",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "BALAI BOMBA INDERA MAHKOTA",
+        "stop_lat": "3.8212757767935",
+        "stop_lon": "103.28529258448",
+        "stop_id": "2000006",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 5",
+        "stop_lat": "3.8223004637818",
+        "stop_lon": "103.29123229006",
+        "stop_id": "2000389",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SMK TENGKU PANGLIMA PERANG",
+        "stop_lat": "3.8232911505606",
+        "stop_lon": "103.2937420728",
+        "stop_id": "2000028",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 6",
+        "stop_lat": "3.8239114151312",
+        "stop_lon": "103.2964236468",
+        "stop_id": "2000474",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 8",
+        "stop_lat": "3.8265456771183",
+        "stop_lon": "103.30236024786",
+        "stop_id": "2000054",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SHAHPUTRA VILLAGE",
+        "stop_lat": "3.8236328139972",
+        "stop_lon": "103.30639920328",
+        "stop_id": "2000256",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SHELL JLN SG. LEMBING",
+        "stop_lat": "3.8220353148566",
+        "stop_lon": "103.30796881233",
+        "stop_id": "2000195",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "JKR DAERAH KUANTAN",
+        "stop_lat": "3.8199782730532",
+        "stop_lon": "103.31037656759",
+        "stop_id": "2000016",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PERSATUAN BOLA SEPAK NEGERI PAHANG",
+        "stop_lat": "3.8185102888075",
+        "stop_lon": "103.31343135728",
+        "stop_id": "2000452",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "LOT KEDAI BKT UBI",
+        "stop_lat": "3.8148957136223",
+        "stop_lon": "103.31937118394",
+        "stop_id": "2000442",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PADANG MPK 2",
+        "stop_lat": "3.8114547216031",
+        "stop_lon": "103.32161953427",
+        "stop_id": "2000156",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS KONTINJEN PAHANG",
+        "stop_lat": "3.8097340263436",
+        "stop_lon": "103.32959924464",
+        "stop_id": "2000267",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "UTC KUANTAN",
+        "stop_lat": "3.813708",
+        "stop_lon": "103.324358",
+        "stop_id": "2000193",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "23"
+    }
+]

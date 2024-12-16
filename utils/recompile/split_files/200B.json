@@ -1,0 +1,8 @@
+{"trip_id":"weekend_K2000_K200001_1","arrival_time":"10:40:00","departure_time":"10:40:00","stop_id":"2000325","stop_sequence":"1","stop_headsign":""},
+{"trip_id":"weekend_K2000_K200001_1","arrival_time":"10:43:03","departure_time":"10:43:03","stop_id":"2000405","stop_sequence":"2","stop_headsign":""},
+{"trip_id":"weekend_K2000_K200001_1","arrival_time":"10:45:36","departure_time":"10:45:36","stop_id":"2000161","stop_sequence":"3","stop_headsign":""},
+{"trip_id":"weekend_K2000_K200001_1","arrival_time":"10:47:05","departure_time":"10:47:05","stop_id":"2000323","stop_sequence":"4","stop_headsign":""},
+{"trip_id":"weekend_K2000_K200001_1","arrival_time":"10:50:04","departure_time":"10:50:04","stop_id":"2000069","stop_sequence":"5","stop_headsign":""},
+{"trip_id":"weekend_K2000_K200001_1","arrival_time":"10:51:42","departure_time":"10:51:42","stop_id":"2000959","stop_sequence":"6","stop_headsign":""},
+{"trip_id":"weekend_K2000_K200001_1","arrival_time":"10:55:16","departure_time":"10:55:16","stop_id":"2000961","stop_sequence":"7","stop_headsign":""},
+{"trip_id":"weekend_K2000_K200001_1","arrival_time":"11:00:00","departure_time":"11:00:00","stop_id":"2000240","stop_sequence":"8","stop_headsign":""}

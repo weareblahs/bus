@@ -1,0 +1,149 @@
+[
+    {
+        "stop_name": "(M) POLISAS",
+        "stop_lat": "3.861418419587",
+        "stop_lon": "103.31298699207",
+        "stop_id": "2000102",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PEJABAT POLISAS",
+        "stop_lat": "3.8639327272487",
+        "stop_lon": "103.31770870605",
+        "stop_id": "2000353",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PINTU UTAMA POLISAS",
+        "stop_lat": "3.8656347398845",
+        "stop_lon": "103.31867770065",
+        "stop_id": "2000357",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PERUMAHAN SEMAMBU 1",
+        "stop_lat": "3.8516928711655",
+        "stop_lon": "103.33368631395",
+        "stop_id": "2000104",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PERUMAHAN SEMAMBU 2",
+        "stop_lat": "3.8495980428877",
+        "stop_lon": "103.33530195008",
+        "stop_id": "2000480",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "MACINDA HONDA",
+        "stop_lat": "3.8506300782046",
+        "stop_lon": "103.33126653682",
+        "stop_id": "2000396",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PASARAYA JAYA GADING",
+        "stop_lat": "3.8469592924375",
+        "stop_lon": "103.33162480418",
+        "stop_id": "2000101",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "LEONG ART",
+        "stop_lat": "3.84481948028",
+        "stop_lon": "103.33335755718",
+        "stop_id": "2000394",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "ENG HONG",
+        "stop_lat": "3.8423592497418",
+        "stop_lon": "103.3377198187",
+        "stop_id": "2000057",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) CRYSTAL CITY HOTEL",
+        "stop_lat": "3.8393393200546",
+        "stop_lon": "103.33795974247",
+        "stop_id": "2000287",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "LOT KEDAI AIR PUTIH",
+        "stop_lat": "3.8353852663113",
+        "stop_lon": "103.33682400559",
+        "stop_id": "2000047",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "BALAI POLIS",
+        "stop_lat": "3.8329334354674",
+        "stop_lon": "103.33623454881",
+        "stop_id": "2000295",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AIR PUTIH",
+        "stop_lat": "3.8303199886546",
+        "stop_lon": "103.33623959905",
+        "stop_id": "2000420",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SMK AIR PUTIH",
+        "stop_lat": "3.8284656333092",
+        "stop_lon": "103.3359730926",
+        "stop_id": "2000212",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "RESTORAN ZAM ZAM",
+        "stop_lat": "3.8250911489197",
+        "stop_lon": "103.33525037245",
+        "stop_id": "2000633",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SK GALING",
+        "stop_lat": "3.8240746249372",
+        "stop_lon": "103.33335272888",
+        "stop_id": "2000259",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "TUNAS CAPITAL",
+        "stop_lat": "3.8212567935668",
+        "stop_lon": "103.33056729364",
+        "stop_id": "2000073",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KUARTERS SKM",
+        "stop_lat": "3.8225433531526",
+        "stop_lon": "103.32718874463",
+        "stop_id": "2000260",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "TUNAS MANJA",
+        "stop_lat": "3.8205585628024",
+        "stop_lon": "103.32495989756",
+        "stop_id": "2000113",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KUARTERS KESIHATAN",
+        "stop_lat": "3.8195095902392",
+        "stop_lon": "103.32497093494",
+        "stop_id": "2000530",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "21"
+    }
+]

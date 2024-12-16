@@ -1,0 +1,303 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS KONTINJEN PAHANG",
+        "stop_lat": "3.8097340263436",
+        "stop_lon": "103.32959924464",
+        "stop_id": "2000267",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "7 ELEVEN BKT UBI",
+        "stop_lat": "3.8102614498865",
+        "stop_lon": "103.32182890913",
+        "stop_id": "2000548",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KOSPEK MPK",
+        "stop_lat": "3.8147507256109",
+        "stop_lon": "103.31921841975",
+        "stop_id": "2000185",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PEJABAT KEMAS",
+        "stop_lat": "3.8182846933878",
+        "stop_lon": "103.31367487094",
+        "stop_id": "2000147",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "JKR DAERAH KUANTAN",
+        "stop_lat": "3.8199777398678",
+        "stop_lon": "103.31010648715",
+        "stop_id": "2000159",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "MASJID INDERA MAHKOTA",
+        "stop_lat": "3.8239299287656",
+        "stop_lon": "103.30574142016",
+        "stop_id": "2000393",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 8",
+        "stop_lat": "3.8258865279963",
+        "stop_lon": "103.30285669655",
+        "stop_id": "2000007",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) SMK INDERA MAHKOTA 2",
+        "stop_lat": "3.8320791791975",
+        "stop_lon": "103.27045266597",
+        "stop_id": "2000124",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KOLEJ PROFESSIONAL MARA",
+        "stop_lat": "3.8382711787797",
+        "stop_lon": "103.26486753922",
+        "stop_id": "2000172",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KAMPUNG PADANG",
+        "stop_lat": "3.8522613824236",
+        "stop_lon": "103.26095902236",
+        "stop_id": "2000190",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SK KG.PADANG JAYA",
+        "stop_lat": "3.8555015435063",
+        "stop_lon": "103.25794548745",
+        "stop_id": "2000522",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SM PENDIDIKAN KHAS VOKASIONAL",
+        "stop_lat": "3.8578930614225",
+        "stop_lon": "103.25560887526",
+        "stop_id": "2000300",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "GEDUNG TEN TEN",
+        "stop_lat": "3.8628810258994",
+        "stop_lon": "103.24947672429",
+        "stop_id": "2000330",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KAMPUNG PADANG PERDANA",
+        "stop_lat": "3.8636573678974",
+        "stop_lon": "103.2444695333",
+        "stop_id": "2000186",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PEJABAT RENJER HUTAN",
+        "stop_lat": "3.8641216963173",
+        "stop_lon": "103.24163267675",
+        "stop_id": "2000489",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SIMPANG BUKIT KUIN",
+        "stop_lat": "3.8627117698247",
+        "stop_lon": "103.21604968183",
+        "stop_id": "2000458",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KAMPUNG BATU SAWAR",
+        "stop_lat": "3.8621818191692",
+        "stop_lon": "103.21344900702",
+        "stop_id": "2000041",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SIMPANG BUKIT KUIN 3",
+        "stop_lat": "3.8629943523564",
+        "stop_lon": "103.20429157674",
+        "stop_id": "2000146",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PASIR KEMUDI",
+        "stop_lat": "3.8759587274856",
+        "stop_lon": "103.18620474178",
+        "stop_id": "2000288",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SIMPANG JALAN JELAWAT",
+        "stop_lat": "3.8792077345637",
+        "stop_lon": "103.17911266831",
+        "stop_id": "2000371",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SIMPANG SUNGAI PANDAN",
+        "stop_lat": "3.8803376178299",
+        "stop_lon": "103.17474393388",
+        "stop_id": "2000298",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SURAU KAMPUNGBARU ATONG",
+        "stop_lat": "3.8815670354629",
+        "stop_lon": "103.17041999686",
+        "stop_id": "2000450",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "TONG AH ESTATE",
+        "stop_lat": "3.8820426555968",
+        "stop_lon": "103.16875347484",
+        "stop_id": "2000106",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KAMPUNG BARU ATONG",
+        "stop_lat": "3.8829863902145",
+        "stop_lon": "103.16613165759",
+        "stop_id": "2000479",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KAMPUNG PANCHING",
+        "stop_lat": "3.8869414612049",
+        "stop_lon": "103.15125067277",
+        "stop_id": "2000008",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SK PANCHING",
+        "stop_lat": "3.890246075352",
+        "stop_lon": "103.14905581905",
+        "stop_id": "2000277",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PEKAN PANCHING",
+        "stop_lat": "3.8961957037825",
+        "stop_lon": "103.14490156624",
+        "stop_id": "2000304",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "P.A.K.R PANCHING",
+        "stop_lat": "3.8998967090617",
+        "stop_lon": "103.1379883513",
+        "stop_id": "2000056",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KAMPUNG SUNGAI CHARU",
+        "stop_lat": "3.9031252615862",
+        "stop_lon": "103.12605262862",
+        "stop_id": "2000084",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KAMPUNG SUNGAI DERHAKA",
+        "stop_lat": "3.9046551869285",
+        "stop_lon": "103.12282626752",
+        "stop_id": "2000338",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KAMPUNG KOLEK",
+        "stop_lat": "3.9079954100808",
+        "stop_lon": "103.1044173566",
+        "stop_id": "2000272",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KAMPUNG NADAK",
+        "stop_lat": "3.9100054267394",
+        "stop_lon": "103.10561019506",
+        "stop_id": "2000373",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KAMPUNG BATU 6",
+        "stop_lat": "3.9137093723788",
+        "stop_lon": "103.09622108202",
+        "stop_id": "2000800",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SIMPANG KG. KAWAH",
+        "stop_lat": "3.9243873032668",
+        "stop_lon": "103.07629192164",
+        "stop_id": "2000231",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KLINIK KESIHATAN SG. LEMBING",
+        "stop_lat": "3.9253191346723",
+        "stop_lon": "103.07260769865",
+        "stop_id": "2000222",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "LOJI AIR SG.LEMBING",
+        "stop_lat": "3.9318549304248",
+        "stop_lon": "103.05645988727",
+        "stop_id": "2000210",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KAMPUNG KUALA KENAU",
+        "stop_lat": "3.9314275204102",
+        "stop_lon": "103.04769233337",
+        "stop_id": "2000449",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SK SUNGAI LEMBING",
+        "stop_lat": "3.9276951975023",
+        "stop_lon": "103.04464015075",
+        "stop_id": "2000249",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "PINTU GERBANG SG. LEMBING",
+        "stop_lat": "3.9225332933565",
+        "stop_lon": "103.03731515947",
+        "stop_id": "2000501",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "(M) SUNGAI LEMBING",
+        "stop_lat": "3.9159885041067",
+        "stop_lon": "103.03403555962",
+        "stop_id": "2000081",
+        "stop_sequence": "43"
+    }
+]

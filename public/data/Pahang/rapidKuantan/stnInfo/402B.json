@@ -1,0 +1,184 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "RANGKAIAN DELIMA",
+        "stop_lat": "3.8102163904375",
+        "stop_lon": "103.33118279052",
+        "stop_id": "2000032",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) SERAMBI TERUNTUM",
+        "stop_lat": "3.802738",
+        "stop_lon": "103.336392",
+        "stop_id": "2000969",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "GEDUNG TEN TEN",
+        "stop_lat": "3.7967974927376",
+        "stop_lon": "103.33639409626",
+        "stop_id": "2000496",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "LOT KEDAI TG. LUMPUR",
+        "stop_lat": "3.7940611784594",
+        "stop_lon": "103.33365355244",
+        "stop_id": "2000072",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "FURINDO FUNITURE",
+        "stop_lat": "3.7934064555476",
+        "stop_lon": "103.33178227809",
+        "stop_id": "2000103",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PEJABAT KEMAS",
+        "stop_lat": "3.7910150985441",
+        "stop_lon": "103.32972528911",
+        "stop_id": "2000096",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PERAMU BARU",
+        "stop_lat": "3.7889512966681",
+        "stop_lon": "103.32870296637",
+        "stop_id": "2000350",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PERAMU MAJU",
+        "stop_lat": "3.7860369967245",
+        "stop_lon": "103.32744821577",
+        "stop_id": "2000451",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "MAAHAD TAHFIZ",
+        "stop_lat": "3.7825664854235",
+        "stop_lon": "103.32382690757",
+        "stop_id": "2000171",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "YAYASAN PAHANG",
+        "stop_lat": "3.7811799001402",
+        "stop_lon": "103.32228116384",
+        "stop_id": "2000235",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "BANDAR PUTRA",
+        "stop_lat": "3.7749333766585",
+        "stop_lon": "103.31876426516",
+        "stop_id": "2000414",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "ASTANA VILLAGE",
+        "stop_lat": "3.7666451025022",
+        "stop_lon": "103.31625957683",
+        "stop_id": "2000476",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SURAU TANAH RTK",
+        "stop_lat": "3.7555505166672",
+        "stop_lon": "103.31221193833",
+        "stop_id": "2000811",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "TAMAN DESA PUTRA",
+        "stop_lat": "3.7560058730093",
+        "stop_lon": "103.30920437669",
+        "stop_id": "2000810",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KEMPADANG DAMAI",
+        "stop_lat": "3.7556762499993",
+        "stop_lon": "103.30710753565",
+        "stop_id": "2000809",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PERUMAHAN RAKYAT PAK MAHAT",
+        "stop_lat": "3.7556818423479",
+        "stop_lon": "103.30533412458",
+        "stop_id": "2000808",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KEMPADANG DAMAI",
+        "stop_lat": "3.7556130018758",
+        "stop_lon": "103.30713466365",
+        "stop_id": "2000818",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "TAMAN DESA PUTRA",
+        "stop_lat": "3.7559425023539",
+        "stop_lon": "103.30916849048",
+        "stop_id": "2000817",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SURAU TANAH RTK",
+        "stop_lat": "3.7554870936852",
+        "stop_lon": "103.31214904578",
+        "stop_id": "2000816",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KEMPADANG FUTSAL",
+        "stop_lat": "3.7501297480262",
+        "stop_lon": "103.31481492414",
+        "stop_id": "2000462",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "BERKAT HARDWARE",
+        "stop_lat": "3.7462417157564",
+        "stop_lon": "103.31505641932",
+        "stop_id": "2000164",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "GIAT MARA",
+        "stop_lat": "3.7428513417159",
+        "stop_lon": "103.31544998661",
+        "stop_id": "2000437",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M) SMK SUNGAI SOI",
+        "stop_lat": "3.7311695783748",
+        "stop_lon": "103.31639946459",
+        "stop_id": "2000207",
+        "stop_sequence": "26"
+    }
+]

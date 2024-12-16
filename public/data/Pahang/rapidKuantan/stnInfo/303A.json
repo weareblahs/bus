@@ -1,0 +1,100 @@
+[
+    {
+        "stop_name": "(M) TERMINAL SENTRAL KUANTAN",
+        "stop_lat": "3.8307689764174",
+        "stop_lon": "103.28439143973",
+        "stop_id": "2000500",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M) WISMA BELIA",
+        "stop_lat": "3.8237644780805",
+        "stop_lon": "103.28174060313",
+        "stop_id": "2000430",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KLINIK KESIHATAN INDERA MAHKOTA",
+        "stop_lat": "3.8247523929584",
+        "stop_lon": "103.28736528922",
+        "stop_id": "2000820",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SEK ASRAMA PENUH INTEGRASI KUANTAN",
+        "stop_lat": "3.8271247019353",
+        "stop_lon": "103.28890003687",
+        "stop_id": "2000821",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PEJABAT KESIHATAN NEGERI PAHANG",
+        "stop_lat": "3.8279641202184",
+        "stop_lon": "103.2926344946",
+        "stop_id": "2000822",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "FELDA WILAYAH KUANTAN",
+        "stop_lat": "3.8257703169453",
+        "stop_lon": "103.29444838215",
+        "stop_id": "2000823",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 6",
+        "stop_lat": "3.8239114151312",
+        "stop_lon": "103.2964236468",
+        "stop_id": "2000474",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 8",
+        "stop_lat": "3.8265456771183",
+        "stop_lon": "103.30236024786",
+        "stop_id": "2000054",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SHAHPUTRA VILLAGE",
+        "stop_lat": "3.8236328139972",
+        "stop_lon": "103.30639920328",
+        "stop_id": "2000256",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SHELL JLN SG. LEMBING",
+        "stop_lat": "3.8220353148566",
+        "stop_lon": "103.30796881233",
+        "stop_id": "2000195",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "JKR DAERAH KUANTAN",
+        "stop_lat": "3.8199782730532",
+        "stop_lon": "103.31037656759",
+        "stop_id": "2000016",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PERSATUAN BOLA SEPAK NEGERI PAHANG",
+        "stop_lat": "3.8185102888075",
+        "stop_lon": "103.31343135728",
+        "stop_id": "2000452",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "LOT KEDAI BKT UBI",
+        "stop_lat": "3.8148957136223",
+        "stop_lon": "103.31937118394",
+        "stop_id": "2000442",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "14"
+    }
+]
