@@ -46,7 +46,7 @@ Station names (including route names) are stored as a static JSON file under the
 - Station sequence are stored under `stop_sequence`.
   These data are originally from the open data mentioned as a GTFS data ZIP file (converted to JSON from CSV and removed duplicate entries for easy conversion).
 
-Documentation of JSON static data coming soon.
+See [here](https://github.com/weareblahs/bus/blob/main/docs/StaticData.md) for more information on the structure for static data.
 
 # Other plans for this project
 
