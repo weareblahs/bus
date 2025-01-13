@@ -1,5 +1,5 @@
-const csvFilePath = "./trips.csv";
-const csvFilePath2 = "./routes.csv";
+const csvFilePath = "./trips.txt";
+const csvFilePath2 = "./routes.txt";
 import csv from "csvtojson";
 import { writeFile } from "fs";
 csv()
