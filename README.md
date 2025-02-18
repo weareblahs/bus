@@ -26,7 +26,7 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 - Global: Some data shows "unknown location" for all 3 station placeholders. This is due to some bugs on the `getNearest` code.
 - Global: If the array is blank (no data), nothing will be shown except for "Bus info". There will be a placeholder soon.
 - Global: Searching for loop routes will result in `getNearest` counting the first appearance of the station instead of the second appearance.
-- rapidPenang: No data (as of 23 January 2025), although there is data for rapidPenang buses in myRapid PULSE. This might be an issue with data.gov.my's API. Data might come back at next update.
+- rapidPenang: No realtime data available for this provider, so there are no data available for rapidPenang. Static data is available via other apps, such as Moovit and Google Maps.
 
 # Disclaimer
 
