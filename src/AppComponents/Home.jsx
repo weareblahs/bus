@@ -2,7 +2,7 @@ import { Badge, Button, Chip, Select, SelectItem } from "@nextui-org/react";
 import axios from "axios";
 import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
-import { getData } from "./getData";
+import { getData, getStaticTrips } from "./getData";
 import { BusStatus } from "./BusStatus";
 import {
   FaArrowAltCircleLeft,
@@ -14,6 +14,8 @@ export const Home = () => {
   const [stationList, setStationList] = useState([]);
 
   const [data, setData] = useState([{ status: "No route selected" }]);
+
+  const [staticData, setD2] = useState([]);
 
   const [route, setRoute] = useState("");
   useEffect(() => {
@@ -29,7 +31,12 @@ export const Home = () => {
     setRoute(route);
     setData([{ status: "Loading..." }]);
     const d = await getData(route);
+    const d2 = await getStaticTrips(route);
+    console.log(d2);
     setData(d);
+    if (d2) {
+      setD2(d2);
+    }
   };
   const [sd, setSD] = useState([]);
   return (
@@ -79,7 +86,11 @@ export const Home = () => {
       </div>
       <div className="ms-auto me-auto">
         {!data[0].status ? (
-          <BusStatus data={JSON.parse(data)} route={route} />
+          <BusStatus
+            data={JSON.parse(data)}
+            staticData={staticData}
+            route={route}
+          />
         ) : (
           <h1 className="text-center text-4xl p-4">{data[0].status}</h1>
         )}

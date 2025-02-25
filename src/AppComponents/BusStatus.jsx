@@ -12,8 +12,9 @@ import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 import { getNearest } from "./getNearest";
 import { FaInfo, FaInfoCircle, FaMap } from "react-icons/fa";
-export const BusStatus = (data) => {
+export const BusStatus = (data, staticData, route) => {
   // const data0 = JSON.stringify(data);
+  const sd = [staticData];
   if (data.data.length != 0) {
     //
     return (
@@ -153,10 +154,12 @@ export const BusStatus = (data) => {
   } else {
     return (
       <>
-        <h1 className="text-center text-4xl p-4">
-          Data unavailable or bus route is closed for this time.
-        </h1>
-
+        {!sd[0].length ? (
+          <h1 className="text-center text-4xl p-4">
+            Live data unavailable. <br />
+            There is no static data for this route for this time.
+          </h1>
+        ) : null}
         <h1 className="text-center text-xl px-6">
           To check for other routes, please change the bus route on the Bus
           Route selection.

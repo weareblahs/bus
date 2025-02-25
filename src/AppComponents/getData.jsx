@@ -1,6 +1,8 @@
 import GtfsRealtimeBindings from "gtfs-realtime-bindings";
-import Cookies from "js-cookie";
+
 import tripMainData from "../privData/trips.json";
+import axios from "axios";
+import Cookies from "js-cookie";
 export const getData = async (route) => {
   let foundTrips = [];
   const tripProvider = Cookies.get("provider");
@@ -43,6 +45,14 @@ export const getData = async (route) => {
   } catch (error) {
     process.exit(1);
   }
-  console.log(foundTrips);
+
   return JSON.stringify(foundTrips);
+};
+
+export const getStaticTrips = async (route) => {
+  const state = Cookies.get("state");
+  const provider = Cookies.get("provider");
+  const parsedTrips = tripMainData;
+  const url = `${window.location.protocol}//${window.location.host}/data/${state}/${provider}/StnInfo/static_time_data`;
+  return parsedTrips.filter((t) => t.name == route);
 };
