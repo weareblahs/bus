@@ -43,5 +43,6 @@ export const getData = async (route) => {
   } catch (error) {
     process.exit(1);
   }
+  console.log(foundTrips);
   return JSON.stringify(foundTrips);
 };
