@@ -15,6 +15,7 @@
     "axios": "^1.7.9",
     "csvtojson": "^2.0.10",
     "framer-motion": "^11.13.1",
+    "fs": "^0.0.1-security",
     "gtfs-realtime-bindings": "^1.1.1",
     "js-cookie": "^3.0.5",
     "node-fetch": "^3.3.2",
