@@ -133,3 +133,23 @@ This file contains information about the route, including the stop names.
 - `stop_lon`: The longitude for this station.
 - `stop_id`: Internal ID used by bus providers to identify the stop. Do note that this is not used in the web app in this moment, and this will be implemented as another feature in the future.
 - `stop_sequence`: The stop sequence according to the route. Previous and next station is parsed via the value of `stop_sequence` in the web app.
+
+## `public/data/STATE_NAME/PROVIDER/static_route_data.json`
+
+This file contains data that includes the arrival time for each station paired with the Trip ID on the provider's system.
+
+```json
+[
+  { "id": "241210010004S10", "time": "19:35:00", "stop": "12002114" },
+  { "id": "241210010004S10", "time": "19:35:31", "stop": "12000007" },
+  { "id": "241210010004S10", "time": "19:36:14", "stop": "12001916" },
+  { "id": "241210010004S10", "time": "19:36:51", "stop": "12001918" },
+  { "id": "241210010004S10", "time": "19:37:20", "stop": "12001920" }
+]
+```
+
+(Example data: rapidPenang)
+
+- `id`: Trip ID for the bus. Can be paired with the route ID under `src/privData/trips.json`.
+- `time`: Expected arrival time for each station. Uses a string with a 24-hour time format (HH:MM:SS).
+- `stop`: Stop ID for the station. Can be paired with the stop name, latitude and longitude under `public/data/STATE_NAME/PROVIDER/StnInfo/ROUTE_ID.json`.
