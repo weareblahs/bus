@@ -17,7 +17,7 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 ### What does "Direct" mean?
 
-"Direct" means that the source fetches the available API endpoints on `data.gov.my` instead of relying on external APIs.
+"Direct" means that this web app will fetch the available API endpoints on `data.gov.my` instead of relying on external APIs.
 
 # Issues
 
