@@ -2,7 +2,7 @@
 
 Static data is generated through scripts located at the `utils` directory of the repository, while the data is located at both `public/data` and `src/privData`.
 
-If you are using a Windows computer, you can generate with the `1_init.bat` script under the `utils/rid_file_gen` folder. It is not guaranteed to work on all cases. All the files will be generated under the same directory and file structure as below, and user may have to create the files below to generate it.
+If you are using a Windows computer, you can generate with the `1_init.bat` script under the `utils/rid_file_gen` folder. However, for static bus arrival times, run `1_init.bat` under the `utils/static_bus_time_generator` directory. All the files will be generated under the same directory and file structure as below, and user may have to create the files below to generate it. It is not guaranteed to work on all cases.
 
 # Global parameters
 
