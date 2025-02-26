@@ -2,7 +2,7 @@
 
 Static data is generated through scripts located at the `utils` directory of the repository, while the data is located at both `public/data` and `src/privData`.
 
-Do note that generation scripts are not organized and user-friendly and I will reorganize it in the future.
+If you are using a Windows computer, you can generate with the `1_init.bat` script under the `utils/rid_file_gen` folder. It is not guaranteed to work on all cases. All the files will be generated under the same directory and file structure as below, and user may have to create the files below to generate it.
 
 # Global parameters
 
