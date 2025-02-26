@@ -12,10 +12,22 @@ import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 import { getNearest } from "./getNearest";
 import { FaInfo, FaInfoCircle, FaMap } from "react-icons/fa";
-export const BusStatus = (data, staticData, route) => {
+
+export const BusStatus = ({ data, staticData, route }) => {
   // const data0 = JSON.stringify(data);
   const sd = [staticData];
-  if (data.data.length != 0) {
+  console.log(staticData);
+  const convertToLocal = (hr, mn) => {
+    if (hr > 12) {
+      return `${hr - 12}:${mn}pm`;
+    } else if (hr == 12) {
+      return `${hr}:${mn}pm`;
+    } else {
+      return `${hr}:${mn}am`;
+    }
+  };
+  console.log(data);
+  if (data.length != 0) {
     //
     return (
       <>
@@ -26,7 +38,7 @@ export const BusStatus = (data, staticData, route) => {
             </h1>
           </div>
           <div className="grid lg:grid-cols-4 sm:grid-cols-1 md:grid-cols-2">
-            {data.data.map((d) => {
+            {data.map((d) => {
               let vehicleCLD = nominatim(
                 d[0].vehicle.position.longitude,
                 d[0].vehicle.position.latitude
@@ -152,14 +164,32 @@ export const BusStatus = (data, staticData, route) => {
       </>
     );
   } else {
+    console.log(sd);
     return (
       <>
-        {!sd[0].length ? (
+        {!sd.length ? (
           <h1 className="text-center text-4xl p-4">
             Live data unavailable. <br />
             There is no static data for this route for this time.
           </h1>
-        ) : null}
+        ) : (
+          <h1 className="text-center text-4xl p-4">
+            Live data unavailable. <br />
+            <Card className="mt-2 mb-2 w-96 ms-auto me-auto">
+              <CardBody>
+                <h4 className="text-xl">The bus is scheduled to arrive at</h4>
+                <h4 className="text-4xl">{sd?.[0].stop}</h4>
+                <h1 className="text-2xl">
+                  on{" "}
+                  {convertToLocal(
+                    sd?.[0].time.split(":")[0],
+                    sd?.[0].time.split(":")[1]
+                  )}
+                </h1>
+              </CardBody>
+            </Card>
+          </h1>
+        )}
         <h1 className="text-center text-xl px-6">
           To check for other routes, please change the bus route on the Bus
           Route selection.

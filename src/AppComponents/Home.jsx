@@ -32,13 +32,12 @@ export const Home = () => {
     setData([{ status: "Loading..." }]);
     const d = await getData(route);
     const d2 = await getStaticTrips(route);
-    console.log(d2);
     setData(d);
     if (d2) {
       setD2(d2);
     }
   };
-  const [sd, setSD] = useState([]);
+
   return (
     <>
       <div className="text-center mt-5">

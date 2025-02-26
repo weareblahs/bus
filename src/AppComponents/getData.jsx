@@ -53,6 +53,49 @@ export const getStaticTrips = async (route) => {
   const state = Cookies.get("state");
   const provider = Cookies.get("provider");
   const parsedTrips = tripMainData;
-  const url = `${window.location.protocol}//${window.location.host}/data/${state}/${provider}/StnInfo/static_time_data`;
-  return parsedTrips.filter((t) => t.name == route);
+  const url = `${window.location.protocol}//${window.location.host}/data/${state}/${provider}/static_time_data.json`;
+  const stopURL = `${window.location.protocol}//${window.location.host}/data/${state}/${provider}/StnInfo/${route}.json`;
+  const routeArray = parsedTrips
+    .filter((t) => t.providerName == provider)[0]
+    ["trips"].filter((t) => t.name == route);
+
+  const staticData = await axios.get(url);
+  const stopData = await axios.get(stopURL);
+  let na = [];
+  routeArray.forEach((r) => {
+    na.push(staticData.data.filter((d) => d.id == r.id));
+  });
+  // each array consists of stations
+  const currentTime = new Date().toLocaleTimeString();
+  var now = new Date();
+  var pretty = [
+    now.getHours(),
+    ":",
+    now.getMinutes(),
+    ":",
+    now.getSeconds(),
+  ].join("");
+
+  const seconds = (time) => {
+    var a = time.split(":");
+    var finalResult = +a[0] * 60 * 60 + +a[1] * 60 + +a[2];
+    return finalResult;
+  };
+  var current = seconds(pretty);
+  let na2 = [];
+  na.forEach((n) => {
+    n.forEach((n2) => na2.push(n2));
+  });
+  const sortedTime = na2
+    .sort((a, b) => seconds(a.time) - seconds(b.time))
+    .filter((v, i, a) => a.indexOf(v) == i)
+    .filter((a) => seconds(a.time) > seconds(pretty));
+  const relatedStopData = stopData?.data?.filter(
+    (s) => s.stop_id == sortedTime[0]["stop"]
+  );
+  return {
+    time: sortedTime[0]["time"],
+    // get stop name
+    stop: relatedStopData[0]["stop_name"],
+  };
 };
