@@ -175,7 +175,7 @@ export const BusStatus = ({ data, staticData, route }) => {
         ) : (
           <h1 className="text-center text-4xl p-4">
             Live data unavailable. <br />
-            <Card className="mt-2 mb-2 w-96 ms-auto me-auto">
+            <Card className="mt-2 mb-2 w-80 ms-auto me-auto">
               <CardBody>
                 <h4 className="text-xl">The bus is scheduled to arrive at</h4>
                 <h4 className="text-4xl">{sd?.[0].stop}</h4>
