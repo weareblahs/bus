@@ -96,6 +96,8 @@ export const getStaticTrips = async (route) => {
   return {
     time: sortedTime[0]["time"],
     // get stop name
-    stop: relatedStopData[0]["stop_name"],
+    stop: relatedStopData ? relatedStopData[0]["stop_name"] : null,
+    lat: relatedStopData ? relatedStopData[0]["stop_lat"] : null,
+    long: relatedStopData ? relatedStopData[0]["stop_lon"] : null,
   };
 };

@@ -18,5 +18,5 @@ export const nominatim = (lon, lat) => {
 };
 
 export const redirToGoogleMaps = (lon, lat) => {
-  window.location.href = `https://maps.google.com/?q=${lat},${lon}`;
+  window.location.href = `https://maps.google.com/?q=@${lat},${lon}`;
 };

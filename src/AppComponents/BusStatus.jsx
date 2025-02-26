@@ -186,6 +186,11 @@ export const BusStatus = ({ data, staticData, route }) => {
                     sd?.[0].time.split(":")[1]
                   )}
                 </h1>
+                <Button
+                  onClick={() => redirToGoogleMaps(sd?.[0].long, sd?.[0].lat)}
+                >
+                  View bus stop on Google Maps
+                </Button>
               </CardBody>
             </Card>
           </h1>
