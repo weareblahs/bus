@@ -86,18 +86,36 @@ export const getStaticTrips = async (route) => {
   na.forEach((n) => {
     n.forEach((n2) => na2.push(n2));
   });
-  const sortedTime = na2
+
+  let na3 = [];
+  na2
     .sort((a, b) => seconds(a.time) - seconds(b.time))
-    .filter((v, i, a) => a.indexOf(v) == i)
-    .filter((a) => seconds(a.time) > seconds(pretty));
-  const relatedStopData = stopData?.data?.filter(
-    (s) => s.stop_id == sortedTime[0]["stop"]
-  );
-  return {
-    time: sortedTime[0]["time"],
-    // get stop name
-    stop: relatedStopData ? relatedStopData[0]["stop_name"] : null,
-    lat: relatedStopData ? relatedStopData[0]["stop_lat"] : null,
-    long: relatedStopData ? relatedStopData[0]["stop_lon"] : null,
-  };
+    .forEach((s, index) => {
+      if (na2[index]?.time == na2[index - 1]?.time) {
+      } else {
+        na3.push(s);
+      }
+    });
+  const sortedTime = na3.filter((a) => seconds(a.time) > seconds(pretty));
+
+  if (na3 != [] || na3.length !== 0) {
+    let final = [];
+    // get first 5 results
+    if (sortedTime.length == 0) return sortedTime;
+    var i;
+    for (i = 0; i < 5; i++) {
+      console.log(sortedTime);
+      const relatedStopData = stopData?.data?.filter(
+        (s) => s.stop_id == sortedTime[i].stop
+      );
+      if (sortedTime != [] || sortedTime.length != []) {
+        final.push({
+          time: sortedTime[i].time,
+          relatedStopData: relatedStopData,
+        });
+      }
+    }
+
+    return final;
+  }
 };

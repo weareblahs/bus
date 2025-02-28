@@ -175,24 +175,56 @@ export const BusStatus = ({ data, staticData, route }) => {
         ) : (
           <h1 className="text-center text-4xl p-4">
             Live data unavailable. <br />
-            <Card className="mt-2 mb-2 w-80 ms-auto me-auto">
-              <CardBody>
-                <h4 className="text-xl">The bus is scheduled to arrive at</h4>
-                <h4 className="text-4xl">{sd?.[0].stop}</h4>
-                <h1 className="text-2xl">
-                  on{" "}
-                  {convertToLocal(
-                    sd?.[0].time.split(":")[0],
-                    sd?.[0].time.split(":")[1]
-                  )}
-                </h1>
-                <Button
-                  onClick={() => redirToGoogleMaps(sd?.[0].long, sd?.[0].lat)}
-                >
-                  View bus stop on Google Maps
-                </Button>
-              </CardBody>
-            </Card>
+            {staticData.length != 0 ? (
+              <>
+                {" "}
+                <Card className="mt-2 mb-2 w-96 ms-auto me-auto">
+                  <CardBody>
+                    <h4 className="text-xl">
+                      This app found buses that are scheduled to arrive at these
+                      stations for this route:
+                      {staticData.length != 0
+                        ? staticData.map((s) => {
+                            var time = s.time.split(":");
+                            console.log(time);
+                            return (
+                              <>
+                                <div class="grid grid-cols-1">
+                                  <div>
+                                    <h1 className="text-2xl truncate">
+                                      {s.relatedStopData[0].stop_name}
+                                    </h1>
+                                  </div>
+                                </div>
+                                <div class="grid grid-cols-4">
+                                  <div className="col-span-3 mt-auto mb-auto">
+                                    <h1 className="text-xl">
+                                      Arriving at{" "}
+                                      {convertToLocal(time[0], time[1])}
+                                    </h1>
+                                  </div>
+                                  <div style={{ width: "100%" }}>
+                                    <Button
+                                      onClick={() =>
+                                        redirToGoogleMaps(
+                                          s.relatedStopData[0].stop_lon,
+                                          s.relatedStopData[0].stop_lat
+                                        )
+                                      }
+                                    >
+                                      <FaMap />
+                                    </Button>
+                                  </div>
+                                </div>
+                              </>
+                            );
+                          })
+                        : null}
+                    </h4>
+                  </CardBody>
+                </Card>
+              </>
+            ) : null}
           </h1>
         )}
         <h1 className="text-center text-xl px-6">
