@@ -177,7 +177,7 @@ export const BusStatus = ({ data, staticData, route }) => {
             </div>
             <div className="lg:w-96 ms-auto me-auto">
               {staticData.length != 0 ? (
-                <>
+                <div className="lg:w-96 ms-auto me-auto">
                   {" "}
                   <Card className="mt-2 mb-2 w-full ms-auto me-auto">
                     <CardBody>
@@ -224,7 +224,7 @@ export const BusStatus = ({ data, staticData, route }) => {
                       </h4>
                     </CardBody>
                   </Card>
-                </>
+                </div>
               ) : null}
             </div>
           </div>
