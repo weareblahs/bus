@@ -12,6 +12,7 @@ export const getNearest = (lat, lon, rte, provider, state) => {
         (d) => parseFloat(d?.stop_lat) >= lat && parseFloat(d?.stop_lon) >= lon
       );
       const nearest = nearest0[0];
+      console.log(nearest0);
       const getDistance = distance(
         nearest.stop_lat,
         nearest.stop_lon,

@@ -11,12 +11,12 @@ import { nominatim, redirToGoogleMaps } from "./MapTools";
 import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 import { getNearest } from "./getNearest";
+import trips from "/src/privData/trips.json";
 import { FaInfo, FaInfoCircle, FaMap } from "react-icons/fa";
 
 export const BusStatus = ({ data, staticData, route }) => {
   // const data0 = JSON.stringify(data);
   const sd = [staticData];
-
   const convertToLocal = (hr, mn) => {
     if (hr > 12) {
       return `${hr - 12}:${mn}pm`;
@@ -28,7 +28,7 @@ export const BusStatus = ({ data, staticData, route }) => {
   };
 
   if (data.length != 0) {
-    //
+    const parsedData = data[0];
     return (
       <>
         <div className="ms-auto me-auto mb-24">
@@ -39,36 +39,40 @@ export const BusStatus = ({ data, staticData, route }) => {
               <Chip className="mt-auto mb-auto">Live data</Chip>
             </div>
             <div className="grid lg:grid-cols-4 sm:grid-cols-1 md:grid-cols-2">
-              {data.map((d) => {
+              {parsedData.map((d) => {
+                console.log(d);
                 let vehicleCLD = nominatim(
-                  d[0].vehicle.position.longitude,
-                  d[0].vehicle.position.latitude
+                  d.vehicle.position.longitude,
+                  d.vehicle.position.latitude
                 );
+                // nearest
+                // get route id
+
                 let nearest = getNearest(
-                  d[0].vehicle.position.latitude,
-                  d[0].vehicle.position.longitude,
-                  data.route,
+                  d.vehicle.position.latitude,
+                  d.vehicle.position.longitude,
+                  route,
                   Cookies.get("provider"),
                   Cookies.get("state")
                 );
                 return (
                   <Card
                     className="bg-gray-900 text-white ms-auto me-auto w-80 mb-4"
-                    key={d[0].vehicle.vehicle.licensePlate}
+                    key={d.vehicle.vehicle.licensePlate}
                   >
                     <CardHeader>
                       <div className="grid grid-cols-2">
                         <div className="w-52 mt-auto mb-auto">
-                          {d[0].vehicle.vehicle.licensePlate}
+                          {d.vehicle.vehicle.licensePlate}
                         </div>
                         <div className="text-end">
-                          {d[0].vehicle.position.speed == 0 ? (
+                          {d.vehicle.position.speed == 0 ? (
                             <Chip className="bg-red-500 text-white">
                               Waiting
                             </Chip>
                           ) : (
                             <Chip className="bg-green-500">
-                              {d[0].vehicle.position.speed.toFixed(0)}km/h
+                              {d.vehicle.position.speed.toFixed(0)}km/h
                             </Chip>
                           )}
                         </div>
@@ -151,8 +155,8 @@ export const BusStatus = ({ data, staticData, route }) => {
                               className="mt-auto mb-auto"
                               onClick={() =>
                                 redirToGoogleMaps(
-                                  d[0].vehicle.position.longitude,
-                                  d[0].vehicle.position.latitude
+                                  d.vehicle.position.longitude,
+                                  d.vehicle.position.latitude
                                 )
                               }
                             >
@@ -190,14 +194,17 @@ export const BusStatus = ({ data, staticData, route }) => {
 
                                 return (
                                   <>
-                                    <div class="grid grid-cols-1">
+                                    <div
+                                      className="grid grid-cols-1"
+                                      key={s.relatedStopData[0].stop_name}
+                                    >
                                       <div>
                                         <h1 className="text-2xl truncate">
                                           {s.relatedStopData[0].stop_name}
                                         </h1>
                                       </div>
                                     </div>
-                                    <div class="grid grid-cols-4">
+                                    <div className="grid grid-cols-4">
                                       <div className="col-span-3 mt-auto mb-auto">
                                         <h1 className="text-xl">
                                           Arriving at{" "}
@@ -260,14 +267,17 @@ export const BusStatus = ({ data, staticData, route }) => {
 
                             return (
                               <>
-                                <div class="grid grid-cols-1">
+                                <div
+                                  className="grid grid-cols-1"
+                                  key={s.relatedStopData[0].stop_name}
+                                >
                                   <div>
                                     <h1 className="text-2xl truncate">
                                       {s.relatedStopData[0].stop_name}
                                     </h1>
                                   </div>
                                 </div>
-                                <div class="grid grid-cols-4">
+                                <div className="grid grid-cols-4">
                                   <div className="col-span-3 mt-auto mb-auto">
                                     <h1 className="text-xl">
                                       Arriving at{" "}

@@ -104,7 +104,6 @@ export const getStaticTrips = async (route) => {
     if (sortedTime.length == 0) return sortedTime;
     var i;
     for (i = 0; i < 10; i++) {
-      console.log(sortedTime);
       const relatedStopData = stopData?.data?.filter(
         (s) => s.stop_id == sortedTime[i].stop
       );
