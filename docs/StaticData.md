@@ -67,7 +67,7 @@ This file stores a list of trips related to the route stored in a JSON object ca
 ### Under `trips`
 
 - `id`: Trip ID, as defined in the GTFS Realtime file.
-- `name`: Route number along with the direction, which will be parsed with the `public/data/STATE/PROVIDER/StnInfo` file.
+- `name`: Route number along with the direction, which will be parsed with the `public/data/stnInfo/PROVIDER_ROUTE` file.
 
 ## `public`
 
