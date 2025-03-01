@@ -60,3 +60,9 @@ See [here](https://github.com/weareblahs/bus/blob/main/docs/StaticData.md) for m
 # Where can I see this project?
 
 Currently in beta - which can be accessed via [https://bqm.vercel.app](https://bqm.vercel.app).
+
+# Credits
+
+- Data sourced from `data.gov.my` (see documentation [here](https://developer.data.gov.my/realtime-api/gtfs-static))
+- Icons sourced from Font Awesome's icon library via react-icons
+- `getNearest` algorithm from `https://www.geodatasource.com`, which the original license statement can be found on the `distance` function under `/src/appComponents/getNearest.jsx`.

@@ -168,7 +168,6 @@ export const BusStatus = ({ data, staticData, route }) => {
             </div>
           </div>
           {/* live data div end */}
-
           {/* static data div start */}
           <div>
             <div className="flex ms-8">
