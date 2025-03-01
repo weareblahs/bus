@@ -175,57 +175,59 @@ export const BusStatus = ({ data, staticData, route }) => {
               <h1 className="text-2xl text-center p-2 ">Bus info</h1>
               <Chip className="mt-auto mb-auto">Static data</Chip>
             </div>
-            <div className="lg:w-96 ms-auto me-auto">
-              {staticData.length != 0 ? (
-                <div className="lg:w-96 ms-auto me-auto">
-                  {" "}
-                  <Card className="mt-2 mb-2 w-full ms-auto me-auto">
-                    <CardBody>
-                      <h4 className="text-xl">
-                        This app found buses that are scheduled to arrive at
-                        these stations for this route:
-                        {staticData.length != 0
-                          ? staticData.map((s) => {
-                              var time = s.time.split(":");
+            <div className="ms-auto me-auto">
+              <div className="md:ms-6 sm:ms-6 md:me-6 sm:me-6 lg:w-96 ">
+                {staticData.length != 0 ? (
+                  <div className="lg:w-96 ms-auto me-auto">
+                    {" "}
+                    <Card className="mt-2 mb-2 w-full ms-auto me-auto">
+                      <CardBody>
+                        <h4 className="text-xl">
+                          This app found buses that are scheduled to arrive at
+                          these stations for this route:
+                          {staticData.length != 0
+                            ? staticData.map((s) => {
+                                var time = s.time.split(":");
 
-                              return (
-                                <>
-                                  <div class="grid grid-cols-1">
-                                    <div>
-                                      <h1 className="text-2xl truncate">
-                                        {s.relatedStopData[0].stop_name}
-                                      </h1>
+                                return (
+                                  <>
+                                    <div class="grid grid-cols-1">
+                                      <div>
+                                        <h1 className="text-2xl truncate">
+                                          {s.relatedStopData[0].stop_name}
+                                        </h1>
+                                      </div>
                                     </div>
-                                  </div>
-                                  <div class="grid grid-cols-4">
-                                    <div className="col-span-3 mt-auto mb-auto">
-                                      <h1 className="text-xl">
-                                        Arriving at{" "}
-                                        {convertToLocal(time[0], time[1])}
-                                      </h1>
+                                    <div class="grid grid-cols-4">
+                                      <div className="col-span-3 mt-auto mb-auto">
+                                        <h1 className="text-xl">
+                                          Arriving at{" "}
+                                          {convertToLocal(time[0], time[1])}
+                                        </h1>
+                                      </div>
+                                      <div style={{ width: "100%" }}>
+                                        <Button
+                                          onClick={() =>
+                                            redirToGoogleMaps(
+                                              s.relatedStopData[0].stop_lon,
+                                              s.relatedStopData[0].stop_lat
+                                            )
+                                          }
+                                        >
+                                          <FaMap />
+                                        </Button>
+                                      </div>
                                     </div>
-                                    <div style={{ width: "100%" }}>
-                                      <Button
-                                        onClick={() =>
-                                          redirToGoogleMaps(
-                                            s.relatedStopData[0].stop_lon,
-                                            s.relatedStopData[0].stop_lat
-                                          )
-                                        }
-                                      >
-                                        <FaMap />
-                                      </Button>
-                                    </div>
-                                  </div>
-                                </>
-                              );
-                            })
-                          : null}
-                      </h4>
-                    </CardBody>
-                  </Card>
-                </div>
-              ) : null}
+                                  </>
+                                );
+                              })
+                            : null}
+                        </h4>
+                      </CardBody>
+                    </Card>
+                  </div>
+                ) : null}
+              </div>
             </div>
           </div>
           {/* static data div end */}
