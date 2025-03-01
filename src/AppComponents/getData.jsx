@@ -100,7 +100,7 @@ export const getStaticTrips = async (route) => {
 
   if (na3 != [] || na3.length !== 0) {
     let final = [];
-    // get first 5 results
+    // get first 10 results
     if (sortedTime.length == 0) return sortedTime;
     var i;
     for (i = 0; i < 10; i++) {

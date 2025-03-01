@@ -33,22 +33,24 @@ export const SetupStep1 = () => {
   };
   return (
     <>
-      <div className="w-100 p-5 mt-4 mb-4 dark">
+      <div className="w-100 m-5 dark">
         <h1 className="text-center text-4xl">
           <b>Welcome to bus?</b>
         </h1>
-        <h4 className="text-center">To start, please select a bus provider.</h4>
+        <h4 className="text-center mb-5">
+          To start, please select a bus provider.
+        </h4>
         <div className="row-auto grid grid-cols-1">
           {providers.map((p) => {
             return (
               <div
-                className="grid grid-cols-2 hover:bg-white hover:text-black transition-all p-6 rounded-lg"
+                className="grid grid-cols-4 hover:bg-white hover:text-black transition-all p-6 rounded-lg"
                 onClick={() => setAll(p.providerName, p.state, p.endpoint)}
               >
                 <div className="col-span-1 ms-auto me-auto mt-auto mb-auto text-4xl">
                   <FaBus />
                 </div>
-                <div className="col-span-1">
+                <div className="col-span-3">
                   <h1 className="text-2xl">{p.providerName}</h1>
                   <p>
                     {p.state}, {p.country}
@@ -64,9 +66,15 @@ export const SetupStep1 = () => {
             going to the "Settings" page. Your selected data will be stored
             locally for up to 1 year.
           </p>
-          <Button className="w-52" onClick={() => startApp()}>
-            Continue
-          </Button>
+          <div className="w-52">
+            <Button
+              className=""
+              style={{ width: "100%" }}
+              onClick={() => startApp()}
+            >
+              Continue
+            </Button>
+          </div>
         </div>
       </div>
     </>

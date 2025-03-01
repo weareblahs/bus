@@ -176,7 +176,7 @@ export const BusStatus = ({ data, staticData, route }) => {
               <Chip className="mt-auto mb-auto">Static data</Chip>
             </div>
             <div className="ms-auto me-auto">
-              <div className="md:ms-6 sm:ms-6 md:me-6 sm:me-6 lg:w-96 ">
+              <div className="px-4">
                 {staticData.length != 0 ? (
                   <div className="lg:w-96 ms-auto me-auto">
                     {" "}
@@ -243,10 +243,12 @@ export const BusStatus = ({ data, staticData, route }) => {
             There is no static data for this route for this time.
           </h1>
         ) : (
-          <h1 className="text-center text-4xl p-4">
-            Live data unavailable. <br />
+          <div>
+            <h1 className="text-center text-4xl px-4">
+              Live data unavailable.
+            </h1>
             {staticData.length != 0 ? (
-              <div className="lg:w-96 ms-auto me-auto">
+              <div className="lg:w-96 ms-auto me-auto p-4">
                 {" "}
                 <Card className="mt-2 mb-2 w-full ms-auto me-auto">
                   <CardBody>
@@ -295,7 +297,7 @@ export const BusStatus = ({ data, staticData, route }) => {
                 </Card>
               </div>
             ) : null}
-          </h1>
+          </div>
         )}
         <h1 className="text-center text-xl px-6">
           To check for other routes, please change the bus route on the Bus

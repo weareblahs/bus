@@ -45,7 +45,7 @@ export const Home = () => {
           {Cookies.get("provider")} selected as bus provider
         </span>
       </div>
-      <div className="grid grid-cols-10 text-black dark p-3">
+      <div className="grid grid-cols-10 text-black dark p-3 me-5">
         <Select
           aria-label="Select"
           className="p-2 col-span-8"
