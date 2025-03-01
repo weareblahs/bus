@@ -89,7 +89,7 @@ This file contains the names of the route that will be parsed from the web app. 
 - `id`: See `Global Parameters` part on top of this document for the ID syntax.
 - `name`: Route name.
 
-## `public/data/STATE_NAME/PROVIDER/StnInfo/ROUTE_ID.json`
+## `public/data/stnInfo/PROVIDER_ROUTE_ID.json`
 
 This file contains information about the route, including the stop names.
 
@@ -134,7 +134,7 @@ This file contains information about the route, including the stop names.
 - `stop_id`: Internal ID used by bus providers to identify the stop. Do note that this is not used in the web app in this moment, and this will be implemented as another feature in the future.
 - `stop_sequence`: The stop sequence according to the route. Previous and next station is parsed via the value of `stop_sequence` in the web app.
 
-## `public/data/STATE_NAME/PROVIDER/static_route_data.json`
+## `public/data/PROVIDER_static_route_data.json`
 
 This file contains data that includes the arrival time for each station paired with the Trip ID on the provider's system.
 
@@ -152,4 +152,4 @@ This file contains data that includes the arrival time for each station paired w
 
 - `id`: Trip ID for the bus. Can be paired with the route ID under `src/privData/trips.json`.
 - `time`: Expected arrival time for each station. Uses a string with a 24-hour time format (HH:MM:SS).
-- `stop`: Stop ID for the station. Can be paired with the stop name, latitude and longitude under `public/data/STATE_NAME/PROVIDER/StnInfo/ROUTE_ID.json`.
+- `stop`: Stop ID for the station. Can be paired with the stop name, latitude and longitude under `public/data/stnInfo/PROVIDER_ROUTE_ID.json`.
