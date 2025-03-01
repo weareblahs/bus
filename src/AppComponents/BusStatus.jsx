@@ -178,7 +178,7 @@ export const BusStatus = ({ data, staticData, route }) => {
             {staticData.length != 0 ? (
               <>
                 {" "}
-                <Card className="mt-2 mb-2 w-96 ms-auto me-auto">
+                <Card className="mt-2 mb-2 w-full ms-auto me-auto">
                   <CardBody>
                     <h4 className="text-xl">
                       This app found buses that are scheduled to arrive at these
