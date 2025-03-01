@@ -53,8 +53,8 @@ export const getStaticTrips = async (route) => {
   const state = Cookies.get("state");
   const provider = Cookies.get("provider");
   const parsedTrips = tripMainData;
-  const url = `${window.location.protocol}//${window.location.host}/data/${state}/${provider}/static_time_data.json`;
-  const stopURL = `${window.location.protocol}//${window.location.host}/data/${state}/${provider}/StnInfo/${route}.json`;
+  const url = `${window.location.protocol}//${window.location.host}/data/${provider}_static_time_data.json`;
+  const stopURL = `${window.location.protocol}//${window.location.host}/data/stnInfo/${provider}_${route}.json`;
   const routeArray = parsedTrips
     .filter((t) => t.providerName == provider)[0]
     ["trips"].filter((t) => t.name == route);
