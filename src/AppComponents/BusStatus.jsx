@@ -228,7 +228,7 @@ export const BusStatus = ({ data, staticData, route }) => {
             </div>
             <div className="ms-auto me-auto">
               <div className="px-4">
-                {staticData.length != 0 ? (
+                {itemData.total != 0 ? (
                   <div className="lg:w-96 ms-auto me-auto">
                     {" "}
                     <Card className="mt-2 mb-2 w-full ms-auto me-auto">
@@ -315,7 +315,7 @@ export const BusStatus = ({ data, staticData, route }) => {
             <h1 className="text-center text-4xl px-4">
               Live data unavailable.
             </h1>
-            {itemData.length != 0 ? (
+            {itemData.total != 0 ? (
               <div className="lg:w-96 ms-auto me-auto p-4">
                 {" "}
                 <Card className="mt-2 mb-2 w-full ms-auto me-auto">
