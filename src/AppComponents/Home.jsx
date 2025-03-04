@@ -73,7 +73,7 @@ export const Home = () => {
                   </div>
                   <div className="col col-span-2 mt-auto mb-auto">
                     {" "}
-                    <h1 className="text-xs leading-none">{s.name}</h1>
+                    <h1 className="text-xs leading-1 line-clamp-2">{s.name}</h1>
                   </div>
                 </div>
               </SelectItem>
