@@ -1,6 +1,6 @@
 # bus?
 
-...yes, that is the project name. Keep it simple.
+...yes, that is the project name. Keep it simple. It's originally called "Is there any bus for this route near me?" but it's too long.
 
 # What's this?
 
