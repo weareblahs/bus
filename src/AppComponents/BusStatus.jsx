@@ -8,7 +8,7 @@ import {
   Chip,
   Input,
   Pagination,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import { nominatim, redirToGoogleMaps } from "./MapTools";
 import { useState, useEffect } from "react";
 import Cookies from "js-cookie";

@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@nextui-org/react": "^2.4.8",
+    "@heroui/react": "2.7.4",
     "axios": "^1.7.9",
     "csvtojson": "^2.0.10",
     "framer-motion": "^11.13.1",

@@ -1,4 +1,4 @@
-import { Badge, Button, Chip, Select, SelectItem } from "@nextui-org/react";
+import { Badge, Button, Chip, Select, SelectItem } from "@heroui/react";
 import axios from "axios";
 import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
@@ -60,15 +60,22 @@ export const Home = () => {
                 className="dark text-black"
                 textValue={s.name}
               >
-                <Chip className="rounded-md bg-blue-600 me-4 text-white mono">
-                  {s.id.slice(0, -1)}{" "}
-                  {s.id.slice(-1) == "A"
-                    ? " ▶"
-                    : s.id.slice(-1) == "B"
-                    ? " ◀"
-                    : null}
-                </Chip>
-                {s.name}
+                <div className="grid grid-cols-4 pt-2 pb-2">
+                  <div className="col col-span-2 mt-auto mb-auto ms-auto">
+                    <Chip className="rounded-md bg-blue-600 me-4 text-white mono">
+                      {s.id.slice(0, -1)}{" "}
+                      {s.id.slice(-1) == "A"
+                        ? " ▶"
+                        : s.id.slice(-1) == "B"
+                        ? " ◀"
+                        : null}
+                    </Chip>
+                  </div>
+                  <div className="col col-span-2 mt-auto mb-auto">
+                    {" "}
+                    <h1 className="text-xs leading-none">{s.name}</h1>
+                  </div>
+                </div>
               </SelectItem>
             );
           })}

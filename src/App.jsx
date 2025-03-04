@@ -6,7 +6,7 @@ import {
   Divider,
   Link,
   Image,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import Cookies from "js-cookie";
 import { SetupStep1 } from "./setup/SetupStep1";
 import { Home } from "./AppComponents/Home";

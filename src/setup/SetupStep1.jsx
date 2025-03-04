@@ -1,6 +1,6 @@
 import { useState } from "react";
 import providers from "../privData/providers.json";
-import { button, Button } from "@nextui-org/react";
+import { button, Button } from "@heroui/react";
 import { FaBus } from "react-icons/fa";
 import Cookies from "js-cookie";
 export const SetupStep1 = () => {
