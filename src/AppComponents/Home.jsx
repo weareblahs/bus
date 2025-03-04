@@ -81,7 +81,7 @@ export const Home = () => {
           })}
         </Select>
         <Button
-          onClick={() => {
+          onPress={() => {
             Cookies.remove("isSetUp");
             window.location.reload();
           }}

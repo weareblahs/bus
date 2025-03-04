@@ -203,7 +203,7 @@ export const BusStatus = ({ data, staticData, route }) => {
                             </div>
                             <Button
                               className="mt-auto mb-auto"
-                              onClick={() =>
+                              onPress={() =>
                                 redirToGoogleMaps(
                                   d.vehicle.position.longitude,
                                   d.vehicle.position.latitude
@@ -267,7 +267,7 @@ export const BusStatus = ({ data, staticData, route }) => {
                                       </div>
                                       <div style={{ width: "100%" }}>
                                         <Button
-                                          onClick={() =>
+                                          onPress={() =>
                                             redirToGoogleMaps(
                                               s.relatedStopData[0].stop_lon,
                                               s.relatedStopData[0].stop_lat
@@ -357,7 +357,7 @@ export const BusStatus = ({ data, staticData, route }) => {
                                   </div>
                                   <div style={{ width: "100%" }}>
                                     <Button
-                                      onClick={() =>
+                                      onPress={() =>
                                         redirToGoogleMaps(
                                           s.relatedStopData[0].stop_lon,
                                           s.relatedStopData[0].stop_lat
