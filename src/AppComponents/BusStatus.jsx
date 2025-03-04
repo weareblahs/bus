@@ -21,21 +21,22 @@ export const BusStatus = ({ data, staticData, route }) => {
   // const data0 = JSON.stringify(data);
   // full data is under staticData
   const [page, setPage] = useState(1);
+  const baseData = staticData.filter((s) => s.relatedStopData.length != 0);
   const [itemData, setData] = useState(
-    changeItemData(page, JSON.stringify(staticData))
+    changeItemData(page, JSON.stringify(baseData))
   );
   const [searchKeyword, changeKeyword] = useState("");
 
   console.log(itemData);
   useEffect(() => {
     if (searchKeyword == "") {
-      setData(changeItemData(page, JSON.stringify(staticData)));
+      setData(changeItemData(page, JSON.stringify(baseData)));
     } else {
       setData(
         changeItemData(
           page,
           JSON.stringify(
-            staticData.filter((s) =>
+            baseData.filter((s) =>
               s.relatedStopData[0].stop_name
                 .toLowerCase()
                 .includes(searchKeyword.toLowerCase())
@@ -45,6 +46,7 @@ export const BusStatus = ({ data, staticData, route }) => {
       );
     }
   }, [page]);
+  console.log(itemData);
   const sd = [staticData];
   const convertToLocal = (hr, mn) => {
     if (hr > 12) {
@@ -65,7 +67,7 @@ export const BusStatus = ({ data, staticData, route }) => {
         changeItemData(
           1,
           JSON.stringify(
-            staticData.filter((s) =>
+            baseData.filter((s) =>
               s.relatedStopData[0].stop_name
                 .toLowerCase()
                 .includes(searchKeyword.toLowerCase())
@@ -303,6 +305,7 @@ export const BusStatus = ({ data, staticData, route }) => {
       </>
     );
   } else {
+    console.log(itemData);
     return (
       <>
         {staticData == [] ? (
