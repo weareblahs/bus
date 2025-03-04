@@ -100,10 +100,10 @@ export const getStaticTrips = async (route) => {
 
   if (na3 != [] || na3.length !== 0) {
     let final = [];
-    // get first 10 results
+
     if (sortedTime.length == 0) return sortedTime;
     var i;
-    for (i = 0; i < 10; i++) {
+    for (i = 0; i < sortedTime.length; i++) {
       const relatedStopData = stopData?.data?.filter(
         (s) => s.stop_id == sortedTime[i].stop
       );
@@ -114,7 +114,6 @@ export const getStaticTrips = async (route) => {
         });
       }
     }
-
     return final;
   }
 };

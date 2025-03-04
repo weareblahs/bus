@@ -6,6 +6,7 @@ import {
   CardFooter,
   CardHeader,
   Chip,
+  Pagination,
 } from "@nextui-org/react";
 import { nominatim, redirToGoogleMaps } from "./MapTools";
 import { useState, useEffect } from "react";
@@ -13,9 +14,20 @@ import Cookies from "js-cookie";
 import { getNearest } from "./getNearest";
 import trips from "/src/privData/trips.json";
 import { FaInfo, FaInfoCircle, FaMap } from "react-icons/fa";
+import { changeItemData } from "./Pagination";
 
 export const BusStatus = ({ data, staticData, route }) => {
   // const data0 = JSON.stringify(data);
+  // full data is under staticData
+  const [page, setPage] = useState(1);
+  const [itemData, setData] = useState(
+    changeItemData(page, JSON.stringify(staticData))
+  );
+
+  console.log(itemData);
+  useEffect(() => {
+    setData(changeItemData(page, JSON.stringify(staticData)));
+  }, [page]);
   const sd = [staticData];
   const convertToLocal = (hr, mn) => {
     if (hr > 12) {
@@ -243,7 +255,7 @@ export const BusStatus = ({ data, staticData, route }) => {
   } else {
     return (
       <>
-        {!sd.length ? (
+        {![staticData].length ? (
           <h1 className="text-center text-4xl p-4">
             Live data unavailable. <br />
             There is no static data for this route for this time.
@@ -253,7 +265,7 @@ export const BusStatus = ({ data, staticData, route }) => {
             <h1 className="text-center text-4xl px-4">
               Live data unavailable.
             </h1>
-            {staticData.length != 0 ? (
+            {itemData.length != 0 ? (
               <div className="lg:w-96 ms-auto me-auto p-4">
                 {" "}
                 <Card className="mt-2 mb-2 w-full ms-auto me-auto">
@@ -261,8 +273,8 @@ export const BusStatus = ({ data, staticData, route }) => {
                     <h4 className="text-xl">
                       This app found buses that are scheduled to arrive at these
                       stations for this route:
-                      {staticData.length != 0
-                        ? staticData.map((s) => {
+                      {itemData.length != 0
+                        ? itemData.data.map((s) => {
                             var time = s.time.split(":");
 
                             return (
@@ -302,6 +314,15 @@ export const BusStatus = ({ data, staticData, route }) => {
                           })
                         : null}
                     </h4>
+                    <div className="ms-auto me-auto mt-2 mb-2">
+                      <Pagination
+                        showControls
+                        initialPage={1}
+                        total={itemData.total_pages}
+                        isCompact
+                        onChange={setPage}
+                      />
+                    </div>
                   </CardBody>
                 </Card>
               </div>
