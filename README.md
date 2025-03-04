@@ -8,12 +8,12 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 # Status
 
-| Provider          | Data source                               | Status    | Remarks                                                                                                    |
-| ----------------- | ----------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------- |
-| rapidPenang       | `data.gov.my` GTFS-Realtime data (Direct) | Available | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
-| rapidKL           | `data.gov.my` GTFS-Realtime data (Direct) | Available | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
-| rapidKuantan      | `data.gov.my` GTFS-Realtime data (Direct) | Available | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
-| myBAS Johor Bahru | `data.gov.my`                             | Planned   |                                                                                                            |
+| Provider          | Data source                               | Status                  | Remarks                                                                                                    |
+| ----------------- | ----------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
+| rapidPenang       | `data.gov.my` GTFS-Realtime data (Direct) | Available (static only) | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
+| rapidKL           | `data.gov.my` GTFS-Realtime data (Direct) | Available               | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
+| rapidKuantan      | `data.gov.my` GTFS-Realtime data (Direct) | Available (static only) | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
+| myBAS Johor Bahru | `data.gov.my`                             | Planned                 |                                                                                                            |
 
 ### What does "Direct" mean?
 
