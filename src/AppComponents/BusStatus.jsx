@@ -313,7 +313,9 @@ export const BusStatus = ({ data, staticData, route }) => {
         ) : (
           <div>
             <h1 className="text-center text-4xl px-4">
-              Live data unavailable.
+              {itemData.total != 0
+                ? "Live data unavailable for this route."
+                : "Live and static data unavailable for this route."}
             </h1>
             {itemData.total != 0 ? (
               <div className="lg:w-96 ms-auto me-auto p-4">
