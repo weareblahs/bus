@@ -6,6 +6,7 @@ import {
   CardFooter,
   CardHeader,
   Chip,
+  Input,
   Pagination,
 } from "@nextui-org/react";
 import { nominatim, redirToGoogleMaps } from "./MapTools";
@@ -23,10 +24,26 @@ export const BusStatus = ({ data, staticData, route }) => {
   const [itemData, setData] = useState(
     changeItemData(page, JSON.stringify(staticData))
   );
+  const [searchKeyword, changeKeyword] = useState("");
 
   console.log(itemData);
   useEffect(() => {
-    setData(changeItemData(page, JSON.stringify(staticData)));
+    if (searchKeyword == "") {
+      setData(changeItemData(page, JSON.stringify(staticData)));
+    } else {
+      setData(
+        changeItemData(
+          page,
+          JSON.stringify(
+            staticData.filter((s) =>
+              s.relatedStopData[0].stop_name
+                .toLowerCase()
+                .includes(searchKeyword.toLowerCase())
+            )
+          )
+        )
+      );
+    }
   }, [page]);
   const sd = [staticData];
   const convertToLocal = (hr, mn) => {
@@ -39,6 +56,25 @@ export const BusStatus = ({ data, staticData, route }) => {
     }
   };
 
+  useEffect(() => {
+    if (searchKeyword == "") {
+      setPage(1);
+    } else {
+      setPage(1);
+      setData(
+        changeItemData(
+          1,
+          JSON.stringify(
+            staticData.filter((s) =>
+              s.relatedStopData[0].stop_name
+                .toLowerCase()
+                .includes(searchKeyword.toLowerCase())
+            )
+          )
+        )
+      );
+    }
+  }, [searchKeyword]);
   if (data.length != 0) {
     const parsedData = data[0];
     return (
@@ -200,8 +236,12 @@ export const BusStatus = ({ data, staticData, route }) => {
                         <h4 className="text-xl">
                           This app found buses that are scheduled to arrive at
                           these stations for this route:
-                          {staticData.length != 0
-                            ? staticData.map((s) => {
+                          <Input
+                            placeholder="Search for a station..."
+                            onChange={(e) => changeKeyword(e.target.value)}
+                          ></Input>
+                          {itemData.length != 0
+                            ? itemData.data.map((s) => {
                                 var time = s.time.split(":");
 
                                 return (
@@ -241,6 +281,16 @@ export const BusStatus = ({ data, staticData, route }) => {
                               })
                             : null}
                         </h4>
+                        <div className="ms-auto me-auto mt-2 mb-2">
+                          <Pagination
+                            showControls
+                            initialPage={1}
+                            page={page}
+                            total={itemData.total_pages}
+                            isCompact
+                            onChange={setPage}
+                          />
+                        </div>
                       </CardBody>
                     </Card>
                   </div>
@@ -255,7 +305,7 @@ export const BusStatus = ({ data, staticData, route }) => {
   } else {
     return (
       <>
-        {![staticData].length ? (
+        {staticData == [] ? (
           <h1 className="text-center text-4xl p-4">
             Live data unavailable. <br />
             There is no static data for this route for this time.
@@ -273,6 +323,10 @@ export const BusStatus = ({ data, staticData, route }) => {
                     <h4 className="text-xl">
                       This app found buses that are scheduled to arrive at these
                       stations for this route:
+                      <Input
+                        placeholder="Search for a station..."
+                        onChange={(e) => changeKeyword(e.target.value)}
+                      ></Input>
                       {itemData.length != 0
                         ? itemData.data.map((s) => {
                             var time = s.time.split(":");
@@ -318,6 +372,7 @@ export const BusStatus = ({ data, staticData, route }) => {
                       <Pagination
                         showControls
                         initialPage={1}
+                        page={page}
                         total={itemData.total_pages}
                         isCompact
                         onChange={setPage}
@@ -329,7 +384,7 @@ export const BusStatus = ({ data, staticData, route }) => {
             ) : null}
           </div>
         )}
-        <h1 className="text-center text-xl px-6">
+        <h1 className="text-center text-xl pb-16 mb-8">
           To check for other routes, please change the bus route on the Bus
           Route selection.
         </h1>
