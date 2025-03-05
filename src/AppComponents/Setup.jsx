@@ -45,7 +45,7 @@ export const Setup = () => {
             return (
               <div
                 className="grid grid-cols-4 hover:bg-white hover:text-black transition-all p-6 rounded-lg"
-                onPress={() => setAll(p.providerName, p.state, p.endpoint)}
+                onClick={() => setAll(p.providerName, p.state, p.endpoint)}
               >
                 <div className="col-span-1 ms-auto me-auto mt-auto mb-auto text-4xl">
                   <FaBus />
