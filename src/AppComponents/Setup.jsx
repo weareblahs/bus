@@ -1,9 +1,9 @@
 import { useState } from "react";
 import providers from "../privData/providers.json";
-import { button, Button } from "@heroui/react";
+import { Button } from "@heroui/react";
 import { FaBus } from "react-icons/fa";
 import Cookies from "js-cookie";
-export const SetupStep1 = () => {
+export const Setup = () => {
   const [provider, setProvider] = useState("");
   const [buttonStatus, setStatus] = useState(false);
   const [state, setState] = useState("");
@@ -45,7 +45,7 @@ export const SetupStep1 = () => {
             return (
               <div
                 className="grid grid-cols-4 hover:bg-white hover:text-black transition-all p-6 rounded-lg"
-                onClick={() => setAll(p.providerName, p.state, p.endpoint)}
+                onPress={() => setAll(p.providerName, p.state, p.endpoint)}
               >
                 <div className="col-span-1 ms-auto me-auto mt-auto mb-auto text-4xl">
                   <FaBus />
@@ -70,7 +70,7 @@ export const SetupStep1 = () => {
             <Button
               className=""
               style={{ width: "100%" }}
-              onClick={() => startApp()}
+              onPress={() => startApp()}
             >
               Continue
             </Button>

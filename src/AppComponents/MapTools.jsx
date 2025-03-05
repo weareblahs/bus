@@ -1,10 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 
-export const NearestStation = (lon, lat, rte) => {
-  // longitude, latitude, route
-};
-
 export const nominatim = (lon, lat) => {
   const [data, setData] = useState([]);
   useEffect(() => {

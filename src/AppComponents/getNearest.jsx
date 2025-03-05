@@ -1,10 +1,9 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 
-export const getNearest = (lat, lon, rte, provider, state) => {
+export const getNearest = (lat, lon, rte, provider) => {
   const [data, setData] = useState([]);
   useEffect(() => {
-    // reference URL: http://localhost:5173/data/Penang/rapidPenang/StnInfo/301B.json
     const url = `${window.location.protocol}//${window.location.host}/data/stnInfo/${provider}_${rte}.json`;
 
     axios.get(url).then((res) => {

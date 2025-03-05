@@ -4,12 +4,7 @@ import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 import { getData, getStaticTrips } from "./getData";
 import { BusStatus } from "./BusStatus";
-import {
-  FaArrowAltCircleLeft,
-  FaArrowAltCircleRight,
-  FaBus,
-  FaExchangeAlt,
-} from "react-icons/fa";
+import { FaExchangeAlt } from "react-icons/fa";
 export const Home = () => {
   const [stationList, setStationList] = useState([]);
 

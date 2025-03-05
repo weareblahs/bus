@@ -13,8 +13,7 @@ import { nominatim, redirToGoogleMaps } from "./MapTools";
 import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 import { getNearest } from "./getNearest";
-import trips from "/src/privData/trips.json";
-import { FaInfo, FaInfoCircle, FaMap } from "react-icons/fa";
+import { FaMap } from "react-icons/fa";
 import { changeItemData } from "./Pagination";
 
 export const BusStatus = ({ data, staticData, route }) => {
@@ -102,8 +101,7 @@ export const BusStatus = ({ data, staticData, route }) => {
                   d.vehicle.position.latitude,
                   d.vehicle.position.longitude,
                   route,
-                  Cookies.get("provider"),
-                  Cookies.get("state")
+                  Cookies.get("provider")
                 );
                 return (
                   <Card
