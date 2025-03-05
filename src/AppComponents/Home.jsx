@@ -96,20 +96,25 @@ export const Home = () => {
           <h1 className="text-center text-4xl p-4">{data[0].status}</h1>
         )}
       </div>
-      <div className="fixed bottom-0 block text-center bg-black p-4">
-        <p className="text-center ">
-          <span className="">
-            Data sourced from data.gov.my which is used under the terms of use,
-            which can be viewed{" "}
-            <a
-              href="https://archive.data.gov.my/p/terma-pengguna"
-              className="underline"
-            >
-              here
-            </a>{" "}
-            (in Malay).
-          </span>
-        </p>
+      <div>
+        <div className="fixed bottom-0 block text-center bg-black p-4">
+          <p className="lg:text-left md:text-center sm:text-center">
+            <span className="text-sm">
+              Data sourced from data.gov.my which is used under the terms of
+              use, which can be viewed{" "}
+              <a
+                href="https://archive.data.gov.my/p/terma-pengguna"
+                className="underline"
+              >
+                here
+              </a>{" "}
+              (in Malay). <br />
+              <a href="https://github.com/weareblahs/bus" className="underline">
+                Source code
+              </a>
+            </span>
+          </p>
+        </div>
       </div>
     </>
   );

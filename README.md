@@ -60,7 +60,7 @@ See [here](https://github.com/weareblahs/bus/blob/main/docs/StaticData.md) for m
 
 # Where can I see this project?
 
-Currently in beta - which can be accessed via [https://bqm.vercel.app](https://bqm.vercel.app).
+Currently in beta - which can be accessed via [https://b.ntyx.dev](https://b.ntyx.dev). Alternatively, you can also access the web app via [https://bqm.vercel.app](https://bqm.vercel.app).
 
 # Credits
 
