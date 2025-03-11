@@ -108,7 +108,7 @@ export const Home = () => {
               >
                 here
               </a>{" "}
-              (in Malay).
+              (in Malay).&nbsp;
               <a href="https://github.com/weareblahs/bus" className="underline">
                 Source code
               </a>
