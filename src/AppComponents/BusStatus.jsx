@@ -20,7 +20,9 @@ export const BusStatus = ({ data, staticData, route }) => {
   // const data0 = JSON.stringify(data);
   // full data is under staticData
   const [page, setPage] = useState(1);
-  const baseData = staticData.filter((s) => s.relatedStopData.length != 0);
+  const baseData = staticData.stations.filter(
+    (s) => s.relatedStopData.length != 0
+  );
   const [itemData, setData] = useState(
     changeItemData(page, JSON.stringify(baseData))
   );
@@ -304,6 +306,8 @@ export const BusStatus = ({ data, staticData, route }) => {
     );
   } else {
     console.log(itemData);
+    var nextDepartureTimeSplit =
+      staticData?.nextDeparture?.first_stop_time?.split(":");
     return (
       <>
         {staticData == [] ? (
@@ -321,6 +325,19 @@ export const BusStatus = ({ data, staticData, route }) => {
             {itemData.total != 0 ? (
               <div className="lg:w-96 ms-auto me-auto p-4">
                 {" "}
+                <h1 className="text-center italic text-xl">
+                  Starting hub for this route is{" "}
+                  <span className="font-bold">
+                    {staticData?.nextDeparture?.stop_name}
+                  </span>{" "}
+                  where the next departure time will be&nbsp;
+                  <span className="font-bold">
+                    {convertToLocal(
+                      nextDepartureTimeSplit[0],
+                      nextDepartureTimeSplit[1]
+                    )}
+                  </span>
+                </h1>
                 <Card className="mt-2 mb-2 w-full ms-auto me-auto">
                   <CardBody>
                     <h4 className="text-xl">
@@ -333,7 +350,6 @@ export const BusStatus = ({ data, staticData, route }) => {
                       {itemData.length != 0
                         ? itemData.data.map((s) => {
                             var time = s.time.split(":");
-
                             return (
                               <>
                                 <div

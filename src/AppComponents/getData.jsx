@@ -46,12 +46,10 @@ export const getData = async (route) => {
   } catch (error) {
     process.exit(1);
   }
-
   return JSON.stringify(foundTrips);
 };
 
 export const getStaticTrips = async (route) => {
-  const state = Cookies.get("state");
   const provider = Cookies.get("provider");
   const parsedTrips = tripMainData;
   const url = `${window.location.protocol}//${window.location.host}/data/${provider}_static_time_data.json`;
@@ -59,7 +57,6 @@ export const getStaticTrips = async (route) => {
   const routeArray = parsedTrips
     .filter((t) => t.providerName == provider)[0]
     ["trips"].filter((t) => t.name == route);
-
   const staticData = await axios.get(url);
   const stopData = await axios.get(stopURL);
 
@@ -68,7 +65,6 @@ export const getStaticTrips = async (route) => {
     na.push(staticData.data.filter((d) => d.id == r.id));
   });
   // each array consists of stations
-  const currentTime = new Date().toLocaleTimeString();
   var now = new Date();
   var pretty = [
     now.getHours(),
@@ -83,7 +79,6 @@ export const getStaticTrips = async (route) => {
     var finalResult = +a[0] * 60 * 60 + +a[1] * 60 + +a[2];
     return finalResult;
   };
-  var current = seconds(pretty);
   let na2 = [];
   na.forEach((n) => {
     n.forEach((n2) => na2.push(n2));
@@ -105,6 +100,7 @@ export const getStaticTrips = async (route) => {
 
     if (sortedTime.length == 0) return sortedTime;
     var i;
+
     for (i = 0; i < sortedTime.length; i++) {
       const relatedStopData = stopData?.data?.filter(
         (s) => s.stop_id == sortedTime[i].stop
@@ -116,6 +112,20 @@ export const getStaticTrips = async (route) => {
         });
       }
     }
-    return final;
+    const stop_id = stopData?.data?.[0]["stop_id"];
+    // get next departure time from the first station of the route
+    let firstStopTimeObject = {};
+    if (sortedTime.length != 0) {
+      firstStopTimeObject = {
+        stop_id,
+        stop_name: stopData?.data?.[0]["stop_name"],
+        first_stop_time: sortedTime.filter((s) => s.stop == stop_id)[0]["time"],
+      };
+    }
+    console.log(firstStopTimeObject);
+    return {
+      nextDeparture: firstStopTimeObject,
+      stations: final,
+    };
   }
 };
