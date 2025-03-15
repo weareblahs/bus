@@ -79,7 +79,7 @@ export const BusStatus = ({ data, staticData, route }) => {
       );
     }
   }, [searchKeyword]);
-  if (data.length != 0) {
+  if (searchKeyword == "" && data.length != 0) {
     const parsedData = data[0];
     return (
       <>
