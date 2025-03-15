@@ -62,6 +62,7 @@ export const BusStatus = ({ data, staticData, route }) => {
   useEffect(() => {
     if (searchKeyword == "") {
       setPage(1);
+      setData(changeItemData(page, JSON.stringify(baseData)));
     } else {
       setPage(1);
       setData(
