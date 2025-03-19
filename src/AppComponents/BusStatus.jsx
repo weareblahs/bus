@@ -27,8 +27,6 @@ export const BusStatus = ({ data, staticData, route }) => {
     changeItemData(page, JSON.stringify(baseData))
   );
   const [searchKeyword, changeKeyword] = useState("");
-
-  console.log(itemData);
   useEffect(() => {
     if (searchKeyword == "") {
       setData(changeItemData(page, JSON.stringify(baseData)));
@@ -47,8 +45,6 @@ export const BusStatus = ({ data, staticData, route }) => {
       );
     }
   }, [page]);
-  console.log(itemData);
-  const sd = [staticData];
   const convertToLocal = (hr, mn) => {
     if (hr > 12) {
       return `${hr - 12}:${mn}pm`;
@@ -306,7 +302,6 @@ export const BusStatus = ({ data, staticData, route }) => {
       </>
     );
   } else {
-    console.log(itemData);
     var nextDepartureTimeSplit =
       staticData?.nextDeparture?.first_stop_time?.split(":");
     return (
