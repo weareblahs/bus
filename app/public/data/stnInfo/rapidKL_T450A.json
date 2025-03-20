@@ -1,0 +1,548 @@
+[
+    {
+        "stop_name": "HENTIAN PEKAN BERANANG",
+        "stop_lat": "2.872432",
+        "stop_lon": "101.870582",
+        "stop_id": "1000532",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KJ600 KOMPLEKS PENGHULU MUKIM BERANANG",
+        "stop_lat": "2.874542",
+        "stop_lon": "101.872033",
+        "stop_id": "1000563",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KJ601 KG MACHANG HILIR",
+        "stop_lat": "2.8758368632738",
+        "stop_lon": "101.87243549496",
+        "stop_id": "1002811",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KJ602 KG SESAPAN BUKIT REMBAU",
+        "stop_lat": "2.878001",
+        "stop_lon": "101.872035",
+        "stop_id": "1007631",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KJ603 JLN SASAPAN KELUBI",
+        "stop_lat": "2.880919",
+        "stop_lon": "101.871192",
+        "stop_id": "1001160",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KJ604 KG SESAPAN KELUBI (UTARA)",
+        "stop_lat": "2.885753",
+        "stop_lon": "101.870429",
+        "stop_id": "1000402",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KJ605 TAMAN PERINDUSTRIAN MAHKOTA",
+        "stop_lat": "2.889742",
+        "stop_lon": "101.870479",
+        "stop_id": "1003979",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KJ606 TAMAN PKNS BERANANG",
+        "stop_lat": "2.892359",
+        "stop_lon": "101.870404",
+        "stop_id": "1001718",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KJ608 SEMENYIH PARKLANDS",
+        "stop_lat": "2.896233",
+        "stop_lon": "101.869003",
+        "stop_id": "1003451",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KJ609 KOLEJ PROFESIONAL MARA",
+        "stop_lat": "2.903866",
+        "stop_lon": "101.867111",
+        "stop_id": "1001597",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KJ610 KOLEJ TINGGI MARA JAPAN",
+        "stop_lat": "2.905437",
+        "stop_lon": "101.863768",
+        "stop_id": "1001609",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KJ612 PANGSAPURI BAIDURI BLOK H",
+        "stop_lat": "2.903506",
+        "stop_lon": "101.861686",
+        "stop_id": "1000108",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KJ615 KOLEJ TINGGI MARA JAPAN (OPP)",
+        "stop_lat": "2.905674",
+        "stop_lon": "101.863736",
+        "stop_id": "1001357",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KJ616 PUSAT KEMAHIRAN MARA BERANANG",
+        "stop_lat": "2.906414",
+        "stop_lon": "101.866473",
+        "stop_id": "1003854",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KJ618 BANDAR TASIK KESUMA FASA 4",
+        "stop_lat": "2.913774",
+        "stop_lon": "101.863854",
+        "stop_id": "1001717",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KJ619 PELANGI SEMENYIH 2",
+        "stop_lat": "2.915586",
+        "stop_lon": "101.863078",
+        "stop_id": "1003313",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KJ620 TAMAN MUTIARA RINCHING",
+        "stop_lat": "2.920237",
+        "stop_lon": "101.861834",
+        "stop_id": "1001339",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KJ621 SJKT LADANG RINCHING",
+        "stop_lat": "2.9229456247946",
+        "stop_lon": "101.86038142327",
+        "stop_id": "1003136",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KJ622 SETIA ECOHILL MALL",
+        "stop_lat": "2.925481",
+        "stop_lon": "101.857485",
+        "stop_id": "1007634",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) KJ623 LOTUS SEMENYIH (OPP)",
+        "stop_lat": "2.930202",
+        "stop_lon": "101.855492",
+        "stop_id": "1003911",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KJ624 SEKSYEN 4 SEMENYIH",
+        "stop_lat": "2.932643",
+        "stop_lon": "101.854028",
+        "stop_id": "1004067",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KJ626 KG SENTOSA",
+        "stop_lat": "2.945764",
+        "stop_lon": "101.847881",
+        "stop_id": "1000607",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KJ630 DEWAN KOMUNITI SEMENYIH",
+        "stop_lat": "2.949037",
+        "stop_lon": "101.846218",
+        "stop_id": "1001314",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KJ631 SK SEMENYIH",
+        "stop_lat": "2.950391",
+        "stop_lon": "101.845552",
+        "stop_id": "1003316",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KJ632 TAMAN SEMENYIH",
+        "stop_lat": "2.952695",
+        "stop_lon": "101.844579",
+        "stop_id": "1002747",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KJ633 TAMAN DESA SEMENYIH",
+        "stop_lat": "2.955701",
+        "stop_lon": "101.843763",
+        "stop_id": "1001287",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KJ634 TAMAN AIN ANN/VISTA VALLEY",
+        "stop_lat": "2.958225",
+        "stop_lon": "101.840598",
+        "stop_id": "1004012",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KJ489 BANDAR TEKNOLOGI KAJANG",
+        "stop_lat": "2.973824",
+        "stop_lon": "101.830574",
+        "stop_id": "1002190",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KJ498 KLINIK KESIHATAN KAJANG (OPP)",
+        "stop_lat": "2.978002",
+        "stop_lon": "101.825625",
+        "stop_id": "1001552",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KJ499 TAMAN MAJU KAJANG",
+        "stop_lat": "2.979664",
+        "stop_lon": "101.820014",
+        "stop_id": "1007637",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KJ500 KAJANG PRIMA",
+        "stop_lat": "2.983647",
+        "stop_lon": "101.815753",
+        "stop_id": "1000954",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KJ501 KOLEJ VOKASIONAL KAJANG (OPP)",
+        "stop_lat": "2.985768",
+        "stop_lon": "101.812394",
+        "stop_id": "1003364",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KJ502 TAMAN DAMAI INDAH",
+        "stop_lat": "2.987309",
+        "stop_lon": "101.807557",
+        "stop_id": "1003978",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KJ503 TAMAN ZAMRUD KAJANG",
+        "stop_lat": "2.988045",
+        "stop_lon": "101.803731",
+        "stop_id": "1004094",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KJ504 TAMAN LEMBAH MEWAH",
+        "stop_lat": "2.990019",
+        "stop_lon": "101.800207",
+        "stop_id": "1001363",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KJ505 KOMPLEKS METRO POINT",
+        "stop_lat": "2.991966",
+        "stop_lon": "101.794467",
+        "stop_id": "1002026",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KJ506 PEJABAT AIR SELANGOR",
+        "stop_lat": "2.992459",
+        "stop_lon": "101.793035",
+        "stop_id": "1004267",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KJ507 KOMERSIAL BANDAR KAJANG",
+        "stop_lat": "2.992967",
+        "stop_lon": "101.790135",
+        "stop_id": "1001750",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KJ508 PEKAN KAJANG",
+        "stop_lat": "2.991911",
+        "stop_lon": "101.787865",
+        "stop_id": "1004231",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KJ822 MRT STADIUM KAJANG",
+        "stop_lat": "2.994009",
+        "stop_lon": "101.78641",
+        "stop_id": "1007233",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KJ472 KOMERSIAL BANDAR KAJANG",
+        "stop_lat": "2.993154",
+        "stop_lon": "101.790179",
+        "stop_id": "1007638",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KJ473 HOSPITAL KAJANG",
+        "stop_lat": "2.992596",
+        "stop_lon": "101.793436",
+        "stop_id": "1000923",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KJ479 KOMPLEKS METRO POINT (OPP)",
+        "stop_lat": "2.991985",
+        "stop_lon": "101.795188",
+        "stop_id": "1003366",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KJ480 TAMAN SG JELOK",
+        "stop_lat": "2.991094",
+        "stop_lon": "101.799421",
+        "stop_id": "1003543",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KJ481 TAMAN ZAMRUD KAJANG",
+        "stop_lat": "2.988403",
+        "stop_lon": "101.803434",
+        "stop_id": "1004093",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KJ482 TAMAN RESTU 7",
+        "stop_lat": "2.987562",
+        "stop_lon": "101.807948",
+        "stop_id": "1000295",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KJ483 KOLEJ VOKASIONAL KAJANG",
+        "stop_lat": "2.985496",
+        "stop_lon": "101.813125",
+        "stop_id": "1003228",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KJ484 KAJANG PRIMA",
+        "stop_lat": "2.984252",
+        "stop_lon": "101.815141",
+        "stop_id": "1003365",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KJ485 TAMAN MAJU KAJANG",
+        "stop_lat": "2.979789",
+        "stop_lon": "101.820757",
+        "stop_id": "1001344",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KJ486 KLINIK KESIHATAN KAJANG",
+        "stop_lat": "2.978033",
+        "stop_lon": "101.826053",
+        "stop_id": "1001553",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KJ487 BANDAR TEKNOLOGI KAJANG",
+        "stop_lat": "2.974423",
+        "stop_lon": "101.830391",
+        "stop_id": "1003840",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KJ571 TAMAN AIK ANN",
+        "stop_lat": "2.957589",
+        "stop_lon": "101.841979",
+        "stop_id": "1004013",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "KJ572 TAMAN DESA SEMENYIH",
+        "stop_lat": "2.955752",
+        "stop_lon": "101.844018",
+        "stop_id": "1002804",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "KJ573 TAMAN SEMENYIH",
+        "stop_lat": "2.952188",
+        "stop_lon": "101.844895",
+        "stop_id": "1002034",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "KJ574 KOMPLEKS PENGHULU SEMENYIH",
+        "stop_lat": "2.950108",
+        "stop_lon": "101.845923",
+        "stop_id": "1007636",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "KJ575 DEWAN KOMUNITI SEMENYIH",
+        "stop_lat": "2.948903",
+        "stop_lon": "101.846527",
+        "stop_id": "1002765",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "KJ576 KG SENTOSA",
+        "stop_lat": "2.945746",
+        "stop_lon": "101.848093",
+        "stop_id": "1003440",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "KJ577 PETRON SEMENYIH",
+        "stop_lat": "2.938315",
+        "stop_lon": "101.850961",
+        "stop_id": "1001013",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "KJ578 TAMAN PELANGI SEMENYIH",
+        "stop_lat": "2.932952",
+        "stop_lon": "101.854245",
+        "stop_id": "1002552",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "(M) KJ579 LOTUS SEMENYIH",
+        "stop_lat": "2.930099",
+        "stop_lon": "101.855888",
+        "stop_id": "1003912",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "KJ580 ECONSAVE RINCHING",
+        "stop_lat": "2.926143",
+        "stop_lon": "101.857491",
+        "stop_id": "1007635",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "KJ581 ASCOTTE BOULEVARD",
+        "stop_lat": "2.922809",
+        "stop_lon": "101.860791",
+        "stop_id": "1002038",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "KJ582 TAMAN MUTIARA RINCHING",
+        "stop_lat": "2.918906",
+        "stop_lon": "101.862757",
+        "stop_id": "1002824",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "KJ583 PELANGI SEMENYIH 2",
+        "stop_lat": "2.915968",
+        "stop_lon": "101.863225",
+        "stop_id": "1007633",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "KJ584 BANDAR TASIK KESUMA FASA 4",
+        "stop_lat": "2.913912",
+        "stop_lon": "101.864086",
+        "stop_id": "1002831",
+        "stop_sequence": "65"
+    },
+    {
+        "stop_name": "KJ585 PERUMAHAN BANDAR TASIK KESUMA",
+        "stop_lat": "2.909734",
+        "stop_lon": "101.865672",
+        "stop_id": "1000246",
+        "stop_sequence": "66"
+    },
+    {
+        "stop_name": "KJ610 KOLEJ TINGGI MARA JAPAN",
+        "stop_lat": "2.905437",
+        "stop_lon": "101.863768",
+        "stop_id": "1001609",
+        "stop_sequence": "67"
+    },
+    {
+        "stop_name": "KJ612 PANGSAPURI BAIDURI BLOK H",
+        "stop_lat": "2.903506",
+        "stop_lon": "101.861686",
+        "stop_id": "1000108",
+        "stop_sequence": "68"
+    },
+    {
+        "stop_name": "KJ615 KOLEJ TINGGI MARA JAPAN (OPP)",
+        "stop_lat": "2.905674",
+        "stop_lon": "101.863736",
+        "stop_id": "1001357",
+        "stop_sequence": "69"
+    },
+    {
+        "stop_name": "KJ587 KOLEJ PROFESIONAL MARA (OPP)",
+        "stop_lat": "2.903684",
+        "stop_lon": "101.867508",
+        "stop_id": "1001598",
+        "stop_sequence": "70"
+    },
+    {
+        "stop_name": "KJ588 SEMENYIH PARKLANDS",
+        "stop_lat": "2.896654",
+        "stop_lon": "101.869219",
+        "stop_id": "1001226",
+        "stop_sequence": "71"
+    },
+    {
+        "stop_name": "KJ589 PEJABAT PERTUBUHAN PELADANG",
+        "stop_lat": "2.894309",
+        "stop_lon": "101.869946",
+        "stop_id": "1007632",
+        "stop_sequence": "72"
+    },
+    {
+        "stop_name": "KJ590 TAMAN PKNS BERANANG",
+        "stop_lat": "2.891338",
+        "stop_lon": "101.870877",
+        "stop_id": "1001328",
+        "stop_sequence": "73"
+    },
+    {
+        "stop_name": "KJ592 KG SESAPAN KELUBI (UTARA)",
+        "stop_lat": "2.886038",
+        "stop_lon": "101.870613",
+        "stop_id": "1001159",
+        "stop_sequence": "74"
+    },
+    {
+        "stop_name": "KJ594 KG SESAPAN BUKIT REMBAU",
+        "stop_lat": "2.878111",
+        "stop_lon": "101.872158",
+        "stop_id": "1007630",
+        "stop_sequence": "75"
+    },
+    {
+        "stop_name": "KJ595 KG MACHANG HILIR",
+        "stop_lat": "2.875275",
+        "stop_lon": "101.872535",
+        "stop_id": "1001282",
+        "stop_sequence": "76"
+    },
+    {
+        "stop_name": "KJ596 SRA INTEGRASI PEKAN BERANANG (OPP)",
+        "stop_lat": "2.874105",
+        "stop_lon": "101.871876",
+        "stop_id": "1009090",
+        "stop_sequence": "77"
+    },
+    {
+        "stop_name": "HENTIAN PEKAN BERANANG",
+        "stop_lat": "2.872432",
+        "stop_lon": "101.870582",
+        "stop_id": "1000532",
+        "stop_sequence": "78"
+    }
+]

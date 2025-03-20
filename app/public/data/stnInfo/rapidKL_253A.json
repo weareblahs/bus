@@ -1,0 +1,331 @@
+[
+    {
+        "stop_name": "KL170 LRT WANGSA MAJU",
+        "stop_lat": "3.205606",
+        "stop_lon": "101.731913",
+        "stop_id": "1001834",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL2104 SK WANGSA JAYA (OPP)",
+        "stop_lat": "3.205967",
+        "stop_lon": "101.739273",
+        "stop_id": "1000552",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1616 PETRONAS WANGSA MELAWATI",
+        "stop_lat": "3.2099882301966",
+        "stop_lon": "101.74359739819",
+        "stop_id": "1002462",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ489 MELAWATI MALL",
+        "stop_lat": "3.208921",
+        "stop_lon": "101.748699",
+        "stop_id": "1001368",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ491 ZOO NEGARA",
+        "stop_lat": "3.206681",
+        "stop_lon": "101.756612",
+        "stop_id": "1004287",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ494 SAUDI SCHOOL",
+        "stop_lat": "3.202718",
+        "stop_lon": "101.759804",
+        "stop_id": "1003139",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ495 SK HULU KELANG (OPP)",
+        "stop_lat": "3.2009806766193",
+        "stop_lon": "101.76111959249",
+        "stop_id": "1001294",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ509 FLAT TAMAN AL-RIDHUAN",
+        "stop_lat": "3.1961349345231",
+        "stop_lon": "101.76342348121",
+        "stop_id": "1001343",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ14 BENGKEL ALLY AZRAN (OPP)",
+        "stop_lat": "3.1951745250322",
+        "stop_lon": "101.76116759694",
+        "stop_id": "1000067",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ15 DEWAN BAHASA PUSTAKA (OPP)",
+        "stop_lat": "3.1928988655788",
+        "stop_lon": "101.76118007038",
+        "stop_id": "1000530",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) AJ16 TRANSFORMER (OPP)",
+        "stop_lat": "3.1899810027823",
+        "stop_lon": "101.76114303605",
+        "stop_id": "1004144",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL841 MENARA JENTAYU",
+        "stop_lat": "3.1894930542881",
+        "stop_lon": "101.75755925931",
+        "stop_id": "1002005",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) KL842 KELUMPUK TEMPUA",
+        "stop_lat": "3.1874273947893",
+        "stop_lon": "101.75613448493",
+        "stop_id": "1001394",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) KL2193 SRA AL-TABRANI (OPP)",
+        "stop_lat": "3.184113",
+        "stop_lon": "101.756325",
+        "stop_id": "1001278",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ475 AU3 (SELATAN)",
+        "stop_lat": "3.183246660916",
+        "stop_lon": "101.75797894361",
+        "stop_id": "1001311",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ19 FLAT PKNS AU3",
+        "stop_lat": "3.1812679517238",
+        "stop_lon": "101.75722310574",
+        "stop_id": "1000801",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ295 PUSAT GEOLOGI PETRONAS (UTARA)",
+        "stop_lat": "3.180408",
+        "stop_lon": "101.756545",
+        "stop_id": "1007523",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ476 PUSAT GEOLOGI PETRONAS",
+        "stop_lat": "3.178677",
+        "stop_lon": "101.756348",
+        "stop_id": "1000872",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AJ301 SR STELLA MARIS",
+        "stop_lat": "3.173891",
+        "stop_lon": "101.756515",
+        "stop_id": "1002656",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "AJ503 KUALA AMPANG",
+        "stop_lat": "3.163991",
+        "stop_lon": "101.752746",
+        "stop_id": "1001695",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "AJ507 KPJ AMPANG PUTERI",
+        "stop_lat": "3.160189",
+        "stop_lon": "101.750792",
+        "stop_id": "1000085",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "AJ181 KPJ AMPANG PUTERI",
+        "stop_lat": "3.159205",
+        "stop_lon": "101.752133",
+        "stop_id": "1000087",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) AJ108 AMPANG POINT (OPP)",
+        "stop_lat": "3.1568585598718",
+        "stop_lon": "101.75114580093",
+        "stop_id": "1000084",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "AJ106 AMPANG POINT (BARAT)",
+        "stop_lat": "3.159813",
+        "stop_lon": "101.749811",
+        "stop_id": "1000239",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "AJ504 KUALA AMPANG",
+        "stop_lat": "3.164426",
+        "stop_lon": "101.752628",
+        "stop_id": "1001694",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "AJ502 PUSAT METHODIST AMPANG",
+        "stop_lat": "3.167983",
+        "stop_lon": "101.753465",
+        "stop_id": "1002676",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "AJ513 JEJANTAS SR STELLA MARIS (OPP)",
+        "stop_lat": "3.173773",
+        "stop_lon": "101.756054",
+        "stop_id": "1001044",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "AJ477 PUSAT GEOLOGI PETRONAS (OPP)",
+        "stop_lat": "3.178373",
+        "stop_lon": "101.756184",
+        "stop_id": "1000871",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "AJ7 GEOLOGI PETRONAS",
+        "stop_lat": "3.1801207373274",
+        "stop_lon": "101.75606951586",
+        "stop_id": "1003821",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "AJ8 FLAT PKNS AU3 (OPP)",
+        "stop_lat": "3.1814831882915",
+        "stop_lon": "101.75709215496",
+        "stop_id": "1000800",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "AJ452 AU3 (SELATAN)",
+        "stop_lat": "3.183141",
+        "stop_lon": "101.757886",
+        "stop_id": "1001279",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "(M) KL845 KELUMPUK KUANG",
+        "stop_lat": "3.187206",
+        "stop_lon": "101.755806",
+        "stop_id": "1001387",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL838 MENARA JENTAYU (OPP)",
+        "stop_lat": "3.189648",
+        "stop_lon": "101.757485",
+        "stop_id": "1002006",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "AJ11 TRANSFORMER",
+        "stop_lat": "3.1908805190146",
+        "stop_lon": "101.76089970243",
+        "stop_id": "1004143",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "AJ12 DEWAN BAHASA PUSTAKA",
+        "stop_lat": "3.1929667398259",
+        "stop_lon": "101.76095404518",
+        "stop_id": "1000529",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "AJ13 BENGKEL ALLY AZRAN",
+        "stop_lat": "3.1948186532782",
+        "stop_lon": "101.76092373513",
+        "stop_id": "1000066",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "AJ508 MASJID AR-RIDHUAN",
+        "stop_lat": "3.1962070608269",
+        "stop_lon": "101.7627837401",
+        "stop_id": "1001882",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "AJ496 SK HULU KELANG",
+        "stop_lat": "3.2000511262707",
+        "stop_lon": "101.76123146744",
+        "stop_id": "1003640",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "AJ493 SAUDI SCHOOL (OPP)",
+        "stop_lat": "3.202877",
+        "stop_lon": "101.759261",
+        "stop_id": "1003184",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "AJ492 KOMERSIAL MELAWATI/ZOO NEGARA",
+        "stop_lat": "3.205882",
+        "stop_lon": "101.756909",
+        "stop_id": "1004288",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "AJ490 KOMERSIAL TAMAN PERMATA/MELAWATI MALL",
+        "stop_lat": "3.208423",
+        "stop_lon": "101.749562",
+        "stop_id": "1000868",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL1325 WANGSA MELAWATI",
+        "stop_lat": "3.212788",
+        "stop_lon": "101.743085",
+        "stop_id": "1001433",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL1279 SMK WANGSA MELAWATI",
+        "stop_lat": "3.215255",
+        "stop_lon": "101.739444",
+        "stop_id": "1003413",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KL167 TAR COLLEGE (OPP)",
+        "stop_lat": "3.214502",
+        "stop_lon": "101.732568",
+        "stop_id": "1001606",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KL168 TAMAN BUNGA RAYA (TIMUR)",
+        "stop_lat": "3.211289",
+        "stop_lon": "101.729858",
+        "stop_id": "1003958",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KL169 TAR VILLA",
+        "stop_lat": "3.2074455955313",
+        "stop_lon": "101.72952884294",
+        "stop_id": "1003848",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KL170 LRT WANGSA MAJU",
+        "stop_lat": "3.205606",
+        "stop_lon": "101.731913",
+        "stop_id": "1001834",
+        "stop_sequence": "47"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "stop_name": "(M) PJ469 TERMINAL BAS",
+        "stop_lat": "3.087051",
+        "stop_lon": "101.647131",
+        "stop_id": "1003891",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ455 MAHKAMAH SYARIAH",
+        "stop_lat": "3.086795",
+        "stop_lon": "101.650753",
+        "stop_id": "1001844",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ470 UITM PJ",
+        "stop_lat": "3.086965",
+        "stop_lon": "101.651966",
+        "stop_id": "1009132",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ687 BUKIT GASING (BARAT)",
+        "stop_lat": "3.087266",
+        "stop_lon": "101.655112",
+        "stop_id": "1009133",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ410 SEKSYEN 1A",
+        "stop_lat": "3.086539",
+        "stop_lon": "101.657477",
+        "stop_id": "1001080",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ669 TAMAN GASING INDAH",
+        "stop_lat": "3.086087",
+        "stop_lon": "101.659741",
+        "stop_id": "1001083",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ33 FLAT GASING INDAH (OPP)",
+        "stop_lat": "3.086441",
+        "stop_lon": "101.662003",
+        "stop_id": "1003810",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1432 GASING INDAH (BARAT)",
+        "stop_lat": "3.086921",
+        "stop_lon": "101.663635",
+        "stop_id": "1002497",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL1433 SURAU NUR FAIZZIN (OPP)",
+        "stop_lat": "3.087158",
+        "stop_lon": "101.664726",
+        "stop_id": "1000581",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1434 GASING INDAH (TIMUR)",
+        "stop_lat": "3.087628",
+        "stop_lon": "101.666903",
+        "stop_id": "1003014",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1435 KG PANTAI DALAM",
+        "stop_lat": "3.0902041819077",
+        "stop_lon": "101.66940543305",
+        "stop_id": "1002300",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1436 KTM PANTAI DALAM (SELATAN)",
+        "stop_lat": "3.0940226640488",
+        "stop_lon": "101.66939499241",
+        "stop_id": "1001538",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) KL1804 APARTMENT PANTAI INDAH",
+        "stop_lat": "3.0957067611578",
+        "stop_lon": "101.6690293346",
+        "stop_id": "1002877",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1805 KG PANTAI DALAM",
+        "stop_lat": "3.0986396465212",
+        "stop_lon": "101.67039758065",
+        "stop_id": "1000261",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1800 PPR SRI PANTAI (BARAT)",
+        "stop_lat": "3.1075135980947",
+        "stop_lon": "101.67309675705",
+        "stop_id": "1001719",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1801 ANGKASAPURI",
+        "stop_lat": "3.1125467042244",
+        "stop_lon": "101.67320070486",
+        "stop_id": "1000095",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1802 KUARTERS TNB (DAHLIA)",
+        "stop_lat": "3.116452747602",
+        "stop_lon": "101.6718384715",
+        "stop_id": "1001706",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1113 BALAI ISLAM TNB",
+        "stop_lat": "3.1183379924799",
+        "stop_lon": "101.67225279065",
+        "stop_id": "1001575",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL1114 HQ TNB",
+        "stop_lat": "3.120545601227",
+        "stop_lon": "101.67360352039",
+        "stop_id": "1004098",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1115 APARTMENT PUTRA RIA (OPP)",
+        "stop_lat": "3.1233380951033",
+        "stop_lon": "101.67633743443",
+        "stop_id": "1002106",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1117 LRT BANGSAR",
+        "stop_lat": "3.1274797153797",
+        "stop_lon": "101.6788029842",
+        "stop_id": "1001787",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1075 SUASANA SENTRAL LOFT",
+        "stop_lat": "3.130350344914",
+        "stop_lon": "101.68423541322",
+        "stop_id": "1003609",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1079 KL SENTRAL",
+        "stop_lat": "3.132961",
+        "stop_lon": "101.687618",
+        "stop_id": "1001512",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1090 SENTRAL EXHIBITION MALL",
+        "stop_lat": "3.134408",
+        "stop_lon": "101.688902",
+        "stop_id": "1004275",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL111 CENTRAL MARKET",
+        "stop_lat": "3.144573",
+        "stop_lon": "101.695534",
+        "stop_id": "1001096",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M) PASAR SENI (PLATFORM A6)",
+        "stop_lat": "3.1432",
+        "stop_lon": "101.6956",
+        "stop_id": "1004340",
+        "stop_sequence": "26"
+    }
+]

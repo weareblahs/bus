@@ -1,0 +1,289 @@
+[
+    {
+        "stop_name": "(M) KL1933 PASAR SENI (PLATFORM E1 - E3)",
+        "stop_lat": "3.141408",
+        "stop_lon": "101.695443",
+        "stop_id": "1000531",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1092 PUBLIC BANK",
+        "stop_lat": "3.139119",
+        "stop_lon": "101.695358",
+        "stop_id": "1002640",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL2145 HOTEL PRESCOTT",
+        "stop_lat": "3.136322",
+        "stop_lon": "101.690915",
+        "stop_id": "1002495",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1080 BRICKFIELDS",
+        "stop_lat": "3.1336400597905",
+        "stop_lon": "101.68908163724",
+        "stop_id": "1004276",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1082 SK METHODIST",
+        "stop_lat": "3.131473",
+        "stop_lon": "101.689089",
+        "stop_id": "1002023",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1083 PALM COURT",
+        "stop_lat": "3.129818",
+        "stop_lon": "101.687114",
+        "stop_id": "1002234",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1084 SMK LA SALLE",
+        "stop_lat": "3.127033195959",
+        "stop_lon": "101.68320063589",
+        "stop_id": "1003301",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1085 BALAI POLIS BRICKFIELDS",
+        "stop_lat": "3.125382",
+        "stop_lon": "101.682305",
+        "stop_id": "1000205",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL278 KOMERSIAL TAMAN SEPUTEH",
+        "stop_lat": "3.120092",
+        "stop_lon": "101.679603",
+        "stop_id": "1004210",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1179 MAZDA",
+        "stop_lat": "3.1094981426141",
+        "stop_lon": "101.678508753",
+        "stop_id": "1000981",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) KL1180 BHP",
+        "stop_lat": "3.1072844280663",
+        "stop_lon": "101.67868293317",
+        "stop_id": "1000289",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1181 SHELL",
+        "stop_lat": "3.105637",
+        "stop_lon": "101.678384",
+        "stop_id": "1003216",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1182 THAM WAH WAN",
+        "stop_lat": "3.1034073153277",
+        "stop_lon": "101.67791957298",
+        "stop_id": "1004113",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1183 AVANTAS RESIDENCE",
+        "stop_lat": "3.1001431566626",
+        "stop_lon": "101.6765307254",
+        "stop_id": "1000493",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL1184 TAMAN SHANGHAI (SELATAN)",
+        "stop_lat": "3.098404",
+        "stop_lon": "101.676208",
+        "stop_id": "1003568",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1750 THE SCOTT GARDEN",
+        "stop_lat": "3.0953143908189",
+        "stop_lon": "101.67572573982",
+        "stop_id": "1003004",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1212 PASAR KLANG LAMA",
+        "stop_lat": "3.0923666487538",
+        "stop_lon": "101.67504495979",
+        "stop_id": "1002263",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1267 PLAZA PRIMA",
+        "stop_lat": "3.0890109519977",
+        "stop_lon": "101.67435542147",
+        "stop_id": "1002575",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL1268 WISMA TEOH CHIN KEE",
+        "stop_lat": "3.0866355709206",
+        "stop_lon": "101.67388225873",
+        "stop_id": "1004262",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) KL1269 PEARL POINT",
+        "stop_lat": "3.0835904519984",
+        "stop_lon": "101.67119037612",
+        "stop_id": "1002195",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1270 TAMAN YARL (UTARA)",
+        "stop_lat": "3.082005",
+        "stop_lon": "101.668566",
+        "stop_id": "1003077",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1348 MASJID ABDUL RAHMAN",
+        "stop_lat": "3.0797726835549",
+        "stop_lon": "101.6655312482",
+        "stop_id": "1001906",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1349 PANGSAPURI SRI JATI",
+        "stop_lat": "3.0776171979654",
+        "stop_lon": "101.66383355433",
+        "stop_id": "1002175",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1351 NEST RESIDENCE (OPP)",
+        "stop_lat": "3.0749481692745",
+        "stop_lon": "101.66078147764",
+        "stop_id": "1003579",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1352 SHELL TAMAN KUCHAI",
+        "stop_lat": "3.0739527099007",
+        "stop_lon": "101.65932732328",
+        "stop_id": "1003222",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1353 OUG PARKLANE",
+        "stop_lat": "3.070513914108",
+        "stop_lon": "101.65676696837",
+        "stop_id": "1002118",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M) SJ345 JEJANTAS TAMAN KINRARA",
+        "stop_lat": "3.0640580865611",
+        "stop_lon": "101.64927564385",
+        "stop_id": "1000025",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SJ654 TAMAN KINRARA SEKSYEN 1",
+        "stop_lat": "3.062814",
+        "stop_lon": "101.648076",
+        "stop_id": "1008309",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SJ346 TAMAN PAIK SIONG",
+        "stop_lat": "3.0614401901635",
+        "stop_lon": "101.64642875202",
+        "stop_id": "1001396",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SJ347 TUDM KINRARA",
+        "stop_lat": "3.0599994816712",
+        "stop_lon": "101.64395831592",
+        "stop_id": "1001397",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SJ352 BHPETROL BUKIT KUCHAI",
+        "stop_lat": "3.058117",
+        "stop_lon": "101.638599",
+        "stop_id": "1003944",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SJ353 BUKIT KUCHAI",
+        "stop_lat": "3.0573787950817",
+        "stop_lon": "101.63307641888",
+        "stop_id": "1004078",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SJ354 BHPETROL",
+        "stop_lat": "3.0569807544853",
+        "stop_lon": "101.63001155169",
+        "stop_id": "1004079",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SJ358 KOMUNITI PUCHONG JAYA (OPP)",
+        "stop_lat": "3.0528842606685",
+        "stop_lon": "101.62487388353",
+        "stop_id": "1001058",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SJ447 SKYPOD RESIDENCE",
+        "stop_lat": "3.043501",
+        "stop_lon": "101.620776",
+        "stop_id": "1006678",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "(M) SJ449 SETIA WALK",
+        "stop_lat": "3.0329749146266",
+        "stop_lon": "101.61732496691",
+        "stop_id": "1002768",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SJ611 SETIAWALK MALL",
+        "stop_lat": "3.0288195079409",
+        "stop_lon": "101.61521542686",
+        "stop_id": "1003510",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SJ667 TAMAN INDUSTRI PUCHONG",
+        "stop_lat": "3.0227373948343",
+        "stop_lon": "101.61417436779",
+        "stop_id": "1000070",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SJ625 TRACTOR MALAYSIA",
+        "stop_lat": "3.015995",
+        "stop_lon": "101.610628",
+        "stop_id": "1004141",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SJ601 JEJANTAS SK PUCHONG UTAMA 3",
+        "stop_lat": "3.0014403214833",
+        "stop_lon": "101.61194528657",
+        "stop_id": "1001053",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SJ237 TERMINAL PUCHONG UTAMA",
+        "stop_lat": "2.990446",
+        "stop_lon": "101.615552",
+        "stop_id": "1002641",
+        "stop_sequence": "41"
+    }
+]

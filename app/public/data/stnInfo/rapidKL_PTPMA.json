@@ -1,0 +1,30 @@
+[
+    {
+        "stop_name": "PAVILION BUKIT JALIL",
+        "stop_lat": "3.050022",
+        "stop_lon": "101.673645",
+        "stop_id": "1009056",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1550 TECHNOLOGY PARK MALAYSIA",
+        "stop_lat": "3.047907",
+        "stop_lon": "101.689121",
+        "stop_id": "1005330",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1540 ASTRO TPM",
+        "stop_lat": "3.052423",
+        "stop_lon": "101.700636",
+        "stop_id": "1000176",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PAVILION BUKIT JALIL",
+        "stop_lat": "3.050022",
+        "stop_lon": "101.673645",
+        "stop_id": "1009056",
+        "stop_sequence": "4"
+    }
+]

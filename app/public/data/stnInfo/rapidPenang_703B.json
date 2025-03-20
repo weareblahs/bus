@@ -1,0 +1,240 @@
+[
+    {
+        "stop_name": "Tesco Extra",
+        "stop_lat": "5.40595",
+        "stop_lon": "100.40420999999999",
+        "stop_id": "12002093",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Taman Sembilang",
+        "stop_lat": "5.404719999999999",
+        "stop_lon": "100.40275",
+        "stop_id": "12002092",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Masjid Sembilang",
+        "stop_lat": "5.40205",
+        "stop_lon": "100.39851999999999",
+        "stop_id": "12001993",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Petronas Sunway",
+        "stop_lat": "5.4002099999999995",
+        "stop_lon": "100.39997",
+        "stop_id": "12001957",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Sunway Carnival",
+        "stop_lat": "5.398624",
+        "stop_lon": "100.397254",
+        "stop_id": "12002543",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Sunway Carnival Mall",
+        "stop_lat": "5.398755",
+        "stop_lon": "100.398741",
+        "stop_id": "12002989",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Prudential",
+        "stop_lat": "5.39674",
+        "stop_lon": "100.39963",
+        "stop_id": "12001830",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "(M2) Pasar Seberang Jaya",
+        "stop_lat": "5.3950938",
+        "stop_lon": "100.39699540000001",
+        "stop_id": "12002647",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Hotel Blanket",
+        "stop_lat": "5.3948529999999995",
+        "stop_lon": "100.40001",
+        "stop_id": "12002530",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Shell Lintang Tenggiri",
+        "stop_lat": "5.39543",
+        "stop_lon": "100.40179",
+        "stop_id": "12001810",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Lintang Tenggiri",
+        "stop_lat": "5.396186",
+        "stop_lon": "100.402794",
+        "stop_id": "12002021",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Pangsapuri RPKN",
+        "stop_lat": "5.395011",
+        "stop_lon": "100.40444000000001",
+        "stop_id": "12001996",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Pasar Awam",
+        "stop_lat": "5.3929800000000006",
+        "stop_lon": "100.4016",
+        "stop_id": "12001809",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SP Arena",
+        "stop_lat": "5.38636",
+        "stop_lon": "100.40236",
+        "stop_id": "12001388",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Masjid Seberang Jaya",
+        "stop_lat": "5.38675",
+        "stop_lon": "100.40491",
+        "stop_id": "12001877",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Pangsapuri B3",
+        "stop_lat": "5.390969999999999",
+        "stop_lon": "100.40536",
+        "stop_id": "12001878",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Pangsapuri A1",
+        "stop_lat": "5.39331",
+        "stop_lon": "100.40557",
+        "stop_id": "12001880",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Hospital Seberang Jaya",
+        "stop_lat": "5.39454",
+        "stop_lon": "100.40633000000001",
+        "stop_id": "12001881",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Hospital Seberang Jaya II",
+        "stop_lat": "5.3931",
+        "stop_lon": "100.4062",
+        "stop_id": "12001879",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Aeon Big",
+        "stop_lat": "5.39034",
+        "stop_lon": "100.4077",
+        "stop_id": "12002025",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SMK Tun Hussein Onn",
+        "stop_lat": "5.38805",
+        "stop_lon": "100.40646",
+        "stop_id": "12002024",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Telekom Seberang Jaya",
+        "stop_lat": "5.3865",
+        "stop_lon": "100.40548000000001",
+        "stop_id": "12001876",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M2) Megamall - Pacific",
+        "stop_lat": "5.37879",
+        "stop_lon": "100.39794",
+        "stop_id": "12001067",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Kuil Sri Muniswara",
+        "stop_lat": "5.380380000000001",
+        "stop_lon": "100.39541",
+        "stop_id": "12000179",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Padang Kilat",
+        "stop_lat": "5.381530000000001",
+        "stop_lon": "100.39312",
+        "stop_id": "12000180",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Public Bank Inderawasih",
+        "stop_lat": "5.38858",
+        "stop_lon": "100.38879",
+        "stop_id": "12000389",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Taman Inderawasih",
+        "stop_lat": "5.39072",
+        "stop_lon": "100.38898",
+        "stop_id": "12000390",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Chain Ferry II",
+        "stop_lat": "5.40244",
+        "stop_lon": "100.38308",
+        "stop_id": "12000393",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Chain Ferry I",
+        "stop_lat": "5.40128",
+        "stop_lon": "100.37952",
+        "stop_id": "12000392",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Taman Limbungan Chain Ferry",
+        "stop_lat": "5.40078",
+        "stop_lon": "100.37832",
+        "stop_id": "12000391",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Econsave ChainFerry",
+        "stop_lat": "5.400066000000001",
+        "stop_lon": "100.376499",
+        "stop_id": "12002349",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Harbour Place",
+        "stop_lat": "5.39815",
+        "stop_lon": "100.37133",
+        "stop_id": "12000911",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SMK Convent Butterworth",
+        "stop_lat": "5.39697",
+        "stop_lon": "100.36834",
+        "stop_id": "12000909",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "(M1) Penang Sentral",
+        "stop_lat": "5.3948602",
+        "stop_lon": "100.3653495",
+        "stop_id": "12002322",
+        "stop_sequence": "34"
+    }
+]

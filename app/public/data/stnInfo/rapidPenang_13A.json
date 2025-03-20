@@ -1,0 +1,254 @@
+[
+    {
+        "stop_name": "(M1) Hub Paya Terubong - Petronas",
+        "stop_lat": "5.371595",
+        "stop_lon": "100.274925",
+        "stop_id": "12001018",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M2) Tingkat Paya Terubong4",
+        "stop_lat": "5.36975",
+        "stop_lon": "100.27547",
+        "stop_id": "12002102",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Tingkat Paya Terubong 2 - 1",
+        "stop_lat": "5.37092",
+        "stop_lon": "100.2774",
+        "stop_id": "12002099",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Tingkat Paya Terubong 2 - 2",
+        "stop_lat": "5.37184",
+        "stop_lon": "100.27757",
+        "stop_id": "12002100",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Tingkat Paya Terubong 2 - 3",
+        "stop_lat": "5.37357",
+        "stop_lon": "100.27785",
+        "stop_id": "12002101",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Oriental Garden",
+        "stop_lat": "5.37547",
+        "stop_lon": "100.27575999999999",
+        "stop_id": "12001020",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Pekan Paya Terubong",
+        "stop_lat": "5.37904",
+        "stop_lon": "100.27483000000001",
+        "stop_id": "12002286",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Paya Terubong Cemetery",
+        "stop_lat": "5.380875",
+        "stop_lon": "100.27495",
+        "stop_id": "12001023",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Apartment Lone Pine",
+        "stop_lat": "5.38657",
+        "stop_lon": "100.27638",
+        "stop_id": "12001969",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Perumahan PDRM",
+        "stop_lat": "5.38794",
+        "stop_lon": "100.27821",
+        "stop_id": "12001971",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Lebuhraya Thean Teik",
+        "stop_lat": "5.38875",
+        "stop_lon": "100.27956",
+        "stop_id": "12001973",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "(M2) Lintang Angsana",
+        "stop_lat": "5.388977",
+        "stop_lon": "100.28198",
+        "stop_id": "12002001",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Lintang Angsana II",
+        "stop_lat": "5.3880349999999995",
+        "stop_lon": "100.28272",
+        "stop_id": "12001998",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Flat 4E Farlim",
+        "stop_lat": "5.3861300000000005",
+        "stop_lon": "100.28323",
+        "stop_id": "12001372",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Petronas Farlim",
+        "stop_lat": "5.38858",
+        "stop_lon": "100.28429",
+        "stop_id": "12000048",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Bandar Baru Air Itam",
+        "stop_lat": "5.38964",
+        "stop_lon": "100.28497",
+        "stop_id": "12000050",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Desa Intan",
+        "stop_lat": "5.392608",
+        "stop_lon": "100.28696",
+        "stop_id": "12001976",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Balai Polis",
+        "stop_lat": "5.395105",
+        "stop_lon": "100.28905",
+        "stop_id": "12001978",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Shineville Park",
+        "stop_lat": "5.3996",
+        "stop_lon": "100.29581",
+        "stop_id": "12002301",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SMK Georgetown",
+        "stop_lat": "5.3992",
+        "stop_lon": "100.29881",
+        "stop_id": "12002048",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SMK Convent Green Lane",
+        "stop_lat": "5.39722",
+        "stop_lon": "100.30376",
+        "stop_id": "12000869",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Hospital Lam Wah Ee",
+        "stop_lat": "5.39392",
+        "stop_lon": "100.30303",
+        "stop_id": "12000867",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Persatuan Kanak - Kanak Sepastik",
+        "stop_lat": "5.38894",
+        "stop_lon": "100.30366",
+        "stop_id": "12000862",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "(M2) Pasar Batu Lanchang I",
+        "stop_lat": "5.38943",
+        "stop_lon": "100.30688",
+        "stop_id": "12001960",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Pasar Batu Lanchang II",
+        "stop_lat": "5.39051",
+        "stop_lon": "100.30660999999999",
+        "stop_id": "12002002",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M3) Flat Bata Merah",
+        "stop_lat": "5.39265",
+        "stop_lon": "100.30711",
+        "stop_id": "12001641",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Balai Polis Jelutong",
+        "stop_lat": "5.3914",
+        "stop_lon": "100.31241999999999",
+        "stop_id": "12001640",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Asrama Munshi",
+        "stop_lat": "5.392361",
+        "stop_lon": "100.31354",
+        "stop_id": "12001069",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Sunshine Jelutong",
+        "stop_lat": "5.3939",
+        "stop_lon": "100.31424",
+        "stop_id": "12001070",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Old Town Café",
+        "stop_lat": "5.39527",
+        "stop_lon": "100.31466999999999",
+        "stop_id": "12001071",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Taman Dato Syed Abbas",
+        "stop_lat": "5.3945099999999995",
+        "stop_lon": "100.31638000000001",
+        "stop_id": "12000568",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Masjid Jelutong",
+        "stop_lat": "5.39272",
+        "stop_lon": "100.31461",
+        "stop_id": "12000584",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Pekan Jelutong",
+        "stop_lat": "5.389133999999999",
+        "stop_lon": "100.31296",
+        "stop_id": "12000567",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "(M3) Pejabat Pos Jelutong",
+        "stop_lat": "5.38662",
+        "stop_lon": "100.31258000000001",
+        "stop_id": "12000582",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Bukit Dumbar",
+        "stop_lat": "5.385280000000001",
+        "stop_lon": "100.31048",
+        "stop_id": "12000581",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "(M1) Tesco Tunku Kudin",
+        "stop_lat": "5.377228",
+        "stop_lon": "100.31506",
+        "stop_id": "12001887",
+        "stop_sequence": "36"
+    }
+]

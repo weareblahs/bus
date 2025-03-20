@@ -1,0 +1,114 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KOMPLEKS BELIA",
+        "stop_lat": "3.8138343886602",
+        "stop_lon": "103.32693552395",
+        "stop_id": "2000405",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KUANTAN CITY/EAST COAST MALL",
+        "stop_lat": "3.818019",
+        "stop_lon": "103.328202",
+        "stop_id": "2000958",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "MARA PAHANG",
+        "stop_lat": "3.808209",
+        "stop_lon": "103.325092",
+        "stop_id": "2000965",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "UOB BANK",
+        "stop_lat": "3.8072837119611",
+        "stop_lon": "103.32978402323",
+        "stop_id": "2000198",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "MENARA KUANTAN 188",
+        "stop_lat": "3.8035149065029",
+        "stop_lon": "103.32624424933",
+        "stop_id": "2000470",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "HOSPITAL TENGKU AMPUAN AFZAN",
+        "stop_lat": "3.800603",
+        "stop_lon": "103.323625",
+        "stop_id": "2000329",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) MAJLIS BANDARAYA KUANTAN",
+        "stop_lat": "3.798661",
+        "stop_lon": "103.321761",
+        "stop_id": "2000252",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KUANTAN PARADE PINTU UTAMA",
+        "stop_lat": "3.805273",
+        "stop_lon": "103.323129",
+        "stop_id": "2000957",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KUANTAN PARADE",
+        "stop_lat": "3.8042397212113",
+        "stop_lon": "103.32230870698",
+        "stop_id": "2000181",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KOMPLEKS TERUNTUM/IPD KUANTAN",
+        "stop_lat": "3.803174",
+        "stop_lon": "103.324399",
+        "stop_id": "2000014",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "MAYBANK BUKIT UBI",
+        "stop_lat": "3.806041",
+        "stop_lon": "103.325393",
+        "stop_id": "2000966",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "UTC KUANTAN",
+        "stop_lat": "3.813708",
+        "stop_lon": "103.324358",
+        "stop_id": "2000193",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "16"
+    }
+]

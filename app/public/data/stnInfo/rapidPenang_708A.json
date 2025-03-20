@@ -1,0 +1,303 @@
+[
+    {
+        "stop_name": "(M1) The Summit",
+        "stop_lat": "5.3657975",
+        "stop_lon": "100.462624",
+        "stop_id": "12002201",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SM Persendirian Jit Sin",
+        "stop_lat": "5.36339",
+        "stop_lon": "100.4632",
+        "stop_id": "12000056",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Taman Usahaniaga",
+        "stop_lat": "5.362278",
+        "stop_lon": "100.465059",
+        "stop_id": "12002533",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "JPA Bukit Mertajam",
+        "stop_lat": "5.35942",
+        "stop_lon": "100.46595",
+        "stop_id": "12001893",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Taman Kuari",
+        "stop_lat": "5.3552",
+        "stop_lon": "100.46913",
+        "stop_id": "12000800",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Taman Jaya",
+        "stop_lat": "5.35426",
+        "stop_lon": "100.47074",
+        "stop_id": "12000799",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Taman Sentosa",
+        "stop_lat": "5.35331",
+        "stop_lon": "100.47288",
+        "stop_id": "12000798",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Taman Tampoi Indah",
+        "stop_lat": "5.34975",
+        "stop_lon": "100.47315",
+        "stop_id": "12000590",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "B Garden",
+        "stop_lat": "5.346003",
+        "stop_lon": "100.47193100000001",
+        "stop_id": "12002586",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AADK Bukit Mertajam",
+        "stop_lat": "5.343323000000001",
+        "stop_lon": "100.471626",
+        "stop_id": "12002587",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SM Sains Tun Syed Sheh Shahabudin",
+        "stop_lat": "5.34162",
+        "stop_lon": "100.47417",
+        "stop_id": "12000404",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Taman Alma",
+        "stop_lat": "5.338741000000001",
+        "stop_lon": "100.47384100000001",
+        "stop_id": "12002601",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SK Alma",
+        "stop_lat": "5.3320099999999995",
+        "stop_lon": "100.47456",
+        "stop_id": "12000047",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJKC Sin Ya",
+        "stop_lat": "5.330019999999999",
+        "stop_lon": "100.47829",
+        "stop_id": "12000046",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Taman Selesa",
+        "stop_lat": "5.3292507",
+        "stop_lon": "100.4820585",
+        "stop_id": "12002588",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Taman Sri Alma",
+        "stop_lat": "5.328474",
+        "stop_lon": "100.484109",
+        "stop_id": "12002589",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Pasar Awam Taman Selamat",
+        "stop_lat": "5.327946",
+        "stop_lon": "100.48588000000001",
+        "stop_id": "12002590",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Kilang Ayamas",
+        "stop_lat": "5.325418900000001",
+        "stop_lon": "100.4859902",
+        "stop_id": "12002591",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Jessel Ball Sport Center",
+        "stop_lat": "5.321332",
+        "stop_lon": "100.483751",
+        "stop_id": "12002592",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "AEON Gate 5",
+        "stop_lat": "5.32132",
+        "stop_lon": "100.47986999999999",
+        "stop_id": "12001381",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Masjid Jamek Alma Jaya",
+        "stop_lat": "5.322132",
+        "stop_lon": "100.47837700000001",
+        "stop_id": "12002593",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "AEON Pintu Utama",
+        "stop_lat": "5.31962",
+        "stop_lon": "100.47699",
+        "stop_id": "12001362",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Tesco Alma",
+        "stop_lat": "5.315483",
+        "stop_lon": "100.47819799999999",
+        "stop_id": "12002594",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Taman Seri Impian",
+        "stop_lat": "5.31124",
+        "stop_lon": "100.47958",
+        "stop_id": "12001358",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SRJK Permatang Tinggi",
+        "stop_lat": "5.30021",
+        "stop_lon": "100.47737",
+        "stop_id": "12001273",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Taman Permatang Tinggi Indah",
+        "stop_lat": "5.294630000000001",
+        "stop_lon": "100.47935",
+        "stop_id": "12001269",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Pusat Perniagan Simpang Empat",
+        "stop_lat": "5.2889800000000005",
+        "stop_lon": "100.47819",
+        "stop_id": "12001267",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Masjid Simpang Empat",
+        "stop_lat": "5.282946",
+        "stop_lon": "100.476674",
+        "stop_id": "12002329",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Tasek Mutiara",
+        "stop_lat": "5.27834",
+        "stop_lon": "100.48439",
+        "stop_id": "12001697",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "(M3) Pearl City Mall",
+        "stop_lat": "5.27789",
+        "stop_lon": "100.49068",
+        "stop_id": "12001695",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Taman Mutiara Simpang Empat",
+        "stop_lat": "5.28009",
+        "stop_lon": "100.492424",
+        "stop_id": "12002595",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Petronas Bandar Tasek Mutiara",
+        "stop_lat": "5.285",
+        "stop_lon": "100.49319",
+        "stop_id": "12001685",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Taman Tasek",
+        "stop_lat": "5.28515",
+        "stop_lon": "100.49750999999999",
+        "stop_id": "12001687",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Taman Puteri Gunung",
+        "stop_lat": "5.285069999999999",
+        "stop_lon": "100.50108",
+        "stop_id": "12001686",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Taman Tasek Indah",
+        "stop_lat": "5.284905",
+        "stop_lon": "100.50668",
+        "stop_id": "12002596",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Kampung Hj. Abdullah",
+        "stop_lat": "5.2847",
+        "stop_lon": "100.51559",
+        "stop_id": "12001684",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Muda Paper Mill",
+        "stop_lat": "5.2845379999999995",
+        "stop_lon": "100.519954",
+        "stop_id": "12002597",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SK Seri Tasek",
+        "stop_lat": "5.28559",
+        "stop_lon": "100.52179",
+        "stop_id": "12001698",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Kampung Sepulau",
+        "stop_lat": "5.2928",
+        "stop_lon": "100.524289",
+        "stop_id": "12002578",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Kampung Tasek Junjung",
+        "stop_lat": "5.297051000000001",
+        "stop_lon": "100.52891",
+        "stop_id": "12002599",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Pekan Junjung",
+        "stop_lat": "5.298019999999999",
+        "stop_lon": "100.534257",
+        "stop_id": "12002600",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SK. Permatang Tiong",
+        "stop_lat": "5.289569999999999",
+        "stop_lon": "100.53738",
+        "stop_id": "12000042",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "Hub Jalan Air Puteh",
+        "stop_lat": "5.28661",
+        "stop_lon": "100.54287",
+        "stop_id": "12000041",
+        "stop_sequence": "43"
+    }
+]

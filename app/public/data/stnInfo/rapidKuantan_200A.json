@@ -1,0 +1,65 @@
+[
+    {
+        "stop_name": "(M) TELUK CEMPEDAK",
+        "stop_lat": "3.8122632861423",
+        "stop_lon": "103.37044914889",
+        "stop_id": "2000240",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "TAMAN TERUNTUM",
+        "stop_lat": "3.812044",
+        "stop_lon": "103.363515",
+        "stop_id": "2000962",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "DEWAN JUBLI PERAK SHAS",
+        "stop_lat": "3.811851",
+        "stop_lon": "103.358011",
+        "stop_id": "2000963",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "ANNEXE",
+        "stop_lat": "3.814633",
+        "stop_lon": "103.348022",
+        "stop_id": "2000964",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "HOMEBOX DESIGN",
+        "stop_lat": "3.8157380958031",
+        "stop_lon": "103.34329890595",
+        "stop_id": "2000131",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "HOTEL KOSMA",
+        "stop_lat": "3.8150811038066",
+        "stop_lon": "103.33559376889",
+        "stop_id": "2000347",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SHELL JLN BESERAH",
+        "stop_lat": "3.814333693372",
+        "stop_lon": "103.33257027773",
+        "stop_id": "2000392",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "UTC KUANTAN",
+        "stop_lat": "3.813708",
+        "stop_lon": "103.324358",
+        "stop_id": "2000193",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "9"
+    }
+]

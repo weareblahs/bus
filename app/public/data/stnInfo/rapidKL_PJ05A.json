@@ -1,0 +1,247 @@
+[
+    {
+        "stop_name": "(M) PJ530 HENTIAN BANDAR UTAMA",
+        "stop_lat": "3.151359",
+        "stop_lon": "101.613382",
+        "stop_id": "1000909",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ532 ONE UTAMA LDP",
+        "stop_lat": "3.1504336534116",
+        "stop_lon": "101.61652418032",
+        "stop_id": "1000248",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ537 FIRST AVENUE",
+        "stop_lat": "3.146518",
+        "stop_lon": "101.615333",
+        "stop_id": "1007490",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SMK BANDAR UTAMA (OPP)",
+        "stop_lat": "3.142478",
+        "stop_lon": "101.615635",
+        "stop_id": "1008182",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PELANGI UTAMA CONDOMINIUM",
+        "stop_lat": "3.141615",
+        "stop_lon": "101.615396",
+        "stop_id": "1008183",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "DATARAN PELANGI UTAMA",
+        "stop_lat": "3.139342",
+        "stop_lon": "101.614173",
+        "stop_id": "1008184",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SETERRA CONDOMINIUM",
+        "stop_lat": "3.137411",
+        "stop_lon": "101.613321",
+        "stop_id": "1008185",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "MASJID AL-MAMURIAH",
+        "stop_lat": "3.135404",
+        "stop_lon": "101.61252",
+        "stop_id": "1008187",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) PJ726 JEJANTAS DAMANSARA UTAMA",
+        "stop_lat": "3.1323850131623",
+        "stop_lon": "101.62160934468",
+        "stop_id": "1000036",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ723 JEJANTAS SS 22",
+        "stop_lat": "3.1321518191064",
+        "stop_lon": "101.62072174735",
+        "stop_id": "1001431",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ818 SMK DAMANSARA JAYA (OPP)",
+        "stop_lat": "3.130083",
+        "stop_lon": "101.616811",
+        "stop_id": "1007130",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ508 ATRIA (OPP)",
+        "stop_lat": "3.128946",
+        "stop_lon": "101.617086",
+        "stop_id": "1007495",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ509 DAMANSARA JAYA (TENGAH)",
+        "stop_lat": "3.128182",
+        "stop_lon": "101.620429",
+        "stop_id": "1002486",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ510 KDU COLLEGE",
+        "stop_lat": "3.126934",
+        "stop_lon": "101.622458",
+        "stop_id": "1001246",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ627 KDU DAMANSARA JAYA",
+        "stop_lat": "3.1276560174203",
+        "stop_lon": "101.62332487017",
+        "stop_id": "1001248",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ347 KOMERSIAL SS2 (POH KONG)",
+        "stop_lat": "3.1172538268936",
+        "stop_lon": "101.62088640147",
+        "stop_id": "1001276",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ581 PETRON SEAPARK",
+        "stop_lat": "3.114403",
+        "stop_lon": "101.621236",
+        "stop_id": "1002752",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ342 SMK TAMAN SEA (OPP)",
+        "stop_lat": "3.110045",
+        "stop_lon": "101.616185",
+        "stop_id": "1003411",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ343 LRT TAMAN BAHAGIA",
+        "stop_lat": "3.1107429326435",
+        "stop_lon": "101.61301934275",
+        "stop_id": "1001830",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ626 BP SPECIALIST CENTRE",
+        "stop_lat": "3.1156536983894",
+        "stop_lon": "101.61411791892",
+        "stop_id": "1004001",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ484 KDU (OPP)",
+        "stop_lat": "3.126847",
+        "stop_lon": "101.622267",
+        "stop_id": "1007496",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ490 ATRIA",
+        "stop_lat": "3.128542",
+        "stop_lon": "101.617477",
+        "stop_id": "1007128",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SMK DAMANSARA JAYA",
+        "stop_lat": "3.131484",
+        "stop_lon": "101.616654",
+        "stop_id": "1007129",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "(M) PJ726 JEJANTAS DAMANSARA UTAMA",
+        "stop_lat": "3.1323850131623",
+        "stop_lon": "101.62160934468",
+        "stop_id": "1000036",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PJ723 JEJANTAS SS 22",
+        "stop_lat": "3.1321518191064",
+        "stop_lon": "101.62072174735",
+        "stop_id": "1001431",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "10 BOULEVARD",
+        "stop_lat": "3.132784",
+        "stop_lon": "101.613496",
+        "stop_id": "1007494",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "BHP KAYU ARA",
+        "stop_lat": "3.133002",
+        "stop_lon": "101.611273",
+        "stop_id": "1007493",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PETRON KAYU ARA",
+        "stop_lat": "3.133325",
+        "stop_lon": "101.611382",
+        "stop_id": "1007492",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PJ780 MASJID KAYU ARA (OPP)",
+        "stop_lat": "3.135421",
+        "stop_lon": "101.612393",
+        "stop_id": "1007323",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SETERRA CONDOMINIUM (OPP)",
+        "stop_lat": "3.137216",
+        "stop_lon": "101.61311",
+        "stop_id": "1008186",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PJ781 PANGSAPURI PELANGI ARA (OPP)",
+        "stop_lat": "3.139109",
+        "stop_lon": "101.613941",
+        "stop_id": "1007095",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PJ782 SK BANDAR UTAMA DAMANSARA 2",
+        "stop_lat": "3.14144",
+        "stop_lon": "101.615209",
+        "stop_id": "1007096",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PJ783 SMK BANDAR UTAMA",
+        "stop_lat": "3.142768",
+        "stop_lon": "101.615573",
+        "stop_id": "1007097",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PJ536 FIRST AVENUE (OPP)",
+        "stop_lat": "3.146433",
+        "stop_lon": "101.615092",
+        "stop_id": "1007491",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "(M) PJ530 HENTIAN BANDAR UTAMA",
+        "stop_lat": "3.151359",
+        "stop_lon": "101.613382",
+        "stop_id": "1000909",
+        "stop_sequence": "35"
+    }
+]

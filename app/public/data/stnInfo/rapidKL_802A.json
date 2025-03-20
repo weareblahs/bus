@@ -1,0 +1,338 @@
+[
+    {
+        "stop_name": "PJ585 LRT KELANA JAYA",
+        "stop_lat": "3.112745",
+        "stop_lon": "101.604492",
+        "stop_id": "1001804",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ633 SMK KELANA JAYA",
+        "stop_lat": "3.1090534541627",
+        "stop_lon": "101.59607154107",
+        "stop_id": "1003347",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ602 KJMC",
+        "stop_lat": "3.1087558931513",
+        "stop_lon": "101.59568537163",
+        "stop_id": "1001508",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ603 LRT KELANA JAYA",
+        "stop_lat": "3.113161",
+        "stop_lon": "101.605368",
+        "stop_id": "1001805",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ626 BP SPECIALIST CENTRE",
+        "stop_lat": "3.1156536983894",
+        "stop_lon": "101.61411791892",
+        "stop_id": "1004001",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ627 KDU DAMANSARA JAYA",
+        "stop_lat": "3.1276560174203",
+        "stop_lon": "101.62332487017",
+        "stop_id": "1001248",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ723 JEJANTAS SS 22",
+        "stop_lat": "3.1321518191064",
+        "stop_lon": "101.62072174735",
+        "stop_id": "1001431",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ67 OCBC",
+        "stop_lat": "3.1330018226012",
+        "stop_lon": "101.62049666244",
+        "stop_id": "1002113",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ134 LAVELL GALLERY",
+        "stop_lat": "3.135062",
+        "stop_lon": "101.620776",
+        "stop_id": "1004277",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ724 DAMANSARA UPTOWN (UTARA)",
+        "stop_lat": "3.137274",
+        "stop_lon": "101.620646",
+        "stop_id": "1001837",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) PJ208 BHP DAMANSARA UTAMA",
+        "stop_lat": "3.1381528557811",
+        "stop_lon": "101.62287967808",
+        "stop_id": "1000297",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ540 MRT BANDAR UTAMA",
+        "stop_lat": "3.145118",
+        "stop_lon": "101.617893",
+        "stop_id": "1004155",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ541 SMK BANDAR UTAMA",
+        "stop_lat": "3.1434297514834",
+        "stop_lon": "101.61466916311",
+        "stop_id": "1003370",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ761 SJKC PUAY CHAI 2",
+        "stop_lat": "3.1454638047445",
+        "stop_lon": "101.6110049571",
+        "stop_id": "1003627",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ529 SURAU AL-SYAKIRIN",
+        "stop_lat": "3.147343",
+        "stop_lon": "101.612092",
+        "stop_id": "1008321",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) PJ530 HENTIAN BANDAR UTAMA",
+        "stop_lat": "3.151359",
+        "stop_lon": "101.613382",
+        "stop_id": "1000909",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ532 ONE UTAMA LDP",
+        "stop_lat": "3.1504336534116",
+        "stop_lon": "101.61652418032",
+        "stop_id": "1000248",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ533 IKEA (BARAT)",
+        "stop_lat": "3.154912",
+        "stop_lon": "101.610549",
+        "stop_id": "1000990",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ383 PELANGI ASTANA",
+        "stop_lat": "3.153593",
+        "stop_lon": "101.603289",
+        "stop_id": "1002389",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ384 SHELL SUNWAY DAMANSARA",
+        "stop_lat": "3.149862",
+        "stop_lon": "101.600192",
+        "stop_id": "1003240",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ387 MRT SURIAN",
+        "stop_lat": "3.149407",
+        "stop_lon": "101.593449",
+        "stop_id": "1007091",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ87 SUNSURIA",
+        "stop_lat": "3.154709",
+        "stop_lon": "101.590774",
+        "stop_id": "1008323",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) PJ82 GUGUSAN DEDAP (OPP)",
+        "stop_lat": "3.1587610079113",
+        "stop_lon": "101.5940006181",
+        "stop_id": "1000707",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PJ83 SK SEKSYEN 11",
+        "stop_lat": "3.1602126739368",
+        "stop_lon": "101.59463489238",
+        "stop_id": "1003651",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PJ662 D'VILLA BOTANI",
+        "stop_lat": "3.1620247111047",
+        "stop_lon": "101.59131966464",
+        "stop_id": "1004099",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PJ665 MASJID KOTA DAMANSARA",
+        "stop_lat": "3.161602",
+        "stop_lon": "101.586886",
+        "stop_id": "1001932",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PJ89 PANGSAPURI CARLINA",
+        "stop_lat": "3.158282",
+        "stop_lon": "101.587221",
+        "stop_id": "1000112",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PJ91 PANGSAPURI SIANTAN",
+        "stop_lat": "3.156103",
+        "stop_lon": "101.585074",
+        "stop_id": "1000146",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PJ666 KOMERSIAL SEPAH PUTERI",
+        "stop_lat": "3.156067",
+        "stop_lon": "101.583167",
+        "stop_id": "1001194",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PJ355 GUGUSAN SEMARAK 4",
+        "stop_lat": "3.153917",
+        "stop_lon": "101.580029",
+        "stop_id": "1000752",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PJ667 GUGUSAN MELATI",
+        "stop_lat": "3.151754",
+        "stop_lon": "101.578448",
+        "stop_id": "1000725",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PJ360 GUGUSAN MAWAR",
+        "stop_lat": "3.151152",
+        "stop_lon": "101.578658",
+        "stop_id": "1000724",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PJ668 GUGUSAN MATAHARI",
+        "stop_lat": "3.150611",
+        "stop_lon": "101.580394",
+        "stop_id": "1000891",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PJ366 APARTMENT D'SHIRE VILLA",
+        "stop_lat": "3.150244",
+        "stop_lon": "101.583845",
+        "stop_id": "1000463",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PJ368 MRT SURIAN",
+        "stop_lat": "3.149946",
+        "stop_lon": "101.593092",
+        "stop_id": "1007078",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PJ369 PALM SPRING",
+        "stop_lat": "3.1496319890538",
+        "stop_lon": "101.59890295224",
+        "stop_id": "1002235",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "(M) PJ370 PELANGI ASTANA (OPP)",
+        "stop_lat": "3.154399",
+        "stop_lon": "101.603414",
+        "stop_id": "1002388",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PJ534 IKEA",
+        "stop_lat": "3.1553025701426",
+        "stop_lon": "101.61235366507",
+        "stop_id": "1000991",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PJ628 EMPIRE CITY",
+        "stop_lat": "3.165622",
+        "stop_lon": "101.615167",
+        "stop_id": "1003194",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "PJ629 BANDAR UTAMA (OPP)",
+        "stop_lat": "3.149985",
+        "stop_lon": "101.617426",
+        "stop_id": "1000249",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "PJ630 JEJANTAS DAMANSARA UTAMA",
+        "stop_lat": "3.135094",
+        "stop_lon": "101.624479",
+        "stop_id": "1001064",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "PJ208 KOMERSIAL SS 21/56B",
+        "stop_lat": "3.137923",
+        "stop_lon": "101.622136",
+        "stop_id": "1000232",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "PJ142 KOMERSIAL SS 21/1A",
+        "stop_lat": "3.135276",
+        "stop_lon": "101.621019",
+        "stop_id": "1004278",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "(M) PJ726 JEJANTAS DAMANSARA UTAMA",
+        "stop_lat": "3.1323850131623",
+        "stop_lon": "101.62160934468",
+        "stop_id": "1000036",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "PJ710 BOMBA SS2",
+        "stop_lat": "3.12595",
+        "stop_lon": "101.623107",
+        "stop_id": "1000371",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "PJ625 BP SPECIALIST CENTRE (OPP)",
+        "stop_lat": "3.115425",
+        "stop_lon": "101.614453",
+        "stop_id": "1008320",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "PJ162 TAMAN MEGAH",
+        "stop_lat": "3.1122163182399",
+        "stop_lon": "101.61043199238",
+        "stop_id": "1001169",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "PJ585 LRT KELANA JAYA",
+        "stop_lat": "3.112745",
+        "stop_lon": "101.604492",
+        "stop_id": "1001804",
+        "stop_sequence": "48"
+    }
+]

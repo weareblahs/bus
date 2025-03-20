@@ -1,0 +1,380 @@
+[
+    {
+        "stop_name": "(M1) The Summit",
+        "stop_lat": "5.3657975",
+        "stop_lon": "100.462624",
+        "stop_id": "12002201",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Plaza Utama",
+        "stop_lat": "5.3666",
+        "stop_lon": "100.45826",
+        "stop_id": "12000907",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SM Islam Al-Masriyah",
+        "stop_lat": "5.37331",
+        "stop_lon": "100.46436",
+        "stop_id": "12000031",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Petronas Tanah Liat",
+        "stop_lat": "5.3755",
+        "stop_lon": "100.46486999999999",
+        "stop_id": "12000032",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Masjid Tanah Liat",
+        "stop_lat": "5.3791",
+        "stop_lon": "100.46474",
+        "stop_id": "12000033",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Kolej Komuniti Bkt Mertajam",
+        "stop_lat": "5.38",
+        "stop_lon": "100.46451",
+        "stop_id": "12000034",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Taman Guru",
+        "stop_lat": "5.3825199999999995",
+        "stop_lon": "100.46361999999999",
+        "stop_id": "12000035",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SK Tanah Liat",
+        "stop_lat": "5.38514",
+        "stop_lon": "100.46336",
+        "stop_id": "12000036",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Permatang Tok Elong",
+        "stop_lat": "5.38797",
+        "stop_lon": "100.46302",
+        "stop_id": "12000037",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Kampung Sungai Semambu",
+        "stop_lat": "5.39205",
+        "stop_lon": "100.464022",
+        "stop_id": "12002352",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Kubang Semang",
+        "stop_lat": "5.39703",
+        "stop_lon": "100.46458",
+        "stop_id": "12000038",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Masjid Kubang Semang",
+        "stop_lat": "5.39912",
+        "stop_lon": "100.46474",
+        "stop_id": "12000039",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SK Penanti",
+        "stop_lat": "5.40254",
+        "stop_lon": "100.46455",
+        "stop_id": "12000040",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Kampung Petani",
+        "stop_lat": "5.40453",
+        "stop_lon": "100.46207",
+        "stop_id": "12000779",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SK. Bukit Indera Muda",
+        "stop_lat": "5.4074526",
+        "stop_lon": "100.4571627",
+        "stop_id": "12002202",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Masjid Al Muhtadin",
+        "stop_lat": "5.4073150000000005",
+        "stop_lon": "100.453327",
+        "stop_id": "12002353",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Madrasah Al Nur",
+        "stop_lat": "5.409257",
+        "stop_lon": "100.448291",
+        "stop_id": "12002354",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Giat MARA Permatang Pauh",
+        "stop_lat": "5.409745",
+        "stop_lon": "100.439603",
+        "stop_id": "12002355",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SK Permatang Pasir",
+        "stop_lat": "5.41464",
+        "stop_lon": "100.43781",
+        "stop_id": "12001166",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PPD Tengah Permatang Pasir",
+        "stop_lat": "5.418114",
+        "stop_lon": "100.43713699999999",
+        "stop_id": "12002356",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Permatang Pasir",
+        "stop_lat": "5.42057",
+        "stop_lon": "100.43648",
+        "stop_id": "12001170",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Pengkalan Tambang",
+        "stop_lat": "5.42701",
+        "stop_lon": "100.43426",
+        "stop_id": "12001174",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Taman Pasir Indah",
+        "stop_lat": "5.429722",
+        "stop_lon": "100.43177",
+        "stop_id": "12002357",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Taman Desa Murni",
+        "stop_lat": "5.43508",
+        "stop_lon": "100.43078",
+        "stop_id": "12001506",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Ambank Desa Murni",
+        "stop_lat": "5.437191",
+        "stop_lon": "100.43012399999999",
+        "stop_id": "12002358",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Desa Murni",
+        "stop_lat": "5.44057",
+        "stop_lon": "100.42944",
+        "stop_id": "12001561",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Klinik Kesihatan",
+        "stop_lat": "5.44249",
+        "stop_lon": "100.42988000000001",
+        "stop_id": "12001562",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Pekan Sungai Dua",
+        "stop_lat": "5.446587999999999",
+        "stop_lon": "100.43059000000001",
+        "stop_id": "12001523",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SK Sungai Dua",
+        "stop_lat": "5.448580000000001",
+        "stop_lon": "100.432",
+        "stop_id": "12001526",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Masjid Al Marbawi",
+        "stop_lat": "5.452975",
+        "stop_lon": "100.436775",
+        "stop_id": "12001540",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Taman Seri Merbau",
+        "stop_lat": "5.455008",
+        "stop_lon": "100.44055",
+        "stop_id": "12001542",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "(M3) Taman Merbau Jaya",
+        "stop_lat": "5.45655",
+        "stop_lon": "100.44268000000001",
+        "stop_id": "12001545",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Lorong Haji Din",
+        "stop_lat": "5.457902",
+        "stop_lon": "100.44458",
+        "stop_id": "12001546",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Masjid Nyior Sebatang",
+        "stop_lat": "5.46106",
+        "stop_lon": "100.44891",
+        "stop_id": "12001548",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Nyior Sebatang",
+        "stop_lat": "5.46652",
+        "stop_lon": "100.45461999999999",
+        "stop_id": "12001550",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SK Lahar Yooi",
+        "stop_lat": "5.468138",
+        "stop_lon": "100.45597",
+        "stop_id": "12001552",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Lubuk Meriam",
+        "stop_lat": "5.4743699999999995",
+        "stop_lon": "100.45741",
+        "stop_id": "12001554",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Taman Pokok Sena Indah",
+        "stop_lat": "5.47957",
+        "stop_lon": "100.45745",
+        "stop_id": "12001557",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Pokok Sena",
+        "stop_lat": "5.48456",
+        "stop_lon": "100.45747",
+        "stop_id": "12001559",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "(M3) SMKA Al Irshad",
+        "stop_lat": "5.49015",
+        "stop_lon": "100.4574",
+        "stop_id": "12001329",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Kampung Baru",
+        "stop_lat": "5.49271",
+        "stop_lon": "100.45528",
+        "stop_id": "12001330",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Taman Koskam",
+        "stop_lat": "5.4935",
+        "stop_lon": "100.45172",
+        "stop_id": "12001331",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "Taman Orkid Indah",
+        "stop_lat": "5.49447",
+        "stop_lon": "100.44875",
+        "stop_id": "12001333",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "Taman Orkid",
+        "stop_lat": "5.49599",
+        "stop_lon": "100.44553",
+        "stop_id": "12001335",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "Masjid Jamek Pongsu Seribu",
+        "stop_lat": "5.497138",
+        "stop_lon": "100.44274200000001",
+        "stop_id": "12002359",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "Kolej Matrikulasi Kepala Batas",
+        "stop_lat": "5.49712",
+        "stop_lon": "100.43635",
+        "stop_id": "12001338",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "Pejabat Peladang Kepala Batas",
+        "stop_lat": "5.496532",
+        "stop_lon": "100.4322",
+        "stop_id": "12002360",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "Taman Seri Serdang",
+        "stop_lat": "5.503354",
+        "stop_lon": "100.42944",
+        "stop_id": "12000532",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "SMK Dato Haji Ahmad Badawi",
+        "stop_lat": "5.507008",
+        "stop_lon": "100.42974",
+        "stop_id": "12000534",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "Taman Bertam Ria",
+        "stop_lat": "5.5100614000000006",
+        "stop_lon": "100.43453120000001",
+        "stop_id": "12002118",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "Hospital Kepala Batas",
+        "stop_lat": "5.51283",
+        "stop_lon": "100.43711",
+        "stop_id": "12000252",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "IPD Seberang Prai Utara",
+        "stop_lat": "5.5140447",
+        "stop_lon": "100.4395871",
+        "stop_id": "12002119",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "Pejabat Tanah Kepala Batas",
+        "stop_lat": "5.51499",
+        "stop_lon": "100.43655",
+        "stop_id": "12000255",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "Kompleks Dato Kailan",
+        "stop_lat": "5.5154",
+        "stop_lon": "100.43176",
+        "stop_id": "12001284",
+        "stop_sequence": "54"
+    }
+]

@@ -1,0 +1,373 @@
+[
+    {
+        "stop_name": "KL117 BSN LEBUH AMPANG",
+        "stop_lat": "3.1492454039518",
+        "stop_lon": "101.69737177094",
+        "stop_id": "1000383",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL30 AMANAHRAYA",
+        "stop_lat": "3.1519126007803",
+        "stop_lon": "101.69799809706",
+        "stop_id": "1003683",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "(M) KL31 HENTIAN MUNSHI ABDULLAH",
+        "stop_lat": "3.1532582998069",
+        "stop_lon": "101.69848425418",
+        "stop_id": "1000823",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M) KL32 CAPSQUARE",
+        "stop_lat": "3.1546522393082",
+        "stop_lon": "101.69837470998",
+        "stop_id": "1002560",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) KL1940 SOGO KL",
+        "stop_lat": "3.1567788096169",
+        "stop_lon": "101.69535839244",
+        "stop_id": "1003415",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL40 MEDAN MARA",
+        "stop_lat": "3.157724",
+        "stop_lon": "101.694556",
+        "stop_id": "1001984",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SKPK LELAKI JLN BATU",
+        "stop_lat": "3.159643",
+        "stop_lon": "101.694843",
+        "stop_id": "1003299",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL41 LRT SULTAN ISMAIL/WISMA SIME DARBY",
+        "stop_lat": "3.162154",
+        "stop_lon": "101.695526",
+        "stop_id": "1003257",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL42 EDC HOTEL",
+        "stop_lat": "3.165085",
+        "stop_lon": "101.696133",
+        "stop_id": "1002694",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL57 NS PENYELIDIKAN PERUBATAN",
+        "stop_lat": "3.1676749834573",
+        "stop_lon": "101.69936041071",
+        "stop_id": "1002104",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL58 MEDAN SELERA",
+        "stop_lat": "3.168009",
+        "stop_lon": "101.704354",
+        "stop_id": "1004138",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL59 SK JLN RAJA MUDA",
+        "stop_lat": "3.167985",
+        "stop_lon": "101.707342",
+        "stop_id": "1003643",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL60 YAYASAN SELANGOR",
+        "stop_lat": "3.168012",
+        "stop_lon": "101.708793",
+        "stop_id": "1004274",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL61 SETIA SKY RESIDENCE",
+        "stop_lat": "3.168117",
+        "stop_lon": "101.710298",
+        "stop_id": "1002016",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL210 MENARA CELCOM",
+        "stop_lat": "3.1684458273791",
+        "stop_lon": "101.71496998407",
+        "stop_id": "1001999",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL211 PROTON EDAR",
+        "stop_lat": "3.1709420067392",
+        "stop_lon": "101.71686700305",
+        "stop_id": "1002629",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL212 UTM (SELATAN)",
+        "stop_lat": "3.1726511272452",
+        "stop_lon": "101.71821161531",
+        "stop_id": "1001869",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL213 PULAPOL",
+        "stop_lat": "3.1746299994927",
+        "stop_lon": "101.71964238367",
+        "stop_id": "1002645",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL230 JPAM",
+        "stop_lat": "3.1756218392977",
+        "stop_lon": "101.72190048228",
+        "stop_id": "1001197",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL231 MINDEF SQUARE",
+        "stop_lat": "3.1749683711778",
+        "stop_lon": "101.72317478416",
+        "stop_id": "1002033",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL232 MARKAS LOGISTIK TENTERA",
+        "stop_lat": "3.1732756877265",
+        "stop_lon": "101.72576438369",
+        "stop_id": "1002338",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL233 GURNEY HEIGHT BLOK A",
+        "stop_lat": "3.170212",
+        "stop_lon": "101.729044",
+        "stop_id": "1006094",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL234 GURNEY HEIGHT BLOK C (OPP)",
+        "stop_lat": "3.169726",
+        "stop_lon": "101.728824",
+        "stop_id": "1007519",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL235 KG DATUK KERAMAT",
+        "stop_lat": "3.168526",
+        "stop_lon": "101.727852",
+        "stop_id": "1003133",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL2310 KUATERS JUPEM",
+        "stop_lat": "3.1665770326273",
+        "stop_lon": "101.73054664706",
+        "stop_id": "1002279",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL2312 TAMAN DATUK KERAMAT (UTARA)",
+        "stop_lat": "3.1672333090085",
+        "stop_lon": "101.73221518272",
+        "stop_id": "1001778",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "(M) KL2313 TAMAN TASIK KERAMAT",
+        "stop_lat": "3.1675551801753",
+        "stop_lon": "101.73405017986",
+        "stop_id": "1000577",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "AJ1 TAMAN KERAMAT (BARAT)",
+        "stop_lat": "3.168219",
+        "stop_lon": "101.736894",
+        "stop_id": "1000259",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "AJ450 TAMAN KERAMAT (UTARA)",
+        "stop_lat": "3.167931",
+        "stop_lon": "101.740122",
+        "stop_id": "1002887",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "AJ451 FLAT TAMAN KERAMAT",
+        "stop_lat": "3.169025",
+        "stop_lon": "101.744321",
+        "stop_id": "1000719",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "AJ2 FLAT KERAMAT (OPP)",
+        "stop_lat": "3.1700787440494",
+        "stop_lon": "101.74689493643",
+        "stop_id": "1000698",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "AJ3 PETRONAS AU2 TMN KERAMAT",
+        "stop_lat": "3.1712527876539",
+        "stop_lon": "101.75079445011",
+        "stop_id": "1003919",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "AJ4 S.E.H (OPP)",
+        "stop_lat": "3.1739382945949",
+        "stop_lon": "101.75297748463",
+        "stop_id": "1003062",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "AJ5 MEDAN SELERA DESA KERAMAT",
+        "stop_lat": "3.1765343179563",
+        "stop_lon": "101.7533559133",
+        "stop_id": "1003066",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "AJ6 GSK (OPP)",
+        "stop_lat": "3.178129791143",
+        "stop_lon": "101.75457221573",
+        "stop_id": "1000869",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "AJ7 GEOLOGI PETRONAS",
+        "stop_lat": "3.1801207373274",
+        "stop_lon": "101.75606951586",
+        "stop_id": "1003821",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "AJ8 FLAT PKNS AU3 (OPP)",
+        "stop_lat": "3.1814831882915",
+        "stop_lon": "101.75709215496",
+        "stop_id": "1000800",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "AJ9 FLAT UTM (OPP)",
+        "stop_lat": "3.1850311328965",
+        "stop_lon": "101.75916097828",
+        "stop_id": "1000995",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "AJ10 LOJI IWK",
+        "stop_lat": "3.1879037937925",
+        "stop_lon": "101.76030871743",
+        "stop_id": "1001761",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "AJ11 TRANSFORMER",
+        "stop_lat": "3.1908805190146",
+        "stop_lon": "101.76089970243",
+        "stop_id": "1004143",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "AJ12 DEWAN BAHASA PUSTAKA",
+        "stop_lat": "3.1929667398259",
+        "stop_lon": "101.76095404518",
+        "stop_id": "1000529",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "AJ13 BENGKEL ALLY AZRAN",
+        "stop_lat": "3.1948186532782",
+        "stop_lon": "101.76092373513",
+        "stop_id": "1000066",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "AJ508 MASJID AR-RIDHUAN",
+        "stop_lat": "3.1962070608269",
+        "stop_lon": "101.7627837401",
+        "stop_id": "1001882",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "AJ496 SK HULU KELANG",
+        "stop_lat": "3.2000511262707",
+        "stop_lon": "101.76123146744",
+        "stop_id": "1003640",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "AJ493 SAUDI SCHOOL (OPP)",
+        "stop_lat": "3.202877",
+        "stop_lon": "101.759261",
+        "stop_id": "1003184",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "AJ492 KOMERSIAL MELAWATI/ZOO NEGARA",
+        "stop_lat": "3.205882",
+        "stop_lon": "101.756909",
+        "stop_id": "1004288",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "AJ473 TAMAN MELAWATI B",
+        "stop_lat": "3.2107843167382",
+        "stop_lon": "101.75265211885",
+        "stop_id": "1000430",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "AJ351 SMK TAMAN MELAWATI",
+        "stop_lat": "3.2148546138065",
+        "stop_lon": "101.75039678309",
+        "stop_id": "1003410",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "AJ353 TAMAN MELAWATI A (UTARA)",
+        "stop_lat": "3.2216203339928",
+        "stop_lon": "101.74813730306",
+        "stop_id": "1000663",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "AJ357 TADIKA WATI",
+        "stop_lat": "3.225163",
+        "stop_lon": "101.748794",
+        "stop_id": "1003827",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "AJ358 TAMAN MELAWATI H",
+        "stop_lat": "3.228459",
+        "stop_lon": "101.748052",
+        "stop_id": "1000852",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "AJ359 HENTIAN TAMAN MELAWATI",
+        "stop_lat": "3.227956",
+        "stop_lon": "101.745649",
+        "stop_id": "1001259",
+        "stop_sequence": "53"
+    }
+]

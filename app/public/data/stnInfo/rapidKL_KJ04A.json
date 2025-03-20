@@ -1,0 +1,289 @@
+[
+    {
+        "stop_name": "KJ461 HENTIAN KAJANG",
+        "stop_lat": "2.9570042504083",
+        "stop_lon": "101.79171937538",
+        "stop_id": "1003903",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KJ462 PLAZA PERABOT",
+        "stop_lat": "2.961152",
+        "stop_lon": "101.792062",
+        "stop_id": "1002571",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KJ463 SHELL",
+        "stop_lat": "2.9646004641002",
+        "stop_lon": "101.79096441243",
+        "stop_id": "1003224",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KJ884 KOMERSIAL SEKSYEN 4",
+        "stop_lat": "2.964498",
+        "stop_lon": "101.781744",
+        "stop_id": "1009040",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KJ885 SMK JALAN EMPAT",
+        "stop_lat": "2.961828",
+        "stop_lon": "101.781703",
+        "stop_id": "1009042",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "JALAN 4/5D",
+        "stop_lat": "2.960752",
+        "stop_lon": "101.778165",
+        "stop_id": "1009054",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SURAU AL-KAUTHAR",
+        "stop_lat": "2.957815",
+        "stop_lon": "101.779375",
+        "stop_id": "1009052",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PANGSAPURI ANGGUN (OPP)",
+        "stop_lat": "2.955564",
+        "stop_lon": "101.779835",
+        "stop_id": "1009050",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SURAU JUBLI PERAK AL-IKHWAN (OPP)",
+        "stop_lat": "2.953705",
+        "stop_lon": "101.779201",
+        "stop_id": "1009055",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KJ926 SK JALAN EMPAT (OPP)",
+        "stop_lat": "2.951478",
+        "stop_lon": "101.779993",
+        "stop_id": "1009044",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PERUMAHAN SEKSYEN 3",
+        "stop_lat": "2.949072",
+        "stop_lon": "101.781076",
+        "stop_id": "1009031",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "BANGI PERDANA SEKSYEN 3",
+        "stop_lat": "2.944911",
+        "stop_lon": "101.780992",
+        "stop_id": "1009034",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SURAU ABDUL RAHMAN  SEKSYEN 3",
+        "stop_lat": "2.941271",
+        "stop_lon": "101.781455",
+        "stop_id": "1009036",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PANGSAPURI DAMAI RESIDENCE",
+        "stop_lat": "2.938449",
+        "stop_lon": "101.780542",
+        "stop_id": "1009038",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KJ513 BANDAR BARU BANGI SEKSYEN 2 (SELATAN)",
+        "stop_lat": "2.939188",
+        "stop_lon": "101.768608",
+        "stop_id": "1008154",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KJ514 PANGSAPURI SRI CEMPAKA",
+        "stop_lat": "2.941284",
+        "stop_lon": "101.767344",
+        "stop_id": "1006190",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KJ515 PETRONAS SEKSYEN 16",
+        "stop_lat": "2.944432",
+        "stop_lon": "101.765292",
+        "stop_id": "1006191",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KJ525 KOMPLEKS PENTADBIRAN HULU LANGAT",
+        "stop_lat": "2.956146",
+        "stop_lon": "101.757689",
+        "stop_id": "1006198",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "MAHKAMAH SYARIAH BANGI",
+        "stop_lat": "2.95919",
+        "stop_lon": "101.75429",
+        "stop_id": "1006086",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PETRONAS SEKSYEN 9 BANGI",
+        "stop_lat": "2.96132",
+        "stop_lon": "101.75156",
+        "stop_id": "1006087",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KJ429 KOMERSIAL SEKSYEN 8 BANDAR BARU BANGI",
+        "stop_lat": "2.962555",
+        "stop_lon": "101.757129",
+        "stop_id": "1006089",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SEKSYEN 6 PUNCAK BANGI",
+        "stop_lat": "2.96204",
+        "stop_lon": "101.761169",
+        "stop_id": "1006090",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KJ516 BANDAR BARU BANGI SEKSYEN 2 (UTARA)",
+        "stop_lat": "2.944499",
+        "stop_lon": "101.765586",
+        "stop_id": "1006091",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KJ519 PANGSAPURI SRI CEMPAKA",
+        "stop_lat": "2.941203",
+        "stop_lon": "101.767719",
+        "stop_id": "1008153",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KJ520 BANDAR BARU BANGI SEKSYEN 2 (SELATAN)",
+        "stop_lat": "2.938104",
+        "stop_lon": "101.769635",
+        "stop_id": "1006062",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "BANGI MUNAWWARAH",
+        "stop_lat": "2.938383",
+        "stop_lon": "101.780255",
+        "stop_id": "1009039",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SURAU ABDUL RAHMAN SEKSYEN 3 (OPP)",
+        "stop_lat": "2.941554",
+        "stop_lon": "101.781346",
+        "stop_id": "1009037",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "BANGI PERDANA SEKSYEN 3",
+        "stop_lat": "2.944562",
+        "stop_lon": "101.780898",
+        "stop_id": "1009035",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SURAU BANGI PERDANA",
+        "stop_lat": "2.947434",
+        "stop_lon": "101.780886",
+        "stop_id": "1009033",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PERUMAHAN SEKSYEN 3",
+        "stop_lat": "2.948703",
+        "stop_lon": "101.780948",
+        "stop_id": "1009032",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KJ918 SK JALAN EMPAT",
+        "stop_lat": "2.951387",
+        "stop_lon": "101.779617",
+        "stop_id": "1009045",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KJ920 SURAU JUBLI PERAK AL-IKHWAN",
+        "stop_lat": "2.953822",
+        "stop_lon": "101.779138",
+        "stop_id": "1009048",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KJ921 PANGSAPURI ANGGUN",
+        "stop_lat": "2.955532",
+        "stop_lon": "101.779691",
+        "stop_id": "1009049",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KJ922 PETRONAS UNIKEB 2",
+        "stop_lat": "2.957885",
+        "stop_lon": "101.779211",
+        "stop_id": "1009051",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KJ923 JALAN 4/3",
+        "stop_lat": "2.960731",
+        "stop_lon": "101.778052",
+        "stop_id": "1009053",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KJ930 SMK JALAN EMPAT (OPP)",
+        "stop_lat": "2.961778",
+        "stop_lon": "101.781593",
+        "stop_id": "1009043",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KJ931 KOMERSIAL SEKSYEN 4",
+        "stop_lat": "2.964379",
+        "stop_lon": "101.781638",
+        "stop_id": "1009041",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KJ450 REKO SENTRAL",
+        "stop_lat": "2.965787",
+        "stop_lon": "101.789334",
+        "stop_id": "1006250",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KJ208 SHELL (OPP)",
+        "stop_lat": "2.963936",
+        "stop_lon": "101.791419",
+        "stop_id": "1003225",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KJ209 PLAZA PERABOT (OPP)",
+        "stop_lat": "2.960963",
+        "stop_lon": "101.792391",
+        "stop_id": "1002572",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KJ461 HENTIAN KAJANG",
+        "stop_lat": "2.9570042504083",
+        "stop_lon": "101.79171937538",
+        "stop_id": "1003903",
+        "stop_sequence": "41"
+    }
+]

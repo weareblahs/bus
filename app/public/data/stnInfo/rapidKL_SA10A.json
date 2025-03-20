@@ -1,0 +1,268 @@
+[
+    {
+        "stop_name": "PETRONAS BUKIT SUBANG U16",
+        "stop_lat": "3.171054",
+        "stop_lon": "101.510482",
+        "stop_id": "1007726",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA759 PANGSAPURI CENDANA",
+        "stop_lat": "3.173365",
+        "stop_lon": "101.512023",
+        "stop_id": "1002134",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA760 SK TAMAN BUKIT SUBANG (OPP)",
+        "stop_lat": "3.172782",
+        "stop_lon": "101.513278",
+        "stop_id": "1003661",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA950 PANGSAPURI MELOR",
+        "stop_lat": "3.172357",
+        "stop_lon": "101.514925",
+        "stop_id": "1000133",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA761 PANGSAPURI TERATAI",
+        "stop_lat": "3.172279",
+        "stop_lon": "101.515448",
+        "stop_id": "1000154",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA762 PANGSAPURI MELATI",
+        "stop_lat": "3.171309",
+        "stop_lon": "101.516914",
+        "stop_id": "1000132",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA763 TAMAN BUKIT SUBANG (TIMUR)",
+        "stop_lat": "3.169287",
+        "stop_lon": "101.517274",
+        "stop_id": "1002149",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA764 PANGSAPURI LILY (OPP)",
+        "stop_lat": "3.168747",
+        "stop_lon": "101.515623",
+        "stop_id": "1002152",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA775 E-BOULEVARD DENAI ALAM",
+        "stop_lat": "3.163326",
+        "stop_lon": "101.512687",
+        "stop_id": "1003051",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KOMERSIAL DENAI ALAM (TIMUR)",
+        "stop_lat": "3.160651",
+        "stop_lon": "101.512104",
+        "stop_id": "1007724",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA776 DENAI ALAM (TIMUR)",
+        "stop_lat": "3.159304",
+        "stop_lon": "101.516458",
+        "stop_id": "1000537",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA664 TAMAN SUBANG BARU",
+        "stop_lat": "3.152921",
+        "stop_lon": "101.529267",
+        "stop_id": "1001447",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA666 SMK SUBANG U6 (OPP)",
+        "stop_lat": "3.151279",
+        "stop_lon": "101.529205",
+        "stop_id": "1007722",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA667 KG MELAYU SUBANG (BARAT)",
+        "stop_lat": "3.148669",
+        "stop_lon": "101.530516",
+        "stop_id": "1001733",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJKC SUBANG",
+        "stop_lat": "3.142784",
+        "stop_lon": "101.534938",
+        "stop_id": "1006785",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA658 ECONSAVE PEKAN SUBANG",
+        "stop_lat": "3.138592",
+        "stop_lon": "101.529482",
+        "stop_id": "1000606",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PETRON U9 (OPP)",
+        "stop_lat": "3.131461",
+        "stop_lon": "101.526046",
+        "stop_id": "1006802",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PLAZA JELUTONG SEKSYEN 8",
+        "stop_lat": "3.116174",
+        "stop_lon": "101.528685",
+        "stop_id": "1006784",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SMK BUKIT JELUTONG",
+        "stop_lat": "3.10859",
+        "stop_lon": "101.531283",
+        "stop_id": "1006782",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SK BUKIT JELUTONG",
+        "stop_lat": "3.106441",
+        "stop_lon": "101.531056",
+        "stop_id": "1006780",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PUSAT KOMERSIAL D'BAYU",
+        "stop_lat": "3.103596",
+        "stop_lon": "101.528472",
+        "stop_id": "1006778",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA517 KOMERSIAL D'PANGKIN",
+        "stop_lat": "3.114439",
+        "stop_lon": "101.526866",
+        "stop_id": "1007720",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PLAZA JELUTONG SEKSYEN 8 (OPP)",
+        "stop_lat": "3.116437",
+        "stop_lon": "101.528539",
+        "stop_id": "1006783",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PETRON U9",
+        "stop_lat": "3.131978",
+        "stop_lon": "101.525753",
+        "stop_id": "1006801",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA659 ECONSAVE PEKAN SUBANG (OPP)",
+        "stop_lat": "3.1388397403585",
+        "stop_lon": "101.52924679071",
+        "stop_id": "1000605",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA660 KG BARU SUBANG (UTARA)",
+        "stop_lat": "3.142596",
+        "stop_lon": "101.532907",
+        "stop_id": "1002477",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA661 KG MELAYU SUBANG (BARAT)",
+        "stop_lat": "3.148488",
+        "stop_lon": "101.530508",
+        "stop_id": "1002025",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA662 SMK SUBANG U6",
+        "stop_lat": "3.151801",
+        "stop_lon": "101.529099",
+        "stop_id": "1007721",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA663 TAMAN SUBANG BARU",
+        "stop_lat": "3.1525132249343",
+        "stop_lon": "101.52914756618",
+        "stop_id": "1001446",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SA756 DENAI ALAM (TIMUR)",
+        "stop_lat": "3.159082",
+        "stop_lon": "101.515819",
+        "stop_id": "1000538",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KOMERSIAL DENAI ALAM (TIMUR) (OPP)",
+        "stop_lat": "3.160354",
+        "stop_lon": "101.511815",
+        "stop_id": "1007723",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SA757 E-BOULEVARD DENAI ALAM (SRADA)",
+        "stop_lat": "3.1632264995859",
+        "stop_lon": "101.51218585825",
+        "stop_id": "1003050",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SA767 PANGSAPURI LILI",
+        "stop_lat": "3.168908",
+        "stop_lon": "101.515741",
+        "stop_id": "1007725",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SA768 TAMAN BUKIT SUBANG (TIMUR)",
+        "stop_lat": "3.169343",
+        "stop_lon": "101.517113",
+        "stop_id": "1007729",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SA769 PANGSAPURI KIAMBANG",
+        "stop_lat": "3.171377",
+        "stop_lon": "101.516721",
+        "stop_id": "1007728",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SA770 SK TAMAN BUKIT SUBANG",
+        "stop_lat": "3.172335",
+        "stop_lon": "101.514238",
+        "stop_id": "1007727",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SA771 PANGSAPURI CENDANA (OPP)",
+        "stop_lat": "3.173262",
+        "stop_lon": "101.511961",
+        "stop_id": "1007730",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PETRONAS BUKIT SUBANG U16",
+        "stop_lat": "3.171054",
+        "stop_lon": "101.510482",
+        "stop_id": "1007726",
+        "stop_sequence": "38"
+    }
+]

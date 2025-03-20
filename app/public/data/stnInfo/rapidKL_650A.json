@@ -1,0 +1,303 @@
+[
+    {
+        "stop_name": "(M) KL2213 PASAR SENI (PLATFORM C1 - C3)",
+        "stop_lat": "3.142446",
+        "stop_lon": "101.695523",
+        "stop_id": "1004343",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1092 PUBLIC BANK",
+        "stop_lat": "3.139119",
+        "stop_lon": "101.695358",
+        "stop_id": "1002640",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL2145 HOTEL PRESCOTT",
+        "stop_lat": "3.136322",
+        "stop_lon": "101.690915",
+        "stop_id": "1002495",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1080 BRICKFIELDS",
+        "stop_lat": "3.1336400597905",
+        "stop_lon": "101.68908163724",
+        "stop_id": "1004276",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1082 SK METHODIST",
+        "stop_lat": "3.131473",
+        "stop_lon": "101.689089",
+        "stop_id": "1002023",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1083 PALM COURT",
+        "stop_lat": "3.129818",
+        "stop_lon": "101.687114",
+        "stop_id": "1002234",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1084 SMK LA SALLE",
+        "stop_lat": "3.127033195959",
+        "stop_lon": "101.68320063589",
+        "stop_id": "1003301",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1085 BALAI POLIS BRICKFIELDS",
+        "stop_lat": "3.125382",
+        "stop_lon": "101.682305",
+        "stop_id": "1000205",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL278 KOMERSIAL TAMAN SEPUTEH",
+        "stop_lat": "3.120092",
+        "stop_lon": "101.679603",
+        "stop_id": "1004210",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1179 MAZDA",
+        "stop_lat": "3.1094981426141",
+        "stop_lon": "101.678508753",
+        "stop_id": "1000981",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) KL1180 BHP",
+        "stop_lat": "3.1072844280663",
+        "stop_lon": "101.67868293317",
+        "stop_id": "1000289",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1181 SHELL",
+        "stop_lat": "3.105637",
+        "stop_lon": "101.678384",
+        "stop_id": "1003216",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1182 THAM WAH WAN",
+        "stop_lat": "3.1034073153277",
+        "stop_lon": "101.67791957298",
+        "stop_id": "1004113",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1183 AVANTAS RESIDENCE",
+        "stop_lat": "3.1001431566626",
+        "stop_lon": "101.6765307254",
+        "stop_id": "1000493",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL1184 TAMAN SHANGHAI (SELATAN)",
+        "stop_lat": "3.098404",
+        "stop_lon": "101.676208",
+        "stop_id": "1003568",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1185 BALAI BOMBA TAMAN DESA",
+        "stop_lat": "3.096833",
+        "stop_lon": "101.677511",
+        "stop_id": "1000364",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1186 PERUMAHAN TAMAN DESA",
+        "stop_lat": "3.099941",
+        "stop_lon": "101.679635",
+        "stop_id": "1002219",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1187 FABER HEIGHTS",
+        "stop_lat": "3.102058",
+        "stop_lon": "101.680727",
+        "stop_id": "1000652",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL1188 WISMA TELEKOM TAMAN DESA",
+        "stop_lat": "3.103578",
+        "stop_lon": "101.682278",
+        "stop_id": "1003880",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1189 KONDOMINIUM DESARINA",
+        "stop_lat": "3.106434",
+        "stop_lon": "101.683769",
+        "stop_id": "1001667",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1190 OBD GARDEN TOWER",
+        "stop_lat": "3.108738",
+        "stop_lon": "101.685547",
+        "stop_id": "1002111",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1191 PERUMAHAN TAMAN DESA",
+        "stop_lat": "3.108481",
+        "stop_lon": "101.688597",
+        "stop_id": "1002940",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1192 SMK DESA PERDANA",
+        "stop_lat": "3.106388",
+        "stop_lon": "101.689895",
+        "stop_id": "1003662",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1204 MASJID AL-MUHSININ",
+        "stop_lat": "3.104172",
+        "stop_lon": "101.688755",
+        "stop_id": "1001912",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL2037 SMK TAMAN DESA",
+        "stop_lat": "3.103311",
+        "stop_lon": "101.687281",
+        "stop_id": "1003408",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1205 FABER TOWERS (OPP)",
+        "stop_lat": "3.101496",
+        "stop_lon": "101.685088",
+        "stop_id": "1000653",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL1206 SHELL TAMAN DANAU DESA",
+        "stop_lat": "3.100554",
+        "stop_lon": "101.686391",
+        "stop_id": "1003203",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL1207 KONDOMINIUM DANAU IDAMAN",
+        "stop_lat": "3.099161",
+        "stop_lon": "101.686357",
+        "stop_id": "1003190",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL1208 APARTMENT ABADI INDAH",
+        "stop_lat": "3.096424",
+        "stop_lon": "101.685293",
+        "stop_id": "1000106",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL1209 TAMAN DESA (SELATAN)",
+        "stop_lat": "3.096107",
+        "stop_lon": "101.682037",
+        "stop_id": "1000162",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL1210 TAMAN DESA MEDICAL CENTRE",
+        "stop_lat": "3.096435",
+        "stop_lon": "101.677744",
+        "stop_id": "1003873",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL1281 SOUTHBANK RESIDENCE",
+        "stop_lat": "3.101513",
+        "stop_lon": "101.676822",
+        "stop_id": "1003199",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL1282 3RD MILES SQUARE",
+        "stop_lat": "3.103537",
+        "stop_lon": "101.677629",
+        "stop_id": "1004204",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL1283 SHELL (OPP)",
+        "stop_lat": "3.105557",
+        "stop_lon": "101.678057",
+        "stop_id": "1001009",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL1284 WISMA BUDDHIST",
+        "stop_lat": "3.108093",
+        "stop_lon": "101.678386",
+        "stop_id": "1004229",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL1395 SAVILLE RESIDENCE (OPP)",
+        "stop_lat": "3.110688",
+        "stop_lon": "101.678065",
+        "stop_id": "1001346",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL1535 MIDVALLEY",
+        "stop_lat": "3.119766",
+        "stop_lon": "101.679256",
+        "stop_id": "1004209",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL1086 IPD BRICKFIELDS",
+        "stop_lat": "3.126168",
+        "stop_lon": "101.682412",
+        "stop_id": "1000206",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL1079 KL SENTRAL",
+        "stop_lat": "3.132961",
+        "stop_lon": "101.687618",
+        "stop_id": "1001512",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL1090 SENTRAL EXHIBITION MALL",
+        "stop_lat": "3.134408",
+        "stop_lon": "101.688902",
+        "stop_id": "1004275",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL1925 JABATAN WARISAN NEGARA",
+        "stop_lat": "3.138258",
+        "stop_lon": "101.694216",
+        "stop_id": "1003588",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL1091 PUBLIC BANK (OPP)",
+        "stop_lat": "3.138761",
+        "stop_lon": "101.695062",
+        "stop_id": "1002639",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "(M) KL2213 PASAR SENI (PLATFORM C1 - C3)",
+        "stop_lat": "3.142446",
+        "stop_lon": "101.695523",
+        "stop_id": "1004343",
+        "stop_sequence": "43"
+    }
+]

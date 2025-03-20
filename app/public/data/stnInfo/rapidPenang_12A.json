@@ -1,0 +1,240 @@
+[
+    {
+        "stop_name": "(M1) JETTY A",
+        "stop_lat": "5.414174",
+        "stop_lon": "100.3422281",
+        "stop_id": "12002113",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Container Hotel",
+        "stop_lat": "5.41415",
+        "stop_lon": "100.34042",
+        "stop_id": "12000007",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Restoran Kapitan",
+        "stop_lat": "5.41602",
+        "stop_lon": "100.33892",
+        "stop_id": "12001916",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Kampung Kolam",
+        "stop_lat": "5.41606",
+        "stop_lon": "100.33669",
+        "stop_id": "12000610",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Lebuh Carnavon",
+        "stop_lat": "5.41477",
+        "stop_lon": "100.33431999999999",
+        "stop_id": "12001911",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Komtar",
+        "stop_lat": "5.41378",
+        "stop_lon": "100.33094",
+        "stop_id": "12001937",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Terminal Komtar",
+        "stop_lat": "5.4141808",
+        "stop_lon": "100.33031319999999",
+        "stop_id": "12002116",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Komtar Timur",
+        "stop_lat": "5.414579",
+        "stop_lon": "100.33229",
+        "stop_id": "12000474",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Apartment Sri Saujana",
+        "stop_lat": "5.407129",
+        "stop_lon": "100.33343",
+        "stop_id": "12000012",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJK Li Tek",
+        "stop_lat": "5.405869999999999",
+        "stop_lon": "100.33352",
+        "stop_id": "12002016",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Pejabat Pos Macallum",
+        "stop_lat": "5.406042",
+        "stop_lon": "100.33189",
+        "stop_id": "12000005",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Pangsapuri Ocean View I",
+        "stop_lat": "5.39961",
+        "stop_lon": "100.32715999999999",
+        "stop_id": "12001990",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Pangsapuri Ocean View",
+        "stop_lat": "5.39816",
+        "stop_lon": "100.32812",
+        "stop_id": "12001946",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Kompleks Makanan Ocean View",
+        "stop_lat": "5.40073",
+        "stop_lon": "100.32986",
+        "stop_id": "12001947",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Summer Place",
+        "stop_lat": "5.40109",
+        "stop_lon": "100.33093000000001",
+        "stop_id": "12001948",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M1) Persiaran Kapal Singh",
+        "stop_lat": "5.39849",
+        "stop_lon": "100.33054",
+        "stop_id": "12002076",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Pejabat Pos Macallum",
+        "stop_lat": "5.40606",
+        "stop_lon": "100.3319",
+        "stop_id": "12000006",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJK Li Tek",
+        "stop_lat": "5.40604",
+        "stop_lon": "100.33349",
+        "stop_id": "12002017",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Apartment Sri Saujana",
+        "stop_lat": "5.407058",
+        "stop_lon": "100.3333",
+        "stop_id": "12000009",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Flat Lebuh Noordin",
+        "stop_lat": "5.41115",
+        "stop_lon": "100.33395",
+        "stop_id": "12000003",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Jalan Magazine",
+        "stop_lat": "5.411939",
+        "stop_lon": "100.333",
+        "stop_id": "12000842",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Komtar",
+        "stop_lat": "5.41378",
+        "stop_lon": "100.33094",
+        "stop_id": "12001937",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Lebuh Carnavon",
+        "stop_lat": "5.41424",
+        "stop_lon": "100.33328",
+        "stop_id": "12001910",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Hotel Armenian",
+        "stop_lat": "5.415494",
+        "stop_lon": "100.335",
+        "stop_id": "12001915",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Kampung Kolam",
+        "stop_lat": "5.41614",
+        "stop_lon": "100.33646999999999",
+        "stop_id": "12000611",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Little India",
+        "stop_lat": "5.4164699999999995",
+        "stop_lon": "100.33854000000001",
+        "stop_id": "12001917",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Container Hotel",
+        "stop_lat": "5.4142",
+        "stop_lon": "100.34045",
+        "stop_id": "12002318",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Jejantas Terminal Feri",
+        "stop_lat": "5.414516000000001",
+        "stop_lon": "100.34186600000001",
+        "stop_id": "12002056",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Pejabat Pos Besar P.Pinang",
+        "stop_lat": "5.41721",
+        "stop_lon": "100.34428",
+        "stop_id": "12002058",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Pejabat Pos Besar P.Pinang 1",
+        "stop_lat": "5.4180154",
+        "stop_lon": "100.3436892",
+        "stop_id": "12002971",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Balai Polis",
+        "stop_lat": "5.418646",
+        "stop_lon": "100.34356",
+        "stop_id": "12001943",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Swettenham Pier Cruise Terminal",
+        "stop_lat": "5.4185041",
+        "stop_lon": "100.34508129999999",
+        "stop_id": "12002972",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Church Street Pier",
+        "stop_lat": "5.41664",
+        "stop_lon": "100.34413",
+        "stop_id": "12002057",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "(M1) JETTY A",
+        "stop_lat": "5.414174",
+        "stop_lon": "100.3422281",
+        "stop_id": "12002113",
+        "stop_sequence": "34"
+    }
+]

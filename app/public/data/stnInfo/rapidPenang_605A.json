@@ -1,0 +1,268 @@
+[
+    {
+        "stop_name": "(M1) Penang Sentral",
+        "stop_lat": "5.3948602",
+        "stop_lon": "100.3653495",
+        "stop_id": "12002322",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Taman Selat",
+        "stop_lat": "5.40005",
+        "stop_lon": "100.36809000000001",
+        "stop_id": "12000120",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Pejabat Kesihatan SPU",
+        "stop_lat": "5.40636",
+        "stop_lon": "100.36949",
+        "stop_id": "12000123",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Public Mutual Bagan Luar",
+        "stop_lat": "5.41006",
+        "stop_lon": "100.37083",
+        "stop_id": "12000125",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Maktab Wan Jah",
+        "stop_lat": "5.41322",
+        "stop_lon": "100.37374",
+        "stop_id": "12001701",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Pangsapuri Telaga Emas",
+        "stop_lat": "5.4134400000000005",
+        "stop_lon": "100.37468",
+        "stop_id": "12001702",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJKC Chung Hwa 1",
+        "stop_lat": "5.4138",
+        "stop_lon": "100.37743",
+        "stop_id": "12001705",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Taman Cantik",
+        "stop_lat": "5.414630000000001",
+        "stop_lon": "100.38273000000001",
+        "stop_id": "12001195",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Taman Bagan",
+        "stop_lat": "5.41467",
+        "stop_lon": "100.38436999999999",
+        "stop_id": "12001196",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Astaka Mak Mandin",
+        "stop_lat": "5.415973200000001",
+        "stop_lon": "100.38583659999999",
+        "stop_id": "12002377",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Kilang Professinal",
+        "stop_lat": "5.41937",
+        "stop_lon": "100.38602",
+        "stop_id": "12000853",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Flat Mak Mandin",
+        "stop_lat": "5.41984",
+        "stop_lon": "100.38736999999999",
+        "stop_id": "12002037",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Pejabat Pos Mak Mandin",
+        "stop_lat": "5.41972",
+        "stop_lon": "100.38917",
+        "stop_id": "12002035",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJK Tamil Mak Mandin",
+        "stop_lat": "5.41961",
+        "stop_lon": "100.39109",
+        "stop_id": "12002034",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Taman Mak Mandin",
+        "stop_lat": "5.42022",
+        "stop_lon": "100.39313",
+        "stop_id": "12002039",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Taman Mak Mandin II",
+        "stop_lat": "5.4199269999999995",
+        "stop_lon": "100.395174",
+        "stop_id": "12002378",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Bengkel MPSP Mak Mandin",
+        "stop_lat": "5.42037",
+        "stop_lon": "100.3968",
+        "stop_id": "12000107",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Taman Carissa Villa",
+        "stop_lat": "5.4235",
+        "stop_lon": "100.39725",
+        "stop_id": "12000109",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Apartmen Centro View",
+        "stop_lat": "5.4248",
+        "stop_lon": "100.39699",
+        "stop_id": "12000110",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Taman Mesra",
+        "stop_lat": "5.428419",
+        "stop_lon": "100.397145",
+        "stop_id": "12002379",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Taman Mesra",
+        "stop_lat": "5.43041",
+        "stop_lon": "100.397",
+        "stop_id": "12000113",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Taman Mesra Indah",
+        "stop_lat": "5.43518",
+        "stop_lon": "100.39709",
+        "stop_id": "12000115",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Taman Cengkih",
+        "stop_lat": "5.436338",
+        "stop_lon": "100.39745699999999",
+        "stop_id": "12002380",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Taman Industri Cengal",
+        "stop_lat": "5.4403",
+        "stop_lon": "100.39735999999999",
+        "stop_id": "12000119",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "BGM Building",
+        "stop_lat": "5.4423580000000005",
+        "stop_lon": "100.39738299999999",
+        "stop_id": "12002381",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Pekan Sungai Puyu",
+        "stop_lat": "5.44873",
+        "stop_lon": "100.39698",
+        "stop_id": "12001591",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M3) Taman Seri Pinang",
+        "stop_lat": "5.449669999999999",
+        "stop_lon": "100.39922",
+        "stop_id": "12001592",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Pekan Maklom",
+        "stop_lat": "5.45056",
+        "stop_lon": "100.40128",
+        "stop_id": "12001595",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Pekan Maklom II",
+        "stop_lat": "5.452896",
+        "stop_lon": "100.401896",
+        "stop_id": "12002382",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Masjid Permatang Tok Jaya",
+        "stop_lat": "5.4571510000000005",
+        "stop_lon": "100.401268",
+        "stop_id": "12002383",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Madrasah Adiniah A-Islamiah",
+        "stop_lat": "5.461915",
+        "stop_lon": "100.4004",
+        "stop_id": "12001039",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Surau Permatang Tok Jaya",
+        "stop_lat": "5.4675",
+        "stop_lon": "100.40021999999999",
+        "stop_id": "12001041",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SMK Permatang Tok Jaya",
+        "stop_lat": "5.472158",
+        "stop_lon": "100.40104000000001",
+        "stop_id": "12001042",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Masjid Pekan Darat",
+        "stop_lat": "5.475678",
+        "stop_lon": "100.401353",
+        "stop_id": "12002384",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Persimpang Jalan Haji Murshid",
+        "stop_lat": "5.47716",
+        "stop_lon": "100.40138",
+        "stop_id": "12001044",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Kampung Paya",
+        "stop_lat": "5.487664",
+        "stop_lon": "100.40016899999999",
+        "stop_id": "12002385",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Pejabat Agama Daerah SPU",
+        "stop_lat": "5.4895011",
+        "stop_lon": "100.39712420000001",
+        "stop_id": "12002386",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Hub Teluk Air Tawar",
+        "stop_lat": "5.49381",
+        "stop_lon": "100.38386",
+        "stop_id": "12001734",
+        "stop_sequence": "38"
+    }
+]

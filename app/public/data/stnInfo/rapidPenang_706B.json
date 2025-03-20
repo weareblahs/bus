@@ -1,0 +1,170 @@
+[
+    {
+        "stop_name": "Hub Taman Juru Setia",
+        "stop_lat": "5.33303",
+        "stop_lon": "100.42664",
+        "stop_id": "12001290",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Nashmir Car Park",
+        "stop_lat": "5.340143",
+        "stop_lon": "100.42792",
+        "stop_id": "12002130",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Medan Selera Seri Pelangi",
+        "stop_lat": "5.3420000000000005",
+        "stop_lon": "100.42726",
+        "stop_id": "12002131",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Kilang Xylem",
+        "stop_lat": "5.343564",
+        "stop_lon": "100.426087",
+        "stop_id": "12002136",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Pangsapuri Taman Pelangi",
+        "stop_lat": "5.3453204",
+        "stop_lon": "100.425329",
+        "stop_id": "12002947",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Kilang FMS",
+        "stop_lat": "5.355735",
+        "stop_lon": "100.413023",
+        "stop_id": "12002504",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Kilang Punch",
+        "stop_lat": "5.36104",
+        "stop_lon": "100.41064",
+        "stop_id": "12002123",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Pusat Komersial Nagasari",
+        "stop_lat": "5.361658",
+        "stop_lon": "100.410934",
+        "stop_id": "12002505",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Klinik Bersatu",
+        "stop_lat": "5.363021400000001",
+        "stop_lon": "100.41156509999999",
+        "stop_id": "12002124",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Padang Permainan Taman Nagasari",
+        "stop_lat": "5.36497",
+        "stop_lon": "100.41395",
+        "stop_id": "12002125",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Lorong Nagasari23",
+        "stop_lat": "5.36679",
+        "stop_lon": "100.41381",
+        "stop_id": "12002126",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Pangsapuri Nagasari Blok B",
+        "stop_lat": "5.366281",
+        "stop_lon": "100.41329499999999",
+        "stop_id": "12002506",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Padang Permainan Taman Nagasari",
+        "stop_lat": "5.3649",
+        "stop_lon": "100.41395",
+        "stop_id": "12002127",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Klinik Bersatu",
+        "stop_lat": "5.362995300000001",
+        "stop_lon": "100.41163780000001",
+        "stop_id": "12002128",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Warung Bonda",
+        "stop_lat": "5.3612",
+        "stop_lon": "100.41079",
+        "stop_id": "12002129",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Petron Kawasan Perusahaan Perai",
+        "stop_lat": "5.355105",
+        "stop_lon": "100.414671",
+        "stop_id": "12002508",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Kilang Flextronix",
+        "stop_lat": "5.3513459999999995",
+        "stop_lon": "100.415548",
+        "stop_id": "12002507",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Hadapan SMPC",
+        "stop_lat": "5.350936",
+        "stop_lon": "100.408519",
+        "stop_id": "12002138",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Kilang LB Aluminium",
+        "stop_lat": "5.354435",
+        "stop_lon": "100.401979",
+        "stop_id": "12002122",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Kastam Perai",
+        "stop_lat": "5.35679",
+        "stop_lon": "100.4011559",
+        "stop_id": "12002602",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M2) Megamall - Pacific",
+        "stop_lat": "5.37879",
+        "stop_lon": "100.39794",
+        "stop_id": "12001067",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Kuil Sri Muniswara",
+        "stop_lat": "5.380380000000001",
+        "stop_lon": "100.39541",
+        "stop_id": "12000179",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Padang Kilat",
+        "stop_lat": "5.381530000000001",
+        "stop_lon": "100.39312",
+        "stop_id": "12000180",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "(M1) Penang Sentral",
+        "stop_lat": "5.3948602",
+        "stop_lon": "100.3653495",
+        "stop_id": "12002322",
+        "stop_sequence": "24"
+    }
+]

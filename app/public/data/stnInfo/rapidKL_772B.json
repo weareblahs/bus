@@ -1,0 +1,331 @@
+[
+    {
+        "stop_name": "(M) KL2212 PASAR SENI (PLATFORM D1 - D6)",
+        "stop_lat": "3.141834",
+        "stop_lon": "101.695246",
+        "stop_id": "1004344",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL2144 TM BRICKFIELDS",
+        "stop_lat": "3.1374677062962",
+        "stop_lon": "101.69324504902",
+        "stop_id": "1000857",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL2145 HOTEL PRESCOTT",
+        "stop_lat": "3.136322",
+        "stop_lon": "101.690915",
+        "stop_id": "1002495",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1080 BRICKFIELDS",
+        "stop_lat": "3.1336400597905",
+        "stop_lon": "101.68908163724",
+        "stop_id": "1004276",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1082 SK METHODIST",
+        "stop_lat": "3.131473",
+        "stop_lon": "101.689089",
+        "stop_id": "1002023",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1083 PALM COURT",
+        "stop_lat": "3.129818",
+        "stop_lon": "101.687114",
+        "stop_id": "1002234",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1760 SUASANA SENTRAL LOFT",
+        "stop_lat": "3.1303212241286",
+        "stop_lon": "101.68364204616",
+        "stop_id": "1003608",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1095 BANGSAR UTAMA",
+        "stop_lat": "3.129203160217",
+        "stop_lon": "101.68065981755",
+        "stop_id": "1002086",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) KL1096 LRT BANGSAR (OPP)",
+        "stop_lat": "3.1273688525384",
+        "stop_lon": "101.67914951654",
+        "stop_id": "1001788",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1097 PPR ABDULLAH HUKUM",
+        "stop_lat": "3.1231698334516",
+        "stop_lon": "101.67654695028",
+        "stop_id": "1002600",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1098 LRT ABDULLAH HUKUM",
+        "stop_lat": "3.1180320477095",
+        "stop_lon": "101.67260077298",
+        "stop_id": "1004110",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1099 SK BANGSAR",
+        "stop_lat": "3.1167609772467",
+        "stop_lon": "101.67034409462",
+        "stop_id": "1000365",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1191 IPD PANTAI",
+        "stop_lat": "3.117224",
+        "stop_lon": "101.667171",
+        "stop_id": "1008143",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) KL1441 KL GATEWAY - LRT UNIVERSITI",
+        "stop_lat": "3.1147478848012",
+        "stop_lon": "101.66181039156",
+        "stop_id": "1001410",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ596 KWSP FEDERAL",
+        "stop_lat": "3.1100056269729",
+        "stop_lon": "101.65318137013",
+        "stop_id": "1002621",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ441 TASIK TAMAN JAYA",
+        "stop_lat": "3.103962",
+        "stop_lon": "101.648321",
+        "stop_id": "1003857",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "(M) PJ750 PJ8 TOWER",
+        "stop_lat": "3.1022385629392",
+        "stop_lon": "101.63926132215",
+        "stop_id": "1000166",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ600 KTM SERI SETIA",
+        "stop_lat": "3.0844706972703",
+        "stop_lon": "101.62004709521",
+        "stop_id": "1003174",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ744 KTM SETIA JAYA",
+        "stop_lat": "3.0837013581979",
+        "stop_lon": "101.61282004095",
+        "stop_id": "1002064",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ606 BT10/MENTARI COURT",
+        "stop_lat": "3.0831411956406",
+        "stop_lon": "101.60818132555",
+        "stop_id": "1000387",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M) PJ610 LRT ARA DAMANSARA (OPP)",
+        "stop_lat": "3.107109",
+        "stop_lon": "101.585532",
+        "stop_id": "1008324",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ608 DATARAN PHB",
+        "stop_lat": "3.108999",
+        "stop_lon": "101.582599",
+        "stop_id": "1003068",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA908 OASIS ARA DAMANSARA (SELATAN)",
+        "stop_lat": "3.112881",
+        "stop_lon": "101.571694",
+        "stop_id": "1006589",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SA906 BULATAN SUBANG AIRPORT",
+        "stop_lat": "3.116964",
+        "stop_lon": "101.563837",
+        "stop_id": "1006523",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA899 AEROTREE",
+        "stop_lat": "3.1243614699695",
+        "stop_lon": "101.55938979012",
+        "stop_id": "1000104",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA901 SUBANG SKYPARK",
+        "stop_lat": "3.1311661554082",
+        "stop_lon": "101.55533657899",
+        "stop_id": "1003889",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA909 SUBANG SKYPARK TERMINAL",
+        "stop_lat": "3.133203",
+        "stop_lon": "101.553966",
+        "stop_id": "1007327",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA921 KG BARU SUBANG (SELATAN)",
+        "stop_lat": "3.138994",
+        "stop_lon": "101.552405",
+        "stop_id": "1007346",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA604 U5 (SELATAN)",
+        "stop_lat": "3.140191",
+        "stop_lon": "101.546844",
+        "stop_id": "1002726",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SA603 U5 (BARAT)",
+        "stop_lat": "3.146088",
+        "stop_lon": "101.543611",
+        "stop_id": "1001421",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA654 KOMERSIAL SUBANG PERDANA",
+        "stop_lat": "3.149544",
+        "stop_lon": "101.543415",
+        "stop_id": "1003697",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SA655 PEKAN BARU SUBANG",
+        "stop_lat": "3.145205",
+        "stop_lon": "101.538202",
+        "stop_id": "1002047",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SA656 KG MELAYU SUBANG (SELATAN)",
+        "stop_lat": "3.144174",
+        "stop_lon": "101.536324",
+        "stop_id": "1002383",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SJKC SUBANG",
+        "stop_lat": "3.142784",
+        "stop_lon": "101.534938",
+        "stop_id": "1006785",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SA661 KG MELAYU SUBANG (BARAT)",
+        "stop_lat": "3.148488",
+        "stop_lon": "101.530508",
+        "stop_id": "1002025",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SA663 TAMAN SUBANG BARU",
+        "stop_lat": "3.1525132249343",
+        "stop_lon": "101.52914756618",
+        "stop_id": "1001446",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SA777 KG MELAYU SUBANG (UTARA)",
+        "stop_lat": "3.160127208192",
+        "stop_lon": "101.53254664638",
+        "stop_id": "1004134",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SA690 APARTMENT JASMINE BLOK 4",
+        "stop_lat": "3.163214",
+        "stop_lon": "101.535467",
+        "stop_id": "1002581",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SA891 APARTMENT JASMIN (OPP)",
+        "stop_lat": "3.165103",
+        "stop_lon": "101.534858",
+        "stop_id": "1008651",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SA691 KOMERSIAL PUTERI SUBANG",
+        "stop_lat": "3.167557",
+        "stop_lon": "101.533989",
+        "stop_id": "1000062",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SA694 PERUMAHAN SUBANG GALAKSI",
+        "stop_lat": "3.169365",
+        "stop_lon": "101.534011",
+        "stop_id": "1004068",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SA718 TAMAN SUBANG PELANGI (UTARA)",
+        "stop_lat": "3.174006",
+        "stop_lon": "101.531931",
+        "stop_id": "1003175",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SA703 KOMERSIAL SUBANG U5",
+        "stop_lat": "3.178706",
+        "stop_lon": "101.535787",
+        "stop_id": "1002120",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SA721 APARTMENT SUBANG SURIA",
+        "stop_lat": "3.184248",
+        "stop_lon": "101.535235",
+        "stop_id": "1003699",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "SA707 PANGSAPURI UTARID",
+        "stop_lat": "3.182572",
+        "stop_lon": "101.535168",
+        "stop_id": "1002185",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SA698 KOMERSIAL SUBANG U5",
+        "stop_lat": "3.1786948145849",
+        "stop_lon": "101.5359274709",
+        "stop_id": "1002121",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SA699 HAB BAS U5",
+        "stop_lat": "3.177228",
+        "stop_lon": "101.536335",
+        "stop_id": "1002783",
+        "stop_sequence": "47"
+    }
+]

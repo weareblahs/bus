@@ -1,0 +1,275 @@
+[
+    {
+        "stop_name": "AJ359 HENTIAN TAMAN MELAWATI",
+        "stop_lat": "3.227956",
+        "stop_lon": "101.745649",
+        "stop_id": "1001259",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ360 TAMAN MELAWATI E",
+        "stop_lat": "3.225955",
+        "stop_lon": "101.744082",
+        "stop_id": "1000355",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ361 KOMERSIAL TAMAN MELAWATI E",
+        "stop_lat": "3.222248",
+        "stop_lon": "101.741187",
+        "stop_id": "1002285",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ363 KG KLANG GATE",
+        "stop_lat": "3.219578",
+        "stop_lon": "101.739467",
+        "stop_id": "1003835",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ366 ISKL MELAWATI (OPP)",
+        "stop_lat": "3.219346",
+        "stop_lon": "101.742543",
+        "stop_id": "1003099",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ367 MM RESIDENCY",
+        "stop_lat": "3.215858",
+        "stop_lon": "101.745914",
+        "stop_id": "1000498",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KOMERSIAL TAMAN MELAWATI (OPP)",
+        "stop_lat": "3.212368",
+        "stop_lon": "101.750343",
+        "stop_id": "1006121",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ351 SMK TAMAN MELAWATI",
+        "stop_lat": "3.2148546138065",
+        "stop_lon": "101.75039678309",
+        "stop_id": "1003410",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ352 TAMAN MELAWATI A (UTARA)",
+        "stop_lat": "3.2179314340885",
+        "stop_lon": "101.74863097761",
+        "stop_id": "1002231",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ353 TAMAN MELAWATI A (UTARA)",
+        "stop_lat": "3.2216203339928",
+        "stop_lon": "101.74813730306",
+        "stop_id": "1000663",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ457 BUKIT MELAWATI (TIMUR)",
+        "stop_lat": "3.221104",
+        "stop_lon": "101.748335",
+        "stop_id": "1007533",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ374 TAMAN MELAWATI A (UTARA)",
+        "stop_lat": "3.218451",
+        "stop_lon": "101.748741",
+        "stop_id": "1000664",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJK TAMIL TAMAN MELAWATI",
+        "stop_lat": "3.216683",
+        "stop_lon": "101.749693",
+        "stop_id": "1007534",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ458 SMK TAMAN MELAWATI",
+        "stop_lat": "3.214588",
+        "stop_lon": "101.75088",
+        "stop_id": "1003472",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ377 SK TAMAN MELAWATI 2",
+        "stop_lat": "3.2121756436093",
+        "stop_lon": "101.75218881391",
+        "stop_id": "1003073",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ378 TELEKOM MELAWATI",
+        "stop_lat": "3.210046",
+        "stop_lon": "101.753108",
+        "stop_id": "1003885",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ490 KOMERSIAL TAMAN PERMATA/MELAWATI MALL",
+        "stop_lat": "3.208423",
+        "stop_lon": "101.749562",
+        "stop_id": "1000868",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL184 KOMERSIAL WANGSA MELAWATI",
+        "stop_lat": "3.2098910357979",
+        "stop_lon": "101.74393005706",
+        "stop_id": "1002463",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL185 DATARAN WANGSA MAJU (OPP)",
+        "stop_lat": "3.2077061450607",
+        "stop_lon": "101.74234003905",
+        "stop_id": "1003775",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) KL192 LRT WANGSA MAJU",
+        "stop_lat": "3.204959",
+        "stop_lon": "101.732321",
+        "stop_id": "1001835",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL193 TAR VILLA",
+        "stop_lat": "3.2069624635304",
+        "stop_lon": "101.72975527444",
+        "stop_id": "1000750",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL169 TAR VILLA",
+        "stop_lat": "3.2074455955313",
+        "stop_lon": "101.72952884294",
+        "stop_id": "1003848",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL170 LRT WANGSA MAJU",
+        "stop_lat": "3.205606",
+        "stop_lon": "101.731913",
+        "stop_id": "1001834",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL171 PERUMAHAN DESA SETAPAK",
+        "stop_lat": "3.2044208918792",
+        "stop_lon": "101.73338677173",
+        "stop_id": "1000551",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1617 DATARAN WANGSA MAJU",
+        "stop_lat": "3.207986",
+        "stop_lon": "101.742255",
+        "stop_id": "1006132",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1616 PETRONAS WANGSA MELAWATI",
+        "stop_lat": "3.2099882301966",
+        "stop_lon": "101.74359739819",
+        "stop_id": "1002462",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "AJ489 MELAWATI MALL",
+        "stop_lat": "3.208921",
+        "stop_lon": "101.748699",
+        "stop_id": "1001368",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "AJ473 TAMAN MELAWATI B",
+        "stop_lat": "3.2107843167382",
+        "stop_lon": "101.75265211885",
+        "stop_id": "1000430",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "AJ368 KOMERSIAL TAMAN MELAWATI",
+        "stop_lat": "3.212178",
+        "stop_lon": "101.750447",
+        "stop_id": "1006122",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "AJ369 SERINI MELAWATI",
+        "stop_lat": "3.212327",
+        "stop_lon": "101.748373",
+        "stop_id": "1000543",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "AJ370 KK CLUB BERHAD",
+        "stop_lat": "3.215675",
+        "stop_lon": "101.745821",
+        "stop_id": "1000497",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "AJ371 KL INTERNATIONAL SCHOOL (TIMUR)",
+        "stop_lat": "3.220262",
+        "stop_lon": "101.741434",
+        "stop_id": "1003098",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "AJ363 KG KLANG GATE",
+        "stop_lat": "3.219578",
+        "stop_lon": "101.739467",
+        "stop_id": "1003835",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "AJ372 KOMERSIAL TAMAN MELAWATI E",
+        "stop_lat": "3.222237",
+        "stop_lon": "101.740747",
+        "stop_id": "1002734",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "AJ373 TAMAN MELAWATI I",
+        "stop_lat": "3.225782",
+        "stop_lon": "101.743698",
+        "stop_id": "1003069",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "AJ356 SK TAMAN MELAWATI",
+        "stop_lat": "3.2242819151825",
+        "stop_lon": "101.74735161866",
+        "stop_id": "1003663",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "AJ357 TADIKA WATI",
+        "stop_lat": "3.225163",
+        "stop_lon": "101.748794",
+        "stop_id": "1003827",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "AJ358 TAMAN MELAWATI H",
+        "stop_lat": "3.228459",
+        "stop_lon": "101.748052",
+        "stop_id": "1000852",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "AJ359 HENTIAN TAMAN MELAWATI",
+        "stop_lat": "3.227956",
+        "stop_lon": "101.745649",
+        "stop_id": "1001259",
+        "stop_sequence": "39"
+    }
+]

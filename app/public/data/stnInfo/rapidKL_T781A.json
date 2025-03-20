@@ -1,0 +1,121 @@
+[
+    {
+        "stop_name": "PJ585 LRT KELANA JAYA",
+        "stop_lat": "3.112745",
+        "stop_lon": "101.604492",
+        "stop_id": "1001804",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ686 KELANA PUTRI CONDOMINIUM",
+        "stop_lat": "3.107979",
+        "stop_lon": "101.594668",
+        "stop_id": "1001382",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ576 KELANA SQUARE (OPP)",
+        "stop_lat": "3.105645",
+        "stop_lon": "101.593347",
+        "stop_id": "1001383",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ571 KELANA MAHKOTA (OPP)",
+        "stop_lat": "3.102293",
+        "stop_lon": "101.592935",
+        "stop_id": "1001639",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ759 KELANA CENTRE POINT",
+        "stop_lat": "3.100129",
+        "stop_lon": "101.591595",
+        "stop_id": "1001380",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ572 GLOMAC BOULEVARD",
+        "stop_lat": "3.099194",
+        "stop_lon": "101.591024",
+        "stop_id": "1002564",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PLAZA GLOMAC (OPP)",
+        "stop_lat": "3.098298",
+        "stop_lon": "101.590467",
+        "stop_id": "1002565",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ684 KELANA BUSINESS CENTRE/ LRT GLENMARIE",
+        "stop_lat": "3.09554848443",
+        "stop_lon": "101.59132640398",
+        "stop_id": "1002677",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ566 SHANG VILLA CONDOMINIUM",
+        "stop_lat": "3.095784",
+        "stop_lon": "101.592904",
+        "stop_id": "1003198",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) PJ567 STADIUM KELANA JAYA",
+        "stop_lat": "3.0975678577552",
+        "stop_lon": "101.59424632297",
+        "stop_id": "1004228",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ695 TAMAN BANDARAN KELANA JAYA",
+        "stop_lat": "3.0975973229858",
+        "stop_lon": "101.59568346644",
+        "stop_id": "1001581",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ685 PLAZA KELANA JAYA",
+        "stop_lat": "3.096758",
+        "stop_lon": "101.597172",
+        "stop_id": "1002567",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ632 GIANT KELANA JAYA (OPP)",
+        "stop_lat": "3.1020056496033",
+        "stop_lon": "101.59708052652",
+        "stop_id": "1002200",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ602 KJMC",
+        "stop_lat": "3.1087558931513",
+        "stop_lon": "101.59568537163",
+        "stop_id": "1001508",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ603 LRT KELANA JAYA",
+        "stop_lat": "3.113161",
+        "stop_lon": "101.605368",
+        "stop_id": "1001805",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ162 TAMAN MEGAH",
+        "stop_lat": "3.1122163182399",
+        "stop_lon": "101.61043199238",
+        "stop_id": "1001169",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ585 LRT KELANA JAYA",
+        "stop_lat": "3.112745",
+        "stop_lon": "101.604492",
+        "stop_id": "1001804",
+        "stop_sequence": "17"
+    }
+]

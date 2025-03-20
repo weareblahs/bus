@@ -1,0 +1,296 @@
+[
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA855 WISMA MBSA (OPP)",
+        "stop_lat": "3.072952",
+        "stop_lon": "101.520611",
+        "stop_id": "1008399",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA854 KOMPLEKS PKNS SHAH ALAM",
+        "stop_lat": "3.072057",
+        "stop_lon": "101.51693",
+        "stop_id": "1008075",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA856 WISMA MBSA",
+        "stop_lat": "3.073127",
+        "stop_lon": "101.519848",
+        "stop_id": "1006643",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA19 GRAND BLUEWAVE",
+        "stop_lat": "3.073544",
+        "stop_lon": "101.522647",
+        "stop_id": "1000936",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA367 DATARAN KEMERDEKAAN",
+        "stop_lat": "3.076122",
+        "stop_lon": "101.524897",
+        "stop_id": "1006644",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "MASJID NEGERI",
+        "stop_lat": "3.079776",
+        "stop_lon": "101.522872",
+        "stop_id": "1006645",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PLAZA SHAH ALAM",
+        "stop_lat": "3.084918",
+        "stop_lon": "101.524087",
+        "stop_id": "1006646",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA48 KOMERSIAL SEKSYEN 9",
+        "stop_lat": "3.0817",
+        "stop_lon": "101.527199",
+        "stop_id": "1006648",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "DEWAN JENJAROM (OPP)",
+        "stop_lat": "3.077527",
+        "stop_lon": "101.529932",
+        "stop_id": "1008077",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PUSAT AKUATIK SEKSYEN 13",
+        "stop_lat": "3.07289",
+        "stop_lon": "101.537945",
+        "stop_id": "1006649",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA255 PUSAT KOMERSIAL WORLDWIDE (OPP)",
+        "stop_lat": "3.072882",
+        "stop_lon": "101.540999",
+        "stop_id": "1006650",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AEON MALL SHAH ALAM",
+        "stop_lat": "3.076201",
+        "stop_lon": "101.549344",
+        "stop_id": "1006654",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "MSU (OPP)",
+        "stop_lat": "3.080878",
+        "stop_lon": "101.550824",
+        "stop_id": "1008079",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) SA237 PANGSAPURI PERDANA",
+        "stop_lat": "3.085738",
+        "stop_lon": "101.548798",
+        "stop_id": "1006655",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA247 PUSAT KOMERSIAL SEKSYEN 13",
+        "stop_lat": "3.089024",
+        "stop_lon": "101.544988",
+        "stop_id": "1006657",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA242 METIA RESIDENCES",
+        "stop_lat": "3.090292",
+        "stop_lon": "101.547757",
+        "stop_id": "1006658",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA752 POLITEKNIK SSAAS",
+        "stop_lat": "3.085087",
+        "stop_lon": "101.554651",
+        "stop_id": "1006659",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "CONDOMINIUM PRIMA U1",
+        "stop_lat": "3.078767",
+        "stop_lon": "101.555312",
+        "stop_id": "1006660",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SJ574 APARTMENT INDAHRIA",
+        "stop_lat": "3.072656",
+        "stop_lon": "101.556539",
+        "stop_id": "1006661",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KTM BATU 3",
+        "stop_lat": "3.075738",
+        "stop_lon": "101.559838",
+        "stop_id": "1006662",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SJ573 KILANG GULA CSR",
+        "stop_lat": "3.071667",
+        "stop_lon": "101.556446",
+        "stop_id": "1001482",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA132 AVENUE CREST (OPP)",
+        "stop_lat": "3.068423",
+        "stop_lon": "101.556178",
+        "stop_id": "1008216",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SA133 KG KEBUN BUNGA (UTARA)",
+        "stop_lat": "3.0644410039442",
+        "stop_lon": "101.55656890814",
+        "stop_id": "1000643",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA962 KG KEBUN BUNGA (SELATAN)",
+        "stop_lat": "3.0619621588086",
+        "stop_lon": "101.55697246259",
+        "stop_id": "1001046",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA946 MASJID FASTABIQUL",
+        "stop_lat": "3.059446",
+        "stop_lon": "101.556919",
+        "stop_id": "1008218",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA961 SEKSYEN 22/PETRONAS",
+        "stop_lat": "3.0575857155066",
+        "stop_lon": "101.55630435158",
+        "stop_id": "1002506",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA384 SEKSYEN 22",
+        "stop_lat": "3.057551",
+        "stop_lon": "101.555891",
+        "stop_id": "1008219",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA385 KG KEBUN BUNGA/PETRONAS",
+        "stop_lat": "3.0618238253554",
+        "stop_lon": "101.55666669176",
+        "stop_id": "1002507",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SA131 KG KEBUN BUNGA/PETRON",
+        "stop_lat": "3.064131",
+        "stop_lon": "101.556343",
+        "stop_id": "1006666",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA386 AVENUE CREST",
+        "stop_lat": "3.068578",
+        "stop_lon": "101.555871",
+        "stop_id": "1006667",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "POLITEKNIK SSAAS (OPP)",
+        "stop_lat": "3.085034",
+        "stop_lon": "101.554275",
+        "stop_id": "1006668",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "(M) SA237 PANGSAPURI PERDANA",
+        "stop_lat": "3.085738",
+        "stop_lon": "101.548798",
+        "stop_id": "1006655",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "MSU",
+        "stop_lat": "3.08106",
+        "stop_lon": "101.551028",
+        "stop_id": "1008080",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "AEON MALL SHAH ALAM (OPP)",
+        "stop_lat": "3.076535",
+        "stop_lon": "101.549554",
+        "stop_id": "1006671",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SA254 PUSAT KOMERSIAL WORLDWIDE",
+        "stop_lat": "3.072874",
+        "stop_lon": "101.54119",
+        "stop_id": "1006651",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "PUSAT AKUATIK",
+        "stop_lat": "3.074305",
+        "stop_lon": "101.537447",
+        "stop_id": "1006669",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "DEWAN JENJAROM",
+        "stop_lat": "3.077083",
+        "stop_lon": "101.529777",
+        "stop_id": "1008078",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SA22 SMA TENGKU AMPUAN JEMAAH",
+        "stop_lat": "3.078832",
+        "stop_lon": "101.526053",
+        "stop_id": "1006670",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SA368 BALAI POLIS SEKSYEN 11",
+        "stop_lat": "3.076223",
+        "stop_lon": "101.525138",
+        "stop_id": "1000212",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SA18 WISMA PKPS",
+        "stop_lat": "3.0733481810602",
+        "stop_lon": "101.52298177514",
+        "stop_id": "1004249",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "42"
+    }
+]

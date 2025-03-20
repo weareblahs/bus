@@ -1,0 +1,373 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "RANGKAIAN DELIMA",
+        "stop_lat": "3.8102163904375",
+        "stop_lon": "103.33118279052",
+        "stop_id": "2000032",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "GEDUNG TEN TEN",
+        "stop_lat": "3.7967974927376",
+        "stop_lon": "103.33639409626",
+        "stop_id": "2000496",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "LOT KEDAI TG. LUMPUR",
+        "stop_lat": "3.7940611784594",
+        "stop_lon": "103.33365355244",
+        "stop_id": "2000072",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "FURINDO FUNITURE",
+        "stop_lat": "3.7934064555476",
+        "stop_lon": "103.33178227809",
+        "stop_id": "2000103",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PEJABAT KEMAS",
+        "stop_lat": "3.7910150985441",
+        "stop_lon": "103.32972528911",
+        "stop_id": "2000096",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PERAMU BARU",
+        "stop_lat": "3.7889512966681",
+        "stop_lon": "103.32870296637",
+        "stop_id": "2000350",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PERAMU MAJU",
+        "stop_lat": "3.7860369967245",
+        "stop_lon": "103.32744821577",
+        "stop_id": "2000451",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "MAAHAD TAHFIZ",
+        "stop_lat": "3.7825664854235",
+        "stop_lon": "103.32382690757",
+        "stop_id": "2000171",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "YAYASAN PAHANG",
+        "stop_lat": "3.7811799001402",
+        "stop_lon": "103.32228116384",
+        "stop_id": "2000235",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "BANDAR PUTRA",
+        "stop_lat": "3.7749333766585",
+        "stop_lon": "103.31876426516",
+        "stop_id": "2000414",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "ASTANA VILLAGE",
+        "stop_lat": "3.7666451025022",
+        "stop_lon": "103.31625957683",
+        "stop_id": "2000476",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SURAU TANAH RTK",
+        "stop_lat": "3.7555505166672",
+        "stop_lon": "103.31221193833",
+        "stop_id": "2000811",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "TAMAN DESA PUTRA",
+        "stop_lat": "3.7560058730093",
+        "stop_lon": "103.30920437669",
+        "stop_id": "2000810",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KEMPADANG DAMAI",
+        "stop_lat": "3.7556762499993",
+        "stop_lon": "103.30710753565",
+        "stop_id": "2000809",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PERUMAHAN RAKYAT PAK MAHAT",
+        "stop_lat": "3.7556818423479",
+        "stop_lon": "103.30533412458",
+        "stop_id": "2000808",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KEMPADANG DAMAI",
+        "stop_lat": "3.7556130018758",
+        "stop_lon": "103.30713466365",
+        "stop_id": "2000818",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "TAMAN DESA PUTRA",
+        "stop_lat": "3.7559425023539",
+        "stop_lon": "103.30916849048",
+        "stop_id": "2000817",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SURAU TANAH RTK",
+        "stop_lat": "3.7554870936852",
+        "stop_lon": "103.31214904578",
+        "stop_id": "2000816",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KEMPADANG FUTSAL",
+        "stop_lat": "3.7501297480262",
+        "stop_lon": "103.31481492414",
+        "stop_id": "2000462",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "BERKAT HARDWARE",
+        "stop_lat": "3.7462417157564",
+        "stop_lon": "103.31505641932",
+        "stop_id": "2000164",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "GIAT MARA",
+        "stop_lat": "3.7428513417159",
+        "stop_lon": "103.31544998661",
+        "stop_id": "2000437",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "(M) SMK SUNGAI SOI",
+        "stop_lat": "3.7311695783748",
+        "stop_lon": "103.31639946459",
+        "stop_id": "2000207",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "LRG CEMPAKA 1",
+        "stop_lat": "3.72334854404",
+        "stop_lon": "103.32174338291",
+        "stop_id": "2000423",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "LRG CEMPAKA 2",
+        "stop_lat": "3.7202216512475",
+        "stop_lon": "103.32279350503",
+        "stop_id": "2000089",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KAMPUNG CEMPAKA",
+        "stop_lat": "3.7168231366209",
+        "stop_lon": "103.32367309566",
+        "stop_id": "2000177",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KAMPUNG CEMPAKA AMAN",
+        "stop_lat": "3.7154130920231",
+        "stop_lon": "103.3240268244",
+        "stop_id": "2000244",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "LRG CEMPAKA 5",
+        "stop_lat": "3.7115176493077",
+        "stop_lon": "103.32514137764",
+        "stop_id": "2000162",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "MABIQ",
+        "stop_lat": "3.7060507077584",
+        "stop_lon": "103.32731205887",
+        "stop_id": "2000293",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "MASJID PANTAI SEPAT",
+        "stop_lat": "3.7004164237143",
+        "stop_lon": "103.33665728343",
+        "stop_id": "2000399",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PANTAI SEPAT 1",
+        "stop_lat": "3.6969020093241",
+        "stop_lon": "103.338446149",
+        "stop_id": "2000174",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PANTAI SEPAT 2",
+        "stop_lat": "3.6935048413068",
+        "stop_lon": "103.34007275003",
+        "stop_id": "2000352",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "THE SADDLE RESORT",
+        "stop_lat": "3.6890506969339",
+        "stop_lon": "103.3422773915",
+        "stop_id": "2000486",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "MENARA PENYELAMAT",
+        "stop_lat": "3.6872347280416",
+        "stop_lon": "103.34318990847",
+        "stop_id": "2000391",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "MENARA TM",
+        "stop_lat": "3.6623357967587",
+        "stop_lon": "103.35128299349",
+        "stop_id": "2000286",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PADANG BOLA",
+        "stop_lat": "3.6584040088784",
+        "stop_lon": "103.3523703357",
+        "stop_id": "2000250",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KLINIK DESA PENOR",
+        "stop_lat": "3.6554023036755",
+        "stop_lon": "103.35271786392",
+        "stop_id": "2000045",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KAMPUNG HIJRAH",
+        "stop_lat": "3.6374032116094",
+        "stop_lon": "103.36091460017",
+        "stop_id": "2000435",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "PLKN",
+        "stop_lat": "3.633909105099",
+        "stop_lon": "103.36400827411",
+        "stop_id": "2000063",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "PONDOK POLIS CHEROK PALOH",
+        "stop_lat": "3.6167581847145",
+        "stop_lon": "103.37634336627",
+        "stop_id": "2000390",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KAMPUNG SERANDU",
+        "stop_lat": "3.5967695713124",
+        "stop_lon": "103.40537047887",
+        "stop_id": "2000825",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SEKOLAH KEBANGSAAN SERANDU",
+        "stop_lat": "3.5878530170589",
+        "stop_lon": "103.41071443602",
+        "stop_id": "2000826",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "MASJID AS-SAKIRIN",
+        "stop_lat": "3.5851704510109",
+        "stop_lon": "103.41263623956",
+        "stop_id": "2000827",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SIMPANG KAMPUNG SERANDU",
+        "stop_lat": "3.5751003480629",
+        "stop_lon": "103.42036719885",
+        "stop_id": "2000828",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SMK INDERA SHAHBANDAR",
+        "stop_lat": "3.5496757450415",
+        "stop_lon": "103.43435235932",
+        "stop_id": "2000829",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "UNIVERSITI MALAYSIA PAHANG (PEKAN)",
+        "stop_lat": "3.5466030267245",
+        "stop_lon": "103.43559060357",
+        "stop_id": "2000900",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KAMPUNG BERUAS",
+        "stop_lat": "3.5326529725022",
+        "stop_lon": "103.44345336651",
+        "stop_id": "2000837",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "SK INDERA SHAHBANDAR",
+        "stop_lat": "3.5294961830208",
+        "stop_lon": "103.44850785051",
+        "stop_id": "2000838",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KG. MARHUM",
+        "stop_lat": "3.5327630803486",
+        "stop_lon": "103.4551897679",
+        "stop_id": "2000839",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "PERKAMPUNGAN NELAYAN",
+        "stop_lat": "3.5334728712355",
+        "stop_lon": "103.45781673576",
+        "stop_id": "2000840",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "(M) RTC",
+        "stop_lat": "3.5316060905358",
+        "stop_lon": "103.46097898618",
+        "stop_id": "2000841",
+        "stop_sequence": "53"
+    }
+]

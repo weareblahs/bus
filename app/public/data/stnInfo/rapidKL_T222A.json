@@ -1,0 +1,352 @@
+[
+    {
+        "stop_name": "HENTIAN UKAY PERDANA",
+        "stop_lat": "3.212225",
+        "stop_lon": "101.778038",
+        "stop_id": "1006231",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ396 PANGSAPURI KAYANGAN",
+        "stop_lat": "3.2104389422711",
+        "stop_lon": "101.77938110922",
+        "stop_id": "1000802",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ397 PANGSAPURI SRI IMPIAN",
+        "stop_lat": "3.2081186264782",
+        "stop_lon": "101.78133917132",
+        "stop_id": "1002723",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ398 PUSAT KOMERSIAL UP (OPP)",
+        "stop_lat": "3.204040093485",
+        "stop_lon": "101.77916823741",
+        "stop_id": "1000029",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ399 UKAY SERING",
+        "stop_lat": "3.198177",
+        "stop_lon": "101.772198",
+        "stop_id": "1006108",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ400 FLAT AL-RIDHUAN (OPP)",
+        "stop_lat": "3.1952724313484",
+        "stop_lon": "101.76454264816",
+        "stop_id": "1000677",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "BENGKEL GOODYEAR",
+        "stop_lat": "3.195642",
+        "stop_lon": "101.762172",
+        "stop_id": "1006109",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ344 SMK SERI KERAMAT (OPP)",
+        "stop_lat": "3.1971809646539",
+        "stop_lon": "101.75946499323",
+        "stop_id": "1003382",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ345 SMK LEMBAH KERAMAT (OPP)",
+        "stop_lat": "3.198614",
+        "stop_lon": "101.759309",
+        "stop_id": "1000042",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) AJ346 DEWAN SERBAGUNA AU5",
+        "stop_lat": "3.2011059486184",
+        "stop_lon": "101.75689181237",
+        "stop_id": "1000575",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ347 TAMAN LEMBAH KERAMAT",
+        "stop_lat": "3.201432",
+        "stop_lon": "101.752878",
+        "stop_id": "1002870",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ348 TASKA PASTI ILMI (OPP)",
+        "stop_lat": "3.2040785623068",
+        "stop_lon": "101.75183927523",
+        "stop_id": "1000181",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ349 GIANT ULU KELANG",
+        "stop_lat": "3.2068730797356",
+        "stop_lon": "101.75225081977",
+        "stop_id": "1000865",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ490 KOMERSIAL TAMAN PERMATA/MELAWATI MALL",
+        "stop_lat": "3.208423",
+        "stop_lon": "101.749562",
+        "stop_id": "1000868",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL184 KOMERSIAL WANGSA MELAWATI",
+        "stop_lat": "3.2098910357979",
+        "stop_lon": "101.74393005706",
+        "stop_id": "1002463",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL185 DATARAN WANGSA MAJU (OPP)",
+        "stop_lat": "3.2077061450607",
+        "stop_lon": "101.74234003905",
+        "stop_id": "1003775",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL189 SK WANGSA JAYA",
+        "stop_lat": "3.205345",
+        "stop_lon": "101.739778",
+        "stop_id": "1003152",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL190 FLAT SEKSYEN 4 BLOK A4",
+        "stop_lat": "3.2034258435614",
+        "stop_lon": "101.74068300114",
+        "stop_id": "1003748",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL191 FLAT SEKSYEN 4 BLOK C9",
+        "stop_lat": "3.2015867858418",
+        "stop_lon": "101.74208037185",
+        "stop_id": "1003877",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL747 WANGSA WALK (TIMUR)",
+        "stop_lat": "3.199022",
+        "stop_lon": "101.743877",
+        "stop_id": "1000986",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL819 AEON BIG WANGSA MAJU",
+        "stop_lat": "3.196801",
+        "stop_lon": "101.742384",
+        "stop_id": "1000459",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL2106 AEON BIG WANGSA MAJU",
+        "stop_lat": "3.1953502937695",
+        "stop_lon": "101.7421385335",
+        "stop_id": "1000450",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) KL750 SHELL WANGSA MAJU",
+        "stop_lat": "3.1964796609795",
+        "stop_lon": "101.74469474394",
+        "stop_id": "1002626",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL819 AEON BIG WANGSA MAJU",
+        "stop_lat": "3.196801",
+        "stop_lon": "101.742384",
+        "stop_id": "1000459",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL2106 AEON BIG WANGSA MAJU",
+        "stop_lat": "3.1953502937695",
+        "stop_lon": "101.7421385335",
+        "stop_id": "1000450",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M) KL746 LRT SRI RAMPAI",
+        "stop_lat": "3.1988359275043",
+        "stop_lon": "101.73752617997",
+        "stop_id": "1001827",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "WANGSA 9 RESIDENCY",
+        "stop_lat": "3.198697",
+        "stop_lon": "101.739854",
+        "stop_id": "1004212",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL1619 FLAT WANGSA MAJU (OPP)",
+        "stop_lat": "3.203335",
+        "stop_lon": "101.740573",
+        "stop_id": "1006106",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL1620 SK WANGSA JAYA (OPP)",
+        "stop_lat": "3.205318",
+        "stop_lon": "101.739684",
+        "stop_id": "1000679",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL1616 PETRONAS WANGSA MELAWATI",
+        "stop_lat": "3.2099882301966",
+        "stop_lon": "101.74359739819",
+        "stop_id": "1002462",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "AJ489 MELAWATI MALL",
+        "stop_lat": "3.208921",
+        "stop_lon": "101.748699",
+        "stop_id": "1001368",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "(M) AJ379 GIANT ULU KELANG (OPP)",
+        "stop_lat": "3.206217",
+        "stop_lon": "101.752282",
+        "stop_id": "1000866",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "AJ380 TASKA PASTI ILMI",
+        "stop_lat": "3.203687",
+        "stop_lon": "101.751966",
+        "stop_id": "1000182",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "AJ294 TAMAN LEMBAH KERAMAT",
+        "stop_lat": "3.201588",
+        "stop_lon": "101.752967",
+        "stop_id": "1006110",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "AJ383 MEDAN SELERA AU5 (OPP)",
+        "stop_lat": "3.201217",
+        "stop_lon": "101.756264",
+        "stop_id": "1001989",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "AJ384 SMK LEMBAH KERAMAT",
+        "stop_lat": "3.1986372485529",
+        "stop_lon": "101.75951060238",
+        "stop_id": "1003383",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "AJ385 SMK SERI KERAMAT",
+        "stop_lat": "3.197506",
+        "stop_lon": "101.759586",
+        "stop_id": "1003396",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "BENGKEL GOODYEAR (OPP)",
+        "stop_lat": "3.19573",
+        "stop_lon": "101.76217",
+        "stop_id": "1006112",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "AJ386 FLAT AL-RIDHUAN",
+        "stop_lat": "3.1955256897099",
+        "stop_lon": "101.76477877917",
+        "stop_id": "1000678",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "AJ478 UKAY BISTARI",
+        "stop_lat": "3.1971314777768",
+        "stop_lon": "101.76771022437",
+        "stop_id": "1004167",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "AJ387 UKAY SERING",
+        "stop_lat": "3.1984630497507",
+        "stop_lon": "101.772077683",
+        "stop_id": "1004168",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "AJ388 APARTMENT SRI MELOR",
+        "stop_lat": "3.203765",
+        "stop_lon": "101.775552",
+        "stop_id": "1000145",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "AJ389 UKAY PERDANA 4 RESIDENCE",
+        "stop_lat": "3.206473",
+        "stop_lon": "101.773497",
+        "stop_id": "1001988",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "AJ390 SRI BAIDURI APARTMENT (UTARA)",
+        "stop_lat": "3.206235",
+        "stop_lon": "101.772694",
+        "stop_id": "1001987",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "AJ391 SRI BAIDURI APARTMENT (SELATAN)",
+        "stop_lat": "3.2052611101736",
+        "stop_lon": "101.77209690289",
+        "stop_id": "1002172",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "AJ392 APARTMENT SRI MELOR (OPP)",
+        "stop_lat": "3.2038106004179",
+        "stop_lon": "101.77566994197",
+        "stop_id": "1000144",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "AJ393 PUSAT KOMERSIAL UP",
+        "stop_lat": "3.2045303410982",
+        "stop_lon": "101.77904879919",
+        "stop_id": "1000028",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "AJ394 PANGSAPURI SRI IMPIAN (OPP)",
+        "stop_lat": "3.2080939606078",
+        "stop_lon": "101.78105743062",
+        "stop_id": "1002724",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "AJ395 PANGSAPURI KAYANGAN (OPP)",
+        "stop_lat": "3.210224590556",
+        "stop_lon": "101.77922229692",
+        "stop_id": "1000803",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "HENTIAN UKAY PERDANA",
+        "stop_lat": "3.212225",
+        "stop_lon": "101.778038",
+        "stop_id": "1006231",
+        "stop_sequence": "50"
+    }
+]

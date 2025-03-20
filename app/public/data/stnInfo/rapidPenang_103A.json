@@ -1,0 +1,282 @@
+[
+    {
+        "stop_name": "(M1) Hub Lebuh Carnavon",
+        "stop_lat": "5.4126216",
+        "stop_lon": "100.3319975",
+        "stop_id": "12002988",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Komtar",
+        "stop_lat": "5.41378",
+        "stop_lon": "100.33094",
+        "stop_id": "12001937",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Terminal Komtar",
+        "stop_lat": "5.4141808",
+        "stop_lon": "100.33031319999999",
+        "stop_id": "12002116",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "TM Point",
+        "stop_lat": "5.41825",
+        "stop_lon": "100.32823",
+        "stop_id": "12000356",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Penang Plaza",
+        "stop_lat": "5.42085",
+        "stop_lon": "100.32521",
+        "stop_id": "12000357",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SK Pykett Methodist",
+        "stop_lat": "5.42197",
+        "stop_lon": "100.32365",
+        "stop_id": "12000358",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "1926 Heritage Hotel",
+        "stop_lat": "5.424169",
+        "stop_lon": "100.320533",
+        "stop_id": "12003016",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Chinese Recreation Club",
+        "stop_lat": "5.42517",
+        "stop_lon": "100.3191",
+        "stop_id": "12000360",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Gleneagles II",
+        "stop_lat": "5.427282",
+        "stop_lon": "100.31952",
+        "stop_id": "12000972",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Sri Pangkor Kondominium",
+        "stop_lat": "5.42875",
+        "stop_lon": "100.31974",
+        "stop_id": "12000718",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Gurney Hotel",
+        "stop_lat": "5.429469999999999",
+        "stop_lon": "100.31879",
+        "stop_id": "12000719",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Evergreen Hotel",
+        "stop_lat": "5.4303",
+        "stop_lon": "100.31715",
+        "stop_id": "12000720",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Masjid Jamek Al Munawer",
+        "stop_lat": "5.4307300000000005",
+        "stop_lon": "100.31622",
+        "stop_id": "12000721",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Flat Kelawei",
+        "stop_lat": "5.4313",
+        "stop_lon": "100.31533",
+        "stop_id": "12000722",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Sleeping Buddha",
+        "stop_lat": "5.4320900000000005",
+        "stop_lon": "100.31404",
+        "stop_id": "12000723",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Pangsapuri Festival",
+        "stop_lat": "5.43341",
+        "stop_lon": "100.31219",
+        "stop_id": "12000724",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Gurney Paragon",
+        "stop_lat": "5.43463",
+        "stop_lon": "100.31057",
+        "stop_id": "12000726",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Gurney Plaza",
+        "stop_lat": "5.43594",
+        "stop_lon": "100.30881",
+        "stop_id": "12000727",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Jalan Bagan Jermal(Gurney)",
+        "stop_lat": "5.439603",
+        "stop_lon": "100.30738000000001",
+        "stop_id": "12000105",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SMJK Phor Tay",
+        "stop_lat": "5.437126999999999",
+        "stop_lon": "100.30551",
+        "stop_id": "12000102",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Sekolah St. Nicholas",
+        "stop_lat": "5.43559",
+        "stop_lon": "100.30415",
+        "stop_id": "12000101",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M1) Hospital Adventist",
+        "stop_lat": "5.43375",
+        "stop_lon": "100.30376",
+        "stop_id": "12000371",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Midlands One Stop Centre",
+        "stop_lat": "5.43289",
+        "stop_lon": "100.30629",
+        "stop_id": "12000369",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SMK/SK Convent Pulau Tikus",
+        "stop_lat": "5.43267",
+        "stop_lon": "100.30824",
+        "stop_id": "12000368",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Belissa Row",
+        "stop_lat": "5.43251",
+        "stop_lon": "100.31017",
+        "stop_id": "12000367",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Hardware Pulau Tikus",
+        "stop_lat": "5.43024",
+        "stop_lon": "100.31296",
+        "stop_id": "12000365",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Premier Centre",
+        "stop_lat": "5.42833",
+        "stop_lon": "100.31481",
+        "stop_id": "12000363",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Sokka Gakai",
+        "stop_lat": "5.42736",
+        "stop_lon": "100.31622",
+        "stop_id": "12000362",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Kolej MSU",
+        "stop_lat": "5.426480000000001",
+        "stop_lon": "100.31749",
+        "stop_id": "12000361",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Gleneagles I",
+        "stop_lat": "5.42659",
+        "stop_lon": "100.31886",
+        "stop_id": "12000970",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Northam Hotel",
+        "stop_lat": "5.42726713",
+        "stop_lon": "100.32214503",
+        "stop_id": "12002220",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Wawasan Open University",
+        "stop_lat": "5.42627",
+        "stop_lon": "100.32352",
+        "stop_id": "12001416",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Feruni",
+        "stop_lat": "5.42541",
+        "stop_lon": "100.32504",
+        "stop_id": "12001415",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Hotel Royal",
+        "stop_lat": "5.422333999999999",
+        "stop_lon": "100.3258",
+        "stop_id": "12000808",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Wisma Persekutuan",
+        "stop_lat": "5.419625",
+        "stop_lon": "100.32334",
+        "stop_id": "12000052",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Hotel Red Rock",
+        "stop_lat": "5.41718",
+        "stop_lon": "100.32225",
+        "stop_id": "12000831",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Nasi Kandar Pelita",
+        "stop_lat": "5.41614",
+        "stop_lon": "100.32443",
+        "stop_id": "12000829",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Masjid Simpang Enam",
+        "stop_lat": "5.414540000000001",
+        "stop_lon": "100.32774",
+        "stop_id": "12000828",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Komtar Utara",
+        "stop_lat": "5.41513",
+        "stop_lon": "100.32899",
+        "stop_id": "12001060",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "(M1) Hub Lebuh Carnavon",
+        "stop_lat": "5.4126216",
+        "stop_lon": "100.3319975",
+        "stop_id": "12002988",
+        "stop_sequence": "40"
+    }
+]

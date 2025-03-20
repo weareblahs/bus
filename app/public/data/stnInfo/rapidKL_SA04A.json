@@ -1,0 +1,359 @@
+[
+    {
+        "stop_name": "TERMINAL SEKSYEN 17",
+        "stop_lat": "3.046956",
+        "stop_lon": "101.503282",
+        "stop_id": "1006629",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA560 UITM SEKSYEN 17",
+        "stop_lat": "3.048480032769",
+        "stop_lon": "101.50212995062",
+        "stop_id": "1003348",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA561 ALAM RESIDENTIALS (BARAT)",
+        "stop_lat": "3.053708",
+        "stop_lon": "101.502249",
+        "stop_id": "1001232",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA564 SMK SEKSYEN 16",
+        "stop_lat": "3.05449",
+        "stop_lon": "101.503322",
+        "stop_id": "1003354",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA565 ALAM D16 (UTARA)",
+        "stop_lat": "3.054492",
+        "stop_lon": "101.505109",
+        "stop_id": "1008161",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA566 PASAR MBSA SEKSYEN 16 (OPP)",
+        "stop_lat": "3.055537",
+        "stop_lon": "101.505672",
+        "stop_id": "1002274",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA569 PANGSAPURI ANGGERIK INDAH",
+        "stop_lat": "3.058862",
+        "stop_lon": "101.505793",
+        "stop_id": "1000027",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA866 KUARTERS SUK",
+        "stop_lat": "3.061638",
+        "stop_lon": "101.500278",
+        "stop_id": "1001190",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA340 ALAM AVENUE SEKSYEN 16",
+        "stop_lat": "3.057917",
+        "stop_lon": "101.492986",
+        "stop_id": "1006764",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA601 KTM/SK PADANG JAWA",
+        "stop_lat": "3.052794",
+        "stop_lon": "101.490916",
+        "stop_id": "1006765",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PUSPAKOM/JPJ SELANGOR",
+        "stop_lat": "3.060894",
+        "stop_lon": "101.490872",
+        "stop_id": "1006767",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA37 SHELL/PETRON SEKSYEN 7",
+        "stop_lat": "3.066067",
+        "stop_lon": "101.491232",
+        "stop_id": "1006769",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA273 KOMERSIAL SEKSYEN 7",
+        "stop_lat": "3.067392",
+        "stop_lon": "101.48971",
+        "stop_id": "1003095",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA274 MIDLANDS CONVENTION CENTRE (OPP)",
+        "stop_lat": "3.067316915499",
+        "stop_lon": "101.48761753127",
+        "stop_id": "1003094",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "I CITY PARK",
+        "stop_lat": "3.064039",
+        "stop_lon": "101.483215",
+        "stop_id": "1006770",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "I-CITY MALL",
+        "stop_lat": "3.063256",
+        "stop_lon": "101.481324",
+        "stop_id": "1009248",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KAWASAN INDUSTRI SEKSYEN 7",
+        "stop_lat": "3.067696",
+        "stop_lon": "101.479021",
+        "stop_id": "1009249",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA283 MASJID SEKSYEN 7",
+        "stop_lat": "3.070915",
+        "stop_lon": "101.481712",
+        "stop_id": "1000335",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SA284 SK SEKSYEN 7 (OPP)",
+        "stop_lat": "3.073177",
+        "stop_lon": "101.484868",
+        "stop_id": "1006771",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA285 PANGSAPURI NILAM SARI (OPP)",
+        "stop_lat": "3.074961",
+        "stop_lon": "101.487219",
+        "stop_id": "1000266",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA300 TASIK SEKSYEN 7",
+        "stop_lat": "3.075552",
+        "stop_lon": "101.490161",
+        "stop_id": "1003855",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA36 HOSPITAL SHAH ALAM (OPP)",
+        "stop_lat": "3.070554",
+        "stop_lon": "101.491641",
+        "stop_id": "1001556",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA788 UITM SHAH ALAM (BARAT)",
+        "stop_lat": "3.068427",
+        "stop_lon": "101.491554",
+        "stop_id": "1008163",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SA263 WISMA TAMING SARI UITM",
+        "stop_lat": "3.065559",
+        "stop_lon": "101.495098",
+        "stop_id": "1002232",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA265 KOLEJ CEMPAKA",
+        "stop_lat": "3.067325",
+        "stop_lon": "101.501884",
+        "stop_id": "1001595",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA266 KOLEJ SEROJA",
+        "stop_lat": "3.067819",
+        "stop_lon": "101.505616",
+        "stop_id": "1001605",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA943 DATARAN TUANKU FAUZIAH",
+        "stop_lat": "3.070768",
+        "stop_lon": "101.503583",
+        "stop_id": "1000657",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA268 FAKULTI SAINS",
+        "stop_lat": "3.071291",
+        "stop_lon": "101.500812",
+        "stop_id": "1000660",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA269 FAKULTI SAINS KOMPUTER",
+        "stop_lat": "3.072465",
+        "stop_lon": "101.499726",
+        "stop_id": "1001594",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SA271 DATARAN CENDEKIA",
+        "stop_lat": "3.070673",
+        "stop_lon": "101.496983",
+        "stop_id": "1002667",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA272 PUSAT KESIHATAN UITM",
+        "stop_lat": "3.068102",
+        "stop_lon": "101.493183",
+        "stop_id": "1000656",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SA865 PUSAT KOMERSIAL SEKSYEN 7 (TIMUR)",
+        "stop_lat": "3.066674",
+        "stop_lon": "101.491487",
+        "stop_id": "1008214",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SA789 KEN RIMBA",
+        "stop_lat": "3.055168",
+        "stop_lon": "101.48449",
+        "stop_id": "1006766",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SA601 KTM/SK PADANG JAWA",
+        "stop_lat": "3.052794",
+        "stop_lon": "101.490916",
+        "stop_id": "1006765",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SA341 ALAM AVENUE SEKSYEN 16",
+        "stop_lat": "3.058392",
+        "stop_lon": "101.492664",
+        "stop_id": "1008164",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SA792 KUARTERS SUK (OPP)",
+        "stop_lat": "3.061939",
+        "stop_lon": "101.500755",
+        "stop_id": "1001191",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SA342 SRA SEKSYEN 16",
+        "stop_lat": "3.060891",
+        "stop_lon": "101.507435",
+        "stop_id": "1008165",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SA574 PANGSAPURI ANGGERIK INDAH (OPP)",
+        "stop_lat": "3.058528",
+        "stop_lon": "101.505794",
+        "stop_id": "1002745",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SA577 PASAR MBSA SEKSYEN 16",
+        "stop_lat": "3.05573",
+        "stop_lon": "101.505784",
+        "stop_id": "1002275",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SA578 ALAM D16 (UTARA)",
+        "stop_lat": "3.0543316",
+        "stop_lon": "101.504969",
+        "stop_id": "1008162",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SA579 SMK SEKSYEN 16 (OPP)",
+        "stop_lat": "3.054372",
+        "stop_lon": "101.502845",
+        "stop_id": "1003355",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SA580 ALAM RESIDENTIALS (BARAT)",
+        "stop_lat": "3.053369",
+        "stop_lon": "101.502356",
+        "stop_id": "1001233",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SA589 UITM SEKSYEN 17",
+        "stop_lat": "3.048508",
+        "stop_lon": "101.502452",
+        "stop_id": "1003931",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SA590 COLUMBIA HOSPITAL",
+        "stop_lat": "3.0477834184797",
+        "stop_lon": "101.50472472138",
+        "stop_id": "1000503",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "SA548 FLAT PKNS SEKSYEN 17",
+        "stop_lat": "3.0468309513531",
+        "stop_lon": "101.50725246311",
+        "stop_id": "1000731",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SA549 SEKSYEN 17 (TIMUR)",
+        "stop_lat": "3.0439039565797",
+        "stop_lon": "101.50731425926",
+        "stop_id": "1002329",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SA550 SEKSYEN 17 (SELATAN)",
+        "stop_lat": "3.0415343109893",
+        "stop_lon": "101.50413117411",
+        "stop_id": "1003165",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SA554 SK SEKSYEN 17 (SELATAN)",
+        "stop_lat": "3.042661108927",
+        "stop_lon": "101.50249242283",
+        "stop_id": "1003860",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "SA556 SK SEKSYEN 17 (UTARA)",
+        "stop_lat": "3.0443008727907",
+        "stop_lon": "101.50241061808",
+        "stop_id": "1003121",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "SA551 DEWAN MBSA SEKSYEN 17",
+        "stop_lat": "3.0460786469575",
+        "stop_lon": "101.50261171728",
+        "stop_id": "1002381",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "TERMINAL SEKSYEN 17",
+        "stop_lat": "3.046956",
+        "stop_lon": "101.503282",
+        "stop_id": "1006629",
+        "stop_sequence": "51"
+    }
+]

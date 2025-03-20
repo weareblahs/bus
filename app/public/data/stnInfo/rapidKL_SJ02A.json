@@ -1,0 +1,135 @@
+[
+    {
+        "stop_name": "SJ735 LRT PUSAT BANDAR PUCHONG",
+        "stop_lat": "3.033481",
+        "stop_lon": "101.61616",
+        "stop_id": "1006286",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M) SJ610 IOI MALL PUCHONG",
+        "stop_lat": "3.0435545736493",
+        "stop_lon": "101.61873927724",
+        "stop_id": "1001010",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ11 SUNWAY LAGOON CLUB",
+        "stop_lat": "3.068334",
+        "stop_lon": "101.610586",
+        "stop_id": "1006674",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ12 BRT SUNWAY LAGOON/SUNWAY METRO",
+        "stop_lat": "3.071569",
+        "stop_lon": "101.610588",
+        "stop_id": "1006675",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) PJ615 SUNWAY PYRAMID",
+        "stop_lat": "3.073588",
+        "stop_lon": "101.605895",
+        "stop_id": "1003709",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ617 KOMPLEKS 3C",
+        "stop_lat": "3.072993",
+        "stop_lon": "101.600748",
+        "stop_id": "1000522",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ697 INTI SUBANG JAYA (OPP)",
+        "stop_lat": "3.072972",
+        "stop_lon": "101.592328",
+        "stop_id": "1000846",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ716 LRT SS18",
+        "stop_lat": "3.068008",
+        "stop_lon": "101.585925",
+        "stop_id": "1006676",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ594 INTI/POS MALAYSIA SS15",
+        "stop_lat": "3.0733663916393",
+        "stop_lon": "101.59099856968",
+        "stop_id": "1002598",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ229 KOMPLEKS 3C (OPP)",
+        "stop_lat": "3.073384",
+        "stop_lon": "101.601469",
+        "stop_id": "1000523",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ294 SUNWAY CLIO (OPP)",
+        "stop_lat": "3.0737225504127",
+        "stop_lon": "101.60355896913",
+        "stop_id": "1003708",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ561 SUNWAY PYRAMID (OPP)",
+        "stop_lat": "3.074113",
+        "stop_lon": "101.605891",
+        "stop_id": "1008430",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) PJ614 MASJID AL-HUSNA",
+        "stop_lat": "3.074256",
+        "stop_lon": "101.608951",
+        "stop_id": "1001873",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ553 USJ 7 (SELATAN)",
+        "stop_lat": "3.067665",
+        "stop_lon": "101.615318",
+        "stop_id": "1001436",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ558 PJS 7 (UTARA)",
+        "stop_lat": "3.068101",
+        "stop_lon": "101.615804",
+        "stop_id": "1008431",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ559 SUNWAY COURT (OPP)",
+        "stop_lat": "3.070607",
+        "stop_lon": "101.615779",
+        "stop_id": "1004119",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ560 PERINDUSTRIAN PJS 7",
+        "stop_lat": "3.072809",
+        "stop_lon": "101.615806",
+        "stop_id": "1000460",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ447 SKYPOD RESIDENCE",
+        "stop_lat": "3.043501",
+        "stop_lon": "101.620776",
+        "stop_id": "1006678",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SJ735 LRT PUSAT BANDAR PUCHONG",
+        "stop_lat": "3.033481",
+        "stop_lon": "101.61616",
+        "stop_id": "1006286",
+        "stop_sequence": "19"
+    }
+]

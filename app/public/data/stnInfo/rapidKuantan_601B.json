@@ -1,0 +1,163 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS KONTINJEN PAHANG",
+        "stop_lat": "3.8097340263436",
+        "stop_lon": "103.32959924464",
+        "stop_id": "2000267",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "LKPP",
+        "stop_lat": "3.8111689940644",
+        "stop_lon": "103.32812003164",
+        "stop_id": "2000012",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KUARTERS KESIHATAN",
+        "stop_lat": "3.8192561743255",
+        "stop_lon": "103.32486339306",
+        "stop_id": "2000188",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "TUNAS MANJA",
+        "stop_lat": "3.8206577893013",
+        "stop_lon": "103.32483366601",
+        "stop_id": "2000493",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KUARTERS SKM",
+        "stop_lat": "3.8226605955831",
+        "stop_lon": "103.32702646658",
+        "stop_id": "2000517",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) COWBOY JALAN HAJI AHMAD",
+        "stop_lat": "3.8212121930535",
+        "stop_lon": "103.33088247869",
+        "stop_id": "2000173",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "DEWAN GALING",
+        "stop_lat": "3.8221460850608",
+        "stop_lon": "103.33214107005",
+        "stop_id": "2000348",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SK GALING",
+        "stop_lat": "3.8242372069111",
+        "stop_lon": "103.33325338324",
+        "stop_id": "2000294",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "RESTORAN ZAM ZAM",
+        "stop_lat": "3.8250994730393",
+        "stop_lon": "103.33488123815",
+        "stop_id": "2000223",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "TUNAS MANJA",
+        "stop_lat": "3.8276878066883",
+        "stop_lon": "103.33591157411",
+        "stop_id": "2000094",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "HOME PLUS",
+        "stop_lat": "3.8301657300591",
+        "stop_lon": "103.33596980879",
+        "stop_id": "2000375",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "BALAI POLIS",
+        "stop_lat": "3.8328156473146",
+        "stop_lon": "103.3361177379",
+        "stop_id": "2000140",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "LOT KEDAI AIR PUTIH",
+        "stop_lat": "3.8349054566836",
+        "stop_lon": "103.33655484349",
+        "stop_id": "2000484",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "CRYSTAL CITY HOTEL",
+        "stop_lat": "3.8375385537075",
+        "stop_lon": "103.33735101913",
+        "stop_id": "2000169",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "ENG HONG",
+        "stop_lat": "3.8422866589454",
+        "stop_lon": "103.33759391619",
+        "stop_id": "2000264",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "LEONG ART",
+        "stop_lat": "3.8446120016694",
+        "stop_lon": "103.33361904953",
+        "stop_id": "2000380",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PASARAYA JAYA GADING",
+        "stop_lat": "3.8476099673786",
+        "stop_lon": "103.33140746368",
+        "stop_id": "2000088",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PERODUA",
+        "stop_lat": "3.8501326578452",
+        "stop_lon": "103.33124049626",
+        "stop_id": "2000221",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PERUMAHAN SEMAMBU",
+        "stop_lat": "3.8515479349223",
+        "stop_lon": "103.33356055176",
+        "stop_id": "2000125",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) POLISAS",
+        "stop_lat": "3.861418419587",
+        "stop_lon": "103.31298699207",
+        "stop_id": "2000102",
+        "stop_sequence": "23"
+    }
+]

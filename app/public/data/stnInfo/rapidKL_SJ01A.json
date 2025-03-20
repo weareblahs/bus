@@ -1,0 +1,149 @@
+[
+    {
+        "stop_name": "SJ692 BRT USJ 7",
+        "stop_lat": "3.05345",
+        "stop_lon": "101.5918",
+        "stop_id": "1006026",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ222 SK SEAFIELD",
+        "stop_lat": "3.0566166666667",
+        "stop_lon": "101.58848333333",
+        "stop_id": "1006027",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ408 SAM BESTARI",
+        "stop_lat": "3.0566166666667",
+        "stop_lon": "101.58163333333",
+        "stop_id": "1006028",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ41 PERUMAHAN USJ 3",
+        "stop_lat": "3.0595845142612",
+        "stop_lon": "101.57946916498",
+        "stop_id": "1002885",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) SJ45 PANGSAPURI SS19",
+        "stop_lat": "3.067757044987",
+        "stop_lon": "101.58007828518",
+        "stop_id": "1000787",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ51 BALAI BOMBA SS17 (SELATAN)",
+        "stop_lat": "3.0734869221947",
+        "stop_lon": "101.58391769032",
+        "stop_id": "1002512",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ52 LRT SS15",
+        "stop_lat": "3.076001",
+        "stop_lon": "101.585977",
+        "stop_id": "1006525",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ59 SUBANG PARADE",
+        "stop_lat": "3.081309",
+        "stop_lon": "101.585004",
+        "stop_id": "1003696",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ63 LRT SUBANG JAYA",
+        "stop_lat": "3.084555",
+        "stop_lon": "101.587181",
+        "stop_id": "1006524",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "EMPIRE GALLERY",
+        "stop_lat": "3.0812166666667",
+        "stop_lon": "101.58255",
+        "stop_id": "1006029",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ48 WISMA CONSPLANT",
+        "stop_lat": "3.080169",
+        "stop_lon": "101.582523",
+        "stop_id": "1002351",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PELITA SS15",
+        "stop_lat": "3.0748833333333",
+        "stop_lon": "101.5862",
+        "stop_id": "1006030",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ592 BALAI BOMBA SS17 (OPP)",
+        "stop_lat": "3.072939",
+        "stop_lon": "101.584061",
+        "stop_id": "1003086",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ17 SS18",
+        "stop_lat": "3.066983",
+        "stop_lon": "101.580314",
+        "stop_id": "1003666",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ18 USJ 2",
+        "stop_lat": "3.059481",
+        "stop_lon": "101.579814",
+        "stop_id": "1003587",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SAM BESTARI (OPP)",
+        "stop_lat": "3.0568666666667",
+        "stop_lon": "101.58175",
+        "stop_id": "1006031",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ10 MENARA MPSJ (OPP)",
+        "stop_lat": "3.051537",
+        "stop_lon": "101.583487",
+        "stop_id": "1006022",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "ROZEL USJ 10",
+        "stop_lat": "3.0471",
+        "stop_lon": "101.58396666667",
+        "stop_id": "1006023",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "CITIBANK",
+        "stop_lat": "3.0474833333333",
+        "stop_lon": "101.58653333333",
+        "stop_id": "1006024",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SJ546 LRT TAIPAN",
+        "stop_lat": "3.0482",
+        "stop_lon": "101.59038333333",
+        "stop_id": "1006025",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SJ692 BRT USJ 7",
+        "stop_lat": "3.05345",
+        "stop_lon": "101.5918",
+        "stop_id": "1006026",
+        "stop_sequence": "21"
+    }
+]

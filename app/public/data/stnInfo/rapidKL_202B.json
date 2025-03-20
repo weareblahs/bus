@@ -1,0 +1,401 @@
+[
+    {
+        "stop_name": "KL117 BSN LEBUH AMPANG",
+        "stop_lat": "3.1492454039518",
+        "stop_lon": "101.69737177094",
+        "stop_id": "1000383",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL30 AMANAHRAYA",
+        "stop_lat": "3.1519126007803",
+        "stop_lon": "101.69799809706",
+        "stop_id": "1003683",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "(M) KL31 HENTIAN MUNSHI ABDULLAH",
+        "stop_lat": "3.1532582998069",
+        "stop_lon": "101.69848425418",
+        "stop_id": "1000823",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M) KL32 CAPSQUARE",
+        "stop_lat": "3.1546522393082",
+        "stop_lon": "101.69837470998",
+        "stop_id": "1002560",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) KL1940 SOGO KL",
+        "stop_lat": "3.1567788096169",
+        "stop_lon": "101.69535839244",
+        "stop_id": "1003415",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL40 MEDAN MARA",
+        "stop_lat": "3.157724",
+        "stop_lon": "101.694556",
+        "stop_id": "1001984",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SKPK LELAKI JLN BATU",
+        "stop_lat": "3.159643",
+        "stop_lon": "101.694843",
+        "stop_id": "1003299",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL41 LRT SULTAN ISMAIL/WISMA SIME DARBY",
+        "stop_lat": "3.162154",
+        "stop_lon": "101.695526",
+        "stop_id": "1003257",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL42 EDC HOTEL",
+        "stop_lat": "3.165085",
+        "stop_lon": "101.696133",
+        "stop_id": "1002694",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL46 CHOWKIT/KFC (BARAT)",
+        "stop_lat": "3.167208",
+        "stop_lon": "101.696275",
+        "stop_id": "1001418",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL53 GRAND SEASONS HOTEL",
+        "stop_lat": "3.1701675672584",
+        "stop_lon": "101.69824199219",
+        "stop_id": "1000887",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL54 HKL (OPP)",
+        "stop_lat": "3.1727016599494",
+        "stop_lon": "101.69894622509",
+        "stop_id": "1000915",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL668 HOSPITAL TAWAKAL",
+        "stop_lat": "3.177278",
+        "stop_lon": "101.699941",
+        "stop_id": "1003871",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL670 TITIWANGSA (BARAT)",
+        "stop_lat": "3.1816966341743",
+        "stop_lon": "101.70141734218",
+        "stop_id": "1003428",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL672 WISMA LOTUS",
+        "stop_lat": "3.1857101543812",
+        "stop_lon": "101.70184070767",
+        "stop_id": "1000822",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL673 GUAN YING TING",
+        "stop_lat": "3.188411",
+        "stop_lon": "101.704123",
+        "stop_id": "1001330",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL894 DIAMOND SQUARE (OPP)",
+        "stop_lat": "3.194427",
+        "stop_lon": "101.705273",
+        "stop_id": "1001362",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL895 KG PUAH",
+        "stop_lat": "3.1970065790856",
+        "stop_lon": "101.70428098822",
+        "stop_id": "1003254",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL896 SMJK CHONG HWA (OPP)",
+        "stop_lat": "3.19866",
+        "stop_lon": "101.703768",
+        "stop_id": "1007549",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL897 MASJID SAAD ABI WAQQAS",
+        "stop_lat": "3.2016010338946",
+        "stop_lon": "101.70281401041",
+        "stop_id": "1001943",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL898 KL TRADERS SQUARE (OPP)",
+        "stop_lat": "3.2033668937468",
+        "stop_lon": "101.70222301152",
+        "stop_id": "1001324",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL899 BATU 4 GOMBAK",
+        "stop_lat": "3.2057185727971",
+        "stop_lon": "101.70167958187",
+        "stop_id": "1003511",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL900 RESIDENSI INSPIRIA",
+        "stop_lat": "3.2087441442628",
+        "stop_lon": "101.70369360198",
+        "stop_id": "1002260",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL901 MASJID ZAID HARITHAH",
+        "stop_lat": "3.211145",
+        "stop_lon": "101.706347",
+        "stop_id": "1001898",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M) KL902 PETRONAS JALAN GOMBAK",
+        "stop_lat": "3.2125248686349",
+        "stop_lon": "101.70820623726",
+        "stop_id": "1004244",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL903 BATU 5 GOMBAK",
+        "stop_lat": "3.213529",
+        "stop_lon": "101.711619",
+        "stop_id": "1000396",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SL101 SK 1 & 2 GOMBAK",
+        "stop_lat": "3.2169926405988",
+        "stop_lon": "101.71288229656",
+        "stop_id": "1003636",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SL102 MASJID AS SYAKIRIN",
+        "stop_lat": "3.2186428972993",
+        "stop_lon": "101.71282212336",
+        "stop_id": "1001899",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SL317 GOMBAK SETIA",
+        "stop_lat": "3.2215571702028",
+        "stop_lon": "101.71316818781",
+        "stop_id": "1000558",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SL318 GOMBAK SETIA",
+        "stop_lat": "3.2248081385004",
+        "stop_lon": "101.714120363",
+        "stop_id": "1004217",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SL103 KG TENGAH GOMBAK",
+        "stop_lat": "3.227421",
+        "stop_lon": "101.713756",
+        "stop_id": "1002973",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SL104 TAMAN BUKIT LELA",
+        "stop_lat": "3.2289162687554",
+        "stop_lon": "101.71345175665",
+        "stop_id": "1000559",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SL105 DEWAN DATIN ZALEHA",
+        "stop_lat": "3.230144255576",
+        "stop_lon": "101.71263315274",
+        "stop_id": "1001948",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SL214 JEJANTAS SPG 3",
+        "stop_lat": "3.233572",
+        "stop_lon": "101.709758",
+        "stop_id": "1001051",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SL215 HAB BAS GREENWOOD",
+        "stop_lat": "3.234012",
+        "stop_lon": "101.706193",
+        "stop_id": "1003974",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SL176 DEWAN BERINGIN GOMBAK",
+        "stop_lat": "3.2399559167038",
+        "stop_lon": "101.69941776228",
+        "stop_id": "1000554",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SL235 URBAN 360 (OPP)",
+        "stop_lat": "3.240734",
+        "stop_lon": "101.701382",
+        "stop_id": "1003881",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SL236 PETRONAS SRI GOMBAK (OPP)",
+        "stop_lat": "3.240782",
+        "stop_lon": "101.703325",
+        "stop_id": "1000216",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "(M) SL503 TAMAN SRI GOMBAK FASA 4 (BARAT)",
+        "stop_lat": "3.240822",
+        "stop_lon": "101.707059",
+        "stop_id": "1003500",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SL242 KOMERSIAL SERI GOMBAK FASA 5",
+        "stop_lat": "3.241993",
+        "stop_lon": "101.709589",
+        "stop_id": "1002956",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SL243 SMK HILLCREST (OPP)",
+        "stop_lat": "3.242916",
+        "stop_lon": "101.707509",
+        "stop_id": "1003377",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SL244 TAMAN SRI GOMBAK FASA 3",
+        "stop_lat": "3.242985",
+        "stop_lon": "101.705851",
+        "stop_id": "1001866",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SL245 KOMERSIAL TAMAN SRI GOMBAK",
+        "stop_lat": "3.242964",
+        "stop_lon": "101.703227",
+        "stop_id": "1002583",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "SL199 TAMAN SRI GOMBAK FASA 6",
+        "stop_lat": "3.244748",
+        "stop_lon": "101.702019",
+        "stop_id": "1001916",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SL505 MASJID SRI GOMBAK (OPP)",
+        "stop_lat": "3.247365",
+        "stop_lon": "101.703085",
+        "stop_id": "1001950",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SL200 TASIK SRI GOMBAK FASA 8",
+        "stop_lat": "3.248616",
+        "stop_lon": "101.705428",
+        "stop_id": "1003560",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SL201 PERUMAHAN TAMAN SRI GOMBAK (TIMUR)",
+        "stop_lat": "3.250064",
+        "stop_lon": "101.703258",
+        "stop_id": "1003796",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "SL202 TAMAN TASIK SRI GOMBAK",
+        "stop_lat": "3.248729",
+        "stop_lon": "101.701441",
+        "stop_id": "1003556",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "SL203 PERUMAHAN SRI GOMBAK FASA 9",
+        "stop_lat": "3.2492518767276",
+        "stop_lon": "101.69920552823",
+        "stop_id": "1003779",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "SL204 TAMAN SERI GOMBAK FASA 10",
+        "stop_lat": "3.249353",
+        "stop_lon": "101.697156",
+        "stop_id": "1003868",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "SL177 FLAT PINGGIRAN",
+        "stop_lat": "3.250229363404",
+        "stop_lon": "101.69428942392",
+        "stop_id": "1003743",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "SL178 KG MELAYU WIRA DAMAI",
+        "stop_lat": "3.250299",
+        "stop_lon": "101.693129",
+        "stop_id": "1002380",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "SL179 KG MELAYU WIRA DAMAI",
+        "stop_lat": "3.250272",
+        "stop_lon": "101.691855",
+        "stop_id": "1000895",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "SL180 APARTMENT SAUJANA",
+        "stop_lat": "3.251327",
+        "stop_lon": "101.688986",
+        "stop_id": "1000141",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "SL181 PANGSAPURI KENANGA (OPP)",
+        "stop_lat": "3.251065",
+        "stop_lon": "101.685414",
+        "stop_id": "1000880",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "SL294 HAB WIRA DAMAI",
+        "stop_lat": "3.251574",
+        "stop_lon": "101.684494",
+        "stop_id": "1002132",
+        "stop_sequence": "57"
+    }
+]

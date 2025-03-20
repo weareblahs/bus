@@ -1,0 +1,310 @@
+[
+    {
+        "stop_name": "TERMINAL BAS SEMENTARA SEKSYEN 13",
+        "stop_lat": "3.085102",
+        "stop_lon": "101.546549",
+        "stop_id": "1006656",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA247 PUSAT KOMERSIAL SEKSYEN 13",
+        "stop_lat": "3.089024",
+        "stop_lon": "101.544988",
+        "stop_id": "1006657",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA242 METIA RESIDENCES",
+        "stop_lat": "3.090292",
+        "stop_lon": "101.547757",
+        "stop_id": "1006658",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M) SA237 PANGSAPURI PERDANA",
+        "stop_lat": "3.085738",
+        "stop_lon": "101.548798",
+        "stop_id": "1006655",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA498 MONFORT (OPP)",
+        "stop_lat": "3.091446",
+        "stop_lon": "101.554254",
+        "stop_id": "1003358",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA499 PANGSAPURI SRI MELEWAR (OPP)",
+        "stop_lat": "3.094844",
+        "stop_lon": "101.555592",
+        "stop_id": "1002475",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KOMPLEKS SMS (OPP)",
+        "stop_lat": "3.098266",
+        "stop_lon": "101.556849",
+        "stop_id": "1006799",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PANGSAPURI JAYA (OPP)",
+        "stop_lat": "3.099265",
+        "stop_lon": "101.556041",
+        "stop_id": "1006772",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PANGSAPURI ILHAM",
+        "stop_lat": "3.101328",
+        "stop_lon": "101.551938",
+        "stop_id": "1006773",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SMK TTDI JAYA",
+        "stop_lat": "3.104295",
+        "stop_lon": "101.555493",
+        "stop_id": "1006774",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "MASJID AL ITISAM",
+        "stop_lat": "3.104895",
+        "stop_lon": "101.557741",
+        "stop_id": "1006775",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA502 SK TTDI JAYA",
+        "stop_lat": "3.106748",
+        "stop_lon": "101.557961",
+        "stop_id": "1003305",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA503 SEKSYEN U8",
+        "stop_lat": "3.110007",
+        "stop_lon": "101.556793",
+        "stop_id": "1001454",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) SA504 SPACE U8 MALL (OPP)",
+        "stop_lat": "3.111028",
+        "stop_lon": "101.552936",
+        "stop_id": "1003583",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SA505 BOMBA BUKIT JELUTONG (OPP)",
+        "stop_lat": "3.109506",
+        "stop_lon": "101.54579",
+        "stop_id": "1000374",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA506 BUKIT JELUTONG (TIMUR)",
+        "stop_lat": "3.108723",
+        "stop_lon": "101.542355",
+        "stop_id": "1000024",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "RADIA GALLERY",
+        "stop_lat": "3.10161",
+        "stop_lon": "101.537597",
+        "stop_id": "1006776",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "RADIA RESIDENCE (OPP)",
+        "stop_lat": "3.099553",
+        "stop_lon": "101.534339",
+        "stop_id": "1006786",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KOMERSIAL BUKIT JELUTONG",
+        "stop_lat": "3.103535",
+        "stop_lon": "101.527638",
+        "stop_id": "1006777",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SK BUKIT JELUTONG (OPP)",
+        "stop_lat": "3.106572",
+        "stop_lon": "101.530935",
+        "stop_id": "1006779",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SMK BUKIT JELUTONG (OPP)",
+        "stop_lat": "3.108719",
+        "stop_lon": "101.531197",
+        "stop_id": "1006781",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA517 KOMERSIAL D'PANGKIN",
+        "stop_lat": "3.114439",
+        "stop_lon": "101.526866",
+        "stop_id": "1007720",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SMK BUKIT JELUTONG",
+        "stop_lat": "3.10859",
+        "stop_lon": "101.531283",
+        "stop_id": "1006782",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SK BUKIT JELUTONG",
+        "stop_lat": "3.106441",
+        "stop_lon": "101.531056",
+        "stop_id": "1006780",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PUSAT KOMERSIAL D'BAYU",
+        "stop_lat": "3.103596",
+        "stop_lon": "101.528472",
+        "stop_id": "1006778",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "RADIA RESIDENCE",
+        "stop_lat": "3.099815",
+        "stop_lon": "101.534463",
+        "stop_id": "1006787",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA507 BUKIT JELUTONG (TIMUR)",
+        "stop_lat": "3.108941",
+        "stop_lon": "101.542117",
+        "stop_id": "1002788",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA508 BOMBA BUKIT JELUTONG",
+        "stop_lat": "3.10972",
+        "stop_lon": "101.545546",
+        "stop_id": "1000373",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M) SA509 SPACE U8 MALL",
+        "stop_lat": "3.111287",
+        "stop_lon": "101.552773",
+        "stop_id": "1003582",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SA510 SEKSYEN U8",
+        "stop_lat": "3.110506",
+        "stop_lon": "101.556772",
+        "stop_id": "1001455",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA511 SK TTDI JAYA (OPP)",
+        "stop_lat": "3.106391",
+        "stop_lon": "101.558471",
+        "stop_id": "1002731",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "MASJID AL ITISAM (OPP)",
+        "stop_lat": "3.104756",
+        "stop_lon": "101.557517",
+        "stop_id": "1006571",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SMK TTDI JAYA (OPP)",
+        "stop_lat": "3.104041",
+        "stop_lon": "101.555373",
+        "stop_id": "1006572",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PANGSAPURI ILHAM (OPP)",
+        "stop_lat": "3.101305",
+        "stop_lon": "101.552053",
+        "stop_id": "1006573",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PANGSAPURI JAYA",
+        "stop_lat": "3.099353",
+        "stop_lon": "101.556136",
+        "stop_id": "1006570",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KOMPLEKS SMS",
+        "stop_lat": "3.09819",
+        "stop_lon": "101.557103",
+        "stop_id": "1006800",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SA514 PANGSAPURI SRI MELEWAR",
+        "stop_lat": "3.0947572622693",
+        "stop_lon": "101.55584152941",
+        "stop_id": "1002476",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SA515 MONFORT",
+        "stop_lat": "3.091436",
+        "stop_lon": "101.554662",
+        "stop_id": "1003359",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SA752 POLITEKNIK SSAAS",
+        "stop_lat": "3.085087",
+        "stop_lon": "101.554651",
+        "stop_id": "1006659",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SA985 BRUNSFIELD RIVERVIEW",
+        "stop_lat": "3.080616",
+        "stop_lon": "101.553383",
+        "stop_id": "1006566",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "MSU (OPP)",
+        "stop_lat": "3.080878",
+        "stop_lon": "101.550824",
+        "stop_id": "1008079",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SA947 GIANT SEKSYEN 13",
+        "stop_lat": "3.085394",
+        "stop_lon": "101.54981",
+        "stop_id": "1000861",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "(M) SA237 PANGSAPURI PERDANA",
+        "stop_lat": "3.085738",
+        "stop_lon": "101.548798",
+        "stop_id": "1006655",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "TERMINAL BAS SEMENTARA SEKSYEN 13",
+        "stop_lat": "3.085102",
+        "stop_lon": "101.546549",
+        "stop_id": "1006656",
+        "stop_sequence": "44"
+    }
+]

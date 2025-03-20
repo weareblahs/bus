@@ -1,0 +1,289 @@
+[
+    {
+        "stop_name": "SJ212 HENTIAN PUTRA PERMAI",
+        "stop_lat": "2.996214",
+        "stop_lon": "101.668611",
+        "stop_id": "1006324",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ218 EQUINE PARK",
+        "stop_lat": "2.995113",
+        "stop_lon": "101.672158",
+        "stop_id": "1000208",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ219 AEON JUSCO EQUINE PARK",
+        "stop_lat": "2.993532",
+        "stop_lon": "101.674266",
+        "stop_id": "1001032",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ220 PETRONAS EQUINE PARK",
+        "stop_lat": "2.994787",
+        "stop_lon": "101.676741",
+        "stop_id": "1002482",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ191 EQUINE BOULEVARD",
+        "stop_lat": "2.995648",
+        "stop_lon": "101.678848",
+        "stop_id": "1000620",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ192 NAHRIM",
+        "stop_lat": "3.001042",
+        "stop_lon": "101.687174",
+        "stop_id": "1004011",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ186 SK TAMAN UNIVERSITI",
+        "stop_lat": "3.0050238519771",
+        "stop_lon": "101.69056572622",
+        "stop_id": "1000425",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ187 TAMAN UNIVERSITI INDAH (BARAT)",
+        "stop_lat": "3.0074275932976",
+        "stop_lon": "101.69080038812",
+        "stop_id": "1003425",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ188 TAMAN UNIVERSITI INDAH (TIMUR)",
+        "stop_lat": "3.008325",
+        "stop_lon": "101.693167",
+        "stop_id": "1003506",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "WISMA SETIA",
+        "stop_lat": "3.0124568605587",
+        "stop_lon": "101.69835502101",
+        "stop_id": "1004253",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ182 TAMAN JINMA",
+        "stop_lat": "3.016959",
+        "stop_lon": "101.702664",
+        "stop_id": "1002483",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ172 RUMAH SEJAHTERA SERI KEMBANGAN",
+        "stop_lat": "3.01947",
+        "stop_lon": "101.703785",
+        "stop_id": "1001260",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ624 KG BARU SERI KEMBANGAN",
+        "stop_lat": "3.021554",
+        "stop_lon": "101.704906",
+        "stop_id": "1002634",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ177 PASAR SERI KEMBANGAN",
+        "stop_lat": "3.023464481587",
+        "stop_lon": "101.70684828288",
+        "stop_id": "1002256",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ101 SOUTH CITY PLAZA",
+        "stop_lat": "3.027393",
+        "stop_lon": "101.710229",
+        "stop_id": "1008022",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ175 KLINIK KESIHATAN/TAMAN MUHIBBAH",
+        "stop_lat": "3.028255422095",
+        "stop_lon": "101.71142693741",
+        "stop_id": "1001541",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ640 THE MINES",
+        "stop_lat": "3.027064",
+        "stop_lon": "101.718933",
+        "stop_id": "1003922",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ595 KTM KOMUTER SERDANG (OPP)",
+        "stop_lat": "3.0241019628791",
+        "stop_lon": "101.71621852279",
+        "stop_id": "1001689",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) SJ596 KTM KOMUTER SERDANG",
+        "stop_lat": "3.0228725970026",
+        "stop_lon": "101.71645821695",
+        "stop_id": "1001690",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SJ107 KLINIK KERAJAAN SERI KEMBANGAN",
+        "stop_lat": "3.02785",
+        "stop_lon": "101.711256",
+        "stop_id": "1001547",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SJ106 SOUTH CITY PLAZA (OPP)",
+        "stop_lat": "3.027164",
+        "stop_lon": "101.710348",
+        "stop_id": "1000420",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SJ109 BALAI POLIS SERI KEMBANGAN",
+        "stop_lat": "3.024048",
+        "stop_lon": "101.708811",
+        "stop_id": "1006261",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SJ786 MRT SERDANG JAYA PINTU A",
+        "stop_lat": "3.021584",
+        "stop_lon": "101.709085",
+        "stop_id": "1005352",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "TAMAN KEMBANG SARI",
+        "stop_lat": "3.019646",
+        "stop_lon": "101.706902",
+        "stop_id": "1006262",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SJ178 RUMAH SEJAHTERA SERI KEMBANGAN",
+        "stop_lat": "3.019323",
+        "stop_lon": "101.703885",
+        "stop_id": "1008023",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SJ179 PETRONAS SERI KEMBANGAN",
+        "stop_lat": "3.016959",
+        "stop_lon": "101.703036",
+        "stop_id": "1002465",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SJ180 KOMERSIAL SRI KEMBANGAN",
+        "stop_lat": "3.012152",
+        "stop_lon": "101.698329",
+        "stop_id": "1004254",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SJ183 TAMAN UNIVERSITI INDAH (TIMUR)",
+        "stop_lat": "3.008108",
+        "stop_lon": "101.693084",
+        "stop_id": "1003507",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SJ184 TAMAN UNIVERSITI INDAH (BARAT)",
+        "stop_lat": "3.0074292991803",
+        "stop_lon": "101.69104232711",
+        "stop_id": "1002771",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "(M) SJ185 SK TAMAN UNIVERSITI (OPP)",
+        "stop_lat": "3.0057995428809",
+        "stop_lon": "101.69082700717",
+        "stop_id": "1003333",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SJ189 NAHRIM (OPP)",
+        "stop_lat": "3.000592",
+        "stop_lon": "101.687074",
+        "stop_id": "1004010",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SJ193 PANGSAPURI CEMARA",
+        "stop_lat": "2.993749",
+        "stop_lon": "101.678628",
+        "stop_id": "1002131",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SJ194 PANGSAPURI VISTA (OPP)",
+        "stop_lat": "2.991786",
+        "stop_lon": "101.678027",
+        "stop_id": "1004205",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SJ195 PERUMAHAN PINGGIRAN PUTRA",
+        "stop_lat": "2.990159",
+        "stop_lon": "101.676767",
+        "stop_id": "1003026",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SJ202 PANGSAPURI PUTRA RAYA",
+        "stop_lat": "2.988455",
+        "stop_lon": "101.674454",
+        "stop_id": "1006270",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SJ203 MRT EQUINE PARK",
+        "stop_lat": "2.9889121023557",
+        "stop_lon": "101.67242674708",
+        "stop_id": "1000621",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SJ604 MRT EQUINE PARK",
+        "stop_lat": "2.9880762999218",
+        "stop_lon": "101.67107334205",
+        "stop_id": "1003223",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SJ205 AEON JUSCO EQUINE PARK (OPP)",
+        "stop_lat": "2.993285",
+        "stop_lon": "101.674086",
+        "stop_id": "1001033",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SJ208 EQUINE PARK",
+        "stop_lat": "2.994967",
+        "stop_lon": "101.671973",
+        "stop_id": "1000207",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SJ214 KOMERSIAL PUTRA PERMAI 9",
+        "stop_lat": "2.996404",
+        "stop_lon": "101.669648",
+        "stop_id": "1001272",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SJ212 HENTIAN PUTRA PERMAI",
+        "stop_lat": "2.996214",
+        "stop_lon": "101.668611",
+        "stop_id": "1006324",
+        "stop_sequence": "41"
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "stop_name": "(M1) JETTY B",
+        "stop_lat": "5.4137915",
+        "stop_lon": "100.34177820000001",
+        "stop_id": "12002114",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Container Hotel",
+        "stop_lat": "5.41415",
+        "stop_lon": "100.34042",
+        "stop_id": "12000007",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Restoran Kapitan",
+        "stop_lat": "5.41602",
+        "stop_lon": "100.33892",
+        "stop_id": "12001916",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Masjid Kapitan Keling",
+        "stop_lat": "5.417451",
+        "stop_lon": "100.33745",
+        "stop_id": "12001918",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Love Lane",
+        "stop_lat": "5.418401",
+        "stop_lon": "100.33614",
+        "stop_id": "12001920",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Banana Boutique",
+        "stop_lat": "5.419522",
+        "stop_lon": "100.33361",
+        "stop_id": "12001922",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Penang Road",
+        "stop_lat": "5.41925",
+        "stop_lon": "100.33199",
+        "stop_id": "12001064",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Pasar Chowrasta",
+        "stop_lat": "5.418131",
+        "stop_lon": "100.331245",
+        "stop_id": "12001061",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Terminal Komtar",
+        "stop_lat": "5.4141808",
+        "stop_lon": "100.33031319999999",
+        "stop_id": "12002116",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Pasaraya Gama",
+        "stop_lat": "5.413819",
+        "stop_lon": "100.3281",
+        "stop_id": "12000461",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Penang Times Square",
+        "stop_lat": "5.4131540000000005",
+        "stop_lon": "100.32621",
+        "stop_id": "12000456",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Pasar Jalan Kuantan",
+        "stop_lat": "5.41218",
+        "stop_lon": "100.32366999999999",
+        "stop_id": "12000443",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Jalan Patani.",
+        "stop_lat": "5.409892",
+        "stop_lon": "100.32281",
+        "stop_id": "12000994",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Apartmen Taman Sri Pinang",
+        "stop_lat": "5.405831",
+        "stop_lon": "100.3215",
+        "stop_id": "12000990",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "JKP Sungai Pinang",
+        "stop_lat": "5.40561",
+        "stop_lon": "100.32009000000001",
+        "stop_id": "12001586",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Penang Japanese School",
+        "stop_lat": "5.40831",
+        "stop_lon": "100.3176",
+        "stop_id": "12001589",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Rumah P. Ramlee",
+        "stop_lat": "5.40966",
+        "stop_lon": "100.31485",
+        "stop_id": "12000938",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M3) SMK Abdullah Munshi",
+        "stop_lat": "5.40857",
+        "stop_lon": "100.31331",
+        "stop_id": "12000937",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Jalan P.Ramlee I",
+        "stop_lat": "5.406724",
+        "stop_lon": "100.3116",
+        "stop_id": "12002240",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Flat Seri Hussain",
+        "stop_lat": "5.40632",
+        "stop_lon": "100.3096",
+        "stop_id": "12000936",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Taman Free School",
+        "stop_lat": "5.40421",
+        "stop_lon": "100.30882",
+        "stop_id": "12001811",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SMJK Heng Ee",
+        "stop_lat": "5.4006099999999995",
+        "stop_lon": "100.30887",
+        "stop_id": "12000538",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Taman Hutchings",
+        "stop_lat": "5.39763",
+        "stop_lon": "100.30691",
+        "stop_id": "12000537",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SMK Convent Green Lane",
+        "stop_lat": "5.39722",
+        "stop_lon": "100.30376",
+        "stop_id": "12000869",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Jalan Besi I",
+        "stop_lat": "5.3949",
+        "stop_lon": "100.30194",
+        "stop_id": "12000286",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Apartmen Green Lane Height",
+        "stop_lat": "5.39361",
+        "stop_lon": "100.29983",
+        "stop_id": "12000285",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Jalan Besi II",
+        "stop_lat": "5.39201",
+        "stop_lon": "100.29974",
+        "stop_id": "12002221",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Jalan Tembaga",
+        "stop_lat": "5.38924",
+        "stop_lon": "100.29984",
+        "stop_id": "12001798",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Jalan Tembaga II",
+        "stop_lat": "5.389405",
+        "stop_lon": "100.3014",
+        "stop_id": "12002241",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Shell Jalan Masjid Negeri",
+        "stop_lat": "5.38664",
+        "stop_lon": "100.30492",
+        "stop_id": "12000861",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Jalan Delima",
+        "stop_lat": "5.383719999999999",
+        "stop_lon": "100.3047",
+        "stop_id": "12000473",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Jalan Delima 2",
+        "stop_lat": "5.383380000000001",
+        "stop_lon": "100.30157",
+        "stop_id": "12000472",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Jalan Delima 3",
+        "stop_lat": "5.38215",
+        "stop_lon": "100.29893",
+        "stop_id": "12000471",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Jalan Delima 4",
+        "stop_lat": "5.3800099999999995",
+        "stop_lon": "100.30026",
+        "stop_id": "12000469",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Jalan Delima 5",
+        "stop_lat": "5.380269999999999",
+        "stop_lon": "100.30263000000001",
+        "stop_id": "12000470",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SK Bukit Gelugor",
+        "stop_lat": "5.37725",
+        "stop_lon": "100.30232",
+        "stop_id": "12000314",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Perumahan Kastam",
+        "stop_lat": "5.37447",
+        "stop_lon": "100.30129000000001",
+        "stop_id": "12000810",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Dewan JKKK Bukit Gelugor",
+        "stop_lat": "5.3726769999999995",
+        "stop_lon": "100.3028",
+        "stop_id": "12002242",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Taman Tun Sardon",
+        "stop_lat": "5.371651",
+        "stop_lon": "100.30281",
+        "stop_id": "12000019",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Astaka Taman Tun Sardon",
+        "stop_lat": "5.36916",
+        "stop_lon": "100.305",
+        "stop_id": "12000024",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Anggerik Villa",
+        "stop_lat": "5.3685599999999996",
+        "stop_lon": "100.30825",
+        "stop_id": "12000023",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Maybank Gelugor",
+        "stop_lat": "5.3697099999999995",
+        "stop_lon": "100.31005",
+        "stop_id": "12001455",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KTM Motor",
+        "stop_lat": "5.3727800000000006",
+        "stop_lon": "100.30903",
+        "stop_id": "12001457",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "Recsam",
+        "stop_lat": "5.37671",
+        "stop_lon": "100.30803",
+        "stop_id": "12001459",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "(M1) Tesco Tunku Kudin",
+        "stop_lat": "5.377228",
+        "stop_lon": "100.31506",
+        "stop_id": "12001887",
+        "stop_sequence": "45"
+    }
+]

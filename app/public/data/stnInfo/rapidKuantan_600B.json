@@ -1,0 +1,331 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS KONTINJEN PAHANG",
+        "stop_lat": "3.8097340263436",
+        "stop_lon": "103.32959924464",
+        "stop_id": "2000267",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KOMPLEKS BELIA",
+        "stop_lat": "3.8138343886602",
+        "stop_lon": "103.32693552395",
+        "stop_id": "2000405",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KEMAMAN KOPITIAM",
+        "stop_lat": "3.8163183961791",
+        "stop_lon": "103.33011769565",
+        "stop_id": "2000596",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "DEWAN GALING",
+        "stop_lat": "3.8221460850608",
+        "stop_lon": "103.33214107005",
+        "stop_id": "2000348",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SK GALING",
+        "stop_lat": "3.8242372069111",
+        "stop_lon": "103.33325338324",
+        "stop_id": "2000294",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "RESTORAN ZAM ZAM",
+        "stop_lat": "3.8250994730393",
+        "stop_lon": "103.33488123815",
+        "stop_id": "2000223",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SMK SULTAN ABU BAKAR",
+        "stop_lat": "3.8265521124903",
+        "stop_lon": "103.33783138576",
+        "stop_id": "2000594",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "CIMB BANK",
+        "stop_lat": "3.8279311419494",
+        "stop_lon": "103.34013347687",
+        "stop_id": "2000597",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PETRON",
+        "stop_lat": "3.8291730535744",
+        "stop_lon": "103.34167959241",
+        "stop_id": "2000599",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KOTA MOTOR",
+        "stop_lat": "3.8313404701409",
+        "stop_lon": "103.34482646442",
+        "stop_id": "2000598",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "GEDUNG TEN TEN",
+        "stop_lat": "3.8327646717488",
+        "stop_lon": "103.34711049157",
+        "stop_id": "2000600",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) PASARAYA TUNAS MANJA JALAN BESERAH",
+        "stop_lat": "3.8368707068122",
+        "stop_lon": "103.35200927688",
+        "stop_id": "2000601",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "JPAM",
+        "stop_lat": "3.8479388351078",
+        "stop_lon": "103.36099125177",
+        "stop_id": "2000602",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "POLIKLINIK KOMUNITI",
+        "stop_lat": "3.8501279618017",
+        "stop_lon": "103.36133819277",
+        "stop_id": "2000603",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PMC",
+        "stop_lat": "3.8535492031948",
+        "stop_lon": "103.362844202",
+        "stop_id": "2000604",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "ASTAKA",
+        "stop_lat": "3.8580189878817",
+        "stop_lon": "103.36410512241",
+        "stop_id": "2000605",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "MASJID BESERAH",
+        "stop_lat": "3.859366301556",
+        "stop_lon": "103.36403952073",
+        "stop_id": "2000606",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "TAMAN SATELIT VILLAGE",
+        "stop_lat": "3.8624507076585",
+        "stop_lon": "103.36438474803",
+        "stop_id": "2000607",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KAMPUNG ALOR LADANG",
+        "stop_lat": "3.864678116043",
+        "stop_lon": "103.36582103086",
+        "stop_id": "2000608",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "DUTA SAND",
+        "stop_lat": "3.8685045367568",
+        "stop_lon": "103.36640793141",
+        "stop_id": "2000609",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KAMPUNG BATU HITAM",
+        "stop_lat": "3.8768774391176",
+        "stop_lon": "103.36582464947",
+        "stop_id": "2000610",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SMK BESERAH",
+        "stop_lat": "3.87855908926",
+        "stop_lon": "103.36562334028",
+        "stop_id": "2000611",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "GIAT MARA",
+        "stop_lat": "3.8827085165345",
+        "stop_lon": "103.36489507241",
+        "stop_id": "2000612",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "TAMAN BATU HITAM",
+        "stop_lat": "3.8899789069262",
+        "stop_lon": "103.36470999703",
+        "stop_id": "2000613",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KAMPUNG SUNGAI KARANG",
+        "stop_lat": "3.8935865244991",
+        "stop_lon": "103.36438790623",
+        "stop_id": "2000614",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "MASJID TENGKU PANGLIMA PERANG",
+        "stop_lat": "3.8958918169791",
+        "stop_lon": "103.36401430028",
+        "stop_id": "2000615",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KAMPUNG SUNGAI KARANG DARAT",
+        "stop_lat": "3.9029010382873",
+        "stop_lon": "103.36438791052",
+        "stop_id": "2000616",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SWISS GARDEN RESORT SPA",
+        "stop_lat": "3.9113655968342",
+        "stop_lon": "103.36444354397",
+        "stop_id": "2000617",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KAMPUNG SUNGAI KARANG PANTAI",
+        "stop_lat": "3.9150927972126",
+        "stop_lon": "103.36515662998",
+        "stop_id": "2000618",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KAMPUNG CHENGAL LEMPONG",
+        "stop_lat": "3.9198598068992",
+        "stop_lon": "103.36578666062",
+        "stop_id": "2000619",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "NATURAL BATIK VILLAGE",
+        "stop_lat": "3.92366778191",
+        "stop_lon": "103.36618444526",
+        "stop_id": "2000620",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "TAMAN BALOK JAYA 2",
+        "stop_lat": "3.930506003065",
+        "stop_lon": "103.3669725134",
+        "stop_id": "2000621",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "MASJID PANTAI BALOK",
+        "stop_lat": "3.9337095545949",
+        "stop_lon": "103.36811881266",
+        "stop_id": "2000622",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SK BALOK",
+        "stop_lat": "3.9373841849862",
+        "stop_lon": "103.3696873982",
+        "stop_id": "2000623",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PERKAMPUNGAN BALOK BARU",
+        "stop_lat": "3.9403800649771",
+        "stop_lon": "103.37099618893",
+        "stop_id": "2000624",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KAMPUNG SEBERANG BALOK 1",
+        "stop_lat": "3.9459143849448",
+        "stop_lon": "103.38015183931",
+        "stop_id": "2000625",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "TAMAN AISHAH",
+        "stop_lat": "3.9531402587689",
+        "stop_lon": "103.38492819658",
+        "stop_id": "2000626",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "TAMAN CAHAYA",
+        "stop_lat": "3.9556408398315",
+        "stop_lon": "103.38730054333",
+        "stop_id": "2000627",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KOMPLEK PERUMAHAN TLDM",
+        "stop_lat": "3.9575254761518",
+        "stop_lon": "103.38916083557",
+        "stop_id": "2000628",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KAMPUNG SEBERANG BALOK",
+        "stop_lat": "3.9611681752016",
+        "stop_lon": "103.39289969867",
+        "stop_id": "2000629",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "PERUMAHAN BALOK PERDANA",
+        "stop_lat": "3.9590918344458",
+        "stop_lon": "103.37166203974",
+        "stop_id": "2000662",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KUARTERS TLDM",
+        "stop_lat": "3.9581986861191",
+        "stop_lon": "103.37274432106",
+        "stop_id": "2000663",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SMK PELABUHAN",
+        "stop_lat": "3.9605320927757",
+        "stop_lon": "103.37746712846",
+        "stop_id": "2000664",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "(M) BALOK MAKMUR",
+        "stop_lat": "3.9648293690809",
+        "stop_lon": "103.38295154249",
+        "stop_id": "2000556",
+        "stop_sequence": "47"
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "stop_name": "(M) KL2311 LRT DATO' KERAMAT",
+        "stop_lat": "3.1651540374539",
+        "stop_lon": "101.73160266377",
+        "stop_id": "1001800",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL2310 KUATERS JUPEM",
+        "stop_lat": "3.1665770326273",
+        "stop_lon": "101.73054664706",
+        "stop_id": "1002279",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL2312 TAMAN DATUK KERAMAT (UTARA)",
+        "stop_lat": "3.1672333090085",
+        "stop_lon": "101.73221518272",
+        "stop_id": "1001778",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M) KL2313 TAMAN TASIK KERAMAT",
+        "stop_lat": "3.1675551801753",
+        "stop_lon": "101.73405017986",
+        "stop_id": "1000577",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ403 LRT JELATEK",
+        "stop_lat": "3.1667630360073",
+        "stop_lon": "101.73515681583",
+        "stop_id": "1001803",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL2315 PPR DBKL JELATEK",
+        "stop_lat": "3.1640898328424",
+        "stop_lon": "101.73506421608",
+        "stop_id": "1002603",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL2304 PERKESO",
+        "stop_lat": "3.160401",
+        "stop_lon": "101.734652",
+        "stop_id": "1002412",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL217 WICKHAM RESIDENCE",
+        "stop_lat": "3.156739",
+        "stop_lon": "101.737119",
+        "stop_id": "1002700",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL1661 SELANGOR POLO CLUB",
+        "stop_lat": "3.153649",
+        "stop_lon": "101.736958",
+        "stop_id": "1002946",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL238 DESA PANDAN APARTMENT (UTARA)",
+        "stop_lat": "3.152978",
+        "stop_lon": "101.737151",
+        "stop_id": "1001663",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL220 MUTIARA UPPER EAST CONDOMINIUM",
+        "stop_lat": "3.152319",
+        "stop_lon": "101.737799",
+        "stop_id": "1004097",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1838 MENARA POLO/SK DESA PANDAN (OPP)",
+        "stop_lat": "3.150324",
+        "stop_lon": "101.738504",
+        "stop_id": "1003635",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL221 DESA PANDAN APARTMENT (BARAT)",
+        "stop_lat": "3.148355",
+        "stop_lon": "101.740352",
+        "stop_id": "1002395",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1840 DESA PANDAN CENTRAL (TIMUR)",
+        "stop_lat": "3.1469173482616",
+        "stop_lon": "101.74002886123",
+        "stop_id": "1001519",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL222 DESA PANDAN CENTRAL (TENGAH)",
+        "stop_lat": "3.146417",
+        "stop_lon": "101.738195",
+        "stop_id": "1004151",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1841 DESA PANDAN CENTRAL/PETRON",
+        "stop_lat": "3.146749",
+        "stop_lon": "101.736431",
+        "stop_id": "1002773",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL260 VILLA U THANT APARTMENT",
+        "stop_lat": "3.148019",
+        "stop_lon": "101.735784",
+        "stop_id": "1000711",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL261 DESA PANDAN APARTMENT J3 (OPP)",
+        "stop_lat": "3.151633",
+        "stop_lon": "101.736178",
+        "stop_id": "1000016",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL262 KUARTERS KERAJAAN U-THANT",
+        "stop_lat": "3.153668",
+        "stop_lon": "101.736656",
+        "stop_id": "1002699",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL263 RAINTREE RESIDENCE",
+        "stop_lat": "3.155678",
+        "stop_lon": "101.736961",
+        "stop_id": "1004200",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL2269 KATANA II CONDOMINIUM",
+        "stop_lat": "3.158092",
+        "stop_lon": "101.738903",
+        "stop_id": "1000081",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "AMPANG 971 (OPP)",
+        "stop_lat": "3.158457",
+        "stop_lon": "101.740487",
+        "stop_id": "1002432",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL264 VILLA AMAN CONDOMINIUM",
+        "stop_lat": "3.159471",
+        "stop_lon": "101.740701",
+        "stop_id": "1006120",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL893 GLENEAGLES (OPP)",
+        "stop_lat": "3.160652",
+        "stop_lon": "101.739516",
+        "stop_id": "1000625",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL2314 PICASSO RESIDENCE",
+        "stop_lat": "3.163502",
+        "stop_lon": "101.734811",
+        "stop_id": "1002616",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL2309 TAMAN DATO KERAMAT (SELATAN)",
+        "stop_lat": "3.165777",
+        "stop_lon": "101.733961",
+        "stop_id": "1003762",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "(M) KL2311 LRT DATO' KERAMAT",
+        "stop_lat": "3.1651540374539",
+        "stop_lon": "101.73160266377",
+        "stop_id": "1001800",
+        "stop_sequence": "27"
+    }
+]

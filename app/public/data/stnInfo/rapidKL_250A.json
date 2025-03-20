@@ -1,0 +1,233 @@
+[
+    {
+        "stop_name": "(M) KL192 LRT WANGSA MAJU",
+        "stop_lat": "3.204959",
+        "stop_lon": "101.732321",
+        "stop_id": "1001835",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL193 TAR VILLA",
+        "stop_lat": "3.2069624635304",
+        "stop_lon": "101.72975527444",
+        "stop_id": "1000750",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MALI'S CHARKOAYTEOW",
+        "stop_lat": "3.212169",
+        "stop_lon": "101.728973",
+        "stop_id": "1006114",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL2100 SURAU TMN BUNGA RAYA (OPP)",
+        "stop_lat": "3.213076",
+        "stop_lon": "101.729456",
+        "stop_id": "1006115",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "UTAR PINTU 4 (OPP)",
+        "stop_lat": "3.214716",
+        "stop_lon": "101.730167",
+        "stop_id": "1006116",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL163 UTAR MAIN GATE (OPP)",
+        "stop_lat": "3.214896",
+        "stop_lon": "101.728557",
+        "stop_id": "1003847",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "UTAR PINTU 2 (OPP)",
+        "stop_lat": "3.213626",
+        "stop_lon": "101.727132",
+        "stop_id": "1006117",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL683 SETAPAK VOCATIONAL COLLEGE",
+        "stop_lat": "3.2072988361143",
+        "stop_lon": "101.72683128926",
+        "stop_id": "1000423",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL684 SMK PENDIDIKAN KHAS",
+        "stop_lat": "3.2057756002926",
+        "stop_lon": "101.7254901712",
+        "stop_id": "1002684",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL685 SETAPAK SENTRAL (OPP)",
+        "stop_lat": "3.202591",
+        "stop_lon": "101.721147",
+        "stop_id": "1000983",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL686 CIMB GENTING KLANG",
+        "stop_lat": "3.200405",
+        "stop_lon": "101.718379",
+        "stop_id": "1002470",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL687 BHP GENTING KLANG",
+        "stop_lat": "3.1989558726408",
+        "stop_lon": "101.71638519111",
+        "stop_id": "1000286",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL688 SRI PELANGI CONDOMINIUM (OPP)",
+        "stop_lat": "3.195784",
+        "stop_lon": "101.712974",
+        "stop_id": "1002551",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL2250 BSN GENTING KLANG",
+        "stop_lat": "3.195129",
+        "stop_lon": "101.712331",
+        "stop_id": "1001057",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL689 TAMAN GENTING SETAPAK",
+        "stop_lat": "3.192969",
+        "stop_lon": "101.710065",
+        "stop_id": "1001323",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL690 COURTS MEGASTORE SETAPAK (OPP)",
+        "stop_lat": "3.1912368032815",
+        "stop_lon": "101.70804716495",
+        "stop_id": "1003186",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL691 GUAN YING TING (OPP)",
+        "stop_lat": "3.187681",
+        "stop_lon": "101.703603",
+        "stop_id": "1001281",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL692 SRJKC CHONG HWA (OPP)",
+        "stop_lat": "3.183543",
+        "stop_lon": "101.702285",
+        "stop_id": "1000296",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL693 TITIWANGSA (BARAT)",
+        "stop_lat": "3.1800513185029",
+        "stop_lon": "101.70116164237",
+        "stop_id": "1003561",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL694 SJKC CHIAO NAN (OPP)",
+        "stop_lat": "3.178573",
+        "stop_lon": "101.700485",
+        "stop_id": "1002557",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL55 HKL (BARAT)",
+        "stop_lat": "3.1715259723624",
+        "stop_lon": "101.69899468628",
+        "stop_id": "1000916",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL56 HKL (SELATAN)",
+        "stop_lat": "3.1693610445791",
+        "stop_lon": "101.69854543866",
+        "stop_id": "1002216",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL69 PASAR CHOW KIT",
+        "stop_lat": "3.1649075811687",
+        "stop_lon": "101.69838214605",
+        "stop_id": "1000477",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL70 SRI AMAR",
+        "stop_lat": "3.1621045678315",
+        "stop_lon": "101.69799859061",
+        "stop_id": "1004169",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL71 KOMERSIAL TAR",
+        "stop_lat": "3.1612475525248",
+        "stop_lon": "101.69761374186",
+        "stop_id": "1002359",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL35 MAJU JUNCTION",
+        "stop_lat": "3.1592844970663",
+        "stop_lon": "101.69672259083",
+        "stop_id": "1001853",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL36 KOMPLEKS PERTAMA",
+        "stop_lat": "3.157889",
+        "stop_lon": "101.696133",
+        "stop_id": "1001629",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL37 GLOBE KL",
+        "stop_lat": "3.1551536529193",
+        "stop_lon": "101.69640777292",
+        "stop_id": "1000875",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL38 COLISEUM",
+        "stop_lat": "3.1529928729368",
+        "stop_lon": "101.69660138684",
+        "stop_id": "1000502",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL114 DATARAN MERDEKA",
+        "stop_lat": "3.149162",
+        "stop_lon": "101.694376",
+        "stop_id": "1000521",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL1934 MUZIUM TEKSTIL NEGARA",
+        "stop_lat": "3.147136",
+        "stop_lon": "101.69481",
+        "stop_id": "1000047",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL1939 MEDAN PASAR",
+        "stop_lat": "3.148202",
+        "stop_lon": "101.696375",
+        "stop_id": "1004240",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL117 BSN LEBUH AMPANG",
+        "stop_lat": "3.1492454039518",
+        "stop_lon": "101.69737177094",
+        "stop_id": "1000383",
+        "stop_sequence": "33"
+    }
+]

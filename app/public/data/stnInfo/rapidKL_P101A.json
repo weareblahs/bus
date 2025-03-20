@@ -1,0 +1,331 @@
+[
+    {
+        "stop_name": "PPJ191 KOMPLEKS PARCEL F",
+        "stop_lat": "2.944757",
+        "stop_lon": "101.708408",
+        "stop_id": "1005696",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SEKOLAH SULTAN ALAM SHAH",
+        "stop_lat": "2.946936",
+        "stop_lon": "101.710523",
+        "stop_id": "1005702",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PPJ276 KOMPLEKS PARCEL E (UTARA)",
+        "stop_lat": "2.944436",
+        "stop_lon": "101.707934",
+        "stop_id": "1005625",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PPJ187 KOMPLEKS PARCEL E (BARAT)",
+        "stop_lat": "2.943665",
+        "stop_lon": "101.705229",
+        "stop_id": "1005626",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PPJ188 DATARAN PAHLAWAN",
+        "stop_lat": "2.941926",
+        "stop_lon": "101.704431",
+        "stop_id": "1005627",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PPJ189 KOMPLEKS KERAJAAN PARCEL D",
+        "stop_lat": "2.939138",
+        "stop_lon": "101.701795",
+        "stop_id": "1005628",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PPJ49 KEMENTERIAN KEWANGAN",
+        "stop_lat": "2.927547",
+        "stop_lon": "101.688711",
+        "stop_id": "1005652",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PPJ50 PERBENDAHARAAN 2 (SELATAN)",
+        "stop_lat": "2.925327",
+        "stop_lon": "101.687956",
+        "stop_id": "1005653",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PPJ51 LEMBAGA PEMBIAYAAN PERUMAHAN (SELATAN)",
+        "stop_lat": "2.923217",
+        "stop_lon": "101.687236",
+        "stop_id": "1005654",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PPJ52 MENARA USAHAWAN",
+        "stop_lat": "2.920856",
+        "stop_lon": "101.686418",
+        "stop_id": "1005655",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PPJ53 ISTANA KEHAKIMAN (UTARA)",
+        "stop_lat": "2.918378",
+        "stop_lon": "101.685599",
+        "stop_id": "1005656",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PPJ54 ISTANA KEHAKIMAN (SELATAN)",
+        "stop_lat": "2.916473",
+        "stop_lon": "101.684966",
+        "stop_id": "1005657",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PPJ55 KEMENTERIAN BELIA & SUKAN",
+        "stop_lat": "2.914144",
+        "stop_lon": "101.684242",
+        "stop_id": "1005658",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PPJ376 GALERIA PJH",
+        "stop_lat": "2.911057",
+        "stop_lon": "101.683303",
+        "stop_id": "1005659",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PPJ56 MOTOCROSS CIRCUIT (TIMUR)",
+        "stop_lat": "2.909816",
+        "stop_lon": "101.682767",
+        "stop_id": "1005660",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PPJ33 KEMENTERIAN PEMBANGUNAN LUAR BANDAR",
+        "stop_lat": "2.904778",
+        "stop_lon": "101.681029",
+        "stop_id": "1005661",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PPJ34 DATARAN GEMILANG",
+        "stop_lat": "2.903404",
+        "stop_lon": "101.681176",
+        "stop_id": "1005662",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PPJ35 KEMENTERIAN WANITA & MASYARAKAT",
+        "stop_lat": "2.902484",
+        "stop_lon": "101.680169",
+        "stop_id": "1008624",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PPJ5 PRESINT 5 (BARAT)",
+        "stop_lat": "2.895592",
+        "stop_lon": "101.673208",
+        "stop_id": "1008626",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PPJ6 HERIOT-WATT UNIVERSITY P5 (OPP)",
+        "stop_lat": "2.897694",
+        "stop_lon": "101.671086",
+        "stop_id": "1008628",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PPJ7 KEMENTERIAN PELANCONGAN",
+        "stop_lat": "2.898823",
+        "stop_lon": "101.668346",
+        "stop_id": "1008630",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PPJ8 APARTMENT 5R1 P5 (OPP)",
+        "stop_lat": "2.898637",
+        "stop_lon": "101.666378",
+        "stop_id": "1008632",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PPJ9 PRESINT 6 (SELATAN)",
+        "stop_lat": "2.897135",
+        "stop_lon": "101.665762",
+        "stop_id": "1008634",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PPJ11 KEMENTERIAN PENGAJIAN TINGGI",
+        "stop_lat": "2.895867",
+        "stop_lon": "101.667752",
+        "stop_id": "1005700",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PPJ19 HERIOT-WATT UNIVERSITY P5",
+        "stop_lat": "2.898268",
+        "stop_lon": "101.670839",
+        "stop_id": "1008629",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PPJ327 PRESINT 5 (BARAT)",
+        "stop_lat": "2.896024",
+        "stop_lon": "101.673401",
+        "stop_id": "1008627",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PPJ37 DATARAN GEMILANG",
+        "stop_lat": "2.903986",
+        "stop_lon": "101.679528",
+        "stop_id": "1005663",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PPJ38 KEMENTERIAN PEMBANGUNAN LUAR BANDAR (OPP)",
+        "stop_lat": "2.904962",
+        "stop_lon": "101.680463",
+        "stop_id": "1005664",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PPJ39 MOTOCROSS CIRCUIT",
+        "stop_lat": "2.909976",
+        "stop_lon": "101.682162",
+        "stop_id": "1005665",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PPJ40 GALERIA PJH",
+        "stop_lat": "2.912047",
+        "stop_lon": "101.682703",
+        "stop_id": "1005666",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "PPJ41 KEMENTERIAN PERTANIAN",
+        "stop_lat": "2.914798",
+        "stop_lon": "101.683859",
+        "stop_id": "1005667",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PPJ42 PERBADANAN PUTRAJAYA (SELATAN)",
+        "stop_lat": "2.916673",
+        "stop_lon": "101.684601",
+        "stop_id": "1005668",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PPJ43 PERBADANAN PUTRAJAYA (UTARA)",
+        "stop_lat": "2.918475",
+        "stop_lon": "101.685189",
+        "stop_id": "1005669",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PPJ44 JABATAN PENDAFTARAN NEGARA",
+        "stop_lat": "2.920393",
+        "stop_lon": "101.685857",
+        "stop_id": "1005670",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PPJ45 LEMBAGA PEMBIAYAAN PERUMAHAN (UTARA)",
+        "stop_lat": "2.922944",
+        "stop_lon": "101.686688",
+        "stop_id": "1005671",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PPJ46 PERBENDAHARAAN 2 (UTARA)",
+        "stop_lat": "2.924972",
+        "stop_lon": "101.687394",
+        "stop_id": "1005672",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "PPJ47 MENARA PERKESO",
+        "stop_lat": "2.927249",
+        "stop_lon": "101.688175",
+        "stop_id": "1005673",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PPJ48 PUTRA SQUARE",
+        "stop_lat": "2.934597",
+        "stop_lon": "101.690497",
+        "stop_id": "1005725",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PPJ185 TAMAN BOTANI PUTRAJAYA",
+        "stop_lat": "2.946054",
+        "stop_lon": "101.697888",
+        "stop_id": "1000314",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "PPJ186 TAMAN PUTRA PERDANA (TIMUR)",
+        "stop_lat": "2.9474605297495",
+        "stop_lon": "101.70363287265",
+        "stop_id": "1000315",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "PPJ187 KOMPLEKS PARCEL E (BARAT)",
+        "stop_lat": "2.943665",
+        "stop_lon": "101.705229",
+        "stop_id": "1005626",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "PPJ188 DATARAN PAHLAWAN",
+        "stop_lat": "2.941926",
+        "stop_lon": "101.704431",
+        "stop_id": "1005627",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "PPJ189 KOMPLEKS KERAJAAN PARCEL D",
+        "stop_lat": "2.939138",
+        "stop_lon": "101.701795",
+        "stop_id": "1005628",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "PPJ190 KOMPLEKS B/ LAMAN PERDANA (TIMUR)",
+        "stop_lat": "2.938926",
+        "stop_lon": "101.695456",
+        "stop_id": "1001201",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "PPJ185 TAMAN BOTANI PUTRAJAYA",
+        "stop_lat": "2.946054",
+        "stop_lon": "101.697888",
+        "stop_id": "1000314",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "PPJ186 TAMAN PUTRA PERDANA (TIMUR)",
+        "stop_lat": "2.9474605297495",
+        "stop_lon": "101.70363287265",
+        "stop_id": "1000315",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "PPJ191 KOMPLEKS PARCEL F",
+        "stop_lat": "2.944757",
+        "stop_lon": "101.708408",
+        "stop_id": "1005696",
+        "stop_sequence": "47"
+    }
+]

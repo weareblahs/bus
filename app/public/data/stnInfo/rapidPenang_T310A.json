@@ -1,0 +1,247 @@
+[
+    {
+        "stop_name": "Hub Padang Kawad",
+        "stop_lat": "5.3560444",
+        "stop_lon": "100.29454040000002",
+        "stop_id": "12002214",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Padang Kawad",
+        "stop_lat": "5.356412000000001",
+        "stop_lon": "100.29335",
+        "stop_id": "12003017",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Desasiswa Indah Kembara",
+        "stop_lat": "5.355855",
+        "stop_lon": "100.29519",
+        "stop_id": "12003018",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Jabatan Keselamatan",
+        "stop_lat": "5.355061",
+        "stop_lon": "100.297966",
+        "stop_id": "12003019",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Stor Pusat Kimia Universiti",
+        "stop_lat": "5.356237999999999",
+        "stop_lon": "100.30054",
+        "stop_id": "12003020",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Desasiswa Bakti Fajar Permai Petas",
+        "stop_lat": "5.357158",
+        "stop_lon": "100.30099",
+        "stop_id": "12003021",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Pusat Sejahtera",
+        "stop_lat": "5.35879",
+        "stop_lon": "100.30251",
+        "stop_id": "12003022",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Kompleks Dewan Kuliah C23",
+        "stop_lat": "5.35803",
+        "stop_lon": "100.30411",
+        "stop_id": "12003023",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Dewan Budaya",
+        "stop_lat": "5.356643",
+        "stop_lon": "100.30398000000001",
+        "stop_id": "12003024",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Kompleks Eureka",
+        "stop_lat": "5.354763",
+        "stop_lon": "100.30273000000001",
+        "stop_id": "12003025",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Desasiswa Harapan",
+        "stop_lat": "5.354758",
+        "stop_lon": "100.3004",
+        "stop_id": "12003026",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Hadapan INFORMM",
+        "stop_lat": "5.355030999999999",
+        "stop_lon": "100.29885",
+        "stop_id": "12003027",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Desasiswa Aman Damai",
+        "stop_lat": "5.354976000000001",
+        "stop_lon": "100.29700000000001",
+        "stop_id": "12003028",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Taman Pekaka",
+        "stop_lat": "5.351421",
+        "stop_lon": "100.29286",
+        "stop_id": "12003029",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SRJK Keong Hoe",
+        "stop_lat": "5.34655",
+        "stop_lon": "100.29575",
+        "stop_id": "12001498",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SMJK Phor Tay",
+        "stop_lat": "5.3437038",
+        "stop_lon": "100.2959125",
+        "stop_id": "12003136",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Lip Sin 2",
+        "stop_lat": "5.34265",
+        "stop_lon": "100.29459",
+        "stop_id": "12001991",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Pangsapuri Golf View",
+        "stop_lat": "5.33856",
+        "stop_lon": "100.29256",
+        "stop_id": "12000297",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M3) Hotel Vistana",
+        "stop_lat": "5.33655",
+        "stop_lon": "100.2913",
+        "stop_id": "12000296",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Taman Bukit Jambul",
+        "stop_lat": "5.334961",
+        "stop_lon": "100.28913",
+        "stop_id": "12000294",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Kompleks Bukit Jambul",
+        "stop_lat": "5.3327029999999995",
+        "stop_lon": "100.29074",
+        "stop_id": "12001847",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Krystal Point Corporate Park",
+        "stop_lat": "5.330701",
+        "stop_lon": "100.298996",
+        "stop_id": "12001955",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Queensbay Mall",
+        "stop_lat": "5.331947",
+        "stop_lon": "100.30790999999999",
+        "stop_id": "12002059",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Bay Garden",
+        "stop_lat": "5.33694",
+        "stop_lon": "100.30833",
+        "stop_id": "12002062",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Taman Pantai Jerejak",
+        "stop_lat": "5.34052",
+        "stop_lon": "100.3029",
+        "stop_id": "12000079",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Terminal Ekspress Sg Nibong",
+        "stop_lat": "5.342442",
+        "stop_lon": "100.29952",
+        "stop_id": "12001492",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SJKC Phor Tay",
+        "stop_lat": "5.34373",
+        "stop_lon": "100.29739000000001",
+        "stop_id": "12001494",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SRJK Keong Hoe",
+        "stop_lat": "5.34654",
+        "stop_lon": "100.29564",
+        "stop_id": "12001497",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Tesco Sungai Dua",
+        "stop_lat": "5.35118",
+        "stop_lon": "100.29788",
+        "stop_id": "12001500",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Apartmen Desa Universiti",
+        "stop_lat": "5.35216",
+        "stop_lon": "100.29911",
+        "stop_id": "12001502",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "USM",
+        "stop_lat": "5.352876999999999",
+        "stop_lon": "100.30185",
+        "stop_id": "12001504",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Desasiswa Harapan",
+        "stop_lat": "5.354758",
+        "stop_lon": "100.3004",
+        "stop_id": "12003026",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Hadapan INFORMM",
+        "stop_lat": "5.355030999999999",
+        "stop_lon": "100.29885",
+        "stop_id": "12003027",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Desasiswa Aman Damai",
+        "stop_lat": "5.354976000000001",
+        "stop_lon": "100.29700000000001",
+        "stop_id": "12003028",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Hub Padang Kawad",
+        "stop_lat": "5.3560444",
+        "stop_lon": "100.29454040000002",
+        "stop_id": "12002214",
+        "stop_sequence": "35"
+    }
+]

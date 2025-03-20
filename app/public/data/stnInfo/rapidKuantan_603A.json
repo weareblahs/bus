@@ -1,0 +1,100 @@
+[
+    {
+        "stop_name": "DEPOT",
+        "stop_lat": "3.8559872267463",
+        "stop_lon": "103.32394551771",
+        "stop_id": "2000527",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "(M) KOLEJ PSDC",
+        "stop_lat": "3.8572829873826",
+        "stop_lon": "103.32069283686",
+        "stop_id": "2000557",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PASARAYA JAYA GADING",
+        "stop_lat": "3.8469592924375",
+        "stop_lon": "103.33162480418",
+        "stop_id": "2000101",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "BAILEYS COURT",
+        "stop_lat": "3.8408188710198",
+        "stop_lon": "103.33153770766",
+        "stop_id": "2000638",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PERKAMPUNGAN SETALI",
+        "stop_lat": "3.8365543931783",
+        "stop_lon": "103.32889010739",
+        "stop_id": "2000640",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "HOTEL BUMIMAS",
+        "stop_lat": "3.8350437477239",
+        "stop_lon": "103.32865896574",
+        "stop_id": "2000642",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PETRONAS",
+        "stop_lat": "3.8319233193216",
+        "stop_lon": "103.32836792955",
+        "stop_id": "2000643",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "TADIKA SERI IMAN INTELEK",
+        "stop_lat": "3.8279638409176",
+        "stop_lon": "103.32445936347",
+        "stop_id": "2000645",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PERKAMPUNGAN BUKIT SEKILAU",
+        "stop_lat": "3.8266776666095",
+        "stop_lon": "103.32340853031",
+        "stop_id": "2000646",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "MASJID SAIDINA ALI",
+        "stop_lat": "3.8243974859512",
+        "stop_lon": "103.32272874902",
+        "stop_id": "2000647",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SIMPANG BUKIT SEKILAU",
+        "stop_lat": "3.8232571663799",
+        "stop_lon": "103.32227182279",
+        "stop_id": "2000648",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KAMPUS UITM",
+        "stop_lat": "3.8221992936162",
+        "stop_lon": "103.32235490455",
+        "stop_id": "2000649",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KLINIK KESIHATAN BANDAR KUANTAN",
+        "stop_lat": "3.8199220789428",
+        "stop_lon": "103.32318758465",
+        "stop_id": "2000650",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "14"
+    }
+]

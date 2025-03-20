@@ -1,0 +1,415 @@
+[
+    {
+        "stop_name": "(M) TERMINAL PEKAN",
+        "stop_lat": "3.4899867969634",
+        "stop_lon": "103.39622949559",
+        "stop_id": "2000494",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SHELL PEKAN",
+        "stop_lat": "3.4909375726665",
+        "stop_lon": "103.39693886844",
+        "stop_id": "2000029",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "TABUNG HAJI",
+        "stop_lat": "3.4905226565421",
+        "stop_lon": "103.39229567167",
+        "stop_id": "2000254",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "IBU PEJABAT MDP",
+        "stop_lat": "3.491874105363",
+        "stop_lon": "103.38935043736",
+        "stop_id": "2000461",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PEKAN LAMA",
+        "stop_lat": "3.4928574777669",
+        "stop_lon": "103.38798079105",
+        "stop_id": "2000401",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "TANGKI AIR",
+        "stop_lat": "3.4942118731949",
+        "stop_lon": "103.38675450541",
+        "stop_id": "2000241",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "RESTORAN RASA MESRA",
+        "stop_lat": "3.4968846985915",
+        "stop_lon": "103.3844279822",
+        "stop_id": "2000342",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SEKOLAH SAINS SULTAN HJ. AHMAD SHAH",
+        "stop_lat": "3.4990970027885",
+        "stop_lon": "103.38250722763",
+        "stop_id": "2000180",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "MASJID PEKAN",
+        "stop_lat": "3.5017193703756",
+        "stop_lon": "103.38238572997",
+        "stop_id": "2000257",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS DAERAH PEKAN",
+        "stop_lat": "3.5121757947872",
+        "stop_lon": "103.39414873531",
+        "stop_id": "2000471",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "BAITUR RAHAH",
+        "stop_lat": "3.5147697101448",
+        "stop_lon": "103.39325329671",
+        "stop_id": "2000227",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PERODUA",
+        "stop_lat": "3.516568240043",
+        "stop_lon": "103.39261121444",
+        "stop_id": "2000432",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KOLEJ KOMUNITI PEKAN",
+        "stop_lat": "3.5212047533844",
+        "stop_lon": "103.3910192514",
+        "stop_id": "2000238",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PERUMAHAN LKNP",
+        "stop_lat": "3.5249284853389",
+        "stop_lon": "103.38977983843",
+        "stop_id": "2000168",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "ICAM",
+        "stop_lat": "3.5280646893571",
+        "stop_lon": "103.38871242461",
+        "stop_id": "2000415",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SHELL PEKAN",
+        "stop_lat": "3.5360361030352",
+        "stop_lon": "103.38592661106",
+        "stop_id": "2000468",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "MC DONALD",
+        "stop_lat": "3.5383678726274",
+        "stop_lon": "103.38511255624",
+        "stop_id": "2000438",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PETRONAS PERAMU JAYA",
+        "stop_lat": "3.5412781615675",
+        "stop_lon": "103.38415348798",
+        "stop_id": "2000536",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "DIN MOTOR",
+        "stop_lat": "3.54380875249",
+        "stop_lon": "103.38326707153",
+        "stop_id": "2000273",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "MASJID TAQWA",
+        "stop_lat": "3.5474239084363",
+        "stop_lon": "103.38201874972",
+        "stop_id": "2000444",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "TAMAN SEPEKAN JAYA",
+        "stop_lat": "3.5521957168583",
+        "stop_lon": "103.38026437779",
+        "stop_id": "2000478",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "WISMA PLMP",
+        "stop_lat": "3.5560277543596",
+        "stop_lon": "103.37893463783",
+        "stop_id": "2000537",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "RUMAH 500",
+        "stop_lat": "3.5600676376193",
+        "stop_lon": "103.37752351312",
+        "stop_id": "2000383",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KILANG VAC",
+        "stop_lat": "3.565083408367",
+        "stop_lon": "103.37566963542",
+        "stop_id": "2000061",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "CALTEX",
+        "stop_lat": "3.5742052847422",
+        "stop_lon": "103.37406951336",
+        "stop_id": "2000150",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SK TANAH PUTEH",
+        "stop_lat": "3.5784899465927",
+        "stop_lon": "103.3730178973",
+        "stop_id": "2000472",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SMK DATO’MAHMUD MAT",
+        "stop_lat": "3.5813916383285",
+        "stop_lon": "103.3723377312",
+        "stop_id": "2000071",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KAMPUNG LAMIR",
+        "stop_lat": "3.5909877291533",
+        "stop_lon": "103.35286138001",
+        "stop_id": "2000105",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M) KAMPUNG UBAI",
+        "stop_lat": "3.6052382650621",
+        "stop_lon": "103.32730086991",
+        "stop_id": "2000306",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KAMPUNG SEMANGAT",
+        "stop_lat": "3.6280376741576",
+        "stop_lon": "103.31368584547",
+        "stop_id": "2000483",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KAMPUNG BATU PUTIH",
+        "stop_lat": "3.6470716622057",
+        "stop_lon": "103.30325436833",
+        "stop_id": "2000246",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KUARTERS PENJARA PENOR",
+        "stop_lat": "3.6925979133335",
+        "stop_lon": "103.28182630126",
+        "stop_id": "2000142",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PENJARA PENOR",
+        "stop_lat": "3.6959855675042",
+        "stop_lon": "103.28006452905",
+        "stop_id": "2000004",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SERI MELATI",
+        "stop_lat": "3.7029677232194",
+        "stop_lon": "103.27597344593",
+        "stop_id": "2000051",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "JEJANTAS INDERA SEMPURNA",
+        "stop_lat": "3.735539",
+        "stop_lon": "103.267075",
+        "stop_id": "2000377",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SMK MAT KILAU",
+        "stop_lat": "3.7478362445001",
+        "stop_lon": "103.26126721273",
+        "stop_id": "2000191",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SMK MAT KILAU",
+        "stop_lat": "3.750566",
+        "stop_lon": "103.260879",
+        "stop_id": "2000968",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "TAMAN SERI INDERAPURA",
+        "stop_lat": "3.751544",
+        "stop_lon": "103.261129",
+        "stop_id": "2000538",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PERKAMPUNGAN RASAU PERDANA",
+        "stop_lat": "3.7664308377459",
+        "stop_lon": "103.26259868621",
+        "stop_id": "2000381",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "(M) KIPSAS",
+        "stop_lat": "3.7694821569594",
+        "stop_lon": "103.26003607386",
+        "stop_id": "2000341",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "HUB PERMATANG BADAK",
+        "stop_lat": "3.7749736737469",
+        "stop_lon": "103.26582245369",
+        "stop_id": "2000148",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "DEWAN MAT KILAU",
+        "stop_lat": "3.7756734431781",
+        "stop_lon": "103.26755846104",
+        "stop_id": "2000017",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "PERMATANG BADAK JAYA",
+        "stop_lat": "3.7766097257765",
+        "stop_lon": "103.26999616585",
+        "stop_id": "2000532",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "MASJID AL-HIDAYAH PERMATANG BADAK",
+        "stop_lat": "3.77769081416",
+        "stop_lon": "103.2724966068",
+        "stop_id": "2000265",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "TAMAN SEPAKAT",
+        "stop_lat": "3.778426",
+        "stop_lon": "103.274318",
+        "stop_id": "2000027",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KOMERSIAL SUNGAI ISAP JAYA",
+        "stop_lat": "3.779636",
+        "stop_lon": "103.277441",
+        "stop_id": "2000130",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SUNGAI ISAP/TOYOYA",
+        "stop_lat": "3.781507",
+        "stop_lon": "103.282176",
+        "stop_id": "2000098",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "TUNAS MANJA",
+        "stop_lat": "3.7828805727095",
+        "stop_lon": "103.28571054377",
+        "stop_id": "2000382",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "(M) SK BATU 3",
+        "stop_lat": "3.7840530063368",
+        "stop_lon": "103.2886879787",
+        "stop_id": "2000307",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "TANAH PUTIH BARU",
+        "stop_lat": "3.788051688665",
+        "stop_lon": "103.29870869577",
+        "stop_id": "2000116",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "TANAH PUTIH",
+        "stop_lat": "3.7896590923578",
+        "stop_lon": "103.30216245952",
+        "stop_id": "2000297",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "PASARAYA GIANT",
+        "stop_lat": "3.7934207589975",
+        "stop_lon": "103.31126557187",
+        "stop_id": "2000043",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "KEMUNTING",
+        "stop_lat": "3.796170910043",
+        "stop_lon": "103.31643665853",
+        "stop_id": "2000236",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "HOSPITAL TENGKU AMPUAN AFZAN",
+        "stop_lat": "3.8004608487867",
+        "stop_lon": "103.32288317591",
+        "stop_id": "2000154",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "KOMPLEKS TERUNTUM/IPD KUANTAN",
+        "stop_lat": "3.803174",
+        "stop_lon": "103.324399",
+        "stop_id": "2000014",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS KONTINJEN PAHANG",
+        "stop_lat": "3.8097340263436",
+        "stop_lon": "103.32959924464",
+        "stop_id": "2000267",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "UTC KUANTAN",
+        "stop_lat": "3.813708",
+        "stop_lon": "103.324358",
+        "stop_id": "2000193",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "59"
+    }
+]

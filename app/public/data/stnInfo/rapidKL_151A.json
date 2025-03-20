@@ -1,0 +1,303 @@
+[
+    {
+        "stop_name": "SL283 DATARAN BANDAR BARU SELAYANG",
+        "stop_lat": "3.255694",
+        "stop_lon": "101.657104",
+        "stop_id": "1000959",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SL287 STADIUM MPS (BARAT)",
+        "stop_lat": "3.254584",
+        "stop_lon": "101.656382",
+        "stop_id": "1008668",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SL288 BULATAN BERINGIN SELAYANG",
+        "stop_lat": "3.250878",
+        "stop_lon": "101.657971",
+        "stop_id": "1003159",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SL289 TAMAN SELAYANG SEGAR",
+        "stop_lat": "3.251781",
+        "stop_lon": "101.660001",
+        "stop_id": "1003826",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SL290 TAMAN SELAYANG INDAH",
+        "stop_lat": "3.249568",
+        "stop_lon": "101.662934",
+        "stop_id": "1003516",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SL37 SELAYANG BARU (BARAT)",
+        "stop_lat": "3.249922",
+        "stop_lon": "101.664378",
+        "stop_id": "1002097",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SL536 SELAYANG BARU (UTARA)",
+        "stop_lat": "3.250902",
+        "stop_lon": "101.666458",
+        "stop_id": "1002288",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SL43 PERUMAHAN SELAYANG BARU",
+        "stop_lat": "3.250014",
+        "stop_lon": "101.670495",
+        "stop_id": "1001317",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SL44 BALAI POLIS SELAYANG BARU (OPP)",
+        "stop_lat": "3.248185",
+        "stop_lon": "101.671422",
+        "stop_id": "1001336",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SL34 GIANT SELAYANG",
+        "stop_lat": "3.246619",
+        "stop_lon": "101.671394",
+        "stop_id": "1002289",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SL538 POS MALAYSIA SELAYANG",
+        "stop_lat": "3.244932",
+        "stop_lon": "101.669223",
+        "stop_id": "1002355",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SL539 FLAT PASAR BORONG",
+        "stop_lat": "3.241042",
+        "stop_lon": "101.668447",
+        "stop_id": "1000735",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL840 TAMAN SRI SELAYANG",
+        "stop_lat": "3.235604",
+        "stop_lon": "101.671683",
+        "stop_id": "1004215",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1498 KOMERSIAL KIP (OPP)",
+        "stop_lat": "3.224205",
+        "stop_lon": "101.671929",
+        "stop_id": "1001398",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) KL1505 KTM TAMAN WAHYU",
+        "stop_lat": "3.215039",
+        "stop_lon": "101.672071",
+        "stop_id": "1004087",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL588 TAMAN KOK LIAN/ PPR PEKAN BATU",
+        "stop_lat": "3.202983",
+        "stop_lon": "101.672999",
+        "stop_id": "1001633",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL598 SK KAMPUNG BATU",
+        "stop_lat": "3.201994",
+        "stop_lon": "101.676612",
+        "stop_id": "1003379",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL599 TAMAN IMPIAN",
+        "stop_lat": "3.200533",
+        "stop_lon": "101.677558",
+        "stop_id": "1001966",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL600 BATU KENTOMEN",
+        "stop_lat": "3.197445",
+        "stop_lon": "101.679383",
+        "stop_id": "1000401",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL601 TAMAN RAINBOW",
+        "stop_lat": "3.194458",
+        "stop_lon": "101.679934",
+        "stop_id": "1002536",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL602 TAMAN KAYA",
+        "stop_lat": "3.191318",
+        "stop_lon": "101.680711",
+        "stop_id": "1002535",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1578 MRT JALAN IPOH PINTU B",
+        "stop_lat": "3.189311",
+        "stop_lon": "101.681467",
+        "stop_id": "1005100",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL603 SMK (P) JLN IPOH (OPP)",
+        "stop_lat": "3.187823",
+        "stop_lon": "101.682087",
+        "stop_id": "1003386",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL604 BATU COMPLEX BUSINESS CENTRE",
+        "stop_lat": "3.184283",
+        "stop_lon": "101.681568",
+        "stop_id": "1005102",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL605 TAMAN MILLION",
+        "stop_lat": "3.182668",
+        "stop_lon": "101.681709",
+        "stop_id": "1002532",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M) KL606 RIVERWALK VILLAGE",
+        "stop_lat": "3.180072",
+        "stop_lon": "101.683532",
+        "stop_id": "1001414",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL607 MRT SENTUL BARAT PINTU C",
+        "stop_lat": "3.179103",
+        "stop_lon": "101.684876",
+        "stop_id": "1005118",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL608 HOTEL TROPICANA",
+        "stop_lat": "3.176957",
+        "stop_lon": "101.687597",
+        "stop_id": "1000949",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL609 SMK SENTUL UTAMA",
+        "stop_lat": "3.174777",
+        "stop_lon": "101.690071",
+        "stop_id": "1002528",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL2249 PERKIM",
+        "stop_lat": "3.171261",
+        "stop_lon": "101.693485",
+        "stop_id": "1002414",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL50 DAMAI HOSPITAL",
+        "stop_lat": "3.169987",
+        "stop_lon": "101.695148",
+        "stop_id": "1000514",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "(M) KL52 MONORAIL CHOWKIT",
+        "stop_lat": "3.167932",
+        "stop_lon": "101.697641",
+        "stop_id": "1003247",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL69 PASAR CHOW KIT",
+        "stop_lat": "3.1649075811687",
+        "stop_lon": "101.69838214605",
+        "stop_id": "1000477",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL70 SRI AMAR",
+        "stop_lat": "3.1621045678315",
+        "stop_lon": "101.69799859061",
+        "stop_id": "1004169",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL71 KOMERSIAL TAR",
+        "stop_lat": "3.1612475525248",
+        "stop_lon": "101.69761374186",
+        "stop_id": "1002359",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL35 MAJU JUNCTION",
+        "stop_lat": "3.1592844970663",
+        "stop_lon": "101.69672259083",
+        "stop_id": "1001853",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL36 KOMPLEKS PERTAMA",
+        "stop_lat": "3.157889",
+        "stop_lon": "101.696133",
+        "stop_id": "1001629",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL37 GLOBE KL",
+        "stop_lat": "3.1551536529193",
+        "stop_lon": "101.69640777292",
+        "stop_id": "1000875",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL38 COLISEUM",
+        "stop_lat": "3.1529928729368",
+        "stop_lon": "101.69660138684",
+        "stop_id": "1000502",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL114 DATARAN MERDEKA",
+        "stop_lat": "3.149162",
+        "stop_lon": "101.694376",
+        "stop_id": "1000521",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL1934 MUZIUM TEKSTIL NEGARA",
+        "stop_lat": "3.147136",
+        "stop_lon": "101.69481",
+        "stop_id": "1000047",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL103 MAYBANK",
+        "stop_lat": "3.14694",
+        "stop_lon": "101.69683",
+        "stop_id": "1006277",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL113 HAB LEBUH PUDU",
+        "stop_lat": "3.146744",
+        "stop_lon": "101.698695",
+        "stop_id": "1002080",
+        "stop_sequence": "43"
+    }
+]

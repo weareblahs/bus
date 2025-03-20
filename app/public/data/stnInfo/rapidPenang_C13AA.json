@@ -1,0 +1,275 @@
+[
+    {
+        "stop_name": "Hotel Blanket",
+        "stop_lat": "5.3948529999999995",
+        "stop_lon": "100.40001",
+        "stop_id": "12002530",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Pasar Awam",
+        "stop_lat": "5.3929800000000006",
+        "stop_lon": "100.4016",
+        "stop_id": "12001809",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SP Arena",
+        "stop_lat": "5.38636",
+        "stop_lon": "100.40236",
+        "stop_id": "12001388",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Taman Tun Hussein Onn",
+        "stop_lat": "5.3861454",
+        "stop_lon": "100.4057448",
+        "stop_id": "12002994",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M2) Megamall - Pacific",
+        "stop_lat": "5.37879",
+        "stop_lon": "100.39794",
+        "stop_id": "12001067",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Jambatan Pulau Pinang",
+        "stop_lat": "5.355802",
+        "stop_lon": "100.39232",
+        "stop_id": "12002108",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Batu Uban Highway",
+        "stop_lat": "5.351251",
+        "stop_lon": "100.30986",
+        "stop_id": "12001981",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Jeti Pulau Jerejak",
+        "stop_lat": "5.34299",
+        "stop_lon": "100.31141",
+        "stop_id": "12002068",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Gold Coast Kondominium",
+        "stop_lat": "5.339738",
+        "stop_lon": "100.30965",
+        "stop_id": "12002064",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KWSP Queensbay",
+        "stop_lat": "5.33692",
+        "stop_lon": "100.30844",
+        "stop_id": "12002303",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Hadapan Queensbay Mall",
+        "stop_lat": "5.332325",
+        "stop_lon": "100.30773",
+        "stop_id": "12002060",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Broadcom",
+        "stop_lat": "5.3234580000000005",
+        "stop_lon": "100.30109",
+        "stop_id": "12000607",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Esquel Group",
+        "stop_lat": "5.323992",
+        "stop_lon": "100.29932",
+        "stop_id": "12000608",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "ISO Tech",
+        "stop_lat": "5.323867",
+        "stop_lon": "100.29717",
+        "stop_id": "12001930",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AMD",
+        "stop_lat": "5.322736",
+        "stop_lon": "100.29578000000001",
+        "stop_id": "12002094",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Western Digital",
+        "stop_lat": "5.322353",
+        "stop_lon": "100.29368000000001",
+        "stop_id": "12002011",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "TPC (M) Sdn. Bhd.",
+        "stop_lat": "5.321028",
+        "stop_lon": "100.29422",
+        "stop_id": "12002095",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Mapa Glove",
+        "stop_lat": "5.327569",
+        "stop_lon": "100.29807",
+        "stop_id": "12001933",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "GUH Holdings",
+        "stop_lat": "5.328583",
+        "stop_lon": "100.30004",
+        "stop_id": "12000014",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Intel PG12",
+        "stop_lat": "5.328467",
+        "stop_lon": "100.30004",
+        "stop_id": "12000013",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Intel",
+        "stop_lat": "5.3272639999999996",
+        "stop_lon": "100.29819",
+        "stop_id": "12001931",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Knowles Electronics",
+        "stop_lat": "5.312894",
+        "stop_lon": "100.298615",
+        "stop_id": "12001961",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Cincaria Sdn. Bhd",
+        "stop_lat": "5.314344",
+        "stop_lon": "100.29616",
+        "stop_id": "12001963",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Plexus Riverside",
+        "stop_lat": "5.3169",
+        "stop_lon": "100.2962",
+        "stop_id": "12001965",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "UTIC Service",
+        "stop_lat": "5.318922",
+        "stop_lon": "100.29341",
+        "stop_id": "12001967",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PSDC",
+        "stop_lat": "5.320034",
+        "stop_lon": "100.29091",
+        "stop_id": "12001968",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Snake Temple",
+        "stop_lat": "5.31388",
+        "stop_lon": "100.28609",
+        "stop_id": "12001426",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Kilang Clarion",
+        "stop_lat": "5.30821",
+        "stop_lon": "100.28236",
+        "stop_id": "12001424",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Dynacraft Industries",
+        "stop_lat": "5.305075",
+        "stop_lon": "100.27721",
+        "stop_id": "12000874",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Towa (M) Sdn. Bhd.",
+        "stop_lat": "5.306497",
+        "stop_lon": "100.27693000000001",
+        "stop_id": "12000875",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "B. Braun",
+        "stop_lat": "5.312558",
+        "stop_lon": "100.28348000000001",
+        "stop_id": "12001952",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Renesas",
+        "stop_lat": "5.311275",
+        "stop_lon": "100.28414000000001",
+        "stop_id": "12001950",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "B. Braun Medical",
+        "stop_lat": "5.309883",
+        "stop_lon": "100.28114000000001",
+        "stop_id": "12002043",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Plexus Hillside",
+        "stop_lat": "5.312353",
+        "stop_lon": "100.2828",
+        "stop_id": "12002044",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Astaka Bukit Gedung",
+        "stop_lat": "5.31614",
+        "stop_lon": "100.28407",
+        "stop_id": "12000876",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Pangsapuri Mayang",
+        "stop_lat": "5.31838",
+        "stop_lon": "100.28491",
+        "stop_id": "12002317",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SMK Raja Tun uda",
+        "stop_lat": "5.32036",
+        "stop_lon": "100.28318",
+        "stop_id": "12001803",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "(M2) Spice",
+        "stop_lat": "5.32736",
+        "stop_lon": "100.28050999999999",
+        "stop_id": "12000851",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Terminal Bas Bayan Baru",
+        "stop_lat": "5.3269589999999996",
+        "stop_lon": "100.2803228",
+        "stop_id": "12002974",
+        "stop_sequence": "39"
+    }
+]

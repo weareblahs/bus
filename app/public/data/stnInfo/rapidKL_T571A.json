@@ -1,0 +1,142 @@
+[
+    {
+        "stop_name": "SJ595 KTM KOMUTER SERDANG (OPP)",
+        "stop_lat": "3.0241019628791",
+        "stop_lon": "101.71621852279",
+        "stop_id": "1001689",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KJ706 KOMERSIAL TAMAN DESA SERDANG",
+        "stop_lat": "3.009058",
+        "stop_lon": "101.723533",
+        "stop_id": "1003430",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KJ368 FLAT DESA SERDANG",
+        "stop_lat": "3.009291",
+        "stop_lon": "101.724774",
+        "stop_id": "1000686",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KJ369 SMK DESA SERDANG",
+        "stop_lat": "3.009912",
+        "stop_lon": "101.727534",
+        "stop_id": "1003971",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KJ371 PERUMAHAN DESA SERDANG",
+        "stop_lat": "3.0097960786166",
+        "stop_lon": "101.73089073857",
+        "stop_id": "1003432",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KJ372 APARTMENT DESA SERDANG",
+        "stop_lat": "3.009809",
+        "stop_lon": "101.733348",
+        "stop_id": "1000696",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KJ374 APARTMENT SERI PULAI",
+        "stop_lat": "3.0089005184331",
+        "stop_lon": "101.73698322375",
+        "stop_id": "1000780",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KJ379 APARTMENT SERI PULAI (OPP)",
+        "stop_lat": "3.008451251656",
+        "stop_lon": "101.73717708492",
+        "stop_id": "1000781",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) KJ381 KOMERSIAL TAMAN BUDIMAN",
+        "stop_lat": "3.011867",
+        "stop_lon": "101.736529",
+        "stop_id": "1000697",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KJ383 PERUSAHAAN TAMING JAYA",
+        "stop_lat": "3.015695",
+        "stop_lon": "101.737231",
+        "stop_id": "1001992",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KJ384 TAMAN INDUSTRI TAMING JAYA",
+        "stop_lat": "3.0184592175301",
+        "stop_lon": "101.73995330274",
+        "stop_id": "1001498",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KJ385 TAMAN INDUSTRI SELESA JAYA",
+        "stop_lat": "3.019895",
+        "stop_lon": "101.741538",
+        "stop_id": "1001668",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KJ386 KOMERSIAL TAMING JAYA",
+        "stop_lat": "3.024178",
+        "stop_lon": "101.741853",
+        "stop_id": "1000034",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KJ699 KOMERSIAL TAMING JAYA",
+        "stop_lat": "3.025513",
+        "stop_lon": "101.740462",
+        "stop_id": "1000489",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KJ700 SHELL TAMING JAYA",
+        "stop_lat": "3.025295",
+        "stop_lon": "101.735395",
+        "stop_id": "1003241",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KJ740 TAMAN BUKIT BELIMBING (OPP)",
+        "stop_lat": "3.024767364984",
+        "stop_lon": "101.7337201298",
+        "stop_id": "1004066",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KJ701 WISMA TANJUNG BALAI",
+        "stop_lat": "3.024359",
+        "stop_lon": "101.730258",
+        "stop_id": "1004260",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ597 SK TAMAN SG BESI INDAH",
+        "stop_lat": "3.0267299620342",
+        "stop_lon": "101.7227460587",
+        "stop_id": "1003332",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) SJ598 THE MINES (OPP)",
+        "stop_lat": "3.026619",
+        "stop_lon": "101.719623",
+        "stop_id": "1003923",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SJ595 KTM KOMUTER SERDANG (OPP)",
+        "stop_lat": "3.0241019628791",
+        "stop_lon": "101.71621852279",
+        "stop_id": "1001689",
+        "stop_sequence": "20"
+    }
+]

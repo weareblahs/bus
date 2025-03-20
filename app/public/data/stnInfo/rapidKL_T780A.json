@@ -1,0 +1,163 @@
+[
+    {
+        "stop_name": "PJ585 LRT KELANA JAYA",
+        "stop_lat": "3.112745",
+        "stop_lon": "101.604492",
+        "stop_id": "1001804",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ602 KJMC",
+        "stop_lat": "3.1087558931513",
+        "stop_lon": "101.59568537163",
+        "stop_id": "1001508",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ577 KOMERSIAL SS25",
+        "stop_lat": "3.114091",
+        "stop_lon": "101.598511",
+        "stop_id": "1002237",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ5 PRIMA AVENUE (OPP)",
+        "stop_lat": "3.115683",
+        "stop_lon": "101.596143",
+        "stop_id": "1001308",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ6 PRIMA AVENUE",
+        "stop_lat": "3.116863",
+        "stop_lon": "101.593509",
+        "stop_id": "1000512",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ7 DATARAN PRIMA CONDOMINIUM (OPP)",
+        "stop_lat": "3.1193529068692",
+        "stop_lon": "101.59394979521",
+        "stop_id": "1000513",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ583 AMAN SURIA",
+        "stop_lat": "3.123059",
+        "stop_lon": "101.594947",
+        "stop_id": "1008361",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ8 TAMAN BUKIT MAYANG MAS",
+        "stop_lat": "3.125821",
+        "stop_lon": "101.595688",
+        "stop_id": "1003475",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ515 SMK TROPICANA",
+        "stop_lat": "3.128849",
+        "stop_lon": "101.598469",
+        "stop_id": "1003367",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ516 BAYU PUTERI APARTMENT",
+        "stop_lat": "3.131948",
+        "stop_lon": "101.597387",
+        "stop_id": "1000236",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "(M) PJ522 MERCHANT SQUARE",
+        "stop_lat": "3.132558",
+        "stop_lon": "101.600964",
+        "stop_id": "1000706",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ523 PANGSAPURI DAMAI",
+        "stop_lat": "3.131928",
+        "stop_lon": "101.600343",
+        "stop_id": "1008362",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ524 PANGSAPURI PERMAI",
+        "stop_lat": "3.131907",
+        "stop_lon": "101.599544",
+        "stop_id": "1002163",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ525 KOMERSIAL MUTIARA TROPICANA",
+        "stop_lat": "3.129197",
+        "stop_lon": "101.599082",
+        "stop_id": "1001031",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ805 MUTIARA TROPICANA",
+        "stop_lat": "3.128731",
+        "stop_lon": "101.599738",
+        "stop_id": "1007087",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ584 TAMAN BUKIT MAYANG EMAS",
+        "stop_lat": "3.125703",
+        "stop_lon": "101.595933",
+        "stop_id": "1002735",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ2 AMAN SURIA",
+        "stop_lat": "3.122985",
+        "stop_lon": "101.595167",
+        "stop_id": "1000075",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ3 DATARAN PRIMA KONDOMINIUM",
+        "stop_lat": "3.119748",
+        "stop_lon": "101.594318",
+        "stop_id": "1000524",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ4 PRIMA AVENUE",
+        "stop_lat": "3.1160534316871",
+        "stop_lon": "101.59537958923",
+        "stop_id": "1001221",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ578 KOMERSIAL SS25",
+        "stop_lat": "3.1141344916511",
+        "stop_lon": "101.59883809279",
+        "stop_id": "1002638",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ603 LRT KELANA JAYA",
+        "stop_lat": "3.113161",
+        "stop_lon": "101.605368",
+        "stop_id": "1001805",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ162 TAMAN MEGAH",
+        "stop_lat": "3.1122163182399",
+        "stop_lon": "101.61043199238",
+        "stop_id": "1001169",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PJ585 LRT KELANA JAYA",
+        "stop_lat": "3.112745",
+        "stop_lon": "101.604492",
+        "stop_id": "1001804",
+        "stop_sequence": "23"
+    }
+]

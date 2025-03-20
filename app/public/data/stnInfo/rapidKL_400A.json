@@ -1,0 +1,639 @@
+[
+    {
+        "stop_name": "KL423 PRIMA ALAM DAMAI",
+        "stop_lat": "3.055034",
+        "stop_lon": "101.743311",
+        "stop_id": "1008352",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KJ402 PETRONAS DAMAI PERDANA (OPP)",
+        "stop_lat": "3.0538129274333",
+        "stop_lon": "101.74454990288",
+        "stop_id": "1002505",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KJ404 DAMAI PERDANA FASA 1",
+        "stop_lat": "3.0505668462573",
+        "stop_lon": "101.74140096979",
+        "stop_id": "1002841",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KJ406 DAMAI PERDANA FASA 2",
+        "stop_lat": "3.0468347223618",
+        "stop_lon": "101.73932428072",
+        "stop_id": "1003864",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KJ397 PERUMAHAN DAMAI PERDANA FASA 3",
+        "stop_lat": "3.04890032051",
+        "stop_lon": "101.73985161208",
+        "stop_id": "1002840",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KJ398 PERUMAHAN DAMAI PERDANA",
+        "stop_lat": "3.051568440242",
+        "stop_lon": "101.7425530177",
+        "stop_id": "1003865",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KJ401 PETRONAS DAMAI PERDANA",
+        "stop_lat": "3.0541550642724",
+        "stop_lon": "101.74435396928",
+        "stop_id": "1002842",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KJ649 FLAT CHERAS UTAMA (OPP)",
+        "stop_lat": "3.052987",
+        "stop_lon": "101.746953",
+        "stop_id": "1000041",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KJ696 PERUMAHAN POLIS DESA BAIDURI",
+        "stop_lat": "3.0515635256395",
+        "stop_lon": "101.74764566064",
+        "stop_id": "1001702",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KJ694 SK DESA BAIDURI",
+        "stop_lat": "3.047272",
+        "stop_lon": "101.750849",
+        "stop_id": "1008345",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KJ748 TAMAN KOPERASI MAJU JAYA",
+        "stop_lat": "3.047791",
+        "stop_lon": "101.753252",
+        "stop_id": "1008346",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "VINA RESIDENCY",
+        "stop_lat": "3.050291",
+        "stop_lon": "101.753297",
+        "stop_id": "1008347",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "TAMAN SERI TAMING",
+        "stop_lat": "3.054158",
+        "stop_lon": "101.753483",
+        "stop_id": "1008349",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL2174 PADANG TAMAN DAHLIA",
+        "stop_lat": "3.0556239954642",
+        "stop_lon": "101.74940442408",
+        "stop_id": "1002348",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1721 KOMERSIAL TAMAN BAHAGIA",
+        "stop_lat": "3.0580440385937",
+        "stop_lon": "101.74942357411",
+        "stop_id": "1002655",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL405 TAMAN BUKIT ANGSANA",
+        "stop_lat": "3.0619257054726",
+        "stop_lon": "101.7494772773",
+        "stop_id": "1002674",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL406 TAMAN SURIA JAYA",
+        "stop_lat": "3.0645069017926",
+        "stop_lon": "101.74946444951",
+        "stop_id": "1003805",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL407 SRA AL-MUBARAQAH",
+        "stop_lat": "3.0712757480315",
+        "stop_lon": "101.74975334655",
+        "stop_id": "1003200",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL408 FLAT TAMAN BUKIT CHERAS",
+        "stop_lat": "3.0730924146011",
+        "stop_lon": "101.74902176338",
+        "stop_id": "1003595",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL409 PETRONAS TAMAN LENSENG (OPP)",
+        "stop_lat": "3.074003",
+        "stop_lon": "101.746403",
+        "stop_id": "1001770",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL2175 MEDAN CONNAUGHT",
+        "stop_lat": "3.075536",
+        "stop_lon": "101.745859",
+        "stop_id": "1001759",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL2176 CONNAUGHT AVENUE",
+        "stop_lat": "3.078026",
+        "stop_lon": "101.74263",
+        "stop_id": "1002196",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL755 TAMAN BUKIT HIJAU",
+        "stop_lat": "3.086078",
+        "stop_lon": "101.741526",
+        "stop_id": "1000435",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1723 CHERAS LEISURE MALL (OPP)",
+        "stop_lat": "3.0884017837979",
+        "stop_lon": "101.74109032768",
+        "stop_id": "1001747",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1724 EKOCHERAS MALL",
+        "stop_lat": "3.092809",
+        "stop_lon": "101.739674",
+        "stop_id": "1001036",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M) KL799 MRT TAMAN MIDAH PINTU A",
+        "stop_lat": "3.105244",
+        "stop_lon": "101.731771",
+        "stop_id": "1007150",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL801 VELODROM BUSINESS PARK",
+        "stop_lat": "3.1102656106837",
+        "stop_lon": "101.72978378843",
+        "stop_id": "1000819",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL354 KOMPLEKS DARUL PUTERI (OPP)",
+        "stop_lat": "3.116736",
+        "stop_lon": "101.727994",
+        "stop_id": "1000783",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL355 STADIUM BADMINTON KL",
+        "stop_lat": "3.119397",
+        "stop_lon": "101.728157",
+        "stop_id": "1003671",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL361 MRT MALURI PINTU A",
+        "stop_lat": "3.123425",
+        "stop_lon": "101.72776833333",
+        "stop_id": "1001808",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL874 AEON MALURI (OPP)",
+        "stop_lat": "3.1250635680885",
+        "stop_lon": "101.72670707363",
+        "stop_id": "1001205",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL362 JABATAN KESIHATAN DBKL",
+        "stop_lat": "3.1266833333333",
+        "stop_lon": "101.72353",
+        "stop_id": "1001526",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL363 SUNWAY MEDICAL VELOCITY (OPP)",
+        "stop_lat": "3.1280183333333",
+        "stop_lon": "101.72146166667",
+        "stop_id": "1001644",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL365 WARISAN CITYVIEW",
+        "stop_lat": "3.1292066666667",
+        "stop_lon": "101.71979",
+        "stop_id": "1001069",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL1770 BALAI BOMBA PUDU",
+        "stop_lat": "3.1333553884683",
+        "stop_lon": "101.71437422505",
+        "stop_id": "1002293",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL1771 LRT PUDU/MAJESTIC",
+        "stop_lat": "3.136303587433",
+        "stop_lon": "101.71162064657",
+        "stop_id": "1001846",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL1772 FURAMA (OPP)",
+        "stop_lat": "3.139362",
+        "stop_lon": "101.709657",
+        "stop_id": "1000250",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL121 MONOREL IMBI/TIMES SQUARE",
+        "stop_lat": "3.143008",
+        "stop_lon": "101.709679",
+        "stop_id": "1002054",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL122 PLAZA IMBI",
+        "stop_lat": "3.143307",
+        "stop_lon": "101.710739",
+        "stop_id": "1002566",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL123 MONOREL BUKIT BINTANG/SG WANG",
+        "stop_lat": "3.145928",
+        "stop_lon": "101.711388",
+        "stop_id": "1006729",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL86 MRT BUKIT BINTANG/HSBC",
+        "stop_lat": "3.1477176043261",
+        "stop_lon": "101.71085234878",
+        "stop_id": "1000958",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL9 WISMA BOUSTEAD",
+        "stop_lat": "3.15019853231",
+        "stop_lon": "101.70918482193",
+        "stop_id": "1001998",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL11 WISMA MPL",
+        "stop_lat": "3.150643",
+        "stop_lon": "101.707128",
+        "stop_id": "1008254",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KL12 MENARA KL",
+        "stop_lat": "3.150379",
+        "stop_lon": "101.705928",
+        "stop_id": "1000076",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KL13 WISMA BUDIMAN",
+        "stop_lat": "3.149205",
+        "stop_lon": "101.701929",
+        "stop_id": "1004230",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KL14 MENARA OLYMPIA",
+        "stop_lat": "3.1486697702403",
+        "stop_lon": "101.700172348",
+        "stop_id": "1004247",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KL100 BACKHOME HOSTEL",
+        "stop_lat": "3.1487247315043",
+        "stop_lon": "101.69791779705",
+        "stop_id": "1001181",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "(M) KL101 HUB LEBUH PUDU",
+        "stop_lat": "3.1464756605009",
+        "stop_lon": "101.69819178245",
+        "stop_id": "1002081",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KL119 HOSPITAL TUNG SHIN",
+        "stop_lat": "3.1452216666667",
+        "stop_lon": "101.70462",
+        "stop_id": "1000934",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KL120 HOTEL SWISS GARDEN (OPP)",
+        "stop_lat": "3.144438",
+        "stop_lon": "101.706043",
+        "stop_id": "1000953",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KL866 FURAMA",
+        "stop_lat": "3.138532",
+        "stop_lon": "101.710008",
+        "stop_id": "1003928",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KL867 LRT PUDU/MAJESTIC (OPP)",
+        "stop_lat": "3.1365982275533",
+        "stop_lon": "101.71170165741",
+        "stop_id": "1001847",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "KL803 PEJABAT POS PUDU",
+        "stop_lat": "3.1338190533991",
+        "stop_lon": "101.71407761968",
+        "stop_id": "1002286",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "KL868 ALL SAINTS CHURCH",
+        "stop_lat": "3.1303842695455",
+        "stop_lon": "101.71871223005",
+        "stop_id": "1000855",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "KL366 WARISAN CITYVIEW (OPP)",
+        "stop_lat": "3.128962",
+        "stop_lon": "101.720501",
+        "stop_id": "1001035",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "KL367 SUNWAY MEDICAL VELOCITY",
+        "stop_lat": "3.127684",
+        "stop_lon": "101.722349",
+        "stop_id": "1000666",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "KL2208 SUNWAY VELOCITY MALL",
+        "stop_lat": "3.126747",
+        "stop_lon": "101.724088",
+        "stop_id": "1008351",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "KL368 AEON MALURI",
+        "stop_lat": "3.1253230755966",
+        "stop_lon": "101.72697999582",
+        "stop_id": "1001206",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "KL869 LRT MALURI",
+        "stop_lat": "3.123475",
+        "stop_lon": "101.728087",
+        "stop_id": "1007445",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "KL1702 STADIUM BADMINTON KL (OPP)",
+        "stop_lat": "3.119263",
+        "stop_lon": "101.728402",
+        "stop_id": "1000276",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "KL1703 KOMPLEKS DARUL PUTERI",
+        "stop_lat": "3.116648",
+        "stop_lon": "101.728274",
+        "stop_id": "1002248",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "KL1704 BHP CHERAS",
+        "stop_lat": "3.1097296624857",
+        "stop_lon": "101.730216195",
+        "stop_id": "1001723",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "KL1705 TAMAN MIDAH (UTARA)",
+        "stop_lat": "3.102694",
+        "stop_lon": "101.734135",
+        "stop_id": "1003485",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "(M) KL756 MRT TAMAN MUTIARA PINTU B",
+        "stop_lat": "3.091753",
+        "stop_lon": "101.740472",
+        "stop_id": "1007156",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "KL757 CHERAS LEISURE MALL",
+        "stop_lat": "3.08921001753",
+        "stop_lon": "101.74116607053",
+        "stop_id": "1001748",
+        "stop_sequence": "65"
+    },
+    {
+        "stop_name": "KL919 TAMAN BUKIT HIJAU",
+        "stop_lat": "3.0855949503916",
+        "stop_lon": "101.7419797396",
+        "stop_id": "1000438",
+        "stop_sequence": "66"
+    },
+    {
+        "stop_name": "KL2271 CHERAS SENTRAL MALL",
+        "stop_lat": "3.0776377137889",
+        "stop_lon": "101.74351194844",
+        "stop_id": "1002538",
+        "stop_sequence": "67"
+    },
+    {
+        "stop_name": "KL2171 CHERIA HEIGHTS APARTMENT",
+        "stop_lat": "3.076049",
+        "stop_lon": "101.745965",
+        "stop_id": "1001749",
+        "stop_sequence": "68"
+    },
+    {
+        "stop_name": "KL414 FLAT TAMAN BUKIT CHERAS",
+        "stop_lat": "3.0728377748585",
+        "stop_lon": "101.74941529683",
+        "stop_id": "1000793",
+        "stop_sequence": "69"
+    },
+    {
+        "stop_name": "KL415 SRA AL-MUBARAQAH (OPP)",
+        "stop_lat": "3.0705880555475",
+        "stop_lon": "101.74992788236",
+        "stop_id": "1003201",
+        "stop_sequence": "70"
+    },
+    {
+        "stop_name": "KL417 FLAT TAMAN SURIA JAYA",
+        "stop_lat": "3.0645046273459",
+        "stop_lon": "101.74968351158",
+        "stop_id": "1001264",
+        "stop_sequence": "71"
+    },
+    {
+        "stop_name": "KL418 KOMERSIAL BUKIT ANGSANA",
+        "stop_lat": "3.0619144229316",
+        "stop_lon": "101.74963666248",
+        "stop_id": "1002717",
+        "stop_sequence": "72"
+    },
+    {
+        "stop_name": "KL419 TAMAN SRI BAHAGIA",
+        "stop_lat": "3.0583675852096",
+        "stop_lon": "101.74964311019",
+        "stop_id": "1004055",
+        "stop_sequence": "73"
+    },
+    {
+        "stop_name": "KJ750 KOMERSIAL SERI TAMING",
+        "stop_lat": "3.0549282265593",
+        "stop_lon": "101.75012018081",
+        "stop_id": "1002633",
+        "stop_sequence": "74"
+    },
+    {
+        "stop_name": "KJ746 TAMAN SERI TAMING",
+        "stop_lat": "3.0546658341278",
+        "stop_lon": "101.75371023299",
+        "stop_id": "1003578",
+        "stop_sequence": "75"
+    },
+    {
+        "stop_name": "VINA RESIDENCY (OPP)",
+        "stop_lat": "3.050103",
+        "stop_lon": "101.753539",
+        "stop_id": "1008348",
+        "stop_sequence": "76"
+    },
+    {
+        "stop_name": "KJ747 TAMAN KOPERASI MAJU JAYA",
+        "stop_lat": "3.0476339957782",
+        "stop_lon": "101.75339562669",
+        "stop_id": "1004065",
+        "stop_sequence": "77"
+    },
+    {
+        "stop_name": "KJ749 SK DESA BAIDURI (OPP)",
+        "stop_lat": "3.047033223714",
+        "stop_lon": "101.75132637022",
+        "stop_id": "1003634",
+        "stop_sequence": "78"
+    },
+    {
+        "stop_name": "KJ707 PADANG AWAM DESA BAIDURI",
+        "stop_lat": "3.046964",
+        "stop_lon": "101.749108",
+        "stop_id": "1002313",
+        "stop_sequence": "79"
+    },
+    {
+        "stop_name": "KJ708 PERUMAHAN CHERAS UTAMA",
+        "stop_lat": "3.0487705643672",
+        "stop_lon": "101.74804961155",
+        "stop_id": "1001703",
+        "stop_sequence": "80"
+    },
+    {
+        "stop_name": "KJ709 PERUMAHAN POLIS DESA BAIDURI (OPP)",
+        "stop_lat": "3.051603",
+        "stop_lon": "101.747502",
+        "stop_id": "1008319",
+        "stop_sequence": "81"
+    },
+    {
+        "stop_name": "KJ710 FLAT CHERAS UTAMA",
+        "stop_lat": "3.0531723292852",
+        "stop_lon": "101.74671658709",
+        "stop_id": "1000705",
+        "stop_sequence": "82"
+    },
+    {
+        "stop_name": "KJ402 PETRONAS DAMAI PERDANA (OPP)",
+        "stop_lat": "3.0538129274333",
+        "stop_lon": "101.74454990288",
+        "stop_id": "1002505",
+        "stop_sequence": "83"
+    },
+    {
+        "stop_name": "KJ404 DAMAI PERDANA FASA 1",
+        "stop_lat": "3.0505668462573",
+        "stop_lon": "101.74140096979",
+        "stop_id": "1002841",
+        "stop_sequence": "84"
+    },
+    {
+        "stop_name": "KJ406 DAMAI PERDANA FASA 2",
+        "stop_lat": "3.0468347223618",
+        "stop_lon": "101.73932428072",
+        "stop_id": "1003864",
+        "stop_sequence": "85"
+    },
+    {
+        "stop_name": "KJ397 PERUMAHAN DAMAI PERDANA FASA 3",
+        "stop_lat": "3.04890032051",
+        "stop_lon": "101.73985161208",
+        "stop_id": "1002840",
+        "stop_sequence": "86"
+    },
+    {
+        "stop_name": "KJ398 PERUMAHAN DAMAI PERDANA",
+        "stop_lat": "3.051568440242",
+        "stop_lon": "101.7425530177",
+        "stop_id": "1003865",
+        "stop_sequence": "87"
+    },
+    {
+        "stop_name": "KJ401 PETRONAS DAMAI PERDANA",
+        "stop_lat": "3.0541550642724",
+        "stop_lon": "101.74435396928",
+        "stop_id": "1002842",
+        "stop_sequence": "88"
+    },
+    {
+        "stop_name": "KL421 PRIMA ALAM DAMAI (OPP)",
+        "stop_lat": "3.054896",
+        "stop_lon": "101.742976",
+        "stop_id": "1002786",
+        "stop_sequence": "89"
+    },
+    {
+        "stop_name": "TAMAN DESA CHERAS",
+        "stop_lat": "3.055729",
+        "stop_lon": "101.737697",
+        "stop_id": "1007376",
+        "stop_sequence": "90"
+    },
+    {
+        "stop_name": "KL423 PRIMA ALAM DAMAI",
+        "stop_lat": "3.055034",
+        "stop_lon": "101.743311",
+        "stop_id": "1008352",
+        "stop_sequence": "91"
+    }
+]

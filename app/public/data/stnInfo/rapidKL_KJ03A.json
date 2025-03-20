@@ -1,0 +1,254 @@
+[
+    {
+        "stop_name": "MRT BTHO",
+        "stop_lat": "3.04907",
+        "stop_lon": "101.774434",
+        "stop_id": "1007176",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "APARTMENT NETIZEN",
+        "stop_lat": "3.049629",
+        "stop_lon": "101.772007",
+        "stop_id": "1003179",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PETRONAS CHERAS PERDANA (OPP)",
+        "stop_lat": "3.047857",
+        "stop_lon": "101.768725",
+        "stop_id": "1002469",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "TAMAN CHERAS PERDANA FASA 2",
+        "stop_lat": "3.0462601967292",
+        "stop_lon": "101.76797590543",
+        "stop_id": "1002213",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SMK CHERAS PERDANA (OPP)",
+        "stop_lat": "3.043947",
+        "stop_lon": "101.766412",
+        "stop_id": "1006997",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "TAMAN CHERAS PERDANA FASA 3",
+        "stop_lat": "3.041742",
+        "stop_lon": "101.765086",
+        "stop_id": "1006998",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "TAMAN CHERAS PERDANA FASA 7",
+        "stop_lat": "3.037232",
+        "stop_lon": "101.762309",
+        "stop_id": "1006755",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KJ334 AEON CHERAS SELATAN",
+        "stop_lat": "3.033446",
+        "stop_lon": "101.762818",
+        "stop_id": "1006754",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PUSAT KOMERSIAL C180",
+        "stop_lat": "3.034846",
+        "stop_lon": "101.766009",
+        "stop_id": "1000184",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "TAMAN CHERAS PERDANA FASA 7",
+        "stop_lat": "3.037232",
+        "stop_lon": "101.762309",
+        "stop_id": "1006755",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PANGSAPURI SUAKASIH",
+        "stop_lat": "3.03778",
+        "stop_lon": "101.758212",
+        "stop_id": "1006999",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PERUMAHAN SUADAMAI",
+        "stop_lat": "3.04998",
+        "stop_lon": "101.754825",
+        "stop_id": "1008000",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SK BTHO 2",
+        "stop_lat": "3.052803",
+        "stop_lon": "101.754999",
+        "stop_id": "1008001",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SMK BTHO 2",
+        "stop_lat": "3.054078",
+        "stop_lon": "101.755786",
+        "stop_id": "1008002",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PETRONAS BTHO 2",
+        "stop_lat": "3.054724",
+        "stop_lon": "101.757973",
+        "stop_id": "1008004",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "APARTMENT MINANG RIA",
+        "stop_lat": "3.056474",
+        "stop_lon": "101.757437",
+        "stop_id": "1006757",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PANGSAPURI SERI MURNI",
+        "stop_lat": "3.060348",
+        "stop_lon": "101.757403",
+        "stop_id": "1008005",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SRA TAMAN TUN PERAK (OPP)",
+        "stop_lat": "3.062087",
+        "stop_lon": "101.758338",
+        "stop_id": "1008006",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PANGSAPURI WIRA",
+        "stop_lat": "3.063197",
+        "stop_lon": "101.758677",
+        "stop_id": "1008007",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PANGSAPURI PAHLAWAN",
+        "stop_lat": "3.060106",
+        "stop_lon": "101.757615",
+        "stop_id": "1006723",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "APARTMENT WAJA",
+        "stop_lat": "3.057335",
+        "stop_lon": "101.757667",
+        "stop_id": "1006724",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PETRONAS BTHO 2 (OPP)",
+        "stop_lat": "3.054613",
+        "stop_lon": "101.757834",
+        "stop_id": "1007180",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SMK BTHO 2 (OPP)",
+        "stop_lat": "3.053884",
+        "stop_lon": "101.755724",
+        "stop_id": "1008003",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SK BTHO 2 (OPP)",
+        "stop_lat": "3.052596",
+        "stop_lon": "101.755077",
+        "stop_id": "1007181",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PERUMAHAN SUADAMAI",
+        "stop_lat": "3.049777",
+        "stop_lon": "101.754912",
+        "stop_id": "1007182",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KJ332 PANGSAPURI SUAKASIH (OPP)",
+        "stop_lat": "3.037933",
+        "stop_lon": "101.758468",
+        "stop_id": "1007183",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KJ334 AEON CHERAS SELATAN",
+        "stop_lat": "3.033446",
+        "stop_lon": "101.762818",
+        "stop_id": "1006754",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PUSAT KOMERSIAL C180",
+        "stop_lat": "3.034846",
+        "stop_lon": "101.766009",
+        "stop_id": "1000184",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "TAMAN CHERAS PERDANA FASA 6",
+        "stop_lat": "3.0391103631811",
+        "stop_lon": "101.76329157858",
+        "stop_id": "1003022",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "TAMAN CHERAS PERDANA FASA 5",
+        "stop_lat": "3.041968",
+        "stop_lon": "101.765046",
+        "stop_id": "1003590",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SMK CHERAS PERDANA",
+        "stop_lat": "3.044012",
+        "stop_lon": "101.766291",
+        "stop_id": "1003374",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "TAMAN CHERAS PERDANA FASA 4",
+        "stop_lat": "3.046373",
+        "stop_lon": "101.767875",
+        "stop_id": "1002212",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PETRONAS CHERAS PERDANA",
+        "stop_lat": "3.047227",
+        "stop_lon": "101.76835",
+        "stop_id": "1002468",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "TAMAN MEGAH 2",
+        "stop_lat": "3.049878",
+        "stop_lon": "101.769909",
+        "stop_id": "1003007",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "APARTMENT NETIZEN (OPP)",
+        "stop_lat": "3.0498368588427",
+        "stop_lon": "101.77212185602",
+        "stop_id": "1003180",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "MRT BTHO",
+        "stop_lat": "3.04907",
+        "stop_lon": "101.774434",
+        "stop_id": "1007176",
+        "stop_sequence": "36"
+    }
+]

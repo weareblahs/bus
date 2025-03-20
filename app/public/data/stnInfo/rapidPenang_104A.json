@@ -1,0 +1,324 @@
+[
+    {
+        "stop_name": "(M1) Hub Lebuh Carnavon",
+        "stop_lat": "5.4126216",
+        "stop_lon": "100.3319975",
+        "stop_id": "12002988",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Komtar",
+        "stop_lat": "5.41378",
+        "stop_lon": "100.33094",
+        "stop_id": "12001937",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Terminal Komtar",
+        "stop_lat": "5.4141808",
+        "stop_lon": "100.33031319999999",
+        "stop_id": "12002116",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Wisma MCA",
+        "stop_lat": "5.41841",
+        "stop_lon": "100.32954000000001",
+        "stop_id": "12001832",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Transfer Road",
+        "stop_lat": "5.420875",
+        "stop_lon": "100.330605",
+        "stop_id": "12001835",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SMKA (P) Al Mashoor",
+        "stop_lat": "5.42333",
+        "stop_lon": "100.33028",
+        "stop_id": "12001410",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "(M3) SK Perempuan Island",
+        "stop_lat": "5.42349",
+        "stop_lon": "100.32843000000001",
+        "stop_id": "12001413",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "1926 Heritage Hotel",
+        "stop_lat": "5.424169",
+        "stop_lon": "100.320533",
+        "stop_id": "12003016",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Chinese Recreation Club",
+        "stop_lat": "5.42517",
+        "stop_lon": "100.3191",
+        "stop_id": "12000360",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Gleneagles II",
+        "stop_lat": "5.427282",
+        "stop_lon": "100.31952",
+        "stop_id": "12000972",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Sri Pangkor Kondominium",
+        "stop_lat": "5.42875",
+        "stop_lon": "100.31974",
+        "stop_id": "12000718",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Gurney Hotel",
+        "stop_lat": "5.429469999999999",
+        "stop_lon": "100.31879",
+        "stop_id": "12000719",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Evergreen Hotel",
+        "stop_lat": "5.4303",
+        "stop_lon": "100.31715",
+        "stop_id": "12000720",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Masjid Jamek Al Munawer",
+        "stop_lat": "5.4307300000000005",
+        "stop_lon": "100.31622",
+        "stop_id": "12000721",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Flat Kelawei",
+        "stop_lat": "5.4313",
+        "stop_lon": "100.31533",
+        "stop_id": "12000722",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Sleeping Buddha",
+        "stop_lat": "5.4320900000000005",
+        "stop_lon": "100.31404",
+        "stop_id": "12000723",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Pangsapuri Festival",
+        "stop_lat": "5.43341",
+        "stop_lon": "100.31219",
+        "stop_id": "12000724",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Gurney Paragon",
+        "stop_lat": "5.43463",
+        "stop_lon": "100.31057",
+        "stop_id": "12000726",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Gurney Plaza",
+        "stop_lat": "5.43594",
+        "stop_lon": "100.30881",
+        "stop_id": "12000727",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Jalan Bagan Jermal(Gurney)",
+        "stop_lat": "5.439603",
+        "stop_lon": "100.30738000000001",
+        "stop_id": "12000105",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SMJK Phor Tay",
+        "stop_lat": "5.437126999999999",
+        "stop_lon": "100.30551",
+        "stop_id": "12000102",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Kwang Tung & Teng Chow Association",
+        "stop_lat": "5.43515",
+        "stop_lon": "100.30301999999999",
+        "stop_id": "12000894",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Chinese Cemetery",
+        "stop_lat": "5.43729",
+        "stop_lon": "100.30266999999999",
+        "stop_id": "12000896",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Hong Seng Estate",
+        "stop_lat": "5.440930000000001",
+        "stop_lon": "100.30298",
+        "stop_id": "12000897",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Kompleks Institut Pendidikan",
+        "stop_lat": "5.45006",
+        "stop_lon": "100.30207",
+        "stop_id": "12000900",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Pepper Estate",
+        "stop_lat": "5.454606",
+        "stop_lon": "100.29941",
+        "stop_id": "12000807",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Jalan Evergreen",
+        "stop_lat": "5.45319",
+        "stop_lon": "100.30275999999999",
+        "stop_id": "12000477",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Jalan Bintang",
+        "stop_lat": "5.45719",
+        "stop_lon": "100.30215",
+        "stop_id": "12000289",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Jalan Gajah II",
+        "stop_lat": "5.4600599999999995",
+        "stop_lon": "100.30282",
+        "stop_id": "12000482",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Jalan Gajah I",
+        "stop_lat": "5.4623",
+        "stop_lon": "100.30374",
+        "stop_id": "12000483",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Mercure Penang Beach Hotel",
+        "stop_lat": "5.46354",
+        "stop_lon": "100.30138000000001",
+        "stop_id": "12001663",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Petron Jalan Sungai Kelian",
+        "stop_lat": "5.46497",
+        "stop_lon": "100.29183",
+        "stop_id": "12001564",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Jalan Loh Poh Heng",
+        "stop_lat": "5.46207",
+        "stop_lon": "100.29002",
+        "stop_id": "12000825",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Sekolah Ikthisas Tentera Udara",
+        "stop_lat": "5.45918",
+        "stop_lon": "100.28918",
+        "stop_id": "12000081",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Lembah Permai",
+        "stop_lat": "5.457399",
+        "stop_lon": "100.288952",
+        "stop_id": "12002239",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Lorong Lembah Permai 3",
+        "stop_lat": "5.45394",
+        "stop_lon": "100.28836",
+        "stop_id": "12002028",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "TAR Kolej II",
+        "stop_lat": "5.45352",
+        "stop_lon": "100.2863",
+        "stop_id": "12002026",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "TAR Kolej I",
+        "stop_lat": "5.45371",
+        "stop_lon": "100.28501999999999",
+        "stop_id": "12002027",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Flat Permai Jaya",
+        "stop_lat": "5.45504",
+        "stop_lon": "100.28214",
+        "stop_id": "12002018",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Flat Boon Siew",
+        "stop_lat": "5.45621",
+        "stop_lon": "100.2824",
+        "stop_id": "12002019",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Tenby School",
+        "stop_lat": "5.45849",
+        "stop_lon": "100.28229",
+        "stop_id": "12000811",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Sekolah Kebangsaan Pendidikan Khas",
+        "stop_lat": "5.4589300000000005",
+        "stop_lon": "100.28025",
+        "stop_id": "12000813",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "Pangsapuri Azuria",
+        "stop_lat": "5.46253",
+        "stop_lon": "100.27991",
+        "stop_id": "12000816",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "Ambank",
+        "stop_lat": "5.4646",
+        "stop_lon": "100.28041",
+        "stop_id": "12000818",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "Harmony Residence",
+        "stop_lat": "5.46546",
+        "stop_lon": "100.28178",
+        "stop_id": "12001671",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "Menara Asas",
+        "stop_lat": "5.46545",
+        "stop_lon": "100.28374000000001",
+        "stop_id": "12001670",
+        "stop_sequence": "46"
+    }
+]

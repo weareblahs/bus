@@ -1,0 +1,205 @@
+[
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA855 WISMA MBSA (OPP)",
+        "stop_lat": "3.072952",
+        "stop_lon": "101.520611",
+        "stop_id": "1008399",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA854 KOMPLEKS PKNS SHAH ALAM",
+        "stop_lat": "3.072057",
+        "stop_lon": "101.51693",
+        "stop_id": "1008075",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA6 SIRIM",
+        "stop_lat": "3.0687533794527",
+        "stop_lon": "101.51497243083",
+        "stop_id": "1003267",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA967 SMK SEKSYEN 2",
+        "stop_lat": "3.073193",
+        "stop_lon": "101.509487",
+        "stop_id": "1008104",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA7 HUB SEKSYEN 2",
+        "stop_lat": "3.0717952198749",
+        "stop_lon": "101.50800645308",
+        "stop_id": "1000171",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA374 HOTEL UITM (OPP)",
+        "stop_lat": "3.066741",
+        "stop_lon": "101.508294",
+        "stop_id": "1000951",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA571 DEPOH BAS CITYLINER (OPP)",
+        "stop_lat": "3.058502",
+        "stop_lon": "101.509235",
+        "stop_id": "1001488",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA574 PANGSAPURI ANGGERIK INDAH (OPP)",
+        "stop_lat": "3.058528",
+        "stop_lon": "101.505794",
+        "stop_id": "1002745",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA577 PASAR MBSA SEKSYEN 16",
+        "stop_lat": "3.05573",
+        "stop_lon": "101.505784",
+        "stop_id": "1002275",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA578 ALAM D16 (UTARA)",
+        "stop_lat": "3.0543316",
+        "stop_lon": "101.504969",
+        "stop_id": "1008162",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA579 SMK SEKSYEN 16 (OPP)",
+        "stop_lat": "3.054372",
+        "stop_lon": "101.502845",
+        "stop_id": "1003355",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA580 ALAM RESIDENTIALS (BARAT)",
+        "stop_lat": "3.053369",
+        "stop_lon": "101.502356",
+        "stop_id": "1001233",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA589 UITM SEKSYEN 17",
+        "stop_lat": "3.048508",
+        "stop_lon": "101.502452",
+        "stop_id": "1003931",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "TERMINAL SEKSYEN 17",
+        "stop_lat": "3.046956",
+        "stop_lon": "101.503282",
+        "stop_id": "1006629",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA560 UITM SEKSYEN 17",
+        "stop_lat": "3.048480032769",
+        "stop_lon": "101.50212995062",
+        "stop_id": "1003348",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA561 ALAM RESIDENTIALS (BARAT)",
+        "stop_lat": "3.053708",
+        "stop_lon": "101.502249",
+        "stop_id": "1001232",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA564 SMK SEKSYEN 16",
+        "stop_lat": "3.05449",
+        "stop_lon": "101.503322",
+        "stop_id": "1003354",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SA565 ALAM D16 (UTARA)",
+        "stop_lat": "3.054492",
+        "stop_lon": "101.505109",
+        "stop_id": "1008161",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA566 PASAR MBSA SEKSYEN 16 (OPP)",
+        "stop_lat": "3.055537",
+        "stop_lon": "101.505672",
+        "stop_id": "1002274",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA569 PANGSAPURI ANGGERIK INDAH",
+        "stop_lat": "3.058862",
+        "stop_lon": "101.505793",
+        "stop_id": "1000027",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA570 DEPOH BAS CITYLINER",
+        "stop_lat": "3.058522",
+        "stop_lon": "101.509093",
+        "stop_id": "1000905",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA344 HOTEL UITM",
+        "stop_lat": "3.067038",
+        "stop_lon": "101.507952",
+        "stop_id": "1000950",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "(M) SA14 HUB SEKSYEN 2",
+        "stop_lat": "3.071829",
+        "stop_lon": "101.507558",
+        "stop_id": "1000172",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA968 SMK SEKYEN 2 (OPP)",
+        "stop_lat": "3.07375",
+        "stop_lon": "101.50965",
+        "stop_id": "1006016",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA15 TAMAN TASIK SHAH ALAM",
+        "stop_lat": "3.068967",
+        "stop_lon": "101.515673",
+        "stop_id": "1004224",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA16 KOMPLEKS PKNS (OPP)",
+        "stop_lat": "3.071462",
+        "stop_lon": "101.516276",
+        "stop_id": "1003856",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA856 WISMA MBSA",
+        "stop_lat": "3.073127",
+        "stop_lon": "101.519848",
+        "stop_id": "1006643",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "29"
+    }
+]

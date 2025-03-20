@@ -1,0 +1,275 @@
+[
+    {
+        "stop_name": "SJ533 LRT ALAM MEGAH",
+        "stop_lat": "3.023277",
+        "stop_lon": "101.572424",
+        "stop_id": "1006540",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SK HICOM",
+        "stop_lat": "3.0271745077661",
+        "stop_lon": "101.56998761079",
+        "stop_id": "1003297",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA50 SRI IXORA APARTMENT",
+        "stop_lat": "3.028091",
+        "stop_lon": "101.568615",
+        "stop_id": "1008225",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA120 TAMAN BUKIT SAGA",
+        "stop_lat": "3.0314345209961",
+        "stop_lon": "101.56936023913",
+        "stop_id": "1000443",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA121 PROTON HICOM (TIMUR)",
+        "stop_lat": "3.034298",
+        "stop_lon": "101.564048",
+        "stop_id": "1000812",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA122 I-PARC",
+        "stop_lat": "3.0351388518713",
+        "stop_lon": "101.55991458153",
+        "stop_id": "1001838",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA124 PROTON HICOM",
+        "stop_lat": "3.0355074868275",
+        "stop_lon": "101.55797791479",
+        "stop_id": "1000618",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "METHODIST CAC",
+        "stop_lat": "3.004453",
+        "stop_lon": "101.545783",
+        "stop_id": "1008226",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA178 PERUMAHAN ANGGERIK (UTARA)",
+        "stop_lat": "3.003629",
+        "stop_lon": "101.548087",
+        "stop_id": "1008227",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA179 SURAU AN-NAJIHIN",
+        "stop_lat": "2.999948",
+        "stop_lon": "101.550929",
+        "stop_id": "1008228",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA180 PERUMAHAN ANGGERIK (TIMUR)",
+        "stop_lat": "2.994048",
+        "stop_lon": "101.549682",
+        "stop_id": "1008229",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA214 PANGSAPURI SRI KEMUNING (BARAT)",
+        "stop_lat": "2.990915",
+        "stop_lon": "101.548514",
+        "stop_id": "1002178",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA182 PANGSAPURI SRI NERVILLA",
+        "stop_lat": "2.986482316293",
+        "stop_lon": "101.54955156799",
+        "stop_id": "1000337",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA183 SRI NERVILLIA",
+        "stop_lat": "2.984285",
+        "stop_lon": "101.549171",
+        "stop_id": "1008230",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SA188 KOTA KEMUNING INDUSTRIAL PARK",
+        "stop_lat": "2.9819555182849",
+        "stop_lon": "101.54712558236",
+        "stop_id": "1002661",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA189 KEMUNING GREENVILLE (SELATAN)",
+        "stop_lat": "2.9803039831074",
+        "stop_lon": "101.53789540224",
+        "stop_id": "1003817",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA190 GREENVILLE (UTARA)",
+        "stop_lat": "2.9840926966876",
+        "stop_lon": "101.53583964718",
+        "stop_id": "1000495",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA191 MERANTI TERRACE",
+        "stop_lat": "2.9869113186898",
+        "stop_lon": "101.53540642002",
+        "stop_id": "1000817",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SA193 SMK KOTA KEMUNING (UTARA)",
+        "stop_lat": "2.9859331922853",
+        "stop_lon": "101.54094875077",
+        "stop_id": "1002798",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA199 KOTA KEMUNING HILLS (SELATAN)",
+        "stop_lat": "2.986524",
+        "stop_lon": "101.540134",
+        "stop_id": "1008247",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA200 MERANTI TERRACE",
+        "stop_lat": "2.9865863714949",
+        "stop_lon": "101.53531996678",
+        "stop_id": "1000816",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA221 SJKC CHUNG HUA KOTA KEMUNING",
+        "stop_lat": "2.989023",
+        "stop_lon": "101.532389",
+        "stop_id": "1008246",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SK BUKIT RIMAU",
+        "stop_lat": "2.992453",
+        "stop_lon": "101.527444",
+        "stop_id": "1008231",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SHAH ALAM BUDDIST SOCIETY",
+        "stop_lat": "2.995721",
+        "stop_lon": "101.526651",
+        "stop_id": "1008232",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA169 CHINESE TAIPEI SCHOOL (OPP)",
+        "stop_lat": "2.998171",
+        "stop_lon": "101.527441",
+        "stop_id": "1008498",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "AEON BIG BUKIT RIMAU (OPP)",
+        "stop_lat": "2.999288",
+        "stop_lon": "101.527879",
+        "stop_id": "1008495",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "GEO BUKIT RIMAU",
+        "stop_lat": "3.000737",
+        "stop_lon": "101.526674",
+        "stop_id": "1008496",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PUSAT KOMERSIAL BUKIT RIMAU",
+        "stop_lat": "2.998918",
+        "stop_lon": "101.526166",
+        "stop_id": "1008497",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA169 CHINESE TAIPEI SCHOOL (OPP)",
+        "stop_lat": "2.998171",
+        "stop_lon": "101.527441",
+        "stop_id": "1008498",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "GAMUDA WALK MALL (OPP)",
+        "stop_lat": "3.000923",
+        "stop_lon": "101.532826",
+        "stop_id": "1008236",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA170 CANAL GARDEN",
+        "stop_lat": "3.003345006784",
+        "stop_lon": "101.53361888346",
+        "stop_id": "1001858",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SA171 KOTA KEMUNING BUSINESS PARK",
+        "stop_lat": "3.0033833659642",
+        "stop_lon": "101.53836641213",
+        "stop_id": "1001567",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SA894 KOTA KEMUNING CENTRAL LAKE",
+        "stop_lat": "3.002597",
+        "stop_lon": "101.540143",
+        "stop_id": "1008237",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SA130 PROTON HICOM (BARAT)",
+        "stop_lat": "3.0358864026082",
+        "stop_lon": "101.55771576987",
+        "stop_id": "1000619",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SA137 SEKSYEN 26 (TIMUR)",
+        "stop_lat": "3.0351256496585",
+        "stop_lon": "101.56147935984",
+        "stop_id": "1000912",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SA139 PROTON HICOM (TIMUR)",
+        "stop_lat": "3.034469",
+        "stop_lon": "101.565662",
+        "stop_id": "1000825",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SA140 TAMAN BUKIT SAGA",
+        "stop_lat": "3.0315394160238",
+        "stop_lon": "101.56965452364",
+        "stop_id": "1000316",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SK HICOM (OPP)",
+        "stop_lat": "3.027013",
+        "stop_lon": "101.570212",
+        "stop_id": "1003298",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SJ533 LRT ALAM MEGAH",
+        "stop_lat": "3.023277",
+        "stop_lon": "101.572424",
+        "stop_id": "1006540",
+        "stop_sequence": "39"
+    }
+]

@@ -1,0 +1,345 @@
+[
+    {
+        "stop_name": "Hub Jalan Air Puteh",
+        "stop_lat": "5.28661",
+        "stop_lon": "100.54287",
+        "stop_id": "12000041",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Pekan Junjung",
+        "stop_lat": "5.297969999999999",
+        "stop_lon": "100.53416",
+        "stop_id": "12000044",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Pejabat Koperasi Tasek Junjung",
+        "stop_lat": "5.29765",
+        "stop_lon": "100.53179",
+        "stop_id": "12001699",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Masjid Jamek Tasik Junjung",
+        "stop_lat": "5.296951",
+        "stop_lon": "100.527839",
+        "stop_id": "12002577",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Kampung Sepulau",
+        "stop_lat": "5.2928",
+        "stop_lon": "100.524289",
+        "stop_id": "12002578",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SK Seri Tasek",
+        "stop_lat": "5.28559",
+        "stop_lon": "100.52179",
+        "stop_id": "12001698",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Muda Paper I",
+        "stop_lat": "5.28443",
+        "stop_lon": "100.52026",
+        "stop_id": "12001680",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Muda Paper II",
+        "stop_lat": "5.28447",
+        "stop_lon": "100.51924",
+        "stop_id": "12001681",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Muda Paper III",
+        "stop_lat": "5.28453",
+        "stop_lon": "100.51734",
+        "stop_id": "12001682",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Gerai Tasek",
+        "stop_lat": "5.28456",
+        "stop_lon": "100.51335",
+        "stop_id": "12001683",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Kampung Padang",
+        "stop_lat": "5.28471",
+        "stop_lon": "100.51138",
+        "stop_id": "12001688",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Masjid Padang Lalang",
+        "stop_lat": "5.28477",
+        "stop_lon": "100.50929000000001",
+        "stop_id": "12001689",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Taman Tasek Indah",
+        "stop_lat": "5.2848",
+        "stop_lon": "100.5063",
+        "stop_id": "12001690",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Taman Puteri Gunung",
+        "stop_lat": "5.28494",
+        "stop_lon": "100.5027",
+        "stop_id": "12001692",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Taman Tasek Harmoni",
+        "stop_lat": "5.28498",
+        "stop_lon": "100.49889",
+        "stop_id": "12001693",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Taman Tasek",
+        "stop_lat": "5.28489",
+        "stop_lon": "100.49468",
+        "stop_id": "12001691",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Bandar Tasek Mutiara",
+        "stop_lat": "5.283273",
+        "stop_lon": "100.49255",
+        "stop_id": "12002579",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M2) Pearl City Mall",
+        "stop_lat": "5.2777",
+        "stop_lon": "100.49188000000001",
+        "stop_id": "12001694",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Bandar Tasek Mutiara",
+        "stop_lat": "5.2783",
+        "stop_lon": "100.48369",
+        "stop_id": "12001696",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Balai Polis Simpang Empat",
+        "stop_lat": "5.28365",
+        "stop_lon": "100.47665",
+        "stop_id": "12001265",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Kg. Baru Simpang Empat",
+        "stop_lat": "5.28653",
+        "stop_lon": "100.47731",
+        "stop_id": "12001266",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Simpang Empat",
+        "stop_lat": "5.29097",
+        "stop_lon": "100.47867",
+        "stop_id": "12001268",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Taman Permatang Tinggi Indah",
+        "stop_lat": "5.29524",
+        "stop_lon": "100.47903000000001",
+        "stop_id": "12001270",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Taman Perwira",
+        "stop_lat": "5.29726",
+        "stop_lon": "100.47861",
+        "stop_id": "12001271",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SRJK Permatang Tinggi",
+        "stop_lat": "5.29968",
+        "stop_lon": "100.47754",
+        "stop_id": "12001272",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Taman Impian Ria",
+        "stop_lat": "5.309480000000001",
+        "stop_lon": "100.47986",
+        "stop_id": "12001357",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Taman Industri Impian",
+        "stop_lat": "5.3121599999999995",
+        "stop_lon": "100.47903000000001",
+        "stop_id": "12001359",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "TESCO Alma",
+        "stop_lat": "5.31597",
+        "stop_lon": "100.4778",
+        "stop_id": "12001360",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "AEON Pintu Utama",
+        "stop_lat": "5.3192",
+        "stop_lon": "100.47679000000001",
+        "stop_id": "12001361",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Taman Sri Kijang",
+        "stop_lat": "5.32134",
+        "stop_lon": "100.47659",
+        "stop_id": "12001363",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Masjid Jamek Alma Jaya",
+        "stop_lat": "5.322216",
+        "stop_lon": "100.47845799999999",
+        "stop_id": "12002580",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Taman Seri Impian",
+        "stop_lat": "5.320972",
+        "stop_lon": "100.480637",
+        "stop_id": "12002581",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Jessel Ball Sport Center",
+        "stop_lat": "5.321427",
+        "stop_lon": "100.48369699999999",
+        "stop_id": "12002582",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Kilang Ayamas",
+        "stop_lat": "5.325512000000001",
+        "stop_lon": "100.48589799999999",
+        "stop_id": "12002583",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Taman Nirwana",
+        "stop_lat": "5.32784",
+        "stop_lon": "100.48575",
+        "stop_id": "12001370",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Taman Alma Jaya",
+        "stop_lat": "5.3284199999999995",
+        "stop_lon": "100.48397",
+        "stop_id": "12001371",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Taman Selesa",
+        "stop_lat": "5.3292507",
+        "stop_lon": "100.4820585",
+        "stop_id": "12002588",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SJKC Sin Ya",
+        "stop_lat": "5.32975",
+        "stop_lon": "100.47796",
+        "stop_id": "12000045",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Jalan Damai",
+        "stop_lat": "5.33871",
+        "stop_lon": "100.47378",
+        "stop_id": "12000403",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SMK Jalan Damai",
+        "stop_lat": "5.3416",
+        "stop_lon": "100.47388000000001",
+        "stop_id": "12000405",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Taman Alma Perpaduan",
+        "stop_lat": "5.34585",
+        "stop_lon": "100.47166",
+        "stop_id": "12000598",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Pasar Awam Kampung Baru",
+        "stop_lat": "5.3471",
+        "stop_lon": "100.47245",
+        "stop_id": "12000599",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SK Kampung Baru I",
+        "stop_lat": "5.34943",
+        "stop_lon": "100.47122",
+        "stop_id": "12000248",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SK Kampung Baru II",
+        "stop_lat": "5.34995",
+        "stop_lon": "100.47061",
+        "stop_id": "12000249",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "Sentosa Residence",
+        "stop_lat": "5.353794000000001",
+        "stop_lon": "100.4714",
+        "stop_id": "12002540",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SJK(C) Kim Sen",
+        "stop_lat": "5.356240000000001",
+        "stop_lon": "100.46761",
+        "stop_id": "12000804",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SK Convent Bukit Mertajam",
+        "stop_lat": "5.359338",
+        "stop_lon": "100.465325",
+        "stop_id": "12002541",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SJK(C) Jit Sin",
+        "stop_lat": "5.363758",
+        "stop_lon": "100.462845",
+        "stop_id": "12002542",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "(M1) The Summit",
+        "stop_lat": "5.3657975",
+        "stop_lon": "100.462624",
+        "stop_id": "12002201",
+        "stop_sequence": "49"
+    }
+]

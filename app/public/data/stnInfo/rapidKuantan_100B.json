@@ -1,0 +1,359 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "UOB BANK",
+        "stop_lat": "3.8072837119611",
+        "stop_lon": "103.32978402323",
+        "stop_id": "2000198",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "MENARA KUANTAN 188",
+        "stop_lat": "3.8035149065029",
+        "stop_lon": "103.32624424933",
+        "stop_id": "2000470",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "HOSPITAL TENGKU AMPUAN AFZAN",
+        "stop_lat": "3.800603",
+        "stop_lon": "103.323625",
+        "stop_id": "2000329",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "(M) MAJLIS BANDARAYA KUANTAN",
+        "stop_lat": "3.798661",
+        "stop_lon": "103.321761",
+        "stop_id": "2000252",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "LHDN KUANTAN",
+        "stop_lat": "3.795984",
+        "stop_lon": "103.317042",
+        "stop_id": "2000324",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJKC CHUNG CHING",
+        "stop_lat": "3.7938580654174",
+        "stop_lon": "103.31292117399",
+        "stop_id": "2000416",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) PASARAYA GIANT",
+        "stop_lat": "3.7924412965752",
+        "stop_lon": "103.30982708458",
+        "stop_id": "2000475",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "TANAH PUTIH BARU",
+        "stop_lat": "3.7888798954459",
+        "stop_lon": "103.30139877901",
+        "stop_id": "2000460",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SHELL TAMAN KURNIA",
+        "stop_lat": "3.7841361211925",
+        "stop_lon": "103.28956103335",
+        "stop_id": "2000431",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "BATU 3",
+        "stop_lat": "3.7824637448732",
+        "stop_lon": "103.28527925696",
+        "stop_id": "2000165",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "TAMAN BELUKAR MAJU",
+        "stop_lat": "3.780861",
+        "stop_lon": "103.281383",
+        "stop_id": "2000274",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PERKAMPUNGAN RAZALI",
+        "stop_lat": "3.779545",
+        "stop_lon": "103.278044",
+        "stop_id": "2000199",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SMK PAYA BESAR",
+        "stop_lat": "3.7773290310862",
+        "stop_lon": "103.27246131404",
+        "stop_id": "2000026",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "DEWAN MAT KILAU",
+        "stop_lat": "3.7756838544773",
+        "stop_lon": "103.26824259681",
+        "stop_id": "2000200",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "MASJID KIPSAS",
+        "stop_lat": "3.7735844707037",
+        "stop_lon": "103.26299857564",
+        "stop_id": "2000439",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) PASARAYA TERUS MAJU",
+        "stop_lat": "3.7713715754116",
+        "stop_lon": "103.25527927913",
+        "stop_id": "2000282",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "BATU 7",
+        "stop_lat": "3.7698878091839",
+        "stop_lon": "103.24593824926",
+        "stop_id": "2000660",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "HAPPY HOME",
+        "stop_lat": "3.7695444632093",
+        "stop_lon": "103.24160903336",
+        "stop_id": "2000661",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "TAMAN TAS",
+        "stop_lat": "3.7695877333175",
+        "stop_lon": "103.23619883063",
+        "stop_id": "2000376",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SEKOLAH MENENGAH SAINS SULTAN HAJI AHMAD SHAH",
+        "stop_lat": "3.7693033830212",
+        "stop_lon": "103.23421899981",
+        "stop_id": "2000464",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KAMPUNG SERI DAMAI",
+        "stop_lat": "3.7690788579145",
+        "stop_lon": "103.23053770848",
+        "stop_id": "2000229",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "BATU 8",
+        "stop_lat": "3.7687195443468",
+        "stop_lon": "103.22727978348",
+        "stop_id": "2000268",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SIN KEE HUNG",
+        "stop_lat": "3.7655483102105",
+        "stop_lon": "103.21976974959",
+        "stop_id": "2000331",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PASARAYA SAKAN",
+        "stop_lat": "3.7644675411851",
+        "stop_lon": "103.21747651048",
+        "stop_id": "2000497",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "RESTORAN ZAMAN",
+        "stop_lat": "3.762316608757",
+        "stop_lon": "103.21365517518",
+        "stop_id": "2000455",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PASARAYA NIRWANA",
+        "stop_lat": "3.7568899460469",
+        "stop_lon": "103.20431358034",
+        "stop_id": "2000053",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "JAYA GADING",
+        "stop_lat": "3.7550922555226",
+        "stop_lon": "103.20078865566",
+        "stop_id": "2000097",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "BATU 11",
+        "stop_lat": "3.7490975758917",
+        "stop_lon": "103.1922765596",
+        "stop_id": "2000037",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "TUNAS MART",
+        "stop_lat": "3.7442844362717",
+        "stop_lon": "103.18667859687",
+        "stop_id": "2000230",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "BATU 12",
+        "stop_lat": "3.7403371996795",
+        "stop_lon": "103.18004376838",
+        "stop_id": "2000138",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "LADANG TUNAS AGRO",
+        "stop_lat": "3.7355286572197",
+        "stop_lon": "103.16800109236",
+        "stop_id": "2000361",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SERI FAJAR",
+        "stop_lat": "3.7134132060132",
+        "stop_lon": "103.13027031397",
+        "stop_id": "2000379",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "CALTEX GAMBANG",
+        "stop_lat": "3.7091254775229",
+        "stop_lon": "103.12518494454",
+        "stop_id": "2000134",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "ESSO",
+        "stop_lat": "3.7108582582416",
+        "stop_lon": "103.11939385697",
+        "stop_id": "2000345",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KEDIAMAN UMP 3",
+        "stop_lat": "3.7229394910035",
+        "stop_lon": "103.12410267692",
+        "stop_id": "2000099",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KEDIAMAN UMP 2",
+        "stop_lat": "3.7290895479999",
+        "stop_lon": "103.12477371284",
+        "stop_id": "2000313",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KEDIAMAN UMP 4",
+        "stop_lat": "3.7286282493261",
+        "stop_lon": "103.12470268366",
+        "stop_id": "2000824",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "UMP",
+        "stop_lat": "3.7212847938522",
+        "stop_lon": "103.11987581263",
+        "stop_id": "2000039",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "ESSO",
+        "stop_lat": "3.7124509428658",
+        "stop_lon": "103.11999353254",
+        "stop_id": "2000453",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KLINIK KESIHATAN GAMBANG",
+        "stop_lat": "3.7072348648552",
+        "stop_lon": "103.10787175716",
+        "stop_id": "2000332",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "BALAI POLIS GAMBANG",
+        "stop_lat": "3.7066433941711",
+        "stop_lon": "103.10192365592",
+        "stop_id": "2000417",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "BHP GAMBANG",
+        "stop_lat": "3.706003053125",
+        "stop_lon": "103.09848682585",
+        "stop_id": "2000281",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KEDAI BUAH",
+        "stop_lat": "3.7062290904508",
+        "stop_lon": "103.09429211264",
+        "stop_id": "2000279",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "PERUMAHAN RAKYAT",
+        "stop_lat": "3.7066225359639",
+        "stop_lon": "103.0922571613",
+        "stop_id": "2000359",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KOLEJ MATRIKULASI GAMBANG",
+        "stop_lat": "3.7170973962261",
+        "stop_lon": "103.07349556538",
+        "stop_id": "2000021",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KOLEJ KOMUNITI GAMBANG",
+        "stop_lat": "3.7242019259574",
+        "stop_lon": "103.07242706389",
+        "stop_id": "2000543",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "UIA GAMBANG",
+        "stop_lat": "3.7278984035753",
+        "stop_lon": "103.06348145488",
+        "stop_id": "2000544",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "GAMBANG RESORT",
+        "stop_lat": "3.7087800436756",
+        "stop_lon": "103.05343382522",
+        "stop_id": "2000066",
+        "stop_sequence": "51"
+    }
+]

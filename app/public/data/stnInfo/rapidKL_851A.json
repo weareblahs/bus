@@ -1,0 +1,191 @@
+[
+    {
+        "stop_name": "KL1821 PASAR SENI (PLATFORM A1 - A2)",
+        "stop_lat": "3.142834",
+        "stop_lon": "101.6956",
+        "stop_id": "1004342",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL112 KOTA RAYA",
+        "stop_lat": "3.1454957091436",
+        "stop_lon": "101.69812709966",
+        "stop_id": "1001672",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL113 HAB LEBUH PUDU",
+        "stop_lat": "3.146744",
+        "stop_lon": "101.698695",
+        "stop_id": "1002080",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL105 LRT MASJID JAMEK",
+        "stop_lat": "3.1494286865998",
+        "stop_lon": "101.69618952231",
+        "stop_id": "1001810",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1051 BANK NEGARA MALAYSIA",
+        "stop_lat": "3.152017282975",
+        "stop_lon": "101.69194456144",
+        "stop_id": "1000230",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1052 JKR MALAYSIA",
+        "stop_lat": "3.1539712544399",
+        "stop_lon": "101.69042572851",
+        "stop_id": "1001070",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1055 KEMENTERIAN KERJA RAYA",
+        "stop_lat": "3.1553322473188",
+        "stop_lon": "101.68833929992",
+        "stop_id": "1001411",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL2256 JABATAN PERHUTANAN (OPP)",
+        "stop_lat": "3.1590129730624",
+        "stop_lon": "101.68343665281",
+        "stop_id": "1001173",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL2257 WISMA TANI",
+        "stop_lat": "3.1572192311953",
+        "stop_lon": "101.68156321543",
+        "stop_id": "1001171",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1915 DUTA VISTA (OPP)",
+        "stop_lat": "3.150058",
+        "stop_lon": "101.674526",
+        "stop_id": "1000313",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1015 LEMBAGA PEPERIKSAAN",
+        "stop_lat": "3.1688055608548",
+        "stop_lon": "101.6709083906",
+        "stop_id": "1000597",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1888 LEMBAGA PEPERIKSAAN (OPP)",
+        "stop_lat": "3.1705168708054",
+        "stop_lon": "101.67086932913",
+        "stop_id": "1001099",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1025 MASJID WILAYAH PINTU UTAMA",
+        "stop_lat": "3.1719253732426",
+        "stop_lon": "101.67239991405",
+        "stop_id": "1001101",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1538 MEDAN SELERA DUTA",
+        "stop_lat": "3.1739141362433",
+        "stop_lon": "101.67137475011",
+        "stop_id": "1001957",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1895 KOMPLEKS MAHKAMAH KL",
+        "stop_lat": "3.176083",
+        "stop_lon": "101.671433",
+        "stop_id": "1001623",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1892 MATRADE (BARAT)",
+        "stop_lat": "3.177628",
+        "stop_lon": "101.667348",
+        "stop_id": "1002010",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "(M) KL1023 PUBLIKA",
+        "stop_lat": "3.170365",
+        "stop_lon": "101.665298",
+        "stop_id": "1001958",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL1026 WISMA HASIL",
+        "stop_lat": "3.173448",
+        "stop_lon": "101.67297",
+        "stop_id": "1007469",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL1036 STADIUM HOKI",
+        "stop_lat": "3.1693147906004",
+        "stop_lon": "101.67150333637",
+        "stop_id": "1001100",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1507 KEDUTAAN INDIA",
+        "stop_lat": "3.1583307367127",
+        "stop_lon": "101.67129381191",
+        "stop_id": "1001375",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1487 DUTA VISTA",
+        "stop_lat": "3.1508358757586",
+        "stop_lon": "101.67459889136",
+        "stop_id": "1000598",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1057 JABATAN PERHUTANAN",
+        "stop_lat": "3.1590373663647",
+        "stop_lon": "101.68244530604",
+        "stop_id": "1001172",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1059 JKR MALAYSIA (OPP)",
+        "stop_lat": "3.1541502029364",
+        "stop_lon": "101.6905522438",
+        "stop_id": "1001071",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL106 MENARA UAB/CIMB",
+        "stop_lat": "3.1507023375653",
+        "stop_lon": "101.69556669879",
+        "stop_id": "1000488",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL107 LRT MASJID JAMEK",
+        "stop_lat": "3.1495093326694",
+        "stop_lon": "101.69651785383",
+        "stop_id": "1001183",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL108 KOTA RAYA",
+        "stop_lat": "3.1452717451374",
+        "stop_lon": "101.69818921129",
+        "stop_id": "1001673",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL1821 PASAR SENI (PLATFORM A1 - A2)",
+        "stop_lat": "3.142834",
+        "stop_lon": "101.6956",
+        "stop_id": "1004342",
+        "stop_sequence": "27"
+    }
+]

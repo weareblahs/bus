@@ -1,0 +1,163 @@
+[
+    {
+        "stop_name": "(M) KL746 LRT SRI RAMPAI",
+        "stop_lat": "3.1988359275043",
+        "stop_lon": "101.73752617997",
+        "stop_id": "1001827",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "WANGSA 9 RESIDENCY",
+        "stop_lat": "3.198697",
+        "stop_lon": "101.739854",
+        "stop_id": "1004212",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL747 WANGSA WALK (TIMUR)",
+        "stop_lat": "3.199022",
+        "stop_lon": "101.743877",
+        "stop_id": "1000986",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL2106 AEON BIG WANGSA MAJU",
+        "stop_lat": "3.1953502937695",
+        "stop_lon": "101.7421385335",
+        "stop_id": "1000450",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) KL750 SHELL WANGSA MAJU",
+        "stop_lat": "3.1964796609795",
+        "stop_lon": "101.74469474394",
+        "stop_id": "1002626",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "WANGSA WALK MALL",
+        "stop_lat": "3.199117",
+        "stop_lon": "101.741457",
+        "stop_id": "1006745",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "LRT SRI RAMPAI (OPP)",
+        "stop_lat": "3.198298",
+        "stop_lon": "101.739574",
+        "stop_id": "1006746",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "INFINITI 3 RESIDENCES",
+        "stop_lat": "3.194424",
+        "stop_lon": "101.737616",
+        "stop_id": "1008647",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL725 RAMPAI COURT (SELATAN)",
+        "stop_lat": "3.192312",
+        "stop_lon": "101.734184",
+        "stop_id": "1007524",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL726 TAMAN MEGAN SETAPAK",
+        "stop_lat": "3.194451",
+        "stop_lon": "101.730545",
+        "stop_id": "1003859",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "MASJID ABU UBAIDAH",
+        "stop_lat": "3.194386",
+        "stop_lon": "101.728885",
+        "stop_id": "1003850",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL713 TAMAN SETAPAK JAYA (UTARA)",
+        "stop_lat": "3.192257",
+        "stop_lon": "101.727729",
+        "stop_id": "1002273",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M) KL717 TAMAN SRI RAMPAI (BARAT)",
+        "stop_lat": "3.1915695211838",
+        "stop_lon": "101.72947181266",
+        "stop_id": "1002972",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL714 SMK TAMAN SRI RAMPAI",
+        "stop_lat": "3.191344",
+        "stop_lon": "101.732723",
+        "stop_id": "1004237",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL2088 ITBM WANGSA MAJU (TIMUR)",
+        "stop_lat": "3.189761",
+        "stop_lon": "101.735855",
+        "stop_id": "1001006",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL2089 SRI LEDANG SEKSYEN 10",
+        "stop_lat": "3.188151",
+        "stop_lon": "101.736384",
+        "stop_id": "1000751",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL723 SURAU DARUL HUDA",
+        "stop_lat": "3.1869766768342",
+        "stop_lon": "101.73586989756",
+        "stop_id": "1003617",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M) KL724 ITBM WANGSA MAJU (OPP)",
+        "stop_lat": "3.18951233074",
+        "stop_lon": "101.73506316042",
+        "stop_id": "1000623",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AVILA RESIDENCES",
+        "stop_lat": "3.192218",
+        "stop_lon": "101.737081",
+        "stop_id": "1008491",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL820 WANGSA 118",
+        "stop_lat": "3.195604",
+        "stop_lon": "101.741666",
+        "stop_id": "1003603",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL821 KOMERSIAL WANGSA DELIMA",
+        "stop_lat": "3.197132",
+        "stop_lon": "101.742443",
+        "stop_id": "1000458",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "WANGSA WALK MALL",
+        "stop_lat": "3.199117",
+        "stop_lon": "101.741457",
+        "stop_id": "1006745",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) KL746 LRT SRI RAMPAI",
+        "stop_lat": "3.1988359275043",
+        "stop_lon": "101.73752617997",
+        "stop_id": "1001827",
+        "stop_sequence": "23"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "stop_name": "(M) PASAR SENI (PLATFORM A7 - A8)",
+        "stop_lat": "3.142984",
+        "stop_lon": "101.695636",
+        "stop_id": "1001170",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL105 LRT MASJID JAMEK",
+        "stop_lat": "3.1494286865998",
+        "stop_lon": "101.69618952231",
+        "stop_id": "1001810",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1820 DATARAN MERDEKA",
+        "stop_lat": "3.149957",
+        "stop_lon": "101.693829",
+        "stop_id": "1000520",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL39 MENARA DBKL",
+        "stop_lat": "3.153669",
+        "stop_lon": "101.694597",
+        "stop_id": "1000533",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL40 MEDAN MARA",
+        "stop_lat": "3.157724",
+        "stop_lon": "101.694556",
+        "stop_id": "1001984",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SKPK LELAKI JLN BATU",
+        "stop_lat": "3.159643",
+        "stop_lon": "101.694843",
+        "stop_id": "1003299",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL42 EDC HOTEL",
+        "stop_lat": "3.165085",
+        "stop_lon": "101.696133",
+        "stop_id": "1002694",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL46 CHOWKIT/KFC (BARAT)",
+        "stop_lat": "3.167208",
+        "stop_lon": "101.696275",
+        "stop_id": "1001418",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL47 DAMAI HOSPITAL (OPP)",
+        "stop_lat": "3.169272",
+        "stop_lon": "101.695689",
+        "stop_id": "1002537",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL47 PICOMS",
+        "stop_lat": "3.1704199968614",
+        "stop_lon": "101.6941562269",
+        "stop_id": "1002415",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL49 PERKIM/PUSRAWI",
+        "stop_lat": "3.171001",
+        "stop_lon": "101.693422",
+        "stop_id": "1002413",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL610 IPD SENTUL",
+        "stop_lat": "3.1743497157601",
+        "stop_lon": "101.69253609468",
+        "stop_id": "1001329",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL2050 FLAT SRI TERENGGANU",
+        "stop_lat": "3.1756642902018",
+        "stop_lon": "101.69290146174",
+        "stop_id": "1000784",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL2051 WISMA HEALTH LANE",
+        "stop_lat": "3.178321",
+        "stop_lon": "101.692506",
+        "stop_id": "1001523",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL2052 SMK LA SALLE",
+        "stop_lat": "3.179513",
+        "stop_lon": "101.692342",
+        "stop_id": "1003644",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL613 SENTUL BOULEVARD (BARAT)",
+        "stop_lat": "3.184357",
+        "stop_lon": "101.691806",
+        "stop_id": "1003167",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL615 SMK CONVENT SENTUL",
+        "stop_lat": "3.185997",
+        "stop_lon": "101.691514",
+        "stop_id": "1003375",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL616 PASAR SENTUL",
+        "stop_lat": "3.188646",
+        "stop_lon": "101.691164",
+        "stop_id": "1002170",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL617 SK SENTUL 2",
+        "stop_lat": "3.1917899245568",
+        "stop_lon": "101.69078824409",
+        "stop_id": "1000769",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL2053 BHP SENTUL (OPP)",
+        "stop_lat": "3.194063",
+        "stop_lon": "101.690715",
+        "stop_id": "1000637",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL996 PERUMAHAN SENTUL IMPIAN",
+        "stop_lat": "3.195374",
+        "stop_lon": "101.691975",
+        "stop_id": "1002860",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1005 PADANG DATO SENU",
+        "stop_lat": "3.1959661287747",
+        "stop_lon": "101.69574646695",
+        "stop_id": "1003788",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1007 KOMERSIAL DATO SENU",
+        "stop_lat": "3.193629",
+        "stop_lon": "101.695757",
+        "stop_id": "1002372",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1013 TAMAN DATO SENU",
+        "stop_lat": "3.193997",
+        "stop_lon": "101.694054",
+        "stop_id": "1002791",
+        "stop_sequence": "24"
+    }
+]

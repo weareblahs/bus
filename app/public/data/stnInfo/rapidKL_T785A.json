@@ -1,0 +1,121 @@
+[
+    {
+        "stop_name": "PJ297 LRT TAMAN PARAMOUNT",
+        "stop_lat": "3.1047971484358",
+        "stop_lon": "101.62324724698",
+        "stop_id": "1001832",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ308 SHELL SEAPARK",
+        "stop_lat": "3.109686",
+        "stop_lon": "101.623135",
+        "stop_id": "1003232",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ309 HERBALINE SEAPARK",
+        "stop_lat": "3.111494",
+        "stop_lon": "101.621716",
+        "stop_id": "1006226",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ718 PETRON SEAPARK",
+        "stop_lat": "3.111368",
+        "stop_lon": "101.618785",
+        "stop_id": "1000639",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ314 SPG SS 1/32",
+        "stop_lat": "3.108673",
+        "stop_lon": "101.616751",
+        "stop_id": "1002108",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ315 PERUMAHAN SS 1",
+        "stop_lat": "3.104672",
+        "stop_lon": "101.616517",
+        "stop_id": "1003564",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ316 RUMAH 15 SS 1",
+        "stop_lat": "3.1031519094078",
+        "stop_lon": "101.61760899794",
+        "stop_id": "1002899",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ317 PETRON KG TUNKU (OPP)",
+        "stop_lat": "3.100294",
+        "stop_lon": "101.619534",
+        "stop_id": "1002048",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SK KG TUNKU (OPP)",
+        "stop_lat": "3.098383",
+        "stop_lon": "101.620626",
+        "stop_id": "1006222",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KREMATORIUM MBPJ",
+        "stop_lat": "3.096564",
+        "stop_lon": "101.6220363",
+        "stop_id": "1006223",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SRA KG BAIDURI / MASJID SEKSYEN 51A (OPP)",
+        "stop_lat": "3.095849",
+        "stop_lon": "101.626166",
+        "stop_id": "1006224",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "(M) PJ318 SHELL SEKSYEN 51A",
+        "stop_lat": "3.096406",
+        "stop_lon": "101.630603",
+        "stop_id": "1003205",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ291 SMK SRI UTAMA",
+        "stop_lat": "3.09848",
+        "stop_lon": "101.632262",
+        "stop_id": "1003403",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ747 SEKSYEN 51A (UTARA)",
+        "stop_lat": "3.101374",
+        "stop_lon": "101.630668",
+        "stop_id": "1000897",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ296 SMK (P) SRI AMAN",
+        "stop_lat": "3.103313",
+        "stop_lon": "101.629204",
+        "stop_id": "1003414",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ719 STAR GROCER (OPP)",
+        "stop_lat": "3.106246",
+        "stop_lon": "101.624154",
+        "stop_id": "1002197",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ297 LRT TAMAN PARAMOUNT",
+        "stop_lat": "3.1047971484358",
+        "stop_lon": "101.62324724698",
+        "stop_id": "1001832",
+        "stop_sequence": "17"
+    }
+]

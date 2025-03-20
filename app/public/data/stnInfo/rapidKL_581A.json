@@ -1,0 +1,128 @@
+[
+    {
+        "stop_name": "(M) KL152 LRT BANDAR TASIK SELATAN",
+        "stop_lat": "3.076112",
+        "stop_lon": "101.712025",
+        "stop_id": "1007457",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL1785 APARTMENT DESA TUN RAZAK (OPP)",
+        "stop_lat": "3.079192",
+        "stop_lon": "101.718777",
+        "stop_id": "1002602",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1784 KOMERSIAL DESA TUN RAZAK",
+        "stop_lat": "3.0790213697886",
+        "stop_lon": "101.71911493749",
+        "stop_id": "1001056",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1786 PANGSAPURI DESA TUN RAZAK",
+        "stop_lat": "3.0781815563023",
+        "stop_lon": "101.71764474828",
+        "stop_id": "1002140",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL2001 TASIK HEIGHTS APARTMENT",
+        "stop_lat": "3.075837",
+        "stop_lon": "101.717979",
+        "stop_id": "1007507",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL137 ROYAL SQUADRON REGIMEN",
+        "stop_lat": "3.074518",
+        "stop_lon": "101.716962",
+        "stop_id": "1003058",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL138 BANDAR TASIK SELATAN (UTARA)",
+        "stop_lat": "3.073647",
+        "stop_lon": "101.714024",
+        "stop_id": "1003054",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL139 DESA TASIK",
+        "stop_lat": "3.072054",
+        "stop_lon": "101.715227",
+        "stop_id": "1000894",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL140 FLAT DESA TASIK (UTARA)",
+        "stop_lat": "3.069314851",
+        "stop_lon": "101.7155556",
+        "stop_id": "1007508",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL141 PERUMAHAN POLIS DESA TASIK (SELATAN)",
+        "stop_lat": "3.066838",
+        "stop_lon": "101.713475",
+        "stop_id": "1000320",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1672 SK PENGKALAN TENTERA DARAT",
+        "stop_lat": "3.062084",
+        "stop_lon": "101.716452",
+        "stop_id": "1003309",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL144 PANGSAPURI DESA TASIK",
+        "stop_lat": "3.067521",
+        "stop_lon": "101.713874",
+        "stop_id": "1007509",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL145 FLAT DESA TASIK (UTARA)",
+        "stop_lat": "3.0698601321722",
+        "stop_lon": "101.71570242832",
+        "stop_id": "1003896",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL146 KOMERSIAL DESA TASIK",
+        "stop_lat": "3.072228",
+        "stop_lon": "101.714956",
+        "stop_id": "1002631",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL147 BANDAR TASIK SELATAN (UTARA)",
+        "stop_lat": "3.073745",
+        "stop_lon": "101.713694",
+        "stop_id": "1001076",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL148 ROYAL SQUADRON REGIMEN",
+        "stop_lat": "3.074595",
+        "stop_lon": "101.716357",
+        "stop_id": "1003017",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL2003 TASIK HEIGHTS APARTMEN (OPP)",
+        "stop_lat": "3.075462",
+        "stop_lon": "101.717977",
+        "stop_id": "1001662",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M) KL152 LRT BANDAR TASIK SELATAN",
+        "stop_lat": "3.076112",
+        "stop_lon": "101.712025",
+        "stop_id": "1007457",
+        "stop_sequence": "18"
+    }
+]

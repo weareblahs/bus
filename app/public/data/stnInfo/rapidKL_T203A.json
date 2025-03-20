@@ -1,0 +1,303 @@
+[
+    {
+        "stop_name": "KL195 LRT TAMAN MELATI",
+        "stop_lat": "3.2194566653583",
+        "stop_lon": "101.72152529554",
+        "stop_id": "1001831",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PERUMAHAN AWAM SRI LANGKAWI",
+        "stop_lat": "3.219765",
+        "stop_lon": "101.720774",
+        "stop_id": "1000721",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL934 SURAU NURUL MUSTAQIM",
+        "stop_lat": "3.218971",
+        "stop_lon": "101.719572",
+        "stop_id": "1003746",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SL310 FLAT GOMBAK SETIA (OPP)",
+        "stop_lat": "3.220264",
+        "stop_lon": "101.718291",
+        "stop_id": "1001351",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SL208 SK GOMBAK SETIA",
+        "stop_lat": "3.2190878112199",
+        "stop_lon": "101.71513260641",
+        "stop_id": "1003346",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SL174 BALAI POLIS GOMBAK",
+        "stop_lat": "3.218599",
+        "stop_lon": "101.713073",
+        "stop_id": "1000195",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SL175 JABATAN VETERINAR",
+        "stop_lat": "3.2169911607982",
+        "stop_lon": "101.71313215002",
+        "stop_id": "1002518",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "(M) KL904 BATU 5 GOMBAK",
+        "stop_lat": "3.213358",
+        "stop_lon": "101.711984",
+        "stop_id": "1000397",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL905 PEJABAT POS GOMBAK",
+        "stop_lat": "3.2124132258933",
+        "stop_lon": "101.70913626109",
+        "stop_id": "1002599",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL906 SRA ZAID HARITHAH",
+        "stop_lat": "3.2109474795732",
+        "stop_lon": "101.70654716807",
+        "stop_id": "1003601",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL907 RESIDENSI INSPIRIA (OPP)",
+        "stop_lat": "3.2091960791286",
+        "stop_lon": "101.70465763924",
+        "stop_id": "1002261",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL2112 TAMAN SETAPAK (BARAT)",
+        "stop_lat": "3.207558",
+        "stop_lon": "101.703877",
+        "stop_id": "1002451",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL2113 LOT KEDAI TAMAN SETAPAK",
+        "stop_lat": "3.207434",
+        "stop_lon": "101.705453",
+        "stop_id": "1001350",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL2114 TAMAN SETAPAK (TENGAH)",
+        "stop_lat": "3.207492",
+        "stop_lon": "101.705764",
+        "stop_id": "1002445",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL2115 TAMAN SETAPAK (UTARA)",
+        "stop_lat": "3.207531",
+        "stop_lon": "101.706875",
+        "stop_id": "1002446",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KOMERSIAL TAMAN SETAPAK",
+        "stop_lat": "3.206616",
+        "stop_lon": "101.709967",
+        "stop_id": "1002443",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL1643 PERUMAHAN TAMAN SETAPAK",
+        "stop_lat": "3.204439",
+        "stop_lon": "101.711821",
+        "stop_id": "1002450",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL952 LANGKAWI APARTMENT (OPP)",
+        "stop_lat": "3.204864",
+        "stop_lon": "101.714318",
+        "stop_id": "1001741",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) KL1630 PV12 CONDOMINIUM (OPP)",
+        "stop_lat": "3.207298",
+        "stop_lon": "101.717686",
+        "stop_id": "1000516",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL953 DANAU KOTA APARTMENT (OPP)",
+        "stop_lat": "3.208788",
+        "stop_lon": "101.718421",
+        "stop_id": "1003248",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL954 SRA AL-NAWAWI",
+        "stop_lat": "3.209964",
+        "stop_lon": "101.717387",
+        "stop_id": "1002109",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL955 TAMAN IBU KOTA (TIMUR)",
+        "stop_lat": "3.211138",
+        "stop_lon": "101.716305",
+        "stop_id": "1003317",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL956 TAMAN IBU KOTA (UTARA)",
+        "stop_lat": "3.212055",
+        "stop_lon": "101.715384",
+        "stop_id": "1003751",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL2116 SURAU MEDAN IDAMAN (OPP)",
+        "stop_lat": "3.208693",
+        "stop_lon": "101.711657",
+        "stop_id": "1006097",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL959 IDAMAN PUTERI CONDOMINIUM",
+        "stop_lat": "3.209222",
+        "stop_lon": "101.709966",
+        "stop_id": "1006098",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL960 TAMAN MEDAN IDAMAN (UTARA)",
+        "stop_lat": "3.211648",
+        "stop_lon": "101.709381",
+        "stop_id": "1006099",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL903 BATU 5 GOMBAK",
+        "stop_lat": "3.213529",
+        "stop_lon": "101.711619",
+        "stop_id": "1000396",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SL101 SK 1 & 2 GOMBAK",
+        "stop_lat": "3.2169926405988",
+        "stop_lon": "101.71288229656",
+        "stop_id": "1003636",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SL102 MASJID AS SYAKIRIN",
+        "stop_lat": "3.2186428972993",
+        "stop_lon": "101.71282212336",
+        "stop_id": "1001899",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "BALAI POLIS GOMBAK (OPP)",
+        "stop_lat": "3.219205",
+        "stop_lon": "101.713615",
+        "stop_id": "1006100",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SL210 SMK GOMBAK SETIA",
+        "stop_lat": "3.219191",
+        "stop_lon": "101.715016",
+        "stop_id": "1003345",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL932 APT MELATI IMPIAN",
+        "stop_lat": "3.217985",
+        "stop_lon": "101.717159",
+        "stop_id": "1001648",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL933 M3 MALL",
+        "stop_lat": "3.217839",
+        "stop_lon": "101.719101",
+        "stop_id": "1000768",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL1495 PERUMAHAN AWAM SRI LANGKAWI (OPP)",
+        "stop_lat": "3.219279",
+        "stop_lon": "101.720216",
+        "stop_id": "1000772",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL1601 APT SRI TIOMAN",
+        "stop_lat": "3.221334",
+        "stop_lon": "101.720317",
+        "stop_id": "1000786",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL2070 SRA SALAHUDIN AL-AYUBI (OPP)",
+        "stop_lat": "3.223567",
+        "stop_lon": "101.720227",
+        "stop_id": "1001914",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL187 TAMAN CEMERLANG",
+        "stop_lat": "3.2261977684552",
+        "stop_lon": "101.7228477109",
+        "stop_id": "1003567",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL198 FLAT TAMAN MELATI E6",
+        "stop_lat": "3.227109",
+        "stop_lon": "101.725318",
+        "stop_id": "1001322",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL2071 FLAT TAMAN MELATI BLOK D",
+        "stop_lat": "3.2252130113178",
+        "stop_lon": "101.72570519608",
+        "stop_id": "1000795",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL200 PERUMAHAN JLN TAMAN MELATI 6",
+        "stop_lat": "3.223533",
+        "stop_lon": "101.724053",
+        "stop_id": "1002951",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL201 PERUMAHAN TAMAN MELATI 6",
+        "stop_lat": "3.221558",
+        "stop_lon": "101.722893",
+        "stop_id": "1002888",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL1600 TAMAN MASTIKA",
+        "stop_lat": "3.2197236941228",
+        "stop_lon": "101.72341600977",
+        "stop_id": "1003687",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL195 LRT TAMAN MELATI",
+        "stop_lat": "3.2194566653583",
+        "stop_lon": "101.72152529554",
+        "stop_id": "1001831",
+        "stop_sequence": "43"
+    }
+]

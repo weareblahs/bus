@@ -1,0 +1,618 @@
+[
+    {
+        "stop_name": "Terminal Bas Balik Pulau",
+        "stop_lat": "5.351447900000001",
+        "stop_lon": "100.2398239",
+        "stop_id": "12002115",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Pekan Kongsi",
+        "stop_lat": "5.35078",
+        "stop_lon": "100.23510999999999",
+        "stop_id": "12000140",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Hospital Balik Pulau",
+        "stop_lat": "5.35091",
+        "stop_lon": "100.23312",
+        "stop_id": "12001567",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Taman Impian",
+        "stop_lat": "5.35195",
+        "stop_lon": "100.23135",
+        "stop_id": "12001568",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Taman Poket Jalan Chai",
+        "stop_lat": "5.35418",
+        "stop_lon": "100.22922",
+        "stop_id": "12001572",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Pejabat Agama Daerah",
+        "stop_lat": "5.35651",
+        "stop_lon": "100.22721999999999",
+        "stop_id": "12001573",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SK Titi Teras",
+        "stop_lat": "5.35885",
+        "stop_lon": "100.22451",
+        "stop_id": "12001575",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Dewan JKKP Titi Teras",
+        "stop_lat": "5.35991737",
+        "stop_lon": "100.22315986",
+        "stop_id": "12002225",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M1) Balai Bomba Air Putih",
+        "stop_lat": "5.36216",
+        "stop_lon": "100.22057",
+        "stop_id": "12001579",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Pejabat Kesihatan Barat Daya",
+        "stop_lat": "5.36428",
+        "stop_lon": "100.21804",
+        "stop_id": "12001582",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Taman Manggis Indah",
+        "stop_lat": "5.367482",
+        "stop_lon": "100.21685",
+        "stop_id": "12001599",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Simpang Bandar Baru Air Putih",
+        "stop_lat": "5.370830000000001",
+        "stop_lon": "100.21644",
+        "stop_id": "12001478",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M2) Bandar Baru Air Putih 1",
+        "stop_lat": "5.3727800000000006",
+        "stop_lon": "100.21994000000001",
+        "stop_id": "12001480",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M3) Bandar Baru Air Putih 2",
+        "stop_lat": "5.3720099999999995",
+        "stop_lon": "100.21986",
+        "stop_id": "12001479",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Permatang Pasir",
+        "stop_lat": "5.37137",
+        "stop_lon": "100.21582",
+        "stop_id": "12001602",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Taman Mutiara",
+        "stop_lat": "5.37387",
+        "stop_lon": "100.21514",
+        "stop_id": "12001604",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Kraf Batik Sungai Rusa",
+        "stop_lat": "5.37743",
+        "stop_lon": "100.21433",
+        "stop_id": "12001608",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Jalan Sungai Rusa 2",
+        "stop_lat": "5.3786614",
+        "stop_lon": "100.2140788",
+        "stop_id": "12002277",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Jalan Sungai Rusa 1",
+        "stop_lat": "5.3803934",
+        "stop_lon": "100.2139988",
+        "stop_id": "12002276",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Masjid Jamek Sungai Rusa",
+        "stop_lat": "5.382619999999999",
+        "stop_lon": "100.2138",
+        "stop_id": "12001611",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Sekolah Agama Sungai Rusa",
+        "stop_lat": "5.384957",
+        "stop_lon": "100.21305",
+        "stop_id": "12001614",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Kampung Sungai Rusa",
+        "stop_lat": "5.386691000000001",
+        "stop_lon": "100.212326",
+        "stop_id": "12001616",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Madrasah Tahfiz - Irfanratul",
+        "stop_lat": "5.3921",
+        "stop_lon": "100.21018000000001",
+        "stop_id": "12001620",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Jalan Kuala Sg. Pinang",
+        "stop_lat": "5.39312",
+        "stop_lon": "100.20900999999999",
+        "stop_id": "12000763",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Taman Jelita",
+        "stop_lat": "5.39314",
+        "stop_lon": "100.20311",
+        "stop_id": "12000764",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Pekan Kuala Sg. Pinang",
+        "stop_lat": "5.393269999999999",
+        "stop_lon": "100.20108",
+        "stop_id": "12000766",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Kuala Sg. Pinang",
+        "stop_lat": "5.39048",
+        "stop_lon": "100.19598",
+        "stop_id": "12000762",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Surau Al Hidayah",
+        "stop_lat": "5.38857",
+        "stop_lon": "100.19389",
+        "stop_id": "12000761",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Kuala Sg.Pinang 1",
+        "stop_lat": "5.3905400000000006",
+        "stop_lon": "100.1957",
+        "stop_id": "12002273",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Kuala Sg.Pinang 2",
+        "stop_lat": "5.39091",
+        "stop_lon": "100.19928",
+        "stop_id": "12002274",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SJK Yu Chye",
+        "stop_lat": "5.39328",
+        "stop_lon": "100.20184",
+        "stop_id": "12000767",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Balai Polis Sg. Pinang",
+        "stop_lat": "5.39316",
+        "stop_lon": "100.20988",
+        "stop_id": "12000765",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Klinik Desa Sg. Pinang",
+        "stop_lat": "5.3941300000000005",
+        "stop_lon": "100.21104",
+        "stop_id": "12001622",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Kampung Sungai Pinang",
+        "stop_lat": "5.395931200000001",
+        "stop_lon": "100.21195959999999",
+        "stop_id": "12002272",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SK Sungai Pinang",
+        "stop_lat": "5.397880000000001",
+        "stop_lon": "100.21313",
+        "stop_id": "12001626",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Pasar Sg. Pinang",
+        "stop_lat": "5.39901",
+        "stop_lon": "100.21339",
+        "stop_id": "12000974",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Kem PLKN Sg. Pinang",
+        "stop_lat": "5.39993",
+        "stop_lon": "100.2111",
+        "stop_id": "12000976",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Jalan Haji Hamid Senawi",
+        "stop_lat": "5.4004199999999996",
+        "stop_lon": "100.20902",
+        "stop_id": "12000979",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Jalan Haji Abd. Ghani Taib",
+        "stop_lat": "5.40142",
+        "stop_lon": "100.20657",
+        "stop_id": "12000980",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Surau Haji Hashim",
+        "stop_lat": "5.4017599999999995",
+        "stop_lon": "100.20456",
+        "stop_id": "12002275",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "Kampung Bukit Kecil",
+        "stop_lat": "5.403519999999999",
+        "stop_lon": "100.20106",
+        "stop_id": "12000983",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "Pulaza Balik Pulau",
+        "stop_lat": "5.40989",
+        "stop_lon": "100.19785",
+        "stop_id": "12000984",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "Pusat Falak Sheik Tahir",
+        "stop_lat": "5.4116800000000005",
+        "stop_lon": "100.19651999999999",
+        "stop_id": "12000985",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "Hub Pantai Acheh",
+        "stop_lat": "5.41632",
+        "stop_lon": "100.19726999999999",
+        "stop_id": "12000986",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "Pusat Falak Sheik Tahir",
+        "stop_lat": "5.41162",
+        "stop_lon": "100.19654",
+        "stop_id": "12000989",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "Pulaza Balik Pulau",
+        "stop_lat": "5.4090300000000004",
+        "stop_lon": "100.1987",
+        "stop_id": "12000988",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "Kampung Bukit Kecil",
+        "stop_lat": "5.40369",
+        "stop_lon": "100.20045999999999",
+        "stop_id": "12000987",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "Surau Haji Hashim",
+        "stop_lat": "5.40179",
+        "stop_lon": "100.2048",
+        "stop_id": "12000982",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "Jalan Haji Abd. Ghani Taib",
+        "stop_lat": "5.40147",
+        "stop_lon": "100.20661",
+        "stop_id": "12000981",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "Jalan Haji Hamid Senawi",
+        "stop_lat": "5.40036",
+        "stop_lon": "100.20934",
+        "stop_id": "12000978",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "Kem PLKN Sg.Pinang",
+        "stop_lat": "5.39998",
+        "stop_lon": "100.21115",
+        "stop_id": "12000977",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "SRJK Sin Min",
+        "stop_lat": "5.39905",
+        "stop_lon": "100.21344",
+        "stop_id": "12000975",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "SK Sungai Pinang",
+        "stop_lat": "5.39725",
+        "stop_lon": "100.21291",
+        "stop_id": "12001625",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "Kampung Sungai Pinang",
+        "stop_lat": "5.396028",
+        "stop_lon": "100.21213",
+        "stop_id": "12001623",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "Klinik Desa Sg. Pinang",
+        "stop_lat": "5.39409",
+        "stop_lon": "100.21106999999999",
+        "stop_id": "12001621",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "Jalan Kuala Sg. Pinang",
+        "stop_lat": "5.39312",
+        "stop_lon": "100.20900999999999",
+        "stop_id": "12000763",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "Taman Jelita",
+        "stop_lat": "5.39314",
+        "stop_lon": "100.20311",
+        "stop_id": "12000764",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "Pekan Kuala Sg. Pinang",
+        "stop_lat": "5.393269999999999",
+        "stop_lon": "100.20108",
+        "stop_id": "12000766",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "Kuala Sg. Pinang",
+        "stop_lat": "5.39048",
+        "stop_lon": "100.19598",
+        "stop_id": "12000762",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "Surau Al Hidayah",
+        "stop_lat": "5.38857",
+        "stop_lon": "100.19389",
+        "stop_id": "12000761",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "Kuala Sg.Pinang 1",
+        "stop_lat": "5.3905400000000006",
+        "stop_lon": "100.1957",
+        "stop_id": "12002273",
+        "stop_sequence": "61"
+    },
+    {
+        "stop_name": "Kuala Sg.Pinang 2",
+        "stop_lat": "5.39091",
+        "stop_lon": "100.19928",
+        "stop_id": "12002274",
+        "stop_sequence": "62"
+    },
+    {
+        "stop_name": "SJK Yu Chye",
+        "stop_lat": "5.39328",
+        "stop_lon": "100.20184",
+        "stop_id": "12000767",
+        "stop_sequence": "63"
+    },
+    {
+        "stop_name": "Balai Polis Sg. Pinang",
+        "stop_lat": "5.39316",
+        "stop_lon": "100.20988",
+        "stop_id": "12000765",
+        "stop_sequence": "64"
+    },
+    {
+        "stop_name": "Madrasah Tahfiz - Irfanratul",
+        "stop_lat": "5.39123",
+        "stop_lon": "100.21046",
+        "stop_id": "12001619",
+        "stop_sequence": "65"
+    },
+    {
+        "stop_name": "Kampung Sungai Rusa",
+        "stop_lat": "5.38703",
+        "stop_lon": "100.21226",
+        "stop_id": "12001618",
+        "stop_sequence": "66"
+    },
+    {
+        "stop_name": "Sekolah Agama Sungai Rusa",
+        "stop_lat": "5.38467",
+        "stop_lon": "100.21324",
+        "stop_id": "12001613",
+        "stop_sequence": "67"
+    },
+    {
+        "stop_name": "Masjid Jamek Sungai Rusa",
+        "stop_lat": "5.38282",
+        "stop_lon": "100.21384",
+        "stop_id": "12001612",
+        "stop_sequence": "68"
+    },
+    {
+        "stop_name": "Jalan Sungai Rusa 1",
+        "stop_lat": "5.380380000000001",
+        "stop_lon": "100.21415",
+        "stop_id": "12001610",
+        "stop_sequence": "69"
+    },
+    {
+        "stop_name": "Kraf Batik Sungai Rusa",
+        "stop_lat": "5.3771",
+        "stop_lon": "100.21449",
+        "stop_id": "12001607",
+        "stop_sequence": "70"
+    },
+    {
+        "stop_name": "Taman Sungai Rusa",
+        "stop_lat": "5.37505",
+        "stop_lon": "100.21500400000001",
+        "stop_id": "12001606",
+        "stop_sequence": "71"
+    },
+    {
+        "stop_name": "Taman Mutiara",
+        "stop_lat": "5.37352",
+        "stop_lon": "100.21531999999999",
+        "stop_id": "12001603",
+        "stop_sequence": "72"
+    },
+    {
+        "stop_name": "Permatang Pasir",
+        "stop_lat": "5.3712",
+        "stop_lon": "100.2159",
+        "stop_id": "12001601",
+        "stop_sequence": "73"
+    },
+    {
+        "stop_name": "Simpang Bandar Baru Air Putih",
+        "stop_lat": "5.370830000000001",
+        "stop_lon": "100.21644",
+        "stop_id": "12001478",
+        "stop_sequence": "74"
+    },
+    {
+        "stop_name": "(M2) Bandar Baru Air Putih 1",
+        "stop_lat": "5.3727800000000006",
+        "stop_lon": "100.21994000000001",
+        "stop_id": "12001480",
+        "stop_sequence": "75"
+    },
+    {
+        "stop_name": "(M3) Bandar Baru Air Putih 2",
+        "stop_lat": "5.3720099999999995",
+        "stop_lon": "100.21986",
+        "stop_id": "12001479",
+        "stop_sequence": "76"
+    },
+    {
+        "stop_name": "Kampung Permatang Pasir",
+        "stop_lat": "5.36966",
+        "stop_lon": "100.21644",
+        "stop_id": "12001600",
+        "stop_sequence": "77"
+    },
+    {
+        "stop_name": "Taman Manggis Indah",
+        "stop_lat": "5.3665199999999995",
+        "stop_lon": "100.21696",
+        "stop_id": "12001597",
+        "stop_sequence": "78"
+    },
+    {
+        "stop_name": "Pejabat Kesihatan Barat Daya",
+        "stop_lat": "5.36391",
+        "stop_lon": "100.21857",
+        "stop_id": "12001580",
+        "stop_sequence": "79"
+    },
+    {
+        "stop_name": "(M3) Balai Bomba Air Putih",
+        "stop_lat": "5.36203",
+        "stop_lon": "100.22091999999999",
+        "stop_id": "12001578",
+        "stop_sequence": "80"
+    },
+    {
+        "stop_name": "Dewan JKKK Titi Teras",
+        "stop_lat": "5.3602",
+        "stop_lon": "100.22276",
+        "stop_id": "12001577",
+        "stop_sequence": "81"
+    },
+    {
+        "stop_name": "SK Titi Teras",
+        "stop_lat": "5.35886",
+        "stop_lon": "100.22462",
+        "stop_id": "12001576",
+        "stop_sequence": "82"
+    },
+    {
+        "stop_name": "Pejabat Agama Daerah",
+        "stop_lat": "5.35669",
+        "stop_lon": "100.22716",
+        "stop_id": "12001574",
+        "stop_sequence": "83"
+    },
+    {
+        "stop_name": "Taman Poket Jalan Chai",
+        "stop_lat": "5.35406",
+        "stop_lon": "100.22939000000001",
+        "stop_id": "12001570",
+        "stop_sequence": "84"
+    },
+    {
+        "stop_name": "Taman Impian",
+        "stop_lat": "5.35206",
+        "stop_lon": "100.23124",
+        "stop_id": "12001569",
+        "stop_sequence": "85"
+    },
+    {
+        "stop_name": "Pejabat Daerah dan Tanah",
+        "stop_lat": "5.3506599999999995",
+        "stop_lon": "100.23408",
+        "stop_id": "12001566",
+        "stop_sequence": "86"
+    },
+    {
+        "stop_name": "SRJK Chong Teik",
+        "stop_lat": "5.3512699999999995",
+        "stop_lon": "100.23708",
+        "stop_id": "12001886",
+        "stop_sequence": "87"
+    },
+    {
+        "stop_name": "Terminal Bas Balik Pulau",
+        "stop_lat": "5.351447900000001",
+        "stop_lon": "100.2398239",
+        "stop_id": "12002115",
+        "stop_sequence": "88"
+    }
+]

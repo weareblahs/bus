@@ -1,0 +1,352 @@
+[
+    {
+        "stop_name": "SJ63 LRT SUBANG JAYA",
+        "stop_lat": "3.084555",
+        "stop_lon": "101.587181",
+        "stop_id": "1006524",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ60 AEON BIG SUBANG JAYA",
+        "stop_lat": "3.082119",
+        "stop_lon": "101.587966",
+        "stop_id": "1000456",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ637 CASA TIARA SUITE",
+        "stop_lat": "3.082133",
+        "stop_lon": "101.591204",
+        "stop_id": "1001513",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ64 SUBANG JAYA MEDICAL CENTRE",
+        "stop_lat": "3.079771",
+        "stop_lon": "101.593222",
+        "stop_id": "1002024",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ2 SIME DARBY HEALTH CARE",
+        "stop_lat": "3.077851",
+        "stop_lon": "101.593269",
+        "stop_id": "1003280",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ229 KOMPLEKS 3C (OPP)",
+        "stop_lat": "3.073384",
+        "stop_lon": "101.601469",
+        "stop_id": "1000523",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ294 SUNWAY CLIO (OPP)",
+        "stop_lat": "3.0737225504127",
+        "stop_lon": "101.60355896913",
+        "stop_id": "1003708",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ561 SUNWAY PYRAMID (OPP)",
+        "stop_lat": "3.074113",
+        "stop_lon": "101.605891",
+        "stop_id": "1008430",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) PJ614 MASJID AL-HUSNA",
+        "stop_lat": "3.074256",
+        "stop_lon": "101.608951",
+        "stop_id": "1001873",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ164 ARENA SELERA LINDUNGAN",
+        "stop_lat": "3.076672",
+        "stop_lon": "101.616129",
+        "stop_id": "1000729",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ165 KOMERSIAL LINDUNGAN",
+        "stop_lat": "3.078261",
+        "stop_lon": "101.615607",
+        "stop_id": "1001435",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ167 KAMPUNG LINDUNGAN",
+        "stop_lat": "3.079886",
+        "stop_lon": "101.615617",
+        "stop_id": "1001434",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ168 PETRONAS DESA MENTARI (OPP)",
+        "stop_lat": "3.081834",
+        "stop_lon": "101.618196",
+        "stop_id": "1001670",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ169 TAMAN DESARIA",
+        "stop_lat": "3.082724",
+        "stop_lon": "101.620879",
+        "stop_id": "1000550",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M) PJ170 MENARA ANN JOO (OPP)",
+        "stop_lat": "3.084266",
+        "stop_lon": "101.623261",
+        "stop_id": "1001409",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ731 KTM KG DATO HARUN (UTARA)",
+        "stop_lat": "3.084208",
+        "stop_lon": "101.633581",
+        "stop_id": "1003685",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ733 TAMAN MAJU JAYA",
+        "stop_lat": "3.0831545080372",
+        "stop_lon": "101.64062877884",
+        "stop_id": "1002254",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ734 TAMAN PETALING UTAMA",
+        "stop_lat": "3.081794",
+        "stop_lon": "101.649809",
+        "stop_id": "1000943",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL2155 SEKSYEN 18 (TIMUR)",
+        "stop_lat": "3.082454",
+        "stop_lon": "101.658486",
+        "stop_id": "1001122",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1799 PETALZ RESIDENCE",
+        "stop_lat": "3.083515",
+        "stop_lon": "101.661221",
+        "stop_id": "1003259",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL1393 PETRON BT 5 3/4",
+        "stop_lat": "3.083148",
+        "stop_lon": "101.663188",
+        "stop_id": "1000633",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1394 SKYVILLE 8",
+        "stop_lat": "3.082038",
+        "stop_lon": "101.665697",
+        "stop_id": "1000200",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1271 TAMAN YARL (UTARA)",
+        "stop_lat": "3.0823313189399",
+        "stop_lon": "101.66828836662",
+        "stop_id": "1000730",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1272 PEARL POINT",
+        "stop_lat": "3.084468",
+        "stop_lon": "101.671892",
+        "stop_id": "1000506",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1274 ROZEL",
+        "stop_lat": "3.087139",
+        "stop_lon": "101.673633",
+        "stop_id": "1002401",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1267 PLAZA PRIMA",
+        "stop_lat": "3.0890109519977",
+        "stop_lon": "101.67435542147",
+        "stop_id": "1002575",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL1268 WISMA TEOH CHIN KEE",
+        "stop_lat": "3.0866355709206",
+        "stop_lon": "101.67388225873",
+        "stop_id": "1004262",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "(M) KL1269 PEARL POINT",
+        "stop_lat": "3.0835904519984",
+        "stop_lon": "101.67119037612",
+        "stop_id": "1002195",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL1365 SKYVILLE 8 (OPP)",
+        "stop_lat": "3.082078",
+        "stop_lon": "101.664858",
+        "stop_id": "1001325",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL1798 BINASTRALAND",
+        "stop_lat": "3.083261",
+        "stop_lon": "101.661574",
+        "stop_id": "1003260",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL2154 SEKSYEN 18",
+        "stop_lat": "3.082399",
+        "stop_lon": "101.659428",
+        "stop_id": "1002021",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PJ736 TAMAN PETALING UTAMA",
+        "stop_lat": "3.081432",
+        "stop_lon": "101.653433",
+        "stop_id": "1000429",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PJ737 FLAT TAMAN PERANSANG",
+        "stop_lat": "3.0814378714851",
+        "stop_lon": "101.64831904603",
+        "stop_id": "1000942",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PJ739 TAMAN DATO HARUN",
+        "stop_lat": "3.083589507932",
+        "stop_lon": "101.63527896574",
+        "stop_id": "1000528",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PJ741 DESA MENTARI FASA 4 (UTARA)",
+        "stop_lat": "3.0843778280735",
+        "stop_lon": "101.62811647765",
+        "stop_id": "1003570",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "(M) PJ153 MENARA ANN JOO",
+        "stop_lat": "3.083862",
+        "stop_lon": "101.622918",
+        "stop_id": "1001257",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "PJ157 TAMAN DESARIA (BARAT)",
+        "stop_lat": "3.081729",
+        "stop_lon": "101.618498",
+        "stop_id": "1000549",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "PJ358 KONTENA NASIONAL",
+        "stop_lat": "3.081148",
+        "stop_lon": "101.615187",
+        "stop_id": "1001669",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PJ622 PERUMAHAN PJS 6",
+        "stop_lat": "3.079853",
+        "stop_lon": "101.613795",
+        "stop_id": "1001437",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "(M) PJ615 SUNWAY PYRAMID",
+        "stop_lat": "3.073588",
+        "stop_lon": "101.605895",
+        "stop_id": "1003709",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "PJ617 KOMPLEKS 3C",
+        "stop_lat": "3.072993",
+        "stop_lon": "101.600748",
+        "stop_id": "1000522",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SJ54 SERI KUALA LUMPUR",
+        "stop_lat": "3.076459",
+        "stop_lon": "101.592849",
+        "stop_id": "1003140",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "SJ55 SUBANG JAYA MEDICAL CENTRE",
+        "stop_lat": "3.079767",
+        "stop_lon": "101.592874",
+        "stop_id": "1003279",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "SJ56 KOMERSIAL SS15",
+        "stop_lat": "3.0818374454544",
+        "stop_lon": "101.59082467831",
+        "stop_id": "1002020",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "SJ57 AEON BIG SUBANG JAYA (OPP)",
+        "stop_lat": "3.081844",
+        "stop_lon": "101.588307",
+        "stop_id": "1000457",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "(M) SJ58 SUBANG PARADE (OPP)",
+        "stop_lat": "3.0812978955176",
+        "stop_lon": "101.58560231839",
+        "stop_id": "1003695",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "(M) SJ49 PETRON SS 17",
+        "stop_lat": "3.079421",
+        "stop_lon": "101.581514",
+        "stop_id": "1000646",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SJ47 PERUMAHAN SS 19",
+        "stop_lat": "3.078881",
+        "stop_lon": "101.577188",
+        "stop_id": "1003087",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "SJ48 WISMA CONSPLANT",
+        "stop_lat": "3.080169",
+        "stop_lon": "101.582523",
+        "stop_id": "1002351",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "SJ63 LRT SUBANG JAYA",
+        "stop_lat": "3.084555",
+        "stop_lon": "101.587181",
+        "stop_id": "1006524",
+        "stop_sequence": "50"
+    }
+]

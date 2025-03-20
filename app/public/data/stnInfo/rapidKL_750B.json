@@ -1,0 +1,275 @@
+[
+    {
+        "stop_name": "(M) KL2214 PASAR SENI (PLATFORM B1 - B2)",
+        "stop_lat": "3.142615",
+        "stop_lon": "101.695304",
+        "stop_id": "1004347",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL2144 TM BRICKFIELDS",
+        "stop_lat": "3.1374677062962",
+        "stop_lon": "101.69324504902",
+        "stop_id": "1000857",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL2145 HOTEL PRESCOTT",
+        "stop_lat": "3.136322",
+        "stop_lon": "101.690915",
+        "stop_id": "1002495",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1080 BRICKFIELDS",
+        "stop_lat": "3.1336400597905",
+        "stop_lon": "101.68908163724",
+        "stop_id": "1004276",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL1082 SK METHODIST",
+        "stop_lat": "3.131473",
+        "stop_lon": "101.689089",
+        "stop_id": "1002023",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL1083 PALM COURT",
+        "stop_lat": "3.129818",
+        "stop_lon": "101.687114",
+        "stop_id": "1002234",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL1760 SUASANA SENTRAL LOFT",
+        "stop_lat": "3.1303212241286",
+        "stop_lon": "101.68364204616",
+        "stop_id": "1003608",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL1095 BANGSAR UTAMA",
+        "stop_lat": "3.129203160217",
+        "stop_lon": "101.68065981755",
+        "stop_id": "1002086",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) KL1096 LRT BANGSAR (OPP)",
+        "stop_lat": "3.1273688525384",
+        "stop_lon": "101.67914951654",
+        "stop_id": "1001788",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1097 PPR ABDULLAH HUKUM",
+        "stop_lat": "3.1231698334516",
+        "stop_lon": "101.67654695028",
+        "stop_id": "1002600",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1098 LRT ABDULLAH HUKUM",
+        "stop_lat": "3.1180320477095",
+        "stop_lon": "101.67260077298",
+        "stop_id": "1004110",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1099 SK BANGSAR",
+        "stop_lat": "3.1167609772467",
+        "stop_lon": "101.67034409462",
+        "stop_id": "1000365",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1191 IPD PANTAI",
+        "stop_lat": "3.117224",
+        "stop_lon": "101.667171",
+        "stop_id": "1008143",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) KL1441 KL GATEWAY - LRT UNIVERSITI",
+        "stop_lat": "3.1147478848012",
+        "stop_lon": "101.66181039156",
+        "stop_id": "1001410",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ596 KWSP FEDERAL",
+        "stop_lat": "3.1100056269729",
+        "stop_lon": "101.65318137013",
+        "stop_id": "1002621",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ441 TASIK TAMAN JAYA",
+        "stop_lat": "3.103962",
+        "stop_lon": "101.648321",
+        "stop_id": "1003857",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M) PJ435 WISMA MCIS",
+        "stop_lat": "3.101044",
+        "stop_lon": "101.641252",
+        "stop_id": "1001509",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) PJ750 PJ8 TOWER",
+        "stop_lat": "3.1022385629392",
+        "stop_lon": "101.63926132215",
+        "stop_id": "1000166",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ598 FORD",
+        "stop_lat": "3.0918510958133",
+        "stop_lon": "101.63232647758",
+        "stop_id": "1001735",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ600 KTM SERI SETIA",
+        "stop_lat": "3.0844706972703",
+        "stop_lon": "101.62004709521",
+        "stop_id": "1003174",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ744 KTM SETIA JAYA",
+        "stop_lat": "3.0837013581979",
+        "stop_lon": "101.61282004095",
+        "stop_id": "1002064",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PJ606 BT10/MENTARI COURT",
+        "stop_lat": "3.0831411956406",
+        "stop_lon": "101.60818132555",
+        "stop_id": "1000387",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SPG SUBANG JAYA",
+        "stop_lat": "3.0823055709786",
+        "stop_lon": "101.57980988495",
+        "stop_id": "1003553",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA917 SPG BT 3 KE KLANG",
+        "stop_lat": "3.0751295078554",
+        "stop_lon": "101.55608246282",
+        "stop_id": "1000393",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA915 JEJANTAS SHELL BT 3 (OPP)",
+        "stop_lat": "3.0733105706958",
+        "stop_lon": "101.54917571463",
+        "stop_id": "1000394",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA1 LOTUS EXTRA SHAH ALAM (OPP)",
+        "stop_lat": "3.0709296781301",
+        "stop_lon": "101.53776620702",
+        "stop_id": "1003915",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "(M) SA2 BULATAN KAYANGAN",
+        "stop_lat": "3.0730095590396",
+        "stop_lon": "101.53293127036",
+        "stop_id": "1000358",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA3 PERUMAHAN SEKSYEN 11 (OPP)",
+        "stop_lat": "3.0684856773854",
+        "stop_lon": "101.52978798901",
+        "stop_id": "1003083",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "VISTA ALAM APARTMENT",
+        "stop_lat": "3.070032",
+        "stop_lon": "101.525336",
+        "stop_id": "1008398",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA24 PUSAT DAGANGAN SHAH ALAM",
+        "stop_lat": "3.071991",
+        "stop_lon": "101.525397",
+        "stop_id": "1001730",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SA18 WISMA PKPS",
+        "stop_lat": "3.0733481810602",
+        "stop_lon": "101.52298177514",
+        "stop_id": "1004249",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SA855 WISMA MBSA (OPP)",
+        "stop_lat": "3.072952",
+        "stop_lon": "101.520611",
+        "stop_id": "1008399",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SA854 KOMPLEKS PKNS SHAH ALAM",
+        "stop_lat": "3.072057",
+        "stop_lon": "101.51693",
+        "stop_id": "1008075",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SA6 SIRIM",
+        "stop_lat": "3.0687533794527",
+        "stop_lon": "101.51497243083",
+        "stop_id": "1003267",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SA967 SMK SEKSYEN 2",
+        "stop_lat": "3.073193",
+        "stop_lon": "101.509487",
+        "stop_id": "1008104",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SA7 HUB SEKSYEN 2",
+        "stop_lat": "3.0717952198749",
+        "stop_lon": "101.50800645308",
+        "stop_id": "1000171",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "(M) SA14 HUB SEKSYEN 2",
+        "stop_lat": "3.071829",
+        "stop_lon": "101.507558",
+        "stop_id": "1000172",
+        "stop_sequence": "39"
+    }
+]

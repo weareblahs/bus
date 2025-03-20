@@ -1,0 +1,191 @@
+[
+    {
+        "stop_name": "(M1) The Summit",
+        "stop_lat": "5.3657975",
+        "stop_lon": "100.462624",
+        "stop_id": "12002201",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Masjid Sungai Rambai",
+        "stop_lat": "5.3643",
+        "stop_lon": "100.45313",
+        "stop_id": "12000954",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Padang Lalang",
+        "stop_lat": "5.364730000000001",
+        "stop_lon": "100.44968",
+        "stop_id": "12000955",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Masjid Padang Lalang",
+        "stop_lat": "5.36508",
+        "stop_lon": "100.44823000000001",
+        "stop_id": "12000956",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Padang Lalang",
+        "stop_lat": "5.3652",
+        "stop_lon": "100.4464",
+        "stop_id": "12000957",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Sungai Rambai",
+        "stop_lat": "5.364255",
+        "stop_lon": "100.444725",
+        "stop_id": "12002509",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Taman Cempedak",
+        "stop_lat": "5.359499",
+        "stop_lon": "100.444621",
+        "stop_id": "12002513",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Desa Wawasan",
+        "stop_lat": "5.35668",
+        "stop_lon": "100.44823000000001",
+        "stop_id": "12001799",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Pejabat MPSP",
+        "stop_lat": "5.35531",
+        "stop_lon": "100.45097",
+        "stop_id": "12000287",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Taman Lembah Permai",
+        "stop_lat": "5.349429",
+        "stop_lon": "100.457412",
+        "stop_id": "12002514",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Taman Kota Permai",
+        "stop_lat": "5.34397",
+        "stop_lon": "100.45679",
+        "stop_id": "12000731",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Taman Kota Permai II",
+        "stop_lat": "5.339307",
+        "stop_lon": "100.45613900000001",
+        "stop_id": "12002515",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "(M3) Masjid Tok Lebai Hashim",
+        "stop_lat": "5.331774",
+        "stop_lon": "100.45083199999999",
+        "stop_id": "12002516",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Bukit Minyak",
+        "stop_lat": "5.32642",
+        "stop_lon": "100.44798",
+        "stop_id": "12000337",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Taman Pulasan Bukit Minyak",
+        "stop_lat": "5.32445",
+        "stop_lon": "100.44852",
+        "stop_id": "12000336",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Pusat Perniagaan Juru",
+        "stop_lat": "5.318611",
+        "stop_lon": "100.44724000000001",
+        "stop_id": "12002517",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Klinik Desa Juru",
+        "stop_lat": "5.31629",
+        "stop_lon": "100.44367",
+        "stop_id": "12000587",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Taman Pinang",
+        "stop_lat": "5.31604",
+        "stop_lon": "100.44067",
+        "stop_id": "12000586",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Taman Perindustrian Beringin",
+        "stop_lat": "5.31556",
+        "stop_lon": "100.434065",
+        "stop_id": "12002518",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Taman Perusahaan Ringan Juru",
+        "stop_lat": "5.317480000000001",
+        "stop_lon": "100.43251",
+        "stop_id": "12002519",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Petronas Tok Kangar",
+        "stop_lat": "5.32455",
+        "stop_lon": "100.43483",
+        "stop_id": "12001281",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Perodua Juru",
+        "stop_lat": "5.334788",
+        "stop_lon": "100.43379499999999",
+        "stop_id": "12002520",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Pangsapuri Taman Pelangi",
+        "stop_lat": "5.3450239999999996",
+        "stop_lon": "100.425211",
+        "stop_id": "12002503",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Asrama Mattel",
+        "stop_lat": "5.343304",
+        "stop_lon": "100.42628",
+        "stop_id": "12002511",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Medan Selera Taman Pelangi",
+        "stop_lat": "5.34185",
+        "stop_lon": "100.42742",
+        "stop_id": "12001048",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Nashmir Car Park",
+        "stop_lat": "5.339957",
+        "stop_lon": "100.428081",
+        "stop_id": "12002512",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Hub Taman Juru Setia",
+        "stop_lat": "5.33303",
+        "stop_lon": "100.42664",
+        "stop_id": "12001290",
+        "stop_sequence": "27"
+    }
+]

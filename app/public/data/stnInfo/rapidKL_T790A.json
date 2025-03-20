@@ -1,0 +1,156 @@
+[
+    {
+        "stop_name": "PJ297 LRT TAMAN PARAMOUNT",
+        "stop_lat": "3.1047971484358",
+        "stop_lon": "101.62324724698",
+        "stop_id": "1001832",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ308 SHELL SEAPARK",
+        "stop_lat": "3.109686",
+        "stop_lon": "101.623135",
+        "stop_id": "1003232",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ309 HERBALINE SEAPARK",
+        "stop_lat": "3.111494",
+        "stop_lon": "101.621716",
+        "stop_id": "1006226",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ711 PETRON SEAPARK (OPP)",
+        "stop_lat": "3.1140025601091",
+        "stop_lon": "101.62057488852",
+        "stop_id": "1002049",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ712 BALAI POLIS SEAPARK",
+        "stop_lat": "3.117036",
+        "stop_lon": "101.623111",
+        "stop_id": "1000204",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ771 KOMERSIAL SS2 (PUBLIC BANK)",
+        "stop_lat": "3.120713",
+        "stop_lon": "101.621792",
+        "stop_id": "1006038",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ347 KOMERSIAL SS2 (POH KONG)",
+        "stop_lat": "3.1172538268936",
+        "stop_lon": "101.62088640147",
+        "stop_id": "1001276",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ712 BALAI POLIS SEAPARK",
+        "stop_lat": "3.117036",
+        "stop_lon": "101.623111",
+        "stop_id": "1000204",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ348 SEKSYEN 19",
+        "stop_lat": "3.118055",
+        "stop_lon": "101.625243",
+        "stop_id": "1008645",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ349 MEDAN SELERA SEKSYEN 19",
+        "stop_lat": "3.119018",
+        "stop_lon": "101.628689",
+        "stop_id": "1002865",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ713 MENARA AM FIRST",
+        "stop_lat": "3.118036",
+        "stop_lon": "101.629488",
+        "stop_id": "1008646",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ210 HOTEL LISA DE INN",
+        "stop_lat": "3.118249",
+        "stop_lon": "101.630639",
+        "stop_id": "1000944",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ211 FLAT SEKSYEN 17 (SELATAN)",
+        "stop_lat": "3.118937",
+        "stop_lon": "101.633375",
+        "stop_id": "1003538",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ212 JAYA ONE MALL (OPP)",
+        "stop_lat": "3.118939",
+        "stop_lon": "101.635496",
+        "stop_id": "1004190",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ237 PUSAT ASASI UIA (SELATAN)",
+        "stop_lat": "3.118802",
+        "stop_lon": "101.639562",
+        "stop_id": "1002675",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ238 MASJID KOLEJ ISLAM",
+        "stop_lat": "3.118732",
+        "stop_lon": "101.640579",
+        "stop_id": "1001955",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ245 SMK SULTAN ABD SAMAD (TIMUR)",
+        "stop_lat": "3.118566",
+        "stop_lon": "101.645001",
+        "stop_id": "1003407",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ246 MAHSA AVENUE",
+        "stop_lat": "3.118239",
+        "stop_lon": "101.648064",
+        "stop_id": "1001077",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ247 MAHSA UNIVERSITY (TIMUR)",
+        "stop_lat": "3.1170217390042",
+        "stop_lon": "101.6497825531",
+        "stop_id": "1001007",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ248 PPUM MAIN GATE",
+        "stop_lat": "3.1144523951478",
+        "stop_lon": "101.65100238888",
+        "stop_id": "1002619",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ249 PPUM (UTARA)",
+        "stop_lat": "3.1132947310948",
+        "stop_lon": "101.651397545",
+        "stop_id": "1002617",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M) KL2147 MIDVALLEY NORTH COURT",
+        "stop_lat": "3.119758",
+        "stop_lon": "101.677393",
+        "stop_id": "1002029",
+        "stop_sequence": "22"
+    }
+]

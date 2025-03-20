@@ -1,0 +1,352 @@
+[
+    {
+        "stop_name": "LOTUS RAWANG",
+        "stop_lat": "3.302417",
+        "stop_lon": "101.596916",
+        "stop_id": "1006966",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SL351 KG BT16 RAWANG (TIMUR)",
+        "stop_lat": "3.304136",
+        "stop_lon": "101.595285",
+        "stop_id": "1006967",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "DEWAN TAMAN KANCHING",
+        "stop_lat": "3.303357",
+        "stop_lon": "101.59175",
+        "stop_id": "1006969",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SAM RAWANG (OPP)",
+        "stop_lat": "3.302364",
+        "stop_lon": "101.591669",
+        "stop_id": "1006971",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "TAMAN MAWAR",
+        "stop_lat": "3.29979",
+        "stop_lon": "101.590504",
+        "stop_id": "1006973",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PANGSAPURI TAMAN TUN TEJA (OPP)",
+        "stop_lat": "3.297112",
+        "stop_lon": "101.592762",
+        "stop_id": "1006974",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "MASJID TAMAN TUN TEJA",
+        "stop_lat": "3.295099",
+        "stop_lon": "101.591795",
+        "stop_id": "1006976",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SL439 PANGSAPURI TAMAN TUN TEJA",
+        "stop_lat": "3.297165",
+        "stop_lon": "101.592588",
+        "stop_id": "1006975",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SL440 TAMAN MAWAR",
+        "stop_lat": "3.299724",
+        "stop_lon": "101.590343",
+        "stop_id": "1006972",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SAM RAWANG",
+        "stop_lat": "3.30249",
+        "stop_lon": "101.591562",
+        "stop_id": "1006970",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SK TUN TEJA (OPP)",
+        "stop_lat": "3.303047",
+        "stop_lon": "101.5897",
+        "stop_id": "1006977",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "TAMAN MUHIBBAH",
+        "stop_lat": "3.303312",
+        "stop_lon": "101.587035",
+        "stop_id": "1006979",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PANGSAPURI BERINGN (OPP)",
+        "stop_lat": "3.30203",
+        "stop_lon": "101.582813",
+        "stop_id": "1006982",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SURAU AL-RADHIYAH (OPP)",
+        "stop_lat": "3.301714",
+        "stop_lon": "101.58152",
+        "stop_id": "1006983",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "TAMAN BERSATU",
+        "stop_lat": "3.305181",
+        "stop_lon": "101.580505",
+        "stop_id": "1006985",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "TAMAN BERSATU FASA 4",
+        "stop_lat": "3.307201",
+        "stop_lon": "101.582609",
+        "stop_id": "1006987",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "MEDAN SELERA RAWANG PERDANA (OPP)",
+        "stop_lat": "3.312536",
+        "stop_lon": "101.585452",
+        "stop_id": "1001115",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KLINIK KESIHATAN RAWANG PERDANA",
+        "stop_lat": "3.314829",
+        "stop_lon": "101.596037",
+        "stop_id": "1001825",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "RAWANG PERDANA 10",
+        "stop_lat": "3.325326",
+        "stop_lon": "101.590541",
+        "stop_id": "1008404",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SL455 TAMAN BUKIT RAWANG JAYA",
+        "stop_lat": "3.333579",
+        "stop_lon": "101.587806",
+        "stop_id": "1008406",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SL458 BUKIT RAWANG JAYA",
+        "stop_lat": "3.336924",
+        "stop_lon": "101.587284",
+        "stop_id": "1008408",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SL459 FLAT BUKIT RAWANG JAYA (OPP)",
+        "stop_lat": "3.337127",
+        "stop_lon": "101.585367",
+        "stop_id": "1008411",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SL460 SK BUKIT RAWANG JAYA (OPP)",
+        "stop_lat": "3.334956",
+        "stop_lon": "101.582335",
+        "stop_id": "1008413",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SL361 RAWANG MUTIARA BUSINESS CENTRE",
+        "stop_lat": "3.328308",
+        "stop_lon": "101.580438",
+        "stop_id": "1008414",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SL362 BANDAR BARU RAWANG",
+        "stop_lat": "3.323878",
+        "stop_lon": "101.576842",
+        "stop_id": "1008416",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SL365 TERMINAL BAS RAWANG",
+        "stop_lat": "3.318382",
+        "stop_lon": "101.578148",
+        "stop_id": "1006996",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SL360 RAWANG MUTIARA BUSINESS CENTRE",
+        "stop_lat": "3.328476",
+        "stop_lon": "101.580159",
+        "stop_id": "1008415",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SL451 SK BUKIT RAWANG JAYA",
+        "stop_lat": "3.335183",
+        "stop_lon": "101.582309",
+        "stop_id": "1008412",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SL452 FLAT BUKIT RAWANG JAYA",
+        "stop_lat": "3.337331",
+        "stop_lon": "101.585126",
+        "stop_id": "1008410",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SL453 BUKIT RAWANG JAYA",
+        "stop_lat": "3.337111",
+        "stop_lon": "101.587337",
+        "stop_id": "1008409",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SL454 TAMAN BUKIT RAWANG JAYA",
+        "stop_lat": "3.332966",
+        "stop_lon": "101.588352",
+        "stop_id": "1008407",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "RAWANG PERDANA 11",
+        "stop_lat": "3.325448",
+        "stop_lon": "101.590685",
+        "stop_id": "1008405",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SL449 KLINIK KESIHATAN RAWANG (OPP)",
+        "stop_lat": "3.314769",
+        "stop_lon": "101.596208",
+        "stop_id": "1001118",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "MEDAN SELERA RAWANG PERDANA",
+        "stop_lat": "3.312261",
+        "stop_lon": "101.585486",
+        "stop_id": "1001117",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SL367 SRJKC SAN YUK RAWANG",
+        "stop_lat": "3.310477",
+        "stop_lon": "101.582914",
+        "stop_id": "1006990",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "TAMAN BERSATU FASA 4",
+        "stop_lat": "3.307348",
+        "stop_lon": "101.582972",
+        "stop_id": "1006988",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "TAMAN BERSATU",
+        "stop_lat": "3.305284",
+        "stop_lon": "101.580808",
+        "stop_id": "1006986",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SURAU AL-RADHIYAH",
+        "stop_lat": "3.301884",
+        "stop_lon": "101.581372",
+        "stop_id": "1006984",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "PANGSAPURI BERINGIN",
+        "stop_lat": "3.302282",
+        "stop_lon": "101.582953",
+        "stop_id": "1006981",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "TAMAN MUHIBBAH",
+        "stop_lat": "3.303433",
+        "stop_lon": "101.587324",
+        "stop_id": "1006980",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "SL445 SK TUN TEJA",
+        "stop_lat": "3.303294",
+        "stop_lon": "101.589414",
+        "stop_id": "1006978",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "SAM RAWANG (OPP)",
+        "stop_lat": "3.302364",
+        "stop_lon": "101.591669",
+        "stop_id": "1006971",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "TAMAN MAWAR",
+        "stop_lat": "3.29979",
+        "stop_lon": "101.590504",
+        "stop_id": "1006973",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "PANGSAPURI TAMAN TUN TEJA (OPP)",
+        "stop_lat": "3.297112",
+        "stop_lon": "101.592762",
+        "stop_id": "1006974",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "MASJID TAMAN TUN TEJA",
+        "stop_lat": "3.295099",
+        "stop_lon": "101.591795",
+        "stop_id": "1006976",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "SL439 PANGSAPURI TAMAN TUN TEJA",
+        "stop_lat": "3.297165",
+        "stop_lon": "101.592588",
+        "stop_id": "1006975",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "SL440 TAMAN MAWAR",
+        "stop_lat": "3.299724",
+        "stop_lon": "101.590343",
+        "stop_id": "1006972",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "SAM RAWANG",
+        "stop_lat": "3.30249",
+        "stop_lon": "101.591562",
+        "stop_id": "1006970",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "SL372 KG BT16 RAWANG",
+        "stop_lat": "3.304371",
+        "stop_lon": "101.595317",
+        "stop_id": "1006968",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "LOTUS RAWANG",
+        "stop_lat": "3.302417",
+        "stop_lon": "101.596916",
+        "stop_id": "1006966",
+        "stop_sequence": "50"
+    }
+]

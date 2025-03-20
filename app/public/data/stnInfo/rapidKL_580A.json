@@ -1,0 +1,429 @@
+[
+    {
+        "stop_name": "KL764 TERMINAL DESA PETALING",
+        "stop_lat": "3.0850749895368",
+        "stop_lon": "101.71177459136",
+        "stop_id": "1003895",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL766 PANGARIA",
+        "stop_lat": "3.083516",
+        "stop_lon": "101.712125",
+        "stop_id": "1002974",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL767 SK DESA PETALING",
+        "stop_lat": "3.0835505662838",
+        "stop_lon": "101.70947361441",
+        "stop_id": "1003295",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL768 WINNER HEIGHTS",
+        "stop_lat": "3.0837673897464",
+        "stop_lon": "101.70702052462",
+        "stop_id": "1001665",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL2181 DESA PETALING (SELATAN)",
+        "stop_lat": "3.0831995834419",
+        "stop_lon": "101.70446358875",
+        "stop_id": "1002715",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL769 SPARK SHOPPING COMPLEX",
+        "stop_lat": "3.0839928417904",
+        "stop_lon": "101.70157139165",
+        "stop_id": "1000274",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL770 VANTAGE POINT",
+        "stop_lat": "3.0860635117633",
+        "stop_lon": "101.70124417258",
+        "stop_id": "1001664",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL771 DESA PETALING (UTARA)",
+        "stop_lat": "3.086998",
+        "stop_lon": "101.70402",
+        "stop_id": "1000569",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL772 DESA HILL VILLAS",
+        "stop_lat": "3.0869527253263",
+        "stop_lon": "101.70635447578",
+        "stop_id": "1001004",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL773 KG BARU SALAK SELATAN",
+        "stop_lat": "3.086512",
+        "stop_lon": "101.707511",
+        "stop_id": "1002844",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL774 KG BARU SALAK SELATAN (TIMUR)",
+        "stop_lat": "3.0874378510546",
+        "stop_lon": "101.70832627315",
+        "stop_id": "1002303",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL775 PASAR PENJAJA SALAK SELATAN (OPP)",
+        "stop_lat": "3.089098",
+        "stop_lon": "101.70671",
+        "stop_id": "1002267",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1737 KG BARU SALAK SELATAN (TENGAH)",
+        "stop_lat": "3.089274",
+        "stop_lon": "101.704232",
+        "stop_id": "1002904",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL1738 DEWAN KG SALAK SELATAN (OPP)",
+        "stop_lat": "3.0891354471041",
+        "stop_lon": "101.70275403521",
+        "stop_id": "1000196",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL1740 KLINIK SALAK SELATAN (OPP)",
+        "stop_lat": "3.091178",
+        "stop_lon": "101.701819",
+        "stop_id": "1001549",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1812 MIDFIELDS SQUARE",
+        "stop_lat": "3.094064",
+        "stop_lon": "101.701528",
+        "stop_id": "1000645",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "(M) KL1813 TAMAN SALAK JAYA",
+        "stop_lat": "3.0959184006134",
+        "stop_lon": "101.70253749544",
+        "stop_id": "1001059",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "BALAI POLIS SALAK SELATAN",
+        "stop_lat": "3.0996454542362",
+        "stop_lon": "101.70423369884",
+        "stop_id": "1000211",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "LRT SALAK SELATAN",
+        "stop_lat": "3.1027874710133",
+        "stop_lon": "101.70579134798",
+        "stop_id": "1001816",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL1814 RAZAK MANSION",
+        "stop_lat": "3.106972",
+        "stop_lon": "101.706845",
+        "stop_id": "1003278",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "RAZAK MANSION",
+        "stop_lat": "3.1087782956271",
+        "stop_lon": "101.70706455171",
+        "stop_id": "1002706",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL1815 KG SRI INDAH",
+        "stop_lat": "3.112053",
+        "stop_lon": "101.706678",
+        "stop_id": "1000391",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL1769 CHAN SOW LIN (BARAT)",
+        "stop_lat": "3.1223496873538",
+        "stop_lon": "101.70835488179",
+        "stop_id": "1003481",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL1488 SOUTHGATE (OPP)",
+        "stop_lat": "3.1253105210177",
+        "stop_lon": "101.70992778671",
+        "stop_id": "1001965",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1770 BALAI BOMBA PUDU",
+        "stop_lat": "3.1333553884683",
+        "stop_lon": "101.71437422505",
+        "stop_id": "1002293",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1771 LRT PUDU/MAJESTIC",
+        "stop_lat": "3.136303587433",
+        "stop_lon": "101.71162064657",
+        "stop_id": "1001846",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL1772 FURAMA (OPP)",
+        "stop_lat": "3.139362",
+        "stop_lon": "101.709657",
+        "stop_id": "1000250",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL123 MONOREL BUKIT BINTANG/SG WANG",
+        "stop_lat": "3.145928",
+        "stop_lon": "101.711388",
+        "stop_id": "1006729",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL86 MRT BUKIT BINTANG/HSBC",
+        "stop_lat": "3.1477176043261",
+        "stop_lon": "101.71085234878",
+        "stop_id": "1000958",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL9 WISMA BOUSTEAD",
+        "stop_lat": "3.15019853231",
+        "stop_lon": "101.70918482193",
+        "stop_id": "1001998",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL12 MENARA KL",
+        "stop_lat": "3.150379",
+        "stop_lon": "101.705928",
+        "stop_id": "1000076",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL13 WISMA BUDIMAN",
+        "stop_lat": "3.149205",
+        "stop_lon": "101.701929",
+        "stop_id": "1004230",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KL14 MENARA OLYMPIA",
+        "stop_lat": "3.1486697702403",
+        "stop_lon": "101.700172348",
+        "stop_id": "1004247",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL100 BACKHOME HOSTEL",
+        "stop_lat": "3.1487247315043",
+        "stop_lon": "101.69791779705",
+        "stop_id": "1001181",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "(M) KL101 HUB LEBUH PUDU",
+        "stop_lat": "3.1464756605009",
+        "stop_lon": "101.69819178245",
+        "stop_id": "1002081",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL119 HOSPITAL TUNG SHIN",
+        "stop_lat": "3.1452216666667",
+        "stop_lon": "101.70462",
+        "stop_id": "1000934",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL120 HOTEL SWISS GARDEN (OPP)",
+        "stop_lat": "3.144438",
+        "stop_lon": "101.706043",
+        "stop_id": "1000953",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL866 FURAMA",
+        "stop_lat": "3.138532",
+        "stop_lon": "101.710008",
+        "stop_id": "1003928",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL867 LRT PUDU/MAJESTIC (OPP)",
+        "stop_lat": "3.1365982275533",
+        "stop_lon": "101.71170165741",
+        "stop_id": "1001847",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL803 PEJABAT POS PUDU",
+        "stop_lat": "3.1338190533991",
+        "stop_lon": "101.71407761968",
+        "stop_id": "1002286",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL810 SOUTHGATE",
+        "stop_lat": "3.124984",
+        "stop_lon": "101.710078",
+        "stop_id": "1003455",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL811 KG SRI INDAH",
+        "stop_lat": "3.1120556256043",
+        "stop_lon": "101.70700813411",
+        "stop_id": "1000390",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL1789 RAZAK MANSION (OPP)",
+        "stop_lat": "3.106102",
+        "stop_lon": "101.707047",
+        "stop_id": "1002707",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KL308 POS SALAK SELATAN",
+        "stop_lat": "3.1032191397453",
+        "stop_lon": "101.70609158932",
+        "stop_id": "1002710",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KL307 KTM SALAK SELATAN",
+        "stop_lat": "3.0994650394322",
+        "stop_lon": "101.70432453378",
+        "stop_id": "1001041",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "(M) KL782 TAMAN SALAK JAYA",
+        "stop_lat": "3.0959222281747",
+        "stop_lon": "101.70297719884",
+        "stop_id": "1001061",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KL761 KLINIK SALAK SELATAN",
+        "stop_lat": "3.0909961530594",
+        "stop_lon": "101.70203455277",
+        "stop_id": "1001550",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KL1739 DEWAN KG SALAK SELATAN",
+        "stop_lat": "3.0893115697914",
+        "stop_lon": "101.70283535922",
+        "stop_id": "1000197",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KL1734 KG BARU SALAK SELATAN (TENGAH)",
+        "stop_lat": "3.0894225238011",
+        "stop_lon": "101.70398850603",
+        "stop_id": "1002902",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KL1735 PASAR PENJAJA SALAK SELATAN",
+        "stop_lat": "3.0897005303433",
+        "stop_lon": "101.70631841591",
+        "stop_id": "1002257",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KL1736 KG BARU SALAK SELATAN (TIMUR)",
+        "stop_lat": "3.0874691903578",
+        "stop_lon": "101.70855193115",
+        "stop_id": "1002304",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KL1731 KG BARU SALAK SELATAN (SELATAN)",
+        "stop_lat": "3.086356",
+        "stop_lon": "101.707438",
+        "stop_id": "1001485",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "IMPACT FUTSAL COURT",
+        "stop_lat": "3.0867097819879",
+        "stop_lon": "101.70635489286",
+        "stop_id": "1001005",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "KL1493 DESA HILL VILLAS",
+        "stop_lat": "3.086797",
+        "stop_lon": "101.703838",
+        "stop_id": "1001372",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "KL762 VANTAGE POINT (OPP)",
+        "stop_lat": "3.0859874673942",
+        "stop_lon": "101.70142995203",
+        "stop_id": "1001640",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "KL763 SPARK SHOPPING COMPLEX (OPP)",
+        "stop_lat": "3.0840042832851",
+        "stop_lon": "101.70201449643",
+        "stop_id": "1000275",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "REST ABC",
+        "stop_lat": "3.0833798867118",
+        "stop_lon": "101.70457194482",
+        "stop_id": "1002716",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "KL1730 WINNER HEIGHTS (OPP)",
+        "stop_lat": "3.0840151014898",
+        "stop_lon": "101.70757756444",
+        "stop_id": "1001666",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "KL1727 SK DESA PETALING (OPP)",
+        "stop_lat": "3.0838274320217",
+        "stop_lon": "101.70941747285",
+        "stop_id": "1001911",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "KL1728 PANGSARA",
+        "stop_lat": "3.083686",
+        "stop_lon": "101.711708",
+        "stop_id": "1002977",
+        "stop_sequence": "60"
+    },
+    {
+        "stop_name": "KL764 TERMINAL DESA PETALING",
+        "stop_lat": "3.0850749895368",
+        "stop_lon": "101.71177459136",
+        "stop_id": "1003895",
+        "stop_sequence": "61"
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "stop_name": "(M1) Tesco Tunku Kudin",
+        "stop_lat": "5.377228",
+        "stop_lon": "100.31506",
+        "stop_id": "12001887",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Bukit Dumbar",
+        "stop_lat": "5.38595",
+        "stop_lon": "100.31156999999999",
+        "stop_id": "12000565",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Pekan Jelutong",
+        "stop_lat": "5.3879",
+        "stop_lon": "100.3127",
+        "stop_id": "12000566",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Balai Polis Jelutong",
+        "stop_lat": "5.3912949999999995",
+        "stop_lon": "100.31217109999999",
+        "stop_id": "12002319",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Pasar Batu Lanchang II",
+        "stop_lat": "5.39051",
+        "stop_lon": "100.30660999999999",
+        "stop_id": "12002002",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "(M3) Flat Bata Merah",
+        "stop_lat": "5.39265",
+        "stop_lon": "100.30711",
+        "stop_id": "12001641",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Jalan Sir Ibrahim I",
+        "stop_lat": "5.395454",
+        "stop_lon": "100.3087",
+        "stop_id": "12002246",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Jalan Sir Ibrahim II",
+        "stop_lat": "5.397041000000001",
+        "stop_lon": "100.3091",
+        "stop_id": "12002247",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Taman Hutchings",
+        "stop_lat": "5.39763",
+        "stop_lon": "100.30691",
+        "stop_id": "12000537",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SK Batu Lanchang",
+        "stop_lat": "5.39884",
+        "stop_lon": "100.30117",
+        "stop_id": "12002022",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SMK Georgetown",
+        "stop_lat": "5.3990599999999995",
+        "stop_lon": "100.29873",
+        "stop_id": "12002023",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Shineville Park",
+        "stop_lat": "5.39926",
+        "stop_lon": "100.29571999999999",
+        "stop_id": "12001980",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "All Season Place",
+        "stop_lat": "5.39689",
+        "stop_lon": "100.29035",
+        "stop_id": "12001979",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Pasar Farlim",
+        "stop_lat": "5.39391",
+        "stop_lon": "100.28860999999999",
+        "stop_id": "12001977",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Tanjung Court",
+        "stop_lat": "5.39251",
+        "stop_lon": "100.28713",
+        "stop_id": "12001975",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Klinik Kesihatan Bandar Baru Air Itam",
+        "stop_lat": "5.38963",
+        "stop_lon": "100.2851",
+        "stop_id": "12000049",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Flat 4E Farlim",
+        "stop_lat": "5.3861300000000005",
+        "stop_lon": "100.28323",
+        "stop_id": "12001372",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Lintang Angsana",
+        "stop_lat": "5.3887",
+        "stop_lon": "100.28208000000001",
+        "stop_id": "12001999",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "Lebuhraya Thean Teik",
+        "stop_lat": "5.38921",
+        "stop_lon": "100.28045999999999",
+        "stop_id": "12001974",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Perumahan PDRM",
+        "stop_lat": "5.3880099999999995",
+        "stop_lon": "100.27852",
+        "stop_id": "12001972",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Lone Pine Club",
+        "stop_lat": "5.38659",
+        "stop_lon": "100.27660999999999",
+        "stop_id": "12001970",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Paya Terubong Cemetery",
+        "stop_lat": "5.38044",
+        "stop_lon": "100.27504",
+        "stop_id": "12001022",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Pekan Paya Terubong",
+        "stop_lat": "5.3787",
+        "stop_lon": "100.27488000000001",
+        "stop_id": "12002290",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Oriental Garden",
+        "stop_lat": "5.3757",
+        "stop_lon": "100.27586",
+        "stop_id": "12001021",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Surau Al Muttaqin",
+        "stop_lat": "5.37176",
+        "stop_lon": "100.27534",
+        "stop_id": "12001019",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "(M2) Tingkat Paya Terubong4",
+        "stop_lat": "5.36975",
+        "stop_lon": "100.27547",
+        "stop_id": "12002102",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "Tingkat Paya Terubong 2 - 1",
+        "stop_lat": "5.37092",
+        "stop_lon": "100.2774",
+        "stop_id": "12002099",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Tingkat Paya Terubong 2 - 2",
+        "stop_lat": "5.37184",
+        "stop_lon": "100.27757",
+        "stop_id": "12002100",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Tingkat Paya Terubong 2 - 3",
+        "stop_lat": "5.37357",
+        "stop_lon": "100.27785",
+        "stop_id": "12002101",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Surau Al Muttaqin",
+        "stop_lat": "5.37176",
+        "stop_lon": "100.27534",
+        "stop_id": "12001019",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "(M1) Hub Paya Terubong - Petronas",
+        "stop_lat": "5.371595",
+        "stop_lon": "100.274925",
+        "stop_id": "12001018",
+        "stop_sequence": "31"
+    }
+]

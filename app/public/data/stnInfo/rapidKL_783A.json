@@ -1,0 +1,177 @@
+[
+    {
+        "stop_name": "PJ585 LRT KELANA JAYA",
+        "stop_lat": "3.112745",
+        "stop_lon": "101.604492",
+        "stop_id": "1001804",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ633 SMK KELANA JAYA",
+        "stop_lat": "3.1090534541627",
+        "stop_lon": "101.59607154107",
+        "stop_id": "1003347",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ634 POS MALAYSIA",
+        "stop_lat": "3.1011573713852",
+        "stop_lon": "101.59766835737",
+        "stop_id": "1002595",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ553 USJ 7 (SELATAN)",
+        "stop_lat": "3.067665",
+        "stop_lon": "101.615318",
+        "stop_id": "1001436",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SJ559 SUNWAY COURT (OPP)",
+        "stop_lat": "3.070607",
+        "stop_lon": "101.615779",
+        "stop_id": "1004119",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ560 PERINDUSTRIAN PJS 7",
+        "stop_lat": "3.072809",
+        "stop_lon": "101.615806",
+        "stop_id": "1000460",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ171 SUNWAY MENTARI (TIMUR)",
+        "stop_lat": "3.076414",
+        "stop_lon": "101.612759",
+        "stop_id": "1006266",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ172 SUNWAY MENTARI (BARAT)",
+        "stop_lat": "3.076414",
+        "stop_lon": "101.611584",
+        "stop_id": "1008640",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ177 BRT MENTARI",
+        "stop_lat": "3.076086",
+        "stop_lon": "101.610318",
+        "stop_id": "1006267",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) PJ615 SUNWAY PYRAMID",
+        "stop_lat": "3.073588",
+        "stop_lon": "101.605895",
+        "stop_id": "1003709",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ617 KOMPLEKS 3C",
+        "stop_lat": "3.072993",
+        "stop_lon": "101.600748",
+        "stop_id": "1000522",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ54 SERI KUALA LUMPUR",
+        "stop_lat": "3.076459",
+        "stop_lon": "101.592849",
+        "stop_id": "1003140",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJ55 SUBANG JAYA MEDICAL CENTRE",
+        "stop_lat": "3.079767",
+        "stop_lon": "101.592874",
+        "stop_id": "1003279",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ56 KOMERSIAL SS15",
+        "stop_lat": "3.0818374454544",
+        "stop_lon": "101.59082467831",
+        "stop_id": "1002020",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ57 AEON BIG SUBANG JAYA (OPP)",
+        "stop_lat": "3.081844",
+        "stop_lon": "101.588307",
+        "stop_id": "1000457",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "(M) SJ58 SUBANG PARADE (OPP)",
+        "stop_lat": "3.0812978955176",
+        "stop_lon": "101.58560231839",
+        "stop_id": "1003695",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "(M) SJ49 PETRON SS 17",
+        "stop_lat": "3.079421",
+        "stop_lon": "101.581514",
+        "stop_id": "1000646",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SJ47 PERUMAHAN SS 19",
+        "stop_lat": "3.078881",
+        "stop_lon": "101.577188",
+        "stop_id": "1003087",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ605 BT 10/MENTARI COURT (OPP)",
+        "stop_lat": "3.0834860825516",
+        "stop_lon": "101.60729171619",
+        "stop_id": "1000388",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PJ624 WESTERN DIGITAL",
+        "stop_lat": "3.0911149549487",
+        "stop_lon": "101.611083393",
+        "stop_id": "1004221",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ632 GIANT KELANA JAYA (OPP)",
+        "stop_lat": "3.1020056496033",
+        "stop_lon": "101.59708052652",
+        "stop_id": "1002200",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ602 KJMC",
+        "stop_lat": "3.1087558931513",
+        "stop_lon": "101.59568537163",
+        "stop_id": "1001508",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PJ603 LRT KELANA JAYA",
+        "stop_lat": "3.113161",
+        "stop_lon": "101.605368",
+        "stop_id": "1001805",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PJ162 TAMAN MEGAH",
+        "stop_lat": "3.1122163182399",
+        "stop_lon": "101.61043199238",
+        "stop_id": "1001169",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PJ585 LRT KELANA JAYA",
+        "stop_lat": "3.112745",
+        "stop_lon": "101.604492",
+        "stop_id": "1001804",
+        "stop_sequence": "25"
+    }
+]

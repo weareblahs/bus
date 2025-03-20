@@ -1,0 +1,310 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "UOB BANK",
+        "stop_lat": "3.8072837119611",
+        "stop_lon": "103.32978402323",
+        "stop_id": "2000198",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "MENARA KUANTAN 188",
+        "stop_lat": "3.8035149065029",
+        "stop_lon": "103.32624424933",
+        "stop_id": "2000470",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "HOSPITAL TENGKU AMPUAN AFZAN",
+        "stop_lat": "3.800603",
+        "stop_lon": "103.323625",
+        "stop_id": "2000329",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "(M) MAJLIS BANDARAYA KUANTAN",
+        "stop_lat": "3.798661",
+        "stop_lon": "103.321761",
+        "stop_id": "2000252",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "LHDN KUANTAN",
+        "stop_lat": "3.795984",
+        "stop_lon": "103.317042",
+        "stop_id": "2000324",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJKC CHUNG CHING",
+        "stop_lat": "3.7938580654174",
+        "stop_lon": "103.31292117399",
+        "stop_id": "2000416",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "(M) PASARAYA GIANT",
+        "stop_lat": "3.7924412965752",
+        "stop_lon": "103.30982708458",
+        "stop_id": "2000475",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "TANAH PUTIH BARU",
+        "stop_lat": "3.7888798954459",
+        "stop_lon": "103.30139877901",
+        "stop_id": "2000460",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SHELL TAMAN KURNIA",
+        "stop_lat": "3.7841361211925",
+        "stop_lon": "103.28956103335",
+        "stop_id": "2000431",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "BATU 3",
+        "stop_lat": "3.7824637448732",
+        "stop_lon": "103.28527925696",
+        "stop_id": "2000165",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "TAMAN BELUKAR MAJU",
+        "stop_lat": "3.780861",
+        "stop_lon": "103.281383",
+        "stop_id": "2000274",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PERKAMPUNGAN RAZALI",
+        "stop_lat": "3.779545",
+        "stop_lon": "103.278044",
+        "stop_id": "2000199",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "MENARA TM",
+        "stop_lat": "3.7806647555755",
+        "stop_lon": "103.27192358738",
+        "stop_id": "2000050",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PONDOK POLIS P/BADAK",
+        "stop_lat": "3.7850469342442",
+        "stop_lon": "103.27013247439",
+        "stop_id": "2000488",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "MASJID LAMA",
+        "stop_lat": "3.7882274791993",
+        "stop_lon": "103.26887485405",
+        "stop_id": "2000137",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KLINIK KESIHATAN PERMATANG BADAK",
+        "stop_lat": "3.7912275244552",
+        "stop_lon": "103.26779762375",
+        "stop_id": "2000502",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KAMPUNG PERMATANG BADAK",
+        "stop_lat": "3.7949039412164",
+        "stop_lon": "103.26580980629",
+        "stop_id": "2000515",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "RESTORAN ALI HAJ",
+        "stop_lat": "3.7991066940373",
+        "stop_lon": "103.26474814989",
+        "stop_id": "2000516",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M) SMK BUKIT RANGIN",
+        "stop_lat": "3.8015398154988",
+        "stop_lon": "103.26954152386",
+        "stop_id": "2000512",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "TADIKA SERI ANAKKU",
+        "stop_lat": "3.7998913574147",
+        "stop_lon": "103.27271362834",
+        "stop_id": "2000554",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "LOT KEDAI",
+        "stop_lat": "3.7974568801583",
+        "stop_lon": "103.27624737762",
+        "stop_id": "2000511",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "TANGKI AIR",
+        "stop_lat": "3.7934718873904",
+        "stop_lon": "103.27769564612",
+        "stop_id": "2000513",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "PADANG BOLA",
+        "stop_lat": "3.7925353492331",
+        "stop_lon": "103.27513185297",
+        "stop_id": "2000509",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SUNGAI ISAP PERDANA",
+        "stop_lat": "3.7910353622478",
+        "stop_lon": "103.27569296637",
+        "stop_id": "2000507",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "DEWAN SERI MENTIGA",
+        "stop_lat": "3.7876111634703",
+        "stop_lon": "103.27721212155",
+        "stop_id": "2000505",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SUNGAI ISAP 3",
+        "stop_lat": "3.7856685591588",
+        "stop_lon": "103.27801715936",
+        "stop_id": "2000508",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PENCAWANG TNB",
+        "stop_lat": "3.7828494452096",
+        "stop_lon": "103.27914800067",
+        "stop_id": "2000514",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SUNGAI ISAP/TOYOYA",
+        "stop_lat": "3.781507",
+        "stop_lon": "103.282176",
+        "stop_id": "2000098",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "TUNAS MANJA",
+        "stop_lat": "3.7828805727095",
+        "stop_lon": "103.28571054377",
+        "stop_id": "2000382",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "(M) SK BATU 3",
+        "stop_lat": "3.7840530063368",
+        "stop_lon": "103.2886879787",
+        "stop_id": "2000307",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "TANAH PUTIH BARU",
+        "stop_lat": "3.788051688665",
+        "stop_lon": "103.29870869577",
+        "stop_id": "2000116",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "TANAH PUTIH",
+        "stop_lat": "3.7896590923578",
+        "stop_lon": "103.30216245952",
+        "stop_id": "2000297",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PASARAYA GIANT",
+        "stop_lat": "3.7934207589975",
+        "stop_lon": "103.31126557187",
+        "stop_id": "2000043",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KEMUNTING",
+        "stop_lat": "3.796170910043",
+        "stop_lon": "103.31643665853",
+        "stop_id": "2000236",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "HOSPITAL TENGKU AMPUAN AFZAN",
+        "stop_lat": "3.8004608487867",
+        "stop_lon": "103.32288317591",
+        "stop_id": "2000154",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KOMPLEKS TERUNTUM/IPD KUANTAN",
+        "stop_lat": "3.803174",
+        "stop_lon": "103.324399",
+        "stop_id": "2000014",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS KONTINJEN PAHANG",
+        "stop_lat": "3.8097340263436",
+        "stop_lon": "103.32959924464",
+        "stop_id": "2000267",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "LKPP",
+        "stop_lat": "3.8111689940644",
+        "stop_lon": "103.32812003164",
+        "stop_id": "2000012",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "UTC KUANTAN",
+        "stop_lat": "3.813708",
+        "stop_lon": "103.324358",
+        "stop_id": "2000193",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "44"
+    }
+]

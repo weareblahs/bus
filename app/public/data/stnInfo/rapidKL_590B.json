@@ -1,0 +1,408 @@
+[
+    {
+        "stop_name": "(M) KL101 HUB LEBUH PUDU",
+        "stop_lat": "3.1464756605009",
+        "stop_lon": "101.69819178245",
+        "stop_id": "1002081",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL119 HOSPITAL TUNG SHIN",
+        "stop_lat": "3.1452216666667",
+        "stop_lon": "101.70462",
+        "stop_id": "1000934",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL120 HOTEL SWISS GARDEN (OPP)",
+        "stop_lat": "3.144438",
+        "stop_lon": "101.706043",
+        "stop_id": "1000953",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL866 FURAMA",
+        "stop_lat": "3.138532",
+        "stop_lon": "101.710008",
+        "stop_id": "1003928",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL867 LRT PUDU/MAJESTIC (OPP)",
+        "stop_lat": "3.1365982275533",
+        "stop_lon": "101.71170165741",
+        "stop_id": "1001847",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL803 PEJABAT POS PUDU",
+        "stop_lat": "3.1338190533991",
+        "stop_lon": "101.71407761968",
+        "stop_id": "1002286",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL2199 LRT CHAN SOW LIN",
+        "stop_lat": "3.128099",
+        "stop_lon": "101.716024",
+        "stop_id": "1001795",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL2200 PERCETAKAN NASIONAL (OPP)",
+        "stop_lat": "3.124576",
+        "stop_lon": "101.714053",
+        "stop_id": "1000504",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KL2201 HYUNDAI SERVICES (OPP)",
+        "stop_lat": "3.122441",
+        "stop_lon": "101.712545",
+        "stop_id": "1002115",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL2202 PERINDUSTRIAN TRISEGI",
+        "stop_lat": "3.120338",
+        "stop_lon": "101.711014",
+        "stop_id": "1002066",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL805 TOYOTA SG BESI (OPP)",
+        "stop_lat": "3.118916",
+        "stop_lon": "101.709987",
+        "stop_id": "1004194",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL811 KG SRI INDAH",
+        "stop_lat": "3.1120556256043",
+        "stop_lon": "101.70700813411",
+        "stop_id": "1000390",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1789 RAZAK MANSION (OPP)",
+        "stop_lat": "3.106102",
+        "stop_lon": "101.707047",
+        "stop_id": "1002707",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) KL782 TAMAN SALAK JAYA",
+        "stop_lat": "3.0959222281747",
+        "stop_lon": "101.70297719884",
+        "stop_id": "1001061",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL2180 PLAZA 63 (OPP)",
+        "stop_lat": "3.091876",
+        "stop_lon": "101.701374",
+        "stop_id": "1001092",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL1811 PLAZA SG BESI (OPP)",
+        "stop_lat": "3.089241",
+        "stop_lon": "101.699132",
+        "stop_id": "1002573",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL795 KOMERSIAL TAMAN SALAK SELATAN",
+        "stop_lat": "3.083649",
+        "stop_lon": "101.697397",
+        "stop_id": "1001158",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "KL777 KG MALAYSIA TAMBAHAN",
+        "stop_lat": "3.077373",
+        "stop_lon": "101.704842",
+        "stop_id": "1001442",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL778 KG MALAYSIA RAYA",
+        "stop_lat": "3.074737",
+        "stop_lon": "101.703902",
+        "stop_id": "1001440",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL780 TAMAN CASTLEFIELD",
+        "stop_lat": "3.0690635889596",
+        "stop_lon": "101.70600990163",
+        "stop_id": "1003962",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL781 MRT/LRT SUNGAI BESI",
+        "stop_lat": "3.063572",
+        "stop_lon": "101.707294",
+        "stop_id": "1004040",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "KL2006 SELANGOR TURF CLUB",
+        "stop_lat": "3.052781",
+        "stop_lon": "101.707226",
+        "stop_id": "1002832",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SJ653 THE MINES WATERFRONT",
+        "stop_lat": "3.0385903995674",
+        "stop_lon": "101.70918458057",
+        "stop_id": "1000180",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SJ595 KTM KOMUTER SERDANG (OPP)",
+        "stop_lat": "3.0241019628791",
+        "stop_lon": "101.71621852279",
+        "stop_id": "1001689",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "(M) SJ596 KTM KOMUTER SERDANG",
+        "stop_lat": "3.0228725970026",
+        "stop_lon": "101.71645821695",
+        "stop_id": "1001690",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SJ640 THE MINES",
+        "stop_lat": "3.027064",
+        "stop_lon": "101.718933",
+        "stop_id": "1003922",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SJ599 TAMAN SG BESI INDAH (SELATAN)",
+        "stop_lat": "3.027028",
+        "stop_lon": "101.722764",
+        "stop_id": "1002515",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SJ641 APARTMENT SRI JASA",
+        "stop_lat": "3.027148",
+        "stop_lon": "101.726731",
+        "stop_id": "1004053",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KJ670 WISMA TANJUNG BALAI (OPP)",
+        "stop_lat": "3.024934",
+        "stop_lon": "101.730044",
+        "stop_id": "1004259",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KJ671 TAMAN BUKIT BELIMBING",
+        "stop_lat": "3.0245921417694",
+        "stop_lon": "101.73224170392",
+        "stop_id": "1003939",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KJ672 TAMAN TAMING JAYA",
+        "stop_lat": "3.0262877504306",
+        "stop_lon": "101.73835993014",
+        "stop_id": "1001480",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KJ673 KG BARU BALAKONG",
+        "stop_lat": "3.026557",
+        "stop_lon": "101.749516",
+        "stop_id": "1001420",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "KJ703 SUSUR U-TURN CHERAS JAYA",
+        "stop_lat": "3.028845",
+        "stop_lon": "101.756126",
+        "stop_id": "1000247",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KJ693 AEON CHERAS SELATAN",
+        "stop_lat": "3.032198",
+        "stop_lon": "101.765559",
+        "stop_id": "1001214",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KJ336 PLAZA KASTURI",
+        "stop_lat": "3.037993",
+        "stop_lon": "101.768992",
+        "stop_id": "1002361",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KJ337 KOMERSIAL BT 11",
+        "stop_lat": "3.042774",
+        "stop_lon": "101.772202",
+        "stop_id": "1004268",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KJ721 PUSAT FLORA CHERAS",
+        "stop_lat": "3.039165",
+        "stop_lon": "101.773322",
+        "stop_id": "1002659",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KJ304 INSTITUT PENGURUSAN VETERINAR (OPP)",
+        "stop_lat": "3.035963",
+        "stop_lon": "101.775405",
+        "stop_id": "1001019",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KJ330 TAMAN RAKAN (BARAT)",
+        "stop_lat": "3.034874",
+        "stop_lon": "101.780544",
+        "stop_id": "1001725",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KJ331 TAMAN RAKAN (TIMUR)",
+        "stop_lat": "3.035554",
+        "stop_lon": "101.782081",
+        "stop_id": "1004038",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KJ561 BANDAR MAHKOTA CHERAS",
+        "stop_lat": "3.0432581370684",
+        "stop_lon": "101.78683628257",
+        "stop_id": "1002852",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KJ562 BANDAR MAHKOTA CHERAS",
+        "stop_lat": "3.047159",
+        "stop_lon": "101.787929",
+        "stop_id": "1002574",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KJ214 PETRONAS MAHKOTA CHERAS",
+        "stop_lat": "3.051484",
+        "stop_lon": "101.786855",
+        "stop_id": "1002509",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KJ177 BMC MALL (OPP)",
+        "stop_lat": "3.055131564348",
+        "stop_lon": "101.78603666817",
+        "stop_id": "1003861",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KJ751 PERUMAHAN MAHKOTA CHERAS",
+        "stop_lat": "3.059332958966",
+        "stop_lon": "101.78712366175",
+        "stop_id": "1003539",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "KJ195 PERUMAHAN MAHKOTA CHERAS SEKSYEN 3",
+        "stop_lat": "3.060573851863",
+        "stop_lon": "101.78935413478",
+        "stop_id": "1004108",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KJ570 DEWAN SERBAGUNA MAHKOTA CHERAS",
+        "stop_lat": "3.059726",
+        "stop_lon": "101.793782",
+        "stop_id": "1002733",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KJ200 PERUMAHAN MAHKOTA CHERAS SEKSYEN 6",
+        "stop_lat": "3.0542190282018",
+        "stop_lon": "101.79389889672",
+        "stop_id": "1004116",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "KJ213 KOMERSIAL MAHKOTA CHERAS",
+        "stop_lat": "3.0500580155157",
+        "stop_lon": "101.78892918697",
+        "stop_id": "1000078",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "KJ289 BANDAR MAHKOTA CHERAS",
+        "stop_lat": "3.047218",
+        "stop_lon": "101.788243",
+        "stop_id": "1003503",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "KJ329 SHELL SG LONG",
+        "stop_lat": "3.0416829546868",
+        "stop_lon": "101.78926018851",
+        "stop_id": "1003230",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "KJ361 GREEN SEKSYEN 7",
+        "stop_lat": "3.046017",
+        "stop_lon": "101.794833",
+        "stop_id": "1002698",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "KJ370 PERUMAHAN SG LONG SEKSYEN 7",
+        "stop_lat": "3.0480528104061",
+        "stop_lon": "101.79730241962",
+        "stop_id": "1003033",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "KJ403 PERUMAHAN SEKYEN 7",
+        "stop_lat": "3.049393",
+        "stop_lon": "101.798878",
+        "stop_id": "1003052",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "KJ428 SMK SG LONG",
+        "stop_lat": "3.0516163347533",
+        "stop_lon": "101.80192181976",
+        "stop_id": "1003399",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "KJ437 APARTMENT GREEN ACRE",
+        "stop_lat": "3.0477918709832",
+        "stop_lon": "101.80540780986",
+        "stop_id": "1000125",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "KJ438 SG LONG GOLF & COUNTRY CLUB",
+        "stop_lat": "3.041695",
+        "stop_lon": "101.801437",
+        "stop_id": "1003193",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "KJ477 UTAR",
+        "stop_lat": "3.0410139275918",
+        "stop_lon": "101.79392934149",
+        "stop_id": "1004189",
+        "stop_sequence": "58"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "stop_name": "PJ445 LRT TAMAN JAYA",
+        "stop_lat": "3.103876",
+        "stop_lon": "101.644993",
+        "stop_id": "1001828",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ84 PJ WALK",
+        "stop_lat": "3.100201666",
+        "stop_lon": "101.6452966",
+        "stop_id": "1006035",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ434 DEWAN SIVIK MBPJ",
+        "stop_lat": "3.098113",
+        "stop_lon": "101.645854",
+        "stop_id": "1001979",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ757 WISMA IEM",
+        "stop_lat": "3.098985",
+        "stop_lon": "101.646956",
+        "stop_id": "1006036",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ451 WISMA PERKESO",
+        "stop_lat": "3.094789",
+        "stop_lon": "101.646736",
+        "stop_id": "1006206",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ452 KOMPLEKS ARENA PJ",
+        "stop_lat": "3.092533",
+        "stop_lon": "101.645975",
+        "stop_id": "1003674",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PJ453 PERPUSTAKAAN KOMUNITI PJ",
+        "stop_lat": "3.0908059472778",
+        "stop_lon": "101.64604883686",
+        "stop_id": "1002425",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "(M) PJ469 TERMINAL BAS",
+        "stop_lat": "3.087051",
+        "stop_lon": "101.647131",
+        "stop_id": "1003891",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ455 MAHKAMAH SYARIAH",
+        "stop_lat": "3.086795",
+        "stop_lon": "101.650753",
+        "stop_id": "1001844",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ411 APT INAI COURT (OPP)",
+        "stop_lat": "3.085194",
+        "stop_lon": "101.654585",
+        "stop_id": "1001000",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ737 FLAT TAMAN PERANSANG",
+        "stop_lat": "3.0814378714851",
+        "stop_lon": "101.64831904603",
+        "stop_id": "1000942",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ739 TAMAN DATO HARUN",
+        "stop_lat": "3.083589507932",
+        "stop_lon": "101.63527896574",
+        "stop_id": "1000528",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ741 DESA MENTARI FASA 4 (UTARA)",
+        "stop_lat": "3.0843778280735",
+        "stop_lon": "101.62811647765",
+        "stop_id": "1003570",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ145 GERAI PJS 2C",
+        "stop_lat": "3.081736",
+        "stop_lon": "101.627329",
+        "stop_id": "1000840",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ742 PJ SOUTH CITY",
+        "stop_lat": "3.079994",
+        "stop_lon": "101.627322",
+        "stop_id": "1003149",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ147 PJCC",
+        "stop_lat": "3.077964",
+        "stop_lon": "101.627341",
+        "stop_id": "1002339",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ148 PJS 4 (BARAT)",
+        "stop_lat": "3.0766227551742",
+        "stop_lon": "101.62790886161",
+        "stop_id": "1002272",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ149 PJS 4 (TIMUR)",
+        "stop_lat": "3.076324",
+        "stop_lon": "101.629378",
+        "stop_id": "1001765",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ137 TERMINAL TAMAN MEDAN",
+        "stop_lat": "3.075537",
+        "stop_lon": "101.633102",
+        "stop_id": "1006037",
+        "stop_sequence": "19"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "stop_name": "SA442 HENTIAN SEKSYEN 19",
+        "stop_lat": "3.05578",
+        "stop_lon": "101.525905",
+        "stop_id": "1003088",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA428 CIAST",
+        "stop_lat": "3.052867",
+        "stop_lon": "101.524969",
+        "stop_id": "1000478",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA934 SMK SEKSYEN 18 (OPP)",
+        "stop_lat": "3.0518101114951",
+        "stop_lon": "101.52435336625",
+        "stop_id": "1003090",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA935 SEKYEN 19 (UTARA)",
+        "stop_lat": "3.0491676178905",
+        "stop_lon": "101.52511848214",
+        "stop_id": "1003091",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA425 SEKSYEN 23 (BARAT)",
+        "stop_lat": "3.0485635236283",
+        "stop_lon": "101.52802579656",
+        "stop_id": "1000734",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA454 SEKSYEN 19 (SELATAN)",
+        "stop_lat": "3.0486761746484",
+        "stop_lon": "101.53037420389",
+        "stop_id": "1002229",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA421 SEKSYEN 23 (UTARA)",
+        "stop_lat": "3.0470911746862",
+        "stop_lon": "101.53213330859",
+        "stop_id": "1001018",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA388 SEKSYEN 23 (SELATAN)",
+        "stop_lat": "3.0421692583941",
+        "stop_lon": "101.53417316831",
+        "stop_id": "1001403",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA389 TAMAN SRI MUDA SEKSYEN 25 (UTARA)",
+        "stop_lat": "3.036845111791",
+        "stop_lon": "101.53437910361",
+        "stop_id": "1002424",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA392 MASJID TAMAN SRI MUDA",
+        "stop_lat": "3.0341453348034",
+        "stop_lon": "101.53451741303",
+        "stop_id": "1000356",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA405 HAB TAMAN SRI MUDA",
+        "stop_lat": "3.030725793855",
+        "stop_lon": "101.53499050045",
+        "stop_id": "1003610",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA407 APARTMENT ANDORRA",
+        "stop_lat": "3.0262633601803",
+        "stop_lon": "101.5364683467",
+        "stop_id": "1000323",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SMK TAMAN SRI MUDA",
+        "stop_lat": "3.026127",
+        "stop_lon": "101.539046",
+        "stop_id": "1008089",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA397 TAMAN PERINDUSTRIAN AXIS",
+        "stop_lat": "3.025822",
+        "stop_lon": "101.541811",
+        "stop_id": "1008090",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SURAU KEMUNING UTAMA",
+        "stop_lat": "3.016653",
+        "stop_lon": "101.541827",
+        "stop_id": "1008091",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA216 KOTA KEMUNING CENTRAL LAKE",
+        "stop_lat": "3.002302",
+        "stop_lon": "101.539769",
+        "stop_id": "1008106",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA217 KOTA KEMUNING BUSINESS PARK",
+        "stop_lat": "3.003037",
+        "stop_lon": "101.538284",
+        "stop_id": "1001568",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA218 CANAL GARDEN",
+        "stop_lat": "3.0035794423365",
+        "stop_lon": "101.53399164189",
+        "stop_id": "1000073",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "GAMUDA WALK MALL",
+        "stop_lat": "3.000565",
+        "stop_lon": "101.532836",
+        "stop_id": "1008105",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA223 CHINESE TAIPEI SCHOOL KL",
+        "stop_lat": "2.997926",
+        "stop_lon": "101.52742",
+        "stop_id": "1008092",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SHAH ALAM BUDDIST SOCIETY",
+        "stop_lat": "2.995262",
+        "stop_lon": "101.526684",
+        "stop_id": "1008093",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA191 MERANTI TERRACE",
+        "stop_lat": "2.9869113186898",
+        "stop_lon": "101.53540642002",
+        "stop_id": "1000817",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA196 PUSAT PERNIAGAAN KOTA KEMUNING",
+        "stop_lat": "2.987127",
+        "stop_lon": "101.540773",
+        "stop_id": "1002799",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SA213 PANGSAPURI SRI KEMUNING (TIMUR)",
+        "stop_lat": "2.990847",
+        "stop_lon": "101.549845",
+        "stop_id": "1008107",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "PANGSAPURI SRI KEMUNING (UTARA)",
+        "stop_lat": "2.991606079009",
+        "stop_lon": "101.5495024623",
+        "stop_id": "1000676",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA214 PANGSAPURI SRI KEMUNING (BARAT)",
+        "stop_lat": "2.990915",
+        "stop_lon": "101.548514",
+        "stop_id": "1002178",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA207 KOTA KEMUNING INDUSTRIAL PARK (SELATAN)",
+        "stop_lat": "2.989486",
+        "stop_lon": "101.547371",
+        "stop_id": "1003920",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA215 SK KOTA KEMUNING (OPP)",
+        "stop_lat": "2.995521",
+        "stop_lon": "101.546295",
+        "stop_id": "1008094",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PERUMAHAN KEMUNING PERMAI",
+        "stop_lat": "3.01125",
+        "stop_lon": "101.5426",
+        "stop_id": "1008095",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "SURAU KEMUNING UTAMA (OPP)",
+        "stop_lat": "3.016773",
+        "stop_lon": "101.541612",
+        "stop_id": "1008096",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA398 TAMAN PERINDUSTRIAN AXIS",
+        "stop_lat": "3.025957",
+        "stop_lon": "101.541671",
+        "stop_id": "1008097",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "SA403 APARTMENT MEDITERANEAN",
+        "stop_lat": "3.032352",
+        "stop_lon": "101.539293",
+        "stop_id": "1001993",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SA411 HAB TAMAN SRI MUDA",
+        "stop_lat": "3.030417539279",
+        "stop_lon": "101.53475959784",
+        "stop_id": "1004060",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SA417 MASJID TAMAN SRI MUDA (OPP)",
+        "stop_lat": "3.0344689960407",
+        "stop_lon": "101.53423571493",
+        "stop_id": "1000350",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "SA416 TAMAN SRI MUDA SEKSYEN 25",
+        "stop_lat": "3.0369579197827",
+        "stop_lon": "101.5340438258",
+        "stop_id": "1002854",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "SA418 SEKSYEN 23",
+        "stop_lat": "3.0422749410788",
+        "stop_lon": "101.53389069821",
+        "stop_id": "1002092",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "SA422 SEKSYEN 23 (UTARA)",
+        "stop_lat": "3.0466061746902",
+        "stop_lon": "101.53185192979",
+        "stop_id": "1000821",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "SA423 SEKSYEN 19 (SELATAN)",
+        "stop_lat": "3.0484295998569",
+        "stop_lon": "101.5301843593",
+        "stop_id": "1002579",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "SA425 SEKSYEN 23 (BARAT)",
+        "stop_lat": "3.0485635236283",
+        "stop_lon": "101.52802579656",
+        "stop_id": "1000734",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "SA442 HENTIAN SEKSYEN 19",
+        "stop_lat": "3.05578",
+        "stop_lon": "101.525905",
+        "stop_id": "1003088",
+        "stop_sequence": "40"
+    }
+]

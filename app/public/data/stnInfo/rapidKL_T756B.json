@@ -1,0 +1,247 @@
+[
+    {
+        "stop_name": "SA171 KOTA KEMUNING BUSINESS PARK",
+        "stop_lat": "3.0033833659642",
+        "stop_lon": "101.53836641213",
+        "stop_id": "1001567",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA894 KOTA KEMUNING CENTRAL LAKE",
+        "stop_lat": "3.002597",
+        "stop_lon": "101.540143",
+        "stop_id": "1008237",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA216 KOTA KEMUNING CENTRAL LAKE",
+        "stop_lat": "3.002302",
+        "stop_lon": "101.539769",
+        "stop_id": "1008106",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA217 KOTA KEMUNING BUSINESS PARK",
+        "stop_lat": "3.003037",
+        "stop_lon": "101.538284",
+        "stop_id": "1001568",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA218 CANAL GARDEN",
+        "stop_lat": "3.0035794423365",
+        "stop_lon": "101.53399164189",
+        "stop_id": "1000073",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "GAMUDA WALK MALL",
+        "stop_lat": "3.000565",
+        "stop_lon": "101.532836",
+        "stop_id": "1008105",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA223 CHINESE TAIPEI SCHOOL KL",
+        "stop_lat": "2.997926",
+        "stop_lon": "101.52742",
+        "stop_id": "1008092",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA224 PANGSAPURI KENANGAN",
+        "stop_lat": "2.9970741404708",
+        "stop_lon": "101.52563679744",
+        "stop_id": "1003831",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA225 KEMUNING GREENHILLS",
+        "stop_lat": "2.990884",
+        "stop_lon": "101.520127",
+        "stop_id": "1003549",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA226 PANGSAPURI KEMUNING AMAN (OPP)",
+        "stop_lat": "3.001531",
+        "stop_lon": "101.519124",
+        "stop_id": "1003734",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA228 SEKSYEN 32 (SELATAN)",
+        "stop_lat": "3.008187",
+        "stop_lon": "101.520074",
+        "stop_id": "1001483",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA229 SEKSYEN 32 (UTARA)",
+        "stop_lat": "3.010165",
+        "stop_lon": "101.519025",
+        "stop_id": "1002769",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA231 TAMAN SRI KEMUNING",
+        "stop_lat": "3.014044",
+        "stop_lon": "101.524419",
+        "stop_id": "1001563",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SA232 TAMAN SRI KEMUNING",
+        "stop_lat": "3.016567",
+        "stop_lon": "101.529192",
+        "stop_id": "1001525",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SA235 KOMERSIAL KEMUNING UTAMA",
+        "stop_lat": "3.020068",
+        "stop_lon": "101.535323",
+        "stop_id": "1000306",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SA409 TAMAN SRI MUDA SEKSYEN 25",
+        "stop_lat": "3.0233761745892",
+        "stop_lon": "101.53755291472",
+        "stop_id": "1004282",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA410 BLOK 3P",
+        "stop_lat": "3.026025",
+        "stop_lon": "101.536114",
+        "stop_id": "1000322",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SA411 HAB TAMAN SRI MUDA",
+        "stop_lat": "3.030417539279",
+        "stop_lon": "101.53475959784",
+        "stop_id": "1004060",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SA417 MASJID TAMAN SRI MUDA (OPP)",
+        "stop_lat": "3.0344689960407",
+        "stop_lon": "101.53423571493",
+        "stop_id": "1000350",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA416 TAMAN SRI MUDA SEKSYEN 25",
+        "stop_lat": "3.0369579197827",
+        "stop_lon": "101.5340438258",
+        "stop_id": "1002854",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA418 SEKSYEN 23",
+        "stop_lat": "3.0422749410788",
+        "stop_lon": "101.53389069821",
+        "stop_id": "1002092",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "SA422 SEKSYEN 23 (UTARA)",
+        "stop_lat": "3.0466061746902",
+        "stop_lon": "101.53185192979",
+        "stop_id": "1000821",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA455 KOMERSIAL SEKSYEN 19",
+        "stop_lat": "3.0484133024513",
+        "stop_lon": "101.5341212997",
+        "stop_id": "1000037",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SA456 PUSAT PERNIAGAAN JUBLI PERAK",
+        "stop_lat": "3.0490685211587",
+        "stop_lon": "101.53708882392",
+        "stop_id": "1000536",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA461 HENTIAN JUBLI PERAK",
+        "stop_lat": "3.0521086003269",
+        "stop_lon": "101.54180352842",
+        "stop_id": "1003757",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA462 SEKSYEN 20 (TIMUR)",
+        "stop_lat": "3.0551123911709",
+        "stop_lon": "101.54269314337",
+        "stop_id": "1001566",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SJ463 KPJ HOSPITAL",
+        "stop_lat": "3.057719",
+        "stop_lon": "101.541924",
+        "stop_id": "1008402",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA464 SEKSYEN 20 (UTARA)",
+        "stop_lat": "3.059433681361",
+        "stop_lon": "101.54137834258",
+        "stop_id": "1000740",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "SA1 LOTUS EXTRA SHAH ALAM (OPP)",
+        "stop_lat": "3.0709296781301",
+        "stop_lon": "101.53776620702",
+        "stop_id": "1003915",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "(M) SA2 BULATAN KAYANGAN",
+        "stop_lat": "3.0730095590396",
+        "stop_lon": "101.53293127036",
+        "stop_id": "1000358",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "SA3 PERUMAHAN SEKSYEN 11 (OPP)",
+        "stop_lat": "3.0684856773854",
+        "stop_lon": "101.52978798901",
+        "stop_id": "1003083",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "VISTA ALAM APARTMENT",
+        "stop_lat": "3.070032",
+        "stop_lon": "101.525336",
+        "stop_id": "1008398",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "SA24 PUSAT DAGANGAN SHAH ALAM",
+        "stop_lat": "3.071991",
+        "stop_lon": "101.525397",
+        "stop_id": "1001730",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "SA18 WISMA PKPS",
+        "stop_lat": "3.0733481810602",
+        "stop_lon": "101.52298177514",
+        "stop_id": "1004249",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "(M) SA786 HENTIAN BANDAR SEKSYEN 14",
+        "stop_lat": "3.0724427493567",
+        "stop_lon": "101.52135232628",
+        "stop_id": "1003078",
+        "stop_sequence": "35"
+    }
+]

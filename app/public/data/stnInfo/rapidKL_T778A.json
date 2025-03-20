@@ -1,0 +1,58 @@
+[
+    {
+        "stop_name": "SJ728 LRT USJ21",
+        "stop_lat": "3.02967",
+        "stop_lon": "101.581442",
+        "stop_id": "1006533",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ729 PERUMAHAN USJ 20",
+        "stop_lat": "3.027174",
+        "stop_lon": "101.584897",
+        "stop_id": "1006534",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SJ730 APARTMENT FAIRVILLE",
+        "stop_lat": "3.025637",
+        "stop_lon": "101.583597",
+        "stop_id": "1006535",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SJ731 MAIN PLACE MALL (TIMUR)",
+        "stop_lat": "3.026234",
+        "stop_lon": "101.581615",
+        "stop_id": "1006536",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "(M) SJ732 MAIN PLACE MALL (BARAT)",
+        "stop_lat": "3.027791",
+        "stop_lon": "101.58035",
+        "stop_id": "1006537",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ733 SMK USJ 23",
+        "stop_lat": "3.018378",
+        "stop_lon": "101.579965",
+        "stop_id": "1006538",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ734 ONE CITY",
+        "stop_lat": "3.021748",
+        "stop_lon": "101.580495",
+        "stop_id": "1006539",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SJ728 LRT USJ21",
+        "stop_lat": "3.02967",
+        "stop_lon": "101.581442",
+        "stop_id": "1006533",
+        "stop_sequence": "8"
+    }
+]

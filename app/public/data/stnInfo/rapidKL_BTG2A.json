@@ -1,0 +1,170 @@
+[
+    {
+        "stop_name": "HENTIAN BANTING",
+        "stop_lat": "2.811984",
+        "stop_lon": "101.503445",
+        "stop_id": "1006414",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "ECONSAVE BANTING",
+        "stop_lat": "2.812005",
+        "stop_lon": "101.506457",
+        "stop_id": "1008024",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "STESEN BAS BANTING",
+        "stop_lat": "2.812327",
+        "stop_lon": "101.502269",
+        "stop_id": "1008025",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SPG JLN KEMBOJA 15",
+        "stop_lat": "2.807698",
+        "stop_lon": "101.500398",
+        "stop_id": "1008026",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "IPD KUALA LANGAT (OPP)",
+        "stop_lat": "2.804882",
+        "stop_lon": "101.494917",
+        "stop_id": "1008027",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PEJABAT MDKL",
+        "stop_lat": "2.803772",
+        "stop_lon": "101.496001",
+        "stop_id": "1008028",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "MEDAN SELERA MDKL",
+        "stop_lat": "2.803143",
+        "stop_lon": "101.497806",
+        "stop_id": "1008029",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "TAMAN KEMUNING",
+        "stop_lat": "2.80263",
+        "stop_lon": "101.499276",
+        "stop_id": "1008030",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KG SG LANG",
+        "stop_lat": "2.797989",
+        "stop_lon": "101.493662",
+        "stop_id": "1008031",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SHENG LEONG CYCLE",
+        "stop_lat": "2.799865",
+        "stop_lon": "101.492586",
+        "stop_id": "1008032",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "HOSPITAL BANTING",
+        "stop_lat": "2.802581",
+        "stop_lon": "101.493712",
+        "stop_id": "1008033",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "IPD KUALA LANGAT",
+        "stop_lat": "2.805828",
+        "stop_lon": "101.495044",
+        "stop_id": "1008034",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SJKC CHOONG HUA",
+        "stop_lat": "2.807198",
+        "stop_lon": "101.498096",
+        "stop_id": "1008060",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "RESTORAN NAFIH",
+        "stop_lat": "2.811125",
+        "stop_lon": "101.501598",
+        "stop_id": "1008061",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "7 ELEVEN BANTING",
+        "stop_lat": "2.812761",
+        "stop_lon": "101.500472",
+        "stop_id": "1008062",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "MYCINEMA BANTING",
+        "stop_lat": "2.812001",
+        "stop_lon": "101.497041",
+        "stop_id": "1008035",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "MASJID AT-TAQWA BANTING",
+        "stop_lat": "2.81117",
+        "stop_lon": "101.491958",
+        "stop_id": "1008038",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "TAMAN MULIA",
+        "stop_lat": "2.811816",
+        "stop_lon": "101.490344",
+        "stop_id": "1008039",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "TAMAN SERI PUTRA",
+        "stop_lat": "2.813293",
+        "stop_lon": "101.486708",
+        "stop_id": "1008041",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SPG JLN SERDANG BELAH",
+        "stop_lat": "2.815634",
+        "stop_lon": "101.481094",
+        "stop_id": "1008042",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "IKBN KUALA LANGAT (OPP)",
+        "stop_lat": "2.819256",
+        "stop_lon": "101.471548",
+        "stop_id": "1008045",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "ILP KUALA LANGAT (OPP)",
+        "stop_lat": "2.81922",
+        "stop_lon": "101.463654",
+        "stop_id": "1008047",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SK JUGRA (OPP)",
+        "stop_lat": "2.819161",
+        "stop_lon": "101.455971",
+        "stop_id": "1008049",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "BANDAR BANTING BARU",
+        "stop_lat": "2.817379",
+        "stop_lon": "101.454654",
+        "stop_id": "1008051",
+        "stop_sequence": "24"
+    }
+]

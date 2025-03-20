@@ -1,0 +1,107 @@
+[
+    {
+        "stop_name": "KL588 TAMAN KOK LIAN/ PPR PEKAN BATU",
+        "stop_lat": "3.202983",
+        "stop_lon": "101.672999",
+        "stop_id": "1001633",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "KL590 SJKC MUN CHOONG",
+        "stop_lat": "3.205786",
+        "stop_lon": "101.674371",
+        "stop_id": "1003270",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "KL1511 KTM KOMUTER TAMAN WAHYU",
+        "stop_lat": "3.214063",
+        "stop_lon": "101.672529",
+        "stop_id": "1001692",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "KL1509 TAMAN TASIK INDAH",
+        "stop_lat": "3.216747",
+        "stop_lon": "101.674572",
+        "stop_id": "1004075",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KL2235 TAMAN RIADAH METROPOLITAN",
+        "stop_lat": "3.214947",
+        "stop_lon": "101.676948",
+        "stop_id": "1004007",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KL2236 TAMAN MASTIARA FASA 2",
+        "stop_lat": "3.213741",
+        "stop_lon": "101.675187",
+        "stop_id": "1003016",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "KL2237 KOMERSIAL TAMAN MASTIARA",
+        "stop_lat": "3.211283",
+        "stop_lon": "101.674273",
+        "stop_id": "1001028",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "KL2238 SHELL TAMAN MASTIARA",
+        "stop_lat": "3.211272",
+        "stop_lon": "101.672871",
+        "stop_id": "1003249",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "(M) SMK TIARA PERMAI",
+        "stop_lat": "3.208921",
+        "stop_lon": "101.673435",
+        "stop_id": "1008363",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KL1512 TAMAN MASTIARA (SELATAN)",
+        "stop_lat": "3.209616",
+        "stop_lon": "101.674665",
+        "stop_id": "1008480",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "KL1508 APARTMENT TIARA COURT",
+        "stop_lat": "3.216637",
+        "stop_lon": "101.674499",
+        "stop_id": "1008479",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL1510 KTM KOMUTER TAMAN WAHYU",
+        "stop_lat": "3.214416",
+        "stop_lon": "101.672768",
+        "stop_id": "1001693",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL1570 SJKC MUN CHOONG",
+        "stop_lat": "3.205664",
+        "stop_lon": "101.674533",
+        "stop_id": "1003271",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL587 KOMERSIAL KOK LIAN",
+        "stop_lat": "3.202668",
+        "stop_lon": "101.673614",
+        "stop_id": "1001634",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL588 TAMAN KOK LIAN/ PPR PEKAN BATU",
+        "stop_lat": "3.202983",
+        "stop_lon": "101.672999",
+        "stop_id": "1001633",
+        "stop_sequence": "15"
+    }
+]

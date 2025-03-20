@@ -1,0 +1,205 @@
+[
+    {
+        "stop_name": "(M) SA237 PANGSAPURI PERDANA",
+        "stop_lat": "3.085738",
+        "stop_lon": "101.548798",
+        "stop_id": "1006655",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA498 MONFORT (OPP)",
+        "stop_lat": "3.091446",
+        "stop_lon": "101.554254",
+        "stop_id": "1003358",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA499 PANGSAPURI SRI MELEWAR (OPP)",
+        "stop_lat": "3.094844",
+        "stop_lon": "101.555592",
+        "stop_id": "1002475",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA500 TTDI JAYAMAS 1",
+        "stop_lat": "3.099764",
+        "stop_lon": "101.557362",
+        "stop_id": "1003272",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA501 TAMAN TTDI JAYA (UTARA)",
+        "stop_lat": "3.104289",
+        "stop_lon": "101.558538",
+        "stop_id": "1003334",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA502 SK TTDI JAYA",
+        "stop_lat": "3.106748",
+        "stop_lon": "101.557961",
+        "stop_id": "1003305",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA503 SEKSYEN U8",
+        "stop_lat": "3.110007",
+        "stop_lon": "101.556793",
+        "stop_id": "1001454",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "(M) SA504 SPACE U8 MALL (OPP)",
+        "stop_lat": "3.111028",
+        "stop_lon": "101.552936",
+        "stop_id": "1003583",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA505 BOMBA BUKIT JELUTONG (OPP)",
+        "stop_lat": "3.109506",
+        "stop_lon": "101.54579",
+        "stop_id": "1000374",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA506 BUKIT JELUTONG (TIMUR)",
+        "stop_lat": "3.108723",
+        "stop_lon": "101.542355",
+        "stop_id": "1000024",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA519 SUNWAY KAYANGAN",
+        "stop_lat": "3.126252",
+        "stop_lon": "101.518945",
+        "stop_id": "1003555",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SA531 KOLEJ JASMINE, UITM PUNCAK PERDANA (OPP)",
+        "stop_lat": "3.131544",
+        "stop_lon": "101.494232",
+        "stop_id": "1001305",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SA532 UITM PUNCAK PERDANA (BARAT)",
+        "stop_lat": "3.132841",
+        "stop_lon": "101.491766",
+        "stop_id": "1000850",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SK PUNCAK PERDANA/CASA SURIA",
+        "stop_lat": "3.141819",
+        "stop_lon": "101.497592",
+        "stop_id": "1003705",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "DEWAN BAIDURI MBSA SUNWAY ALAM SURIA",
+        "stop_lat": "3.138292",
+        "stop_lon": "101.499047",
+        "stop_id": "1003693",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "VILLA SURIA",
+        "stop_lat": "3.136684",
+        "stop_lon": "101.498108",
+        "stop_id": "1003694",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SA541 SUNWAY KAYANGAN",
+        "stop_lat": "3.126772",
+        "stop_lon": "101.518996",
+        "stop_id": "1003706",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PERUMAHAN SUNWAY KAYANGAN",
+        "stop_lat": "3.129206",
+        "stop_lon": "101.518539",
+        "stop_id": "1003707",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PANGSAPURI SUNWAY SINAR",
+        "stop_lat": "3.131085",
+        "stop_lon": "101.514359",
+        "stop_id": "1003074",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "SA507 BUKIT JELUTONG (TIMUR)",
+        "stop_lat": "3.108941",
+        "stop_lon": "101.542117",
+        "stop_id": "1002788",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SA508 BOMBA BUKIT JELUTONG",
+        "stop_lat": "3.10972",
+        "stop_lon": "101.545546",
+        "stop_id": "1000373",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M) SA509 SPACE U8 MALL",
+        "stop_lat": "3.111287",
+        "stop_lon": "101.552773",
+        "stop_id": "1003582",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "SA510 SEKSYEN U8",
+        "stop_lat": "3.110506",
+        "stop_lon": "101.556772",
+        "stop_id": "1001455",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "SA511 SK TTDI JAYA (OPP)",
+        "stop_lat": "3.106391",
+        "stop_lon": "101.558471",
+        "stop_id": "1002731",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "SA512 TAMAN TTDI JAYA (UTARA)",
+        "stop_lat": "3.104206",
+        "stop_lon": "101.558827",
+        "stop_id": "1000908",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "SA513 TTDI JAYAMAS 1",
+        "stop_lat": "3.099505",
+        "stop_lon": "101.557621",
+        "stop_id": "1003273",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "SA514 PANGSAPURI SRI MELEWAR",
+        "stop_lat": "3.0947572622693",
+        "stop_lon": "101.55584152941",
+        "stop_id": "1002476",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "SA515 MONFORT",
+        "stop_lat": "3.091436",
+        "stop_lon": "101.554662",
+        "stop_id": "1003359",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "(M) SA237 PANGSAPURI PERDANA",
+        "stop_lat": "3.085738",
+        "stop_lon": "101.548798",
+        "stop_id": "1006655",
+        "stop_sequence": "29"
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "stop_name": "PJ343 LRT TAMAN BAHAGIA",
+        "stop_lat": "3.1107429326435",
+        "stop_lon": "101.61301934275",
+        "stop_id": "1001830",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PJ186 RUMAH NO 57",
+        "stop_lat": "3.1078518701893",
+        "stop_lon": "101.61127771644",
+        "stop_id": "1002952",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "PJ187 RUMAH NO 107",
+        "stop_lat": "3.104773",
+        "stop_lon": "101.612841",
+        "stop_id": "1006218",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "PJ192 SMK SRI PERMATA (OPP)",
+        "stop_lat": "3.101495",
+        "stop_lon": "101.614212",
+        "stop_id": "1001134",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "PJ194 PERUMAHAN SS 3",
+        "stop_lat": "3.099624",
+        "stop_lon": "101.610988",
+        "stop_id": "1002341",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PJ195 KOMERSIAL SS 3",
+        "stop_lat": "3.096785",
+        "stop_lon": "101.610994",
+        "stop_id": "1000031",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "RUMAH NO 18",
+        "stop_lat": "3.095148",
+        "stop_lon": "101.610208",
+        "stop_id": "1008686",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "PJ209 PERUMAHAN SS 3",
+        "stop_lat": "3.092885",
+        "stop_lon": "101.607267",
+        "stop_id": "1008687",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "PJ559 PJ ECO RECYCLE PLAZA",
+        "stop_lat": "3.088571",
+        "stop_lon": "101.614094",
+        "stop_id": "1002192",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "PJ116 PUSAT KOMERSIAL PJ21",
+        "stop_lat": "3.090166",
+        "stop_lon": "101.614831",
+        "stop_id": "1002167",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "PJ334 RUMAH NO 9",
+        "stop_lat": "3.093237",
+        "stop_lon": "101.616548",
+        "stop_id": "1002969",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "PJ335 RUMAH NO 35",
+        "stop_lat": "3.095271",
+        "stop_lon": "101.617346",
+        "stop_id": "1002933",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PJ111 SPG SS 1/1D",
+        "stop_lat": "3.095649",
+        "stop_lon": "101.618487",
+        "stop_id": "1003551",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "PJ112 WISMA SKPPK",
+        "stop_lat": "3.092249",
+        "stop_lon": "101.620683",
+        "stop_id": "1004256",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PJ699 PBMM SJKC SG WAY (OPP)",
+        "stop_lat": "3.0902357938885",
+        "stop_lon": "101.62072133016",
+        "stop_id": "1002817",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "PJ113 SJKC SUNGAI WAY",
+        "stop_lat": "3.0881056103752",
+        "stop_lon": "101.62077673948",
+        "stop_id": "1003626",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "PJ325 KEDAI HARDWARE",
+        "stop_lat": "3.086796",
+        "stop_lon": "101.622337",
+        "stop_id": "1001341",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "PJ326 SEKSYEN 51A",
+        "stop_lat": "3.088626",
+        "stop_lon": "101.625297",
+        "stop_id": "1000837",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "PJ327 PADANG PERMAINAN",
+        "stop_lat": "3.093704",
+        "stop_lon": "101.627914",
+        "stop_id": "1002331",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "(M) PJ318 SHELL SEKSYEN 51A",
+        "stop_lat": "3.096406",
+        "stop_lon": "101.630603",
+        "stop_id": "1003205",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "PJ291 SMK SRI UTAMA",
+        "stop_lat": "3.09848",
+        "stop_lon": "101.632262",
+        "stop_id": "1003403",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "PJ720 BANGUNAN O'CONNOR (OPP)",
+        "stop_lat": "3.100253969883",
+        "stop_lon": "101.6321280802",
+        "stop_id": "1000813",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "PJ747 SEKSYEN 51A (UTARA)",
+        "stop_lat": "3.101374",
+        "stop_lon": "101.630668",
+        "stop_id": "1000897",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "PJ296 SMK (P) SRI AMAN",
+        "stop_lat": "3.103313",
+        "stop_lon": "101.629204",
+        "stop_id": "1003414",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "MAZ INTERNATIONAL SCHOOL",
+        "stop_lat": "3.104496",
+        "stop_lon": "101.625818",
+        "stop_id": "1008688",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "WISMA JAFER ZAIDI",
+        "stop_lat": "3.106699",
+        "stop_lon": "101.625504",
+        "stop_id": "1006225",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PJ308 SHELL SEAPARK",
+        "stop_lat": "3.109686",
+        "stop_lon": "101.623135",
+        "stop_id": "1003232",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "PJ309 HERBALINE SEAPARK",
+        "stop_lat": "3.111494",
+        "stop_lon": "101.621716",
+        "stop_id": "1006226",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "PJ711 PETRON SEAPARK (OPP)",
+        "stop_lat": "3.1140025601091",
+        "stop_lon": "101.62057488852",
+        "stop_id": "1002049",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "PJ712 BALAI POLIS SEAPARK",
+        "stop_lat": "3.117036",
+        "stop_lon": "101.623111",
+        "stop_id": "1000204",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KOMERSIAL SS2 (VISION SPACE)",
+        "stop_lat": "3.119028",
+        "stop_lon": "101.623668",
+        "stop_id": "1008689",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "PJ771 KOMERSIAL SS2 (PUBLIC BANK)",
+        "stop_lat": "3.120713",
+        "stop_lon": "101.621792",
+        "stop_id": "1006038",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "PJ347 KOMERSIAL SS2 (POH KONG)",
+        "stop_lat": "3.1172538268936",
+        "stop_lon": "101.62088640147",
+        "stop_id": "1001276",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "PJ711 PETRON SEAPARK (OPP)",
+        "stop_lat": "3.1140025601091",
+        "stop_lon": "101.62057488852",
+        "stop_id": "1002049",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "PJ718 PETRON SEAPARK",
+        "stop_lat": "3.111368",
+        "stop_lon": "101.618785",
+        "stop_id": "1000639",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "PJ342 SMK TAMAN SEA (OPP)",
+        "stop_lat": "3.110045",
+        "stop_lon": "101.616185",
+        "stop_id": "1003411",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "PJ343 LRT TAMAN BAHAGIA",
+        "stop_lat": "3.1107429326435",
+        "stop_lon": "101.61301934275",
+        "stop_id": "1001830",
+        "stop_sequence": "37"
+    }
+]

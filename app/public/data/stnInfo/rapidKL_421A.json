@@ -1,0 +1,422 @@
+[
+    {
+        "stop_name": "AJ191 HENTIAN TAMAN DAGANG",
+        "stop_lat": "3.1463693045186",
+        "stop_lon": "101.75933902636",
+        "stop_id": "1000970",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ436 FLAT TAMAN DAGANG (TIMUR)",
+        "stop_lat": "3.148054",
+        "stop_lon": "101.759248",
+        "stop_id": "1003907",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ192 FLAT TAMAN DAGANG (BARAT)",
+        "stop_lat": "3.148531",
+        "stop_lon": "101.757884",
+        "stop_id": "1004129",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ193 GALAXY AMPANG (TIMUR)",
+        "stop_lat": "3.147265",
+        "stop_lon": "101.756984",
+        "stop_id": "1000859",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ206 FLAT TAMAN NIRWANA",
+        "stop_lat": "3.145685",
+        "stop_lon": "101.754666",
+        "stop_id": "1001646",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ207 TAMAN NIRWANA",
+        "stop_lat": "3.145863",
+        "stop_lon": "101.751783",
+        "stop_id": "1003219",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ208 KG PANDAN DALAM (TIMUR)",
+        "stop_lat": "3.1458889584288",
+        "stop_lon": "101.74995830536",
+        "stop_id": "1001535",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ437 MASJID AL HIDAYAH",
+        "stop_lat": "3.145886",
+        "stop_lon": "101.748237",
+        "stop_id": "1001876",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ202 KG PANDAN DALAM (BARAT)",
+        "stop_lat": "3.145918",
+        "stop_lon": "101.745392",
+        "stop_id": "1002035",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ406 KG PANDAN LUAR (TIMUR)",
+        "stop_lat": "3.145176",
+        "stop_lon": "101.743081",
+        "stop_id": "1000565",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ407 KG PANDAN LUAR (BARAT)",
+        "stop_lat": "3.1455360414795",
+        "stop_lon": "101.7414920637",
+        "stop_id": "1002281",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "KL883 FLAT DESA PANDAN (BARAT)",
+        "stop_lat": "3.145052",
+        "stop_lon": "101.739166",
+        "stop_id": "1001880",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KL884 TAMAN PERMAINAN DESA PANDAN",
+        "stop_lat": "3.143511",
+        "stop_lon": "101.737768",
+        "stop_id": "1001868",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "KL885 SRA AL-SUYUTI (OPP)",
+        "stop_lat": "3.142789",
+        "stop_lon": "101.736838",
+        "stop_id": "1002774",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KL886 DEWAN PANDAN BAIDURI",
+        "stop_lat": "3.1432179175598",
+        "stop_lon": "101.73569605145",
+        "stop_id": "1001273",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KL239 FLAT DESA PANDAN (TIMUR)",
+        "stop_lat": "3.144502",
+        "stop_lon": "101.733177",
+        "stop_id": "1001557",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "KL246 PUSAT DAGANG KG PANDAN",
+        "stop_lat": "3.144288",
+        "stop_lon": "101.73069",
+        "stop_id": "1000018",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M) KL249 SMK AMINUDDIN BAKI (UTARA)",
+        "stop_lat": "3.14262",
+        "stop_lon": "101.727902",
+        "stop_id": "1002472",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "KL250 SMK AMINUDDIN BAKI (SELATAN)",
+        "stop_lat": "3.141345",
+        "stop_lon": "101.727492",
+        "stop_id": "1003107",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "KL887 KOMPLEKS BELIA SUKAN",
+        "stop_lat": "3.13835",
+        "stop_lon": "101.726352",
+        "stop_id": "1001721",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "KL399 BULATAN KG PANDAN",
+        "stop_lat": "3.1375968749824",
+        "stop_lon": "101.72423788956",
+        "stop_id": "1000360",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "(M) KL890 PETRONAS JLN COCHRANE",
+        "stop_lat": "3.136194",
+        "stop_lon": "101.719181",
+        "stop_id": "1002491",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "KL381 PLAZA ELEKTRONIK",
+        "stop_lat": "3.135009",
+        "stop_lon": "101.716743",
+        "stop_id": "1001307",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "KL2228 KOMPLEKS E-MART (OPP)",
+        "stop_lat": "3.135016",
+        "stop_lon": "101.715319",
+        "stop_id": "1000526",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "KL1771 LRT PUDU/MAJESTIC",
+        "stop_lat": "3.136303587433",
+        "stop_lon": "101.71162064657",
+        "stop_id": "1001846",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "KL1772 FURAMA (OPP)",
+        "stop_lat": "3.139362",
+        "stop_lon": "101.709657",
+        "stop_id": "1000250",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "KL123 MONOREL BUKIT BINTANG/SG WANG",
+        "stop_lat": "3.145928",
+        "stop_lon": "101.711388",
+        "stop_id": "1006729",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "KL86 MRT BUKIT BINTANG/HSBC",
+        "stop_lat": "3.1477176043261",
+        "stop_lon": "101.71085234878",
+        "stop_id": "1000958",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "KL9 WISMA BOUSTEAD",
+        "stop_lat": "3.15019853231",
+        "stop_lon": "101.70918482193",
+        "stop_id": "1001998",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "KL12 MENARA KL",
+        "stop_lat": "3.150379",
+        "stop_lon": "101.705928",
+        "stop_id": "1000076",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "KL13 WISMA BUDIMAN",
+        "stop_lat": "3.149205",
+        "stop_lon": "101.701929",
+        "stop_id": "1004230",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "KL14 MENARA OLYMPIA",
+        "stop_lat": "3.1486697702403",
+        "stop_lon": "101.700172348",
+        "stop_id": "1004247",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "(M) KL118 MENARA MAYBANK",
+        "stop_lat": "3.146474",
+        "stop_lon": "101.699712",
+        "stop_id": "1002011",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "KL119 HOSPITAL TUNG SHIN",
+        "stop_lat": "3.1452216666667",
+        "stop_lon": "101.70462",
+        "stop_id": "1000934",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "KL120 HOTEL SWISS GARDEN (OPP)",
+        "stop_lat": "3.144438",
+        "stop_lon": "101.706043",
+        "stop_id": "1000953",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KL866 FURAMA",
+        "stop_lat": "3.138532",
+        "stop_lon": "101.710008",
+        "stop_id": "1003928",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "KL867 LRT PUDU/MAJESTIC (OPP)",
+        "stop_lat": "3.1365982275533",
+        "stop_lon": "101.71170165741",
+        "stop_id": "1001847",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "KL382 KOMPLEKS E-MART",
+        "stop_lat": "3.135202",
+        "stop_lon": "101.714747",
+        "stop_id": "1002287",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "KL383 PLAZA ELEKTRONIK",
+        "stop_lat": "3.1352373175407",
+        "stop_lon": "101.71667896782",
+        "stop_id": "1001306",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "KL877 APARTMENT IXORA",
+        "stop_lat": "3.137481",
+        "stop_lon": "101.71912",
+        "stop_id": "1000128",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "KL878 KOMERSIAL TREC",
+        "stop_lat": "3.138696",
+        "stop_lon": "101.721886",
+        "stop_id": "1000359",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "KL253 KOMPLEKS BELIA SUKAN (OPP)",
+        "stop_lat": "3.138694",
+        "stop_lon": "101.726234",
+        "stop_id": "1001720",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "KL254 SMK AMINUDDIN BAKI (UTARA)",
+        "stop_lat": "3.141048",
+        "stop_lon": "101.72712",
+        "stop_id": "1003106",
+        "stop_sequence": "43"
+    },
+    {
+        "stop_name": "KL257 PUSAT PERDAGANGAN KG PANDAN",
+        "stop_lat": "3.144584",
+        "stop_lon": "101.731285",
+        "stop_id": "1000712",
+        "stop_sequence": "44"
+    },
+    {
+        "stop_name": "KL258 FLAT DESA PANDAN (TIMUR)",
+        "stop_lat": "3.144756",
+        "stop_lon": "101.733589",
+        "stop_id": "1000713",
+        "stop_sequence": "45"
+    },
+    {
+        "stop_name": "MASJID AR-RAHIMAH KG PANDAN",
+        "stop_lat": "3.144281",
+        "stop_lon": "101.738047",
+        "stop_id": "1002087",
+        "stop_sequence": "46"
+    },
+    {
+        "stop_name": "KL224 FLAT DESA PANDAN (BARAT)",
+        "stop_lat": "3.144985",
+        "stop_lon": "101.738833",
+        "stop_id": "1001881",
+        "stop_sequence": "47"
+    },
+    {
+        "stop_name": "KL225 TNB DESA PANDAN",
+        "stop_lat": "3.145917",
+        "stop_lon": "101.739947",
+        "stop_id": "1002280",
+        "stop_sequence": "48"
+    },
+    {
+        "stop_name": "AJ405 KG PANDAN LUAR (BARAT)",
+        "stop_lat": "3.145848",
+        "stop_lon": "101.741004",
+        "stop_id": "1007639",
+        "stop_sequence": "49"
+    },
+    {
+        "stop_name": "AJ438 KG PANDAN LUAR (TIMUR)",
+        "stop_lat": "3.145382",
+        "stop_lon": "101.743152",
+        "stop_id": "1000564",
+        "stop_sequence": "50"
+    },
+    {
+        "stop_name": "AJ203 KG PANDAN DALAM (BARAT)",
+        "stop_lat": "3.1461339656495",
+        "stop_lon": "101.74603429546",
+        "stop_id": "1001291",
+        "stop_sequence": "51"
+    },
+    {
+        "stop_name": "AJ439 MASJID AL HIDAYAH (OPP)",
+        "stop_lat": "3.146045",
+        "stop_lon": "101.747761",
+        "stop_id": "1001877",
+        "stop_sequence": "52"
+    },
+    {
+        "stop_name": "AJ209 KG PANDAN DALAM (TIMUR)",
+        "stop_lat": "3.146073",
+        "stop_lon": "101.749865",
+        "stop_id": "1001534",
+        "stop_sequence": "53"
+    },
+    {
+        "stop_name": "AJ204 TAMAN NIRWANA",
+        "stop_lat": "3.1461122367427",
+        "stop_lon": "101.75176968915",
+        "stop_id": "1002205",
+        "stop_sequence": "54"
+    },
+    {
+        "stop_name": "AJ205 FLAT BLOK MAWAR",
+        "stop_lat": "3.145967",
+        "stop_lon": "101.754684",
+        "stop_id": "1000541",
+        "stop_sequence": "55"
+    },
+    {
+        "stop_name": "AJ324 GALAXY AMPANG (SELATAN)",
+        "stop_lat": "3.145682",
+        "stop_lon": "101.755691",
+        "stop_id": "1003838",
+        "stop_sequence": "56"
+    },
+    {
+        "stop_name": "AJ440 GALAXY AMPANG",
+        "stop_lat": "3.146583",
+        "stop_lon": "101.756626",
+        "stop_id": "1001527",
+        "stop_sequence": "57"
+    },
+    {
+        "stop_name": "AJ188 FLAT TAMAN DAGANG (BARAT)",
+        "stop_lat": "3.148713",
+        "stop_lon": "101.757684",
+        "stop_id": "1004130",
+        "stop_sequence": "58"
+    },
+    {
+        "stop_name": "AJ189 FLAT TAMAN DAGANG (TIMUR)",
+        "stop_lat": "3.148114",
+        "stop_lon": "101.759413",
+        "stop_id": "1003908",
+        "stop_sequence": "59"
+    },
+    {
+        "stop_name": "AJ191 HENTIAN TAMAN DAGANG",
+        "stop_lat": "3.1463693045186",
+        "stop_lon": "101.75933902636",
+        "stop_id": "1000970",
+        "stop_sequence": "60"
+    }
+]

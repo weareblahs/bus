@@ -1,0 +1,149 @@
+[
+    {
+        "stop_name": "AJ219 LRT CEMPAKA",
+        "stop_lat": "3.1383158732406",
+        "stop_lon": "101.75308018712",
+        "stop_id": "1001793",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ225 PANGSAPURI DAHLIA",
+        "stop_lat": "3.136262",
+        "stop_lon": "101.752881",
+        "stop_id": "1003522",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ226 PANGSAPURI DAHLIA",
+        "stop_lat": "3.1342033330273",
+        "stop_lon": "101.75151040436",
+        "stop_id": "1000704",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ227 MIDPOINT COMPLEX (OPP)",
+        "stop_lat": "3.132262",
+        "stop_lon": "101.752843",
+        "stop_id": "1006894",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ172 MENARA MAXISEGAR",
+        "stop_lat": "3.129223",
+        "stop_lon": "101.753449",
+        "stop_id": "1001962",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ173 RHB PANDAN INDAH",
+        "stop_lat": "3.129258",
+        "stop_lon": "101.754982",
+        "stop_id": "1002821",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ233 PANDAN INDAH",
+        "stop_lat": "3.127818",
+        "stop_lon": "101.756666",
+        "stop_id": "1003823",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ234 TAMAN LEMBAH MAJU (UTARA)",
+        "stop_lat": "3.126011",
+        "stop_lon": "101.755607",
+        "stop_id": "1002722",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ235 FLAT LEMBAH MAJU",
+        "stop_lat": "3.125232",
+        "stop_lon": "101.755296",
+        "stop_id": "1006896",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SK PANDAN INDAH (OPP)",
+        "stop_lat": "3.124937",
+        "stop_lon": "101.751655",
+        "stop_id": "1006898",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ165 SMK PANDAN INDAH",
+        "stop_lat": "3.122964",
+        "stop_lon": "101.751258",
+        "stop_id": "1003351",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ333 FLAT PANDAN INDAH",
+        "stop_lat": "3.121507",
+        "stop_lon": "101.751328",
+        "stop_id": "1006900",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ229 THE RESIDENT AMPANG SOUTH",
+        "stop_lat": "3.119724",
+        "stop_lon": "101.752015",
+        "stop_id": "1003924",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ230 TAMAN MUDA (BARAT)",
+        "stop_lat": "3.119856",
+        "stop_lon": "101.756687",
+        "stop_id": "1002044",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "PASAR TAMAN MUDA",
+        "stop_lat": "3.119108",
+        "stop_lon": "101.759486",
+        "stop_id": "1006902",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "DEWAN TAMAN MUDA",
+        "stop_lat": "3.116562",
+        "stop_lon": "101.759721",
+        "stop_id": "1006904",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ427 TAMAN SERAYA (BARAT)",
+        "stop_lat": "3.114987",
+        "stop_lon": "101.761285",
+        "stop_id": "1001319",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ334 TAMAN SERAYA (TIMUR)",
+        "stop_lat": "3.115575",
+        "stop_lon": "101.762988",
+        "stop_id": "1003211",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AJ250 TAMAN BUKIT TERATAI",
+        "stop_lat": "3.115151",
+        "stop_lon": "101.764188",
+        "stop_id": "1003012",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "99 SPEEDMART BUKIT TERATAI (OPP)",
+        "stop_lat": "3.111969",
+        "stop_lon": "101.765629",
+        "stop_id": "1006910",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "SK TAMAN BUKIT TERATAI",
+        "stop_lat": "3.110047",
+        "stop_lon": "101.764171",
+        "stop_id": "1006906",
+        "stop_sequence": "21"
+    }
+]

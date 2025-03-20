@@ -1,0 +1,135 @@
+[
+    {
+        "stop_name": "(M) SJ680 LRT IOI PUCHONG",
+        "stop_lat": "3.048111",
+        "stop_lon": "101.62074",
+        "stop_id": "1006287",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SJ447 SKYPOD RESIDENCE",
+        "stop_lat": "3.043501",
+        "stop_lon": "101.620776",
+        "stop_id": "1006678",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "(M) SJ449 SETIA WALK",
+        "stop_lat": "3.0329749146266",
+        "stop_lon": "101.61732496691",
+        "stop_id": "1002768",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "(M) SJ435 WAWASAN 1",
+        "stop_lat": "3.03177",
+        "stop_lon": "101.619272",
+        "stop_id": "1002228",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "APARTMENT AKASIA",
+        "stop_lat": "3.027926",
+        "stop_lon": "101.62056",
+        "stop_id": "1006584",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SJ463 PANGSAPURI SRI BEGONIA",
+        "stop_lat": "3.0254122375688",
+        "stop_lon": "101.62412802894",
+        "stop_id": "1003604",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SJ464 PANGSAPURI SRI CAMELIA",
+        "stop_lat": "3.0231191404209",
+        "stop_lon": "101.62368354651",
+        "stop_id": "1003495",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "CASA PUTERI CONDOMINIUM",
+        "stop_lat": "3.020775",
+        "stop_lon": "101.627648",
+        "stop_id": "1006586",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SJ427 PANGSAPURI PERMATA SARI",
+        "stop_lat": "3.0239270800967",
+        "stop_lon": "101.62774144612",
+        "stop_id": "1002166",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SJ428 PANGSAPURI DESA TANJUNG (OPP)",
+        "stop_lat": "3.025521",
+        "stop_lon": "101.627719",
+        "stop_id": "1002139",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SJ429 SK PUSAT BANDAR PUCHONG",
+        "stop_lat": "3.027508",
+        "stop_lon": "101.627031",
+        "stop_id": "1008196",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ440 KIARA APARTMENT",
+        "stop_lat": "3.0292469225717",
+        "stop_lon": "101.62607908965",
+        "stop_id": "1002749",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PANGSAPURI SRI SERAKA",
+        "stop_lat": "3.0314962926377",
+        "stop_lon": "101.62714074811",
+        "stop_id": "1002180",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "SJ663 SRI PENAGA APARTMENT",
+        "stop_lat": "3.034469",
+        "stop_lon": "101.628047",
+        "stop_id": "1002162",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "SJ421 TAMAN WAWASAN",
+        "stop_lat": "3.0355825392924",
+        "stop_lon": "101.62471921191",
+        "stop_id": "1004088",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "SJ450 SETIA WALK (UTARA)",
+        "stop_lat": "3.0326915422174",
+        "stop_lon": "101.61802903924",
+        "stop_id": "1002767",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SJ516 LOTUS EXTRA PUCHONG",
+        "stop_lat": "3.035177",
+        "stop_lon": "101.616545",
+        "stop_id": "1003913",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "(M) SJ610 IOI MALL PUCHONG",
+        "stop_lat": "3.0435545736493",
+        "stop_lon": "101.61873927724",
+        "stop_id": "1001010",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M) SJ680 LRT IOI PUCHONG",
+        "stop_lat": "3.048111",
+        "stop_lon": "101.62074",
+        "stop_id": "1006287",
+        "stop_sequence": "19"
+    }
+]

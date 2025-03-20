@@ -1,0 +1,261 @@
+[
+    {
+        "stop_name": "AJ219 LRT CEMPAKA",
+        "stop_lat": "3.1383158732406",
+        "stop_lon": "101.75308018712",
+        "stop_id": "1001793",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ220 APARTMENT KEDIDI",
+        "stop_lat": "3.136605",
+        "stop_lon": "101.754181",
+        "stop_id": "1000353",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ221 APARTMENT NURI COURT (OPP)",
+        "stop_lat": "3.135821",
+        "stop_lon": "101.756281",
+        "stop_id": "1000352",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ222 APARTMENT MERPATI (OPP)",
+        "stop_lat": "3.1339107787547",
+        "stop_lon": "101.75761899907",
+        "stop_id": "1002683",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ444 PANDAN INDAH AUTOCITY",
+        "stop_lat": "3.132979",
+        "stop_lon": "101.760232",
+        "stop_id": "1003691",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ338 APARTMENT PANDAN MEWAH",
+        "stop_lat": "3.130683",
+        "stop_lon": "101.763221",
+        "stop_id": "1001652",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ131 HOSPITAL AMPANG (BARAT)",
+        "stop_lat": "3.1278323701852",
+        "stop_lon": "101.76314571775",
+        "stop_id": "1000922",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ132 SMK PANDAN MEWAH",
+        "stop_lat": "3.1255546299557",
+        "stop_lon": "101.76305720276",
+        "stop_id": "1003221",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ249 PARAGON POINT (SELATAN)",
+        "stop_lat": "3.119658",
+        "stop_lon": "101.763299",
+        "stop_id": "1002489",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ342 TAMAN MELUR (BARAT)",
+        "stop_lat": "3.118146",
+        "stop_lon": "101.763393",
+        "stop_id": "1008643",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ404 TAMAN SERAYA (UTARA)",
+        "stop_lat": "3.116481",
+        "stop_lon": "101.763662",
+        "stop_id": "1008644",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ250 TAMAN BUKIT TERATAI",
+        "stop_lat": "3.115151",
+        "stop_lon": "101.764188",
+        "stop_id": "1003012",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ251 PERUMAHAN TERATAI",
+        "stop_lat": "3.114785",
+        "stop_lon": "101.765283",
+        "stop_id": "1002321",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ252 PERUMAHAN TAMAN MELUR 1",
+        "stop_lat": "3.117204",
+        "stop_lon": "101.767782",
+        "stop_id": "1004285",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ253 TAMAN MELUR (SELATAN)",
+        "stop_lat": "3.119658",
+        "stop_lon": "101.769875",
+        "stop_id": "1001996",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ445 TAMAN MELUR (UTARA)",
+        "stop_lat": "3.120937",
+        "stop_lon": "101.770215",
+        "stop_id": "1001312",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ298 TAMAN REKREASI KG TASIK TAMBAHAN",
+        "stop_lat": "3.1217719764344",
+        "stop_lon": "101.77123592579",
+        "stop_id": "1002323",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ299 PASAR TASIK TAMBAHAN",
+        "stop_lat": "3.123152",
+        "stop_lon": "101.774828",
+        "stop_id": "1001252",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AJ300 TAMAN SERI BAYU",
+        "stop_lat": "3.125271",
+        "stop_lon": "101.776535",
+        "stop_id": "1003576",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "AJ432 DEWAN KEMAS PERMAI",
+        "stop_lat": "3.128398",
+        "stop_lon": "101.777535",
+        "stop_id": "1000567",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "AJ140 SEKOLAH AGAMA PERMAI",
+        "stop_lat": "3.128969",
+        "stop_lon": "101.77625",
+        "stop_id": "1003252",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "AJ141 SRI TAMAN BARU (TIMUR)",
+        "stop_lat": "3.128748",
+        "stop_lon": "101.773474",
+        "stop_id": "1003804",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "(M) AJ340 KG TASIK TAMBAHAN (TIMUR)",
+        "stop_lat": "3.126855",
+        "stop_lon": "101.770104",
+        "stop_id": "1001768",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "AJ416 KG TASIK TAMBAHAN (UTARA)",
+        "stop_lat": "3.126018",
+        "stop_lon": "101.769023",
+        "stop_id": "1001559",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "AJ151 KG TASIK TAMBAHAN (BARAT)",
+        "stop_lat": "3.12346615344",
+        "stop_lon": "101.76833017204",
+        "stop_id": "1003509",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "AJ152 TAMAN PUTRA AMPANG (TIMUR)",
+        "stop_lat": "3.122185",
+        "stop_lon": "101.768541",
+        "stop_id": "1003876",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "AJ153 TAMAN PUTRA AMPANG BARAT",
+        "stop_lat": "3.120654",
+        "stop_lon": "101.766083",
+        "stop_id": "1001577",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "AJ154 PUTERI PARK PLAZA",
+        "stop_lat": "3.120411",
+        "stop_lon": "101.764263",
+        "stop_id": "1000640",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "AJ428 PARAGON POINT (UTARA)",
+        "stop_lat": "3.120681",
+        "stop_lon": "101.762941",
+        "stop_id": "1002688",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "AJ155 SMK PANDAN MEWAH",
+        "stop_lat": "3.125219",
+        "stop_lon": "101.762831",
+        "stop_id": "1003220",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "AJ337 APARTMENT PANDAN MEWAH",
+        "stop_lat": "3.129739",
+        "stop_lon": "101.762947",
+        "stop_id": "1001647",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "AJ177 STOR MPAJ",
+        "stop_lat": "3.132183",
+        "stop_lon": "101.762236",
+        "stop_id": "1000636",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "AJ434 PANDAN INDAH AUTOCITY",
+        "stop_lat": "3.132713",
+        "stop_lon": "101.760186",
+        "stop_id": "1002320",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "AJ223 APARTMENT MERPATI",
+        "stop_lat": "3.134151",
+        "stop_lon": "101.757526",
+        "stop_id": "1000354",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "AJ423 APARTMENT NURI COURT",
+        "stop_lat": "3.135695",
+        "stop_lon": "101.756302",
+        "stop_id": "1000134",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "AJ224 APARTMENT KENARI COURT",
+        "stop_lat": "3.136451",
+        "stop_lon": "101.754541",
+        "stop_id": "1000129",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "AJ219 LRT CEMPAKA",
+        "stop_lat": "3.1383158732406",
+        "stop_lon": "101.75308018712",
+        "stop_id": "1001793",
+        "stop_sequence": "37"
+    }
+]

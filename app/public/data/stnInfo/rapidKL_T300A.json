@@ -1,0 +1,254 @@
+[
+    {
+        "stop_name": "AJ42 HENTIAN BUKIT INDAH",
+        "stop_lat": "3.1477654134509",
+        "stop_lon": "101.7768368781",
+        "stop_id": "1003681",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ43 FLAT TAMAN KOSAS",
+        "stop_lat": "3.147311",
+        "stop_lon": "101.776135",
+        "stop_id": "1000794",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ34 SMK TAMAN KOSAS",
+        "stop_lat": "3.149586",
+        "stop_lon": "101.772821",
+        "stop_id": "1003349",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ117 DEWAN UDA JAYA",
+        "stop_lat": "3.1507535800137",
+        "stop_lon": "101.77176330116",
+        "stop_id": "1000566",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ118 SAR KAFA (OPP)",
+        "stop_lat": "3.1518162411025",
+        "stop_lon": "101.77016472392",
+        "stop_id": "1003150",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ119 TAMAN RASMI JAYA",
+        "stop_lat": "3.152882",
+        "stop_lon": "101.768627",
+        "stop_id": "1002898",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ120 TAMAN AMPANG PRIMA",
+        "stop_lat": "3.154346",
+        "stop_lon": "101.767778",
+        "stop_id": "1003989",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "AJ306 TUDOR COURT APARTMENT (OPP)",
+        "stop_lat": "3.155404",
+        "stop_lon": "101.767483",
+        "stop_id": "1003884",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ121 TAMAN TAR",
+        "stop_lat": "3.156597",
+        "stop_lon": "101.767113",
+        "stop_id": "1004148",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ122 AMPANG JAYA (SELATAN)",
+        "stop_lat": "3.156672",
+        "stop_lon": "101.765637",
+        "stop_id": "1003426",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ123 AMPANG JAYA (TIMUR)",
+        "stop_lat": "3.156151",
+        "stop_lon": "101.763226",
+        "stop_id": "1002878",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ124 DEWAN MPAJ (OPP)",
+        "stop_lat": "3.158995",
+        "stop_lon": "101.760701",
+        "stop_id": "1002808",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ125 AMPANG JAYA (UTARA)",
+        "stop_lat": "3.160621",
+        "stop_lon": "101.760334",
+        "stop_id": "1001573",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ126 PEJABAT AHLI PARLIMEN AMPANG",
+        "stop_lat": "3.160263",
+        "stop_lon": "101.758386",
+        "stop_id": "1000539",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ480 KOJAYA AMPANG",
+        "stop_lat": "3.159242",
+        "stop_lon": "101.757478",
+        "stop_id": "1007625",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ461 SURAU AN-NAJAH",
+        "stop_lat": "3.158941",
+        "stop_lon": "101.755023",
+        "stop_id": "1007626",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "(M) AJ108 AMPANG POINT (OPP)",
+        "stop_lat": "3.1568585598718",
+        "stop_lon": "101.75114580093",
+        "stop_id": "1000084",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ182 AMPANG POINT",
+        "stop_lat": "3.1573348926081",
+        "stop_lon": "101.75083358372",
+        "stop_id": "1000083",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AJ462 SURAU AN-NAJAH (OPP)",
+        "stop_lat": "3.159047",
+        "stop_lon": "101.755102",
+        "stop_id": "1007627",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "AJ464 KOJAYA AMPANG (OPP)",
+        "stop_lat": "3.159295",
+        "stop_lon": "101.757344",
+        "stop_id": "1007624",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "AJ465 PEJABAT AHLI PARLIMEN AMPANG (OPP)",
+        "stop_lat": "3.160374",
+        "stop_lon": "101.758174",
+        "stop_id": "1000019",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "AJ110 AMPANG JAYA (UTARA)",
+        "stop_lat": "3.160822",
+        "stop_lon": "101.760381",
+        "stop_id": "1001574",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "AJ111 DEWAN MPAJ",
+        "stop_lat": "3.158003",
+        "stop_lon": "101.761077",
+        "stop_id": "1002807",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "AJ304 AMPANG JAYA (TIMUR)",
+        "stop_lat": "3.156284",
+        "stop_lon": "101.763194",
+        "stop_id": "1003006",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "AJ113 AMPANG JAYA (SELATAN)",
+        "stop_lat": "3.156816",
+        "stop_lon": "101.765401",
+        "stop_id": "1003038",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "AJ114 TUDOR COURT APARTMENT",
+        "stop_lat": "3.155569",
+        "stop_lon": "101.767553",
+        "stop_id": "1004149",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "AJ115 TAMAN AMPANG PRIMA",
+        "stop_lat": "3.154307",
+        "stop_lon": "101.767913",
+        "stop_id": "1000089",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "AJ343 TAMAN RASMI JAYA",
+        "stop_lat": "3.153109",
+        "stop_lon": "101.768563",
+        "stop_id": "1002897",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "AJ116 SAR KAFA",
+        "stop_lat": "3.1519495265955",
+        "stop_lon": "101.77028774322",
+        "stop_id": "1003151",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "AJ35 TAMAN AMPANG INDAH",
+        "stop_lat": "3.150746",
+        "stop_lon": "101.772357",
+        "stop_id": "1003812",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "AJ36 TAMAN BUKIT INDAH (BARAT)",
+        "stop_lat": "3.152855",
+        "stop_lon": "101.773653",
+        "stop_id": "1002970",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "AJ37 EMERALD CONDOMINIUM",
+        "stop_lat": "3.155546",
+        "stop_lon": "101.773785",
+        "stop_id": "1003435",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "AJ38 SK TAMAN BUKIT INDAH (OPP)",
+        "stop_lat": "3.157005",
+        "stop_lon": "101.775765",
+        "stop_id": "1000609",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "AJ39 TAMAN REKREASI BUKIT INDAH",
+        "stop_lat": "3.152697",
+        "stop_lon": "101.778398",
+        "stop_id": "1003436",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "AJ40 TAMAN BUKIT INDAH (TIMUR)",
+        "stop_lat": "3.150916",
+        "stop_lon": "101.778412",
+        "stop_id": "1003783",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "AJ42 HENTIAN BUKIT INDAH",
+        "stop_lat": "3.1477654134509",
+        "stop_lon": "101.7768368781",
+        "stop_id": "1003681",
+        "stop_sequence": "36"
+    }
+]

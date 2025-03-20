@@ -1,0 +1,163 @@
+[
+    {
+        "stop_name": "AJ52 HUB SRI NILAM",
+        "stop_lat": "3.1398527383616",
+        "stop_lon": "101.7693091532",
+        "stop_id": "1000966",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PERUMAHAN JLN WAWASAN 3/2",
+        "stop_lat": "3.143354",
+        "stop_lon": "101.769523",
+        "stop_id": "1008403",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ309 AMPANG WATERFRONT 2",
+        "stop_lat": "3.144168",
+        "stop_lon": "101.771472",
+        "stop_id": "1008070",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ62 AMPANG WATERFRONT 2 (TIMUR)",
+        "stop_lat": "3.143442",
+        "stop_lon": "101.773506",
+        "stop_id": "1008071",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ310 TAMAN SRI AMPANG",
+        "stop_lat": "3.143422",
+        "stop_lon": "101.774898",
+        "stop_id": "1003580",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "AJ431 KOMERSIAL AMPANG",
+        "stop_lat": "3.143416",
+        "stop_lon": "101.778513",
+        "stop_id": "1001284",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ128 AEON BIG AMPANG (OPP)",
+        "stop_lat": "3.140652",
+        "stop_lon": "101.780257",
+        "stop_id": "1006886",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "RENJANA AMPANG (OPP)",
+        "stop_lat": "3.136576",
+        "stop_lon": "101.780065",
+        "stop_id": "1006887",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "TAMAN DAGANG JAYA",
+        "stop_lat": "3.133527",
+        "stop_lon": "101.779228",
+        "stop_id": "1006888",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "KG TASIK PERMAI",
+        "stop_lat": "3.130534",
+        "stop_lon": "101.778774",
+        "stop_id": "1006889",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SPG KG TASIK PERMAI",
+        "stop_lat": "3.128767",
+        "stop_lon": "101.778593",
+        "stop_id": "1008072",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SPG TAMAN SRI BAYU",
+        "stop_lat": "3.1256705025844",
+        "stop_lon": "101.77714059886",
+        "stop_id": "1003577",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "PASAR TASEK TAMBAHAN",
+        "stop_lat": "3.1227395720654",
+        "stop_lon": "101.77480384563",
+        "stop_id": "1002292",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "TAMAN TASIK TAMBAHAN",
+        "stop_lat": "3.121595",
+        "stop_lon": "101.771667",
+        "stop_id": "1004109",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "AJ153 TAMAN PUTRA AMPANG BARAT",
+        "stop_lat": "3.120654",
+        "stop_lon": "101.766083",
+        "stop_id": "1001577",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ428 PARAGON POINT (UTARA)",
+        "stop_lat": "3.120681",
+        "stop_lon": "101.762941",
+        "stop_id": "1002688",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ155 SMK PANDAN MEWAH",
+        "stop_lat": "3.125219",
+        "stop_lon": "101.762831",
+        "stop_id": "1003220",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ156 HOSPITAL AMPANG",
+        "stop_lat": "3.12755",
+        "stop_lon": "101.762898",
+        "stop_id": "1008069",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AJ337 APARTMENT PANDAN MEWAH",
+        "stop_lat": "3.129739",
+        "stop_lon": "101.762947",
+        "stop_id": "1001647",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "AJ430 FLAT BAYU MURNI (OPP)",
+        "stop_lat": "3.133726",
+        "stop_lon": "101.765691",
+        "stop_id": "1000682",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "AJ424 KG AMPANG CAMPURAN",
+        "stop_lat": "3.13435",
+        "stop_lon": "101.7674",
+        "stop_id": "1000080",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "AJ322 SMK BANDAR BARU AMPANG",
+        "stop_lat": "3.137365",
+        "stop_lon": "101.769085",
+        "stop_id": "1006893",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "AJ52 HUB SRI NILAM",
+        "stop_lat": "3.1398527383616",
+        "stop_lon": "101.7693091532",
+        "stop_id": "1000966",
+        "stop_sequence": "23"
+    }
+]

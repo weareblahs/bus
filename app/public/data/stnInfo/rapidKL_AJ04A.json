@@ -1,0 +1,303 @@
+[
+    {
+        "stop_name": "AJ276 PANDAN HEIGHT",
+        "stop_lat": "3.112722443449",
+        "stop_lon": "101.73863347999",
+        "stop_id": "1002241",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "AJ277 PANDAN VISTA",
+        "stop_lat": "3.115183",
+        "stop_lon": "101.73894",
+        "stop_id": "1002245",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "AJ278 PANDAN PERDANA DELUXE",
+        "stop_lat": "3.116378",
+        "stop_lon": "101.73961",
+        "stop_id": "1002242",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "AJ470 PERDANA VILLA",
+        "stop_lat": "3.118058",
+        "stop_lon": "101.740585",
+        "stop_id": "1002410",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "AJ279 PANDAN PERDANA (BARAT)",
+        "stop_lat": "3.119833",
+        "stop_lon": "101.741585",
+        "stop_id": "1002247",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "PLAZA PANDAN",
+        "stop_lat": "3.119839",
+        "stop_lon": "101.742327",
+        "stop_id": "1008085",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "AJ273 SK PANDAN PERDANA",
+        "stop_lat": "3.115781",
+        "stop_lon": "101.741784",
+        "stop_id": "1003125",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "STADIUM MPAJ",
+        "stop_lat": "3.114366",
+        "stop_lon": "101.741958",
+        "stop_id": "1008086",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "AJ274 KOMERSIAL PANDAN PERDANA",
+        "stop_lat": "3.113278",
+        "stop_lon": "101.744602",
+        "stop_id": "1008087",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "AJ331 TAMAN KENCANA (BARAT)",
+        "stop_lat": "3.119608",
+        "stop_lon": "101.748577",
+        "stop_id": "1003057",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "AJ332 TAMAN KENCANA (TIMUR)",
+        "stop_lat": "3.11964",
+        "stop_lon": "101.750297",
+        "stop_id": "1003990",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "AJ168 TAMAN KENCANA (UTARA)",
+        "stop_lat": "3.120468",
+        "stop_lon": "101.75124",
+        "stop_id": "1006901",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "AJ169 SMK PANDAN INDAH (OPP)",
+        "stop_lat": "3.122488",
+        "stop_lon": "101.751166",
+        "stop_id": "1003350",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "AJ239 SK PANDAN INDAH",
+        "stop_lat": "3.125026",
+        "stop_lon": "101.751489",
+        "stop_id": "1006899",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "FLAT LEMBAH MAJU",
+        "stop_lat": "3.125075",
+        "stop_lon": "101.754399",
+        "stop_id": "1006897",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "AJ236 TAMAN LEMBAH MAJU",
+        "stop_lat": "3.123595",
+        "stop_lon": "101.755247",
+        "stop_id": "1003825",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "AJ237 SK TAMAN MUDA",
+        "stop_lat": "3.1205083504751",
+        "stop_lon": "101.75542940854",
+        "stop_id": "1003326",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "AJ230 TAMAN MUDA (BARAT)",
+        "stop_lat": "3.119856",
+        "stop_lon": "101.756687",
+        "stop_id": "1002044",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "AJ231 TAMAN MUDA (TIMUR)",
+        "stop_lat": "3.1199889635163",
+        "stop_lon": "101.75914666354",
+        "stop_id": "1001177",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "AJ242 KOMERSIAL TAMAN MUDA",
+        "stop_lat": "3.121373",
+        "stop_lon": "101.760082",
+        "stop_id": "1001755",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "AJ155 SMK PANDAN MEWAH",
+        "stop_lat": "3.125219",
+        "stop_lon": "101.762831",
+        "stop_id": "1003220",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "AJ156 HOSPITAL AMPANG",
+        "stop_lat": "3.12755",
+        "stop_lon": "101.762898",
+        "stop_id": "1008069",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "AJ337 APARTMENT PANDAN MEWAH",
+        "stop_lat": "3.129739",
+        "stop_lon": "101.762947",
+        "stop_id": "1001647",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "AJ157 PANDAN MEWAH HEIGHTS",
+        "stop_lat": "3.130923",
+        "stop_lon": "101.762139",
+        "stop_id": "1001651",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "AJ158 FLAT 610",
+        "stop_lat": "3.130479",
+        "stop_lon": "101.760369",
+        "stop_id": "1000992",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "AJ159 SURAU MADRASATUL SOFWA",
+        "stop_lat": "3.1298841668666",
+        "stop_lon": "101.75896061054",
+        "stop_id": "1003749",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "AJ160 APARTMENT BUNGA RAYA",
+        "stop_lat": "3.1292473326086",
+        "stop_lon": "101.7572669952",
+        "stop_id": "1000610",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "AJ161 MENARA MPAJ",
+        "stop_lat": "3.128996",
+        "stop_lon": "101.753841",
+        "stop_id": "1002238",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "AJ228 MIDPOINT COMPLEX",
+        "stop_lat": "3.131597",
+        "stop_lon": "101.752703",
+        "stop_id": "1006895",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "AJ179 APARTMENT MERPATI",
+        "stop_lat": "3.133868",
+        "stop_lon": "101.75633771805",
+        "stop_id": "1000728",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "AJ223 APARTMENT MERPATI",
+        "stop_lat": "3.134151",
+        "stop_lon": "101.757526",
+        "stop_id": "1000354",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "AJ423 APARTMENT NURI COURT",
+        "stop_lat": "3.135695",
+        "stop_lon": "101.756302",
+        "stop_id": "1000134",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "AJ224 APARTMENT KENARI COURT",
+        "stop_lat": "3.136451",
+        "stop_lon": "101.754541",
+        "stop_id": "1000129",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "AJ225 PANGSAPURI DAHLIA",
+        "stop_lat": "3.136262",
+        "stop_lon": "101.752881",
+        "stop_id": "1003522",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "AJ226 PANGSAPURI DAHLIA",
+        "stop_lat": "3.1342033330273",
+        "stop_lon": "101.75151040436",
+        "stop_id": "1000704",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "KOMERSIAL PANDAN INDAH",
+        "stop_lat": "3.133105",
+        "stop_lon": "101.751201",
+        "stop_id": "1008088",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "AJ269 TAMAN MAJU JAYA",
+        "stop_lat": "3.1304479736276",
+        "stop_lon": "101.74298020593",
+        "stop_id": "1001334",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "AJ270 CHERAS INDAH NIGHT MARKET",
+        "stop_lat": "3.128708",
+        "stop_lon": "101.742922",
+        "stop_id": "1002794",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "AJ271 TAMAN CHERAS INDAH",
+        "stop_lat": "3.124393",
+        "stop_lon": "101.742457",
+        "stop_id": "1003776",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "AJ272 PANDAN PERDANA (TIMUR)",
+        "stop_lat": "3.12019",
+        "stop_lon": "101.743645",
+        "stop_id": "1000009",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "AJ273 SK PANDAN PERDANA",
+        "stop_lat": "3.115781",
+        "stop_lon": "101.741784",
+        "stop_id": "1003125",
+        "stop_sequence": "41"
+    },
+    {
+        "stop_name": "AJ275 PANDAN PERDANA (SELATAN)",
+        "stop_lat": "3.1142465789033",
+        "stop_lon": "101.74105738188",
+        "stop_id": "1003537",
+        "stop_sequence": "42"
+    },
+    {
+        "stop_name": "AJ276 PANDAN HEIGHT",
+        "stop_lat": "3.112722443449",
+        "stop_lon": "101.73863347999",
+        "stop_id": "1002241",
+        "stop_sequence": "43"
+    }
+]

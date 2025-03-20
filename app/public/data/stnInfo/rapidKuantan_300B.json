@@ -1,0 +1,149 @@
+[
+    {
+        "stop_name": "(M) HENTIAN BANDAR",
+        "stop_lat": "3.8122256488901",
+        "stop_lon": "103.32277938627",
+        "stop_id": "2000325",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "PADANG BESAR MBK",
+        "stop_lat": "3.805713",
+        "stop_lon": "103.326032",
+        "stop_id": "2000395",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "MASJID NEGERI PAHANG",
+        "stop_lat": "3.806458",
+        "stop_lon": "103.327646",
+        "stop_id": "2000133",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "IBU PEJABAT POLIS KONTINJEN PAHANG",
+        "stop_lat": "3.8097340263436",
+        "stop_lon": "103.32959924464",
+        "stop_id": "2000267",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "7 ELEVEN BKT UBI",
+        "stop_lat": "3.8102614498865",
+        "stop_lon": "103.32182890913",
+        "stop_id": "2000548",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KOSPEK MPK",
+        "stop_lat": "3.8147507256109",
+        "stop_lon": "103.31921841975",
+        "stop_id": "2000185",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "PEJABAT KEMAS",
+        "stop_lat": "3.8182846933878",
+        "stop_lon": "103.31367487094",
+        "stop_id": "2000147",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "JKR DAERAH KUANTAN",
+        "stop_lat": "3.8199777398678",
+        "stop_lon": "103.31010648715",
+        "stop_id": "2000159",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "MASJID INDERA MAHKOTA",
+        "stop_lat": "3.8239299287656",
+        "stop_lon": "103.30574142016",
+        "stop_id": "2000393",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SMK TENGKU PANGLIMA PERANG",
+        "stop_lat": "3.8229470903612",
+        "stop_lon": "103.29352668905",
+        "stop_id": "2000305",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "INDERA MAHKOTA 5",
+        "stop_lat": "3.8221568028962",
+        "stop_lon": "103.29174572562",
+        "stop_id": "2000365",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "BALAI BOMBA INDERA MAHKOTA",
+        "stop_lat": "3.820815349917",
+        "stop_lon": "103.28567160853",
+        "stop_id": "2000107",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "KOLEJ SHAHPUTRA",
+        "stop_lat": "3.8239171383858",
+        "stop_lon": "103.28120914432",
+        "stop_id": "2000002",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M) SMK INDERA MAHKOTA 2",
+        "stop_lat": "3.8320791791975",
+        "stop_lon": "103.27045266597",
+        "stop_id": "2000124",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "KOLEJ PROFESSIONAL MARA",
+        "stop_lat": "3.8382711787797",
+        "stop_lon": "103.26486753922",
+        "stop_id": "2000172",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "KAMPUNG PADANG",
+        "stop_lat": "3.8522613824236",
+        "stop_lon": "103.26095902236",
+        "stop_id": "2000190",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "SK KG.PADANG JAYA",
+        "stop_lat": "3.8555015435063",
+        "stop_lon": "103.25794548745",
+        "stop_id": "2000522",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "SM PENDIDIKAN KHAS VOKASIONAL",
+        "stop_lat": "3.8578930614225",
+        "stop_lon": "103.25560887526",
+        "stop_id": "2000300",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "MEDAN SELERA",
+        "stop_lat": "3.8636329995328",
+        "stop_lon": "103.25016840523",
+        "stop_id": "2000202",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "PERUMAHAN TAMAN IMPIAN",
+        "stop_lat": "3.8657195424335",
+        "stop_lon": "103.2490477668",
+        "stop_id": "2000209",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "(M) TAMAN IMPIAN",
+        "stop_lat": "3.8688146451361",
+        "stop_lon": "103.25025681088",
+        "stop_id": "2000255",
+        "stop_sequence": "21"
+    }
+]

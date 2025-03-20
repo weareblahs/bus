@@ -1,0 +1,86 @@
+[
+    {
+        "stop_name": "SJ533 LRT ALAM MEGAH",
+        "stop_lat": "3.023277",
+        "stop_lon": "101.572424",
+        "stop_id": "1006540",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "SA60 FLAT PROTON (TIMUR)",
+        "stop_lat": "3.024695",
+        "stop_lon": "101.570309",
+        "stop_id": "1000742",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "SA61 FLAT PROTON (UTARA)",
+        "stop_lat": "3.025486",
+        "stop_lon": "101.568325",
+        "stop_id": "1000743",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "SA92 SEKSYEN 26 (SELATAN)",
+        "stop_lat": "3.023692",
+        "stop_lon": "101.561694",
+        "stop_id": "1008428",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "SA93 FLAT TAMAN BUNGA RAYA (BARAT)",
+        "stop_lat": "3.017882",
+        "stop_lon": "101.560618",
+        "stop_id": "1000431",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "SA94 TELEKOM MALAYSIA SEKSYEN 27",
+        "stop_lat": "3.016214",
+        "stop_lon": "101.560645",
+        "stop_id": "1008358",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "SA991 FLAT TAMAN BUNGA NEGARA",
+        "stop_lat": "3.017002",
+        "stop_lon": "101.564827",
+        "stop_id": "1008360",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "SA109 SMK SEKSYEN 27 (TIMUR)",
+        "stop_lat": "3.021738",
+        "stop_lon": "101.567484",
+        "stop_id": "1006542",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "SA51 FLAT PROTON (BARAT)",
+        "stop_lat": "3.0236288779962",
+        "stop_lon": "101.5665102546",
+        "stop_id": "1001094",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "SA52 FLAT PROTON (UTARA)",
+        "stop_lat": "3.025582",
+        "stop_lon": "101.568375",
+        "stop_id": "1000744",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "SA53 FLAT PROTON (TIMUR)",
+        "stop_lat": "3.024807",
+        "stop_lon": "101.570127",
+        "stop_id": "1000741",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "SJ533 LRT ALAM MEGAH",
+        "stop_lat": "3.023277",
+        "stop_lon": "101.572424",
+        "stop_id": "1006540",
+        "stop_sequence": "12"
+    }
+]

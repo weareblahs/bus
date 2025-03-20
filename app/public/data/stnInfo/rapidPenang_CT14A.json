@@ -1,0 +1,135 @@
+[
+    {
+        "stop_name": "(M1) The Summit",
+        "stop_lat": "5.3657975",
+        "stop_lon": "100.462624",
+        "stop_id": "12002201",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Kamdar",
+        "stop_lat": "5.36519",
+        "stop_lon": "100.45875",
+        "stop_id": "12000906",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Plaza Utama",
+        "stop_lat": "5.3666",
+        "stop_lon": "100.45826",
+        "stop_id": "12000907",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Sunway Wellesley",
+        "stop_lat": "5.368673",
+        "stop_lon": "100.455235",
+        "stop_id": "12002320",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "Kampung Permatang Rawa",
+        "stop_lat": "5.36892",
+        "stop_lon": "100.45022",
+        "stop_id": "12001221",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "KTM Bukit Mertajam",
+        "stop_lat": "5.368924",
+        "stop_lon": "100.448113",
+        "stop_id": "12003015",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Caltex Permatang Rawa",
+        "stop_lat": "5.3686",
+        "stop_lon": "100.44541",
+        "stop_id": "12001220",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Bank Rakyat Perda",
+        "stop_lat": "5.366926",
+        "stop_lon": "100.435744",
+        "stop_id": "12002346",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "Permatang Batu",
+        "stop_lat": "5.36426",
+        "stop_lon": "100.43189",
+        "stop_id": "12001101",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Petron Permatang Batu",
+        "stop_lat": "5.36447",
+        "stop_lon": "100.4297",
+        "stop_id": "12001102",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Allagapas",
+        "stop_lat": "5.36458",
+        "stop_lon": "100.426927",
+        "stop_id": "12002347",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Taman Bunga Raya",
+        "stop_lat": "5.36632",
+        "stop_lon": "100.42163000000001",
+        "stop_id": "12000183",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "SK Jalan Baru",
+        "stop_lat": "5.36751",
+        "stop_lon": "100.4194",
+        "stop_id": "12000184",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "(M2) Mydin Mall",
+        "stop_lat": "5.36972",
+        "stop_lon": "100.41516999999999",
+        "stop_id": "12000177",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "Kampung Setol",
+        "stop_lat": "5.3709",
+        "stop_lon": "100.41305",
+        "stop_id": "12000178",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Masjid Kampung Setol",
+        "stop_lat": "5.372746",
+        "stop_lon": "100.409622",
+        "stop_id": "12002348",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Jambatan Pulau Pinang",
+        "stop_lat": "5.355802",
+        "stop_lon": "100.39232",
+        "stop_id": "12002108",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Terminal Komtar",
+        "stop_lat": "5.4141808",
+        "stop_lon": "100.33031319999999",
+        "stop_id": "12002116",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "(M1) Hub Lebuh Carnavon",
+        "stop_lat": "5.4126216",
+        "stop_lon": "100.3319975",
+        "stop_id": "12002988",
+        "stop_sequence": "19"
+    }
+]

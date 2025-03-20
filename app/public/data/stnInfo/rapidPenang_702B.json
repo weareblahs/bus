@@ -1,0 +1,289 @@
+[
+    {
+        "stop_name": "(M1) The Summit",
+        "stop_lat": "5.3657975",
+        "stop_lon": "100.462624",
+        "stop_id": "12002201",
+        "stop_sequence": "1"
+    },
+    {
+        "stop_name": "Plaza Utama",
+        "stop_lat": "5.3666",
+        "stop_lon": "100.45826",
+        "stop_id": "12000907",
+        "stop_sequence": "2"
+    },
+    {
+        "stop_name": "Sunway Wellesley",
+        "stop_lat": "5.368673",
+        "stop_lon": "100.455235",
+        "stop_id": "12002320",
+        "stop_sequence": "3"
+    },
+    {
+        "stop_name": "Kampung Permatang Rawa",
+        "stop_lat": "5.36892",
+        "stop_lon": "100.45022",
+        "stop_id": "12001221",
+        "stop_sequence": "4"
+    },
+    {
+        "stop_name": "KTM Bukit Mertajam",
+        "stop_lat": "5.368924",
+        "stop_lon": "100.448113",
+        "stop_id": "12003015",
+        "stop_sequence": "5"
+    },
+    {
+        "stop_name": "Caltex Permatang Rawa",
+        "stop_lat": "5.3686",
+        "stop_lon": "100.44541",
+        "stop_id": "12001220",
+        "stop_sequence": "6"
+    },
+    {
+        "stop_name": "Perda Timur",
+        "stop_lat": "5.3695",
+        "stop_lon": "100.441",
+        "stop_id": "12001092",
+        "stop_sequence": "7"
+    },
+    {
+        "stop_name": "Perda Utama",
+        "stop_lat": "5.3714",
+        "stop_lon": "100.43951",
+        "stop_id": "12001098",
+        "stop_sequence": "8"
+    },
+    {
+        "stop_name": "KPJ Perda",
+        "stop_lat": "5.36934",
+        "stop_lon": "100.43267",
+        "stop_id": "12001097",
+        "stop_sequence": "9"
+    },
+    {
+        "stop_name": "Masjid Perda",
+        "stop_lat": "5.36871",
+        "stop_lon": "100.43059000000001",
+        "stop_id": "12001096",
+        "stop_sequence": "10"
+    },
+    {
+        "stop_name": "Nashmir Perda",
+        "stop_lat": "5.3680010000000005",
+        "stop_lon": "100.42784300000001",
+        "stop_id": "12002366",
+        "stop_sequence": "11"
+    },
+    {
+        "stop_name": "Pangsapuri Seri Pauh",
+        "stop_lat": "5.36905",
+        "stop_lon": "100.42336999999999",
+        "stop_id": "12001176",
+        "stop_sequence": "12"
+    },
+    {
+        "stop_name": "Petron Permatang Pauh",
+        "stop_lat": "5.37611",
+        "stop_lon": "100.42096",
+        "stop_id": "12001198",
+        "stop_sequence": "13"
+    },
+    {
+        "stop_name": "Kampung Belah 2",
+        "stop_lat": "5.3784",
+        "stop_lon": "100.42045999999999",
+        "stop_id": "12001199",
+        "stop_sequence": "14"
+    },
+    {
+        "stop_name": "(M2) UITM Permatang Pauh",
+        "stop_lat": "5.38223",
+        "stop_lon": "100.41938",
+        "stop_id": "12001200",
+        "stop_sequence": "15"
+    },
+    {
+        "stop_name": "Kampung Pertama",
+        "stop_lat": "5.38516",
+        "stop_lon": "100.41869",
+        "stop_id": "12001201",
+        "stop_sequence": "16"
+    },
+    {
+        "stop_name": "Kampung Batu Dua",
+        "stop_lat": "5.38892",
+        "stop_lon": "100.41814000000001",
+        "stop_id": "12001202",
+        "stop_sequence": "17"
+    },
+    {
+        "stop_name": "Klinik Desa Kampung Pertama",
+        "stop_lat": "5.39219",
+        "stop_lon": "100.41776999999999",
+        "stop_id": "12001203",
+        "stop_sequence": "18"
+    },
+    {
+        "stop_name": "SK Tok Kandu",
+        "stop_lat": "5.39449",
+        "stop_lon": "100.4178",
+        "stop_id": "12001204",
+        "stop_sequence": "19"
+    },
+    {
+        "stop_name": "Permatang Janggus",
+        "stop_lat": "5.39928",
+        "stop_lon": "100.41718",
+        "stop_id": "12001205",
+        "stop_sequence": "20"
+    },
+    {
+        "stop_name": "Masjid Permatang Janggus",
+        "stop_lat": "5.40102",
+        "stop_lon": "100.41705999999999",
+        "stop_id": "12001185",
+        "stop_sequence": "21"
+    },
+    {
+        "stop_name": "Permatang Janggus 2",
+        "stop_lat": "5.4037",
+        "stop_lon": "100.41655",
+        "stop_id": "12001186",
+        "stop_sequence": "22"
+    },
+    {
+        "stop_name": "Kompleks Fareeda",
+        "stop_lat": "5.405966200000001",
+        "stop_lon": "100.4151894",
+        "stop_id": "12002604",
+        "stop_sequence": "23"
+    },
+    {
+        "stop_name": "Taman Arowana Emas",
+        "stop_lat": "5.40839",
+        "stop_lon": "100.41389000000001",
+        "stop_id": "12001187",
+        "stop_sequence": "24"
+    },
+    {
+        "stop_name": "Taman Arowana",
+        "stop_lat": "5.41024",
+        "stop_lon": "100.41253",
+        "stop_id": "12001188",
+        "stop_sequence": "25"
+    },
+    {
+        "stop_name": "Pasar Malam Arowana",
+        "stop_lat": "5.411293",
+        "stop_lon": "100.409977",
+        "stop_id": "12002367",
+        "stop_sequence": "26"
+    },
+    {
+        "stop_name": "PPR Ampang Jajar",
+        "stop_lat": "5.41404",
+        "stop_lon": "100.40541999999999",
+        "stop_id": "12001191",
+        "stop_sequence": "27"
+    },
+    {
+        "stop_name": "Taman Ampang Jajar",
+        "stop_lat": "5.41376",
+        "stop_lon": "100.40154",
+        "stop_id": "12001190",
+        "stop_sequence": "28"
+    },
+    {
+        "stop_name": "Kawasan Industri Mak Mandin",
+        "stop_lat": "5.41246",
+        "stop_lon": "100.39816",
+        "stop_id": "12001189",
+        "stop_sequence": "29"
+    },
+    {
+        "stop_name": "Gold Coin Mak Mandin",
+        "stop_lat": "5.413702",
+        "stop_lon": "100.39394399999999",
+        "stop_id": "12002368",
+        "stop_sequence": "30"
+    },
+    {
+        "stop_name": "Shell Mak Mandin",
+        "stop_lat": "5.41427",
+        "stop_lon": "100.38765",
+        "stop_id": "12001192",
+        "stop_sequence": "31"
+    },
+    {
+        "stop_name": "Taman Bagan",
+        "stop_lat": "5.41458",
+        "stop_lon": "100.38433",
+        "stop_id": "12001194",
+        "stop_sequence": "32"
+    },
+    {
+        "stop_name": "Taman Bagan II",
+        "stop_lat": "5.414540000000001",
+        "stop_lon": "100.38274",
+        "stop_id": "12001193",
+        "stop_sequence": "33"
+    },
+    {
+        "stop_name": "Taman Bagan III",
+        "stop_lat": "5.414457",
+        "stop_lon": "100.38091700000001",
+        "stop_id": "12002370",
+        "stop_sequence": "34"
+    },
+    {
+        "stop_name": "Pasaraya Billion",
+        "stop_lat": "5.413703",
+        "stop_lon": "100.37725",
+        "stop_id": "12002369",
+        "stop_sequence": "35"
+    },
+    {
+        "stop_name": "Pangsapuri Telaga Emas",
+        "stop_lat": "5.413335",
+        "stop_lon": "100.374728",
+        "stop_id": "12002371",
+        "stop_sequence": "36"
+    },
+    {
+        "stop_name": "Dataran Pemuda Merdeka",
+        "stop_lat": "5.40855",
+        "stop_lon": "100.37040999999999",
+        "stop_id": "12000124",
+        "stop_sequence": "37"
+    },
+    {
+        "stop_name": "Jabatan Pertanian",
+        "stop_lat": "5.40525",
+        "stop_lon": "100.36934000000001",
+        "stop_id": "12000122",
+        "stop_sequence": "38"
+    },
+    {
+        "stop_name": "Taman Selat",
+        "stop_lat": "5.4003",
+        "stop_lon": "100.3683",
+        "stop_id": "12000121",
+        "stop_sequence": "39"
+    },
+    {
+        "stop_name": "Maybank Butterworth",
+        "stop_lat": "5.3977580000000005",
+        "stop_lon": "100.367789",
+        "stop_id": "12002549",
+        "stop_sequence": "40"
+    },
+    {
+        "stop_name": "(M1) Penang Sentral",
+        "stop_lat": "5.3948602",
+        "stop_lon": "100.3653495",
+        "stop_id": "12002322",
+        "stop_sequence": "41"
+    }
+]
