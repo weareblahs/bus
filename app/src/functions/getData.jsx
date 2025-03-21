@@ -1,7 +1,6 @@
 import GtfsRealtimeBindings from "gtfs-realtime-bindings";
 import providers from "../internalData/providers.json";
 import tripMainData from "../internalData/trips.json";
-import axios from "axios";
 import Cookies from "js-cookie";
 import ky from "ky";
 
