@@ -62,6 +62,8 @@ See [here](https://github.com/weareblahs/bus/blob/main/docs/StaticData.md) for m
 
 Currently in beta - which can be accessed via [https://b.ntyx.dev](https://b.ntyx.dev). Alternatively, you can also access the web app via [https://bqm.vercel.app](https://bqm.vercel.app).
 
+Do note that a new version of bus? is coming soon, which a preview of it can be seen on [https://bqmv2.vercel.app](https://bqmv2.vercel.app).
+
 # Credits
 
 - Data sourced from `data.gov.my` (see documentation [here](https://developer.data.gov.my/realtime-api/gtfs-static))
