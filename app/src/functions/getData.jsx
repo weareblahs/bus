@@ -5,6 +5,22 @@ import axios from "axios";
 import Cookies from "js-cookie";
 import ky from "ky";
 
+export const geocoding = async (lat, lon) => {
+  const api = ky.extend({
+    hooks: {
+      beforeRequest: [
+        (request) => {
+          request.headers.set("Accept-Language", "en");
+        },
+      ],
+    },
+  });
+  const res = await api.get(
+    `https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json&countrycodes=MY`
+  );
+  console.log(res.json());
+};
+
 export const getData = async (route) => {
   const provider = Cookies.get("provider");
   const providerFilter = tripMainData
@@ -28,6 +44,7 @@ export const getData = async (route) => {
       new Uint8Array(buffer)
     );
     let exportData = [];
+
     feed.entity.forEach((f) => {
       providerFilter.forEach((p) => {
         if (p.id == f.vehicle.trip.tripId) {
@@ -55,8 +72,8 @@ export const getStaticTrips = async (route) => {
   const routeArray = parsedTrips
     .filter((t) => t.providerName == provider)[0]
     ["trips"].filter((t) => t.name == route);
-  const staticData = await axios.get(url);
-  const stopData = await axios.get(stopURL);
+  const staticData = await ky.get(url);
+  const stopData = await ky.get(stopURL);
 
   let na = [];
   routeArray.forEach((r) => {
@@ -117,7 +134,7 @@ export const getStaticTrips = async (route) => {
       firstStopTimeObject = {
         stop_id,
         stop_name: stopData?.data?.[0]["stop_name"],
-        first_stop_time: sortedTime.filter((s) => s.stop == stop_id)[0]["time"],
+        // first_stop_time: sortedTime.filter((s) => s.stop == stop_id)[0]["time"],
       };
     }
     console.log(firstStopTimeObject);

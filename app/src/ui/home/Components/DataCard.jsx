@@ -1,5 +1,8 @@
+import { geocoding } from "../../../functions/getData";
+
 export const DataCard = ({ singleData }) => {
   console.log(singleData);
+  console.log(geocoding(singleData.position_lat, singleData.position_lon));
   return (
     <div className="bg-black dark:bg-white text-white dark:text-black w-[100%] mt-2 mb-2 rounded-md p-2">
       <div className="grid grid-cols-4">
@@ -9,6 +12,10 @@ export const DataCard = ({ singleData }) => {
             currently on {singleData.vehicle_speed}km/h
           </span>
         </div>
+      </div>
+      <div className="grid grid-cols-2">
+        <div>Bus near</div>
+        <div></div>
       </div>
     </div>
   );
