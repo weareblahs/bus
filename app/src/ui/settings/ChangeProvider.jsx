@@ -7,8 +7,8 @@ export const ChangeProvider = () => {
   return (
     <div className="grid lg:grid-cols-2 bg-gray-950 dark:bg-gray-900 p-5 m-5 rounded-2xl">
       <div>
-        <h1 className="text-2xl">Change bus provider</h1>
-        <h1 className="text-medium">
+        <h1 className="text-2xl text-white">Change bus provider</h1>
+        <h1 className="text-medium text-white ">
           Change bus provider for this app. Currently set to{" "}
           {Cookies.get("provider")}. Use this option too, if you want to reset{" "}
           <i>bus?</i>.<br />
@@ -20,12 +20,19 @@ export const ChangeProvider = () => {
       </div>
       <div className="ms-auto me-auto mt-2 mb-2 lg:mt-auto lg:mb-auto">
         <Button
-          className={`${button} w-88`}
+          className={`${button} w-50 lg:w-100`}
           onClick={() => {
-            Cookies.remove("provider");
-            redirect("/");
-            window.location.reload();
-            localStorage.clear("routeData");
+            if (
+              confirm(
+                "Are you sure you want to continue? This will delete all previously saved information!"
+              )
+            ) {
+              Cookies.remove("provider");
+              redirect("/");
+              window.location.reload();
+              localStorage.clear("routeData");
+            } else {
+            }
           }}
         >
           Change provider

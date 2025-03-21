@@ -7,12 +7,28 @@ import {
 } from "@headlessui/react";
 import { ChevronUpDownIcon } from "@heroicons/react/16/solid";
 import { CheckIcon } from "@heroicons/react/20/solid";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { routeIndicator } from "../../functions/RouteIndicator";
+import { getData, getStaticTrips } from "../../functions/getData";
+import { DataDisplay } from "./DataDisplay";
 
 export const RouteSelectionDropdown = () => {
   const routeData = JSON.parse(localStorage.getItem("routeData"));
   const [selectedRoute, setSelectedRoute] = useState([routeData[0], 0]);
+  const [dd, setDisplayData] = useState([]);
+  const changeData = async (data) => {
+    setDisplayData({ status: "loading" });
+    setSelectedRoute(data);
+    const routeID = selectedRoute[0]["id"];
+    const display = await getData(routeID);
+    console.log(display);
+    const staticTripData = await getStaticTrips(routeID);
+    setDisplayData([display, staticTripData]);
+  };
+  useEffect(() => {
+    changeData(selectedRoute);
+    console.log(dd);
+  }, []);
   return (
     <div>
       <p className="mt-2">Select a route:</p>
@@ -22,15 +38,15 @@ export const RouteSelectionDropdown = () => {
             which was originally written by the Tailwind CSS team. All the necessary icons (including up / down) for the code
             below are imported according to the guide.
         */}
-        <Listbox onChange={setSelectedRoute}>
+        <Listbox onChange={(data) => changeData(data)}>
           <div className="relative mt-2">
             <ListboxButton className="grid w-full cursor-default grid-cols-1 rounded-md bg-white py-1.5 pr-2 pl-3 text-left text-gray-900 outline-1 -outline-offset-1 outline-gray-300 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6">
               <span className="col-start-1 row-start-1 flex items-center gap-3 pr-6">
                 <div className="flex items-center">
-                  <span className="bg-blue-600 px-4 py-1 rounded-md text-white routeFont">
+                  <span className="bg-blue-600 px-4 py-1 rounded-md text-white routeFont ">
                     {routeIndicator(selectedRoute[1])}
                   </span>
-                  <span className="ml-3 block truncate font-normal group-data-selected:font-semibold">
+                  <span className="ml-3 block truncate font-normal group-data-selected:font-semibold w-50 lg:w-100 text-ellipsis">
                     {selectedRoute[0].name}
                   </span>
                 </div>
@@ -67,6 +83,7 @@ export const RouteSelectionDropdown = () => {
             </ListboxOptions>
           </div>
         </Listbox>
+        <DataDisplay data={dd} />
       </div>
     </div>
   );

@@ -38,15 +38,15 @@ export const Providers = () => {
       {selection != "" ? (
         <div>
           <div className="block fixed bottom-8">
-            <div className="w-100">
+            <div className="w-50 lg:w-100">
               <button
-                className={`${button} w-100 `}
+                className={`${button} w-74 lg:w-100 `}
                 onClick={() => setData(selection)}
               >
                 Continue
               </button>
             </div>
-            <h1 className="text-center text-sm">
+            <h1 className="text-start lg:text-center text-sm w-74 lg:w-100">
               <i>Note: selected data will be stored locally for up to 1 year</i>
             </h1>
           </div>
