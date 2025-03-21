@@ -28,10 +28,8 @@ export const DataDisplay = ({ data }) => {
               </div>
             </div>
           );
-        } else if (
-          !data[0].data_available &&
-          data[0].data.response?.status == 429
-        ) {
+        } else if (data[0].data_available == false) {
+          console.log(data);
           return (
             <h1 className="text-3xl text-center mt-5 mb-5">
               It looks like you've been searching too fast. Try again in a few
