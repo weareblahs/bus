@@ -18,7 +18,7 @@ export const RouteSelectionDropdown = () => {
   const [dd, setDisplayData] = useState([]);
   const changeData = async (data) => {
     setDisplayData({ status: "loading" });
-    setSelectedRoute(data);
+
     const routeID = selectedRoute[0]["id"];
     const display = await getData(routeID);
     console.log(display);
@@ -29,6 +29,11 @@ export const RouteSelectionDropdown = () => {
     changeData(selectedRoute);
     console.log(dd);
   }, []);
+
+  useEffect(() => {
+    console.log(selectedRoute);
+    changeData(selectedRoute);
+  }, [selectedRoute]);
   return (
     <div>
       <p className="mt-2">Select a route:</p>
@@ -38,7 +43,7 @@ export const RouteSelectionDropdown = () => {
             which was originally written by the Tailwind CSS team. All the necessary icons (including up / down) for the code
             below are imported according to the guide.
         */}
-        <Listbox onChange={(data) => changeData(data)}>
+        <Listbox onChange={(data) => setSelectedRoute(data)}>
           <div className="relative mt-2">
             <ListboxButton className="grid w-full cursor-default grid-cols-1 rounded-md bg-white py-1.5 pr-2 pl-3 text-left text-gray-900 outline-1 -outline-offset-1 outline-gray-300 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6">
               <span className="col-start-1 row-start-1 flex items-center gap-3 pr-6">
