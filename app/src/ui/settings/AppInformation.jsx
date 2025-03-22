@@ -23,7 +23,16 @@ export const AppInformation = () => {
       >
         here
       </a>{" "}
-      (in Malay).&nbsp; 
+      (in Malay).&nbsp; Map data &copy;{" "}
+      <a href="https://openstreetmap.org" className="underline">
+        OpenStreetMap
+      </a>{" "}
+      Contributors. Retrieved via{" "}
+      <a href="http://nominatim.openstreetmap.org/" className="underline">
+        Nominatim
+      </a>
+      .
+      <br />
       <b>Do note that data could be inaccurate for realtime data</b>. Please
       check official sources, such as myRapid PULSE for accurate realtime data
       information.

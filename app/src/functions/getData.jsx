@@ -7,22 +7,22 @@ import ky from "ky";
 export const geocoding = async (lat, lon) => {
   const language = JSON.parse(Cookies.get("geoLanguage"))[0];
   try {
+    let headers = new Headers({
+      Accept: "application/json",
+      "Content-Type": "application/json",
+      "User-Agent": "bus? v2 (https://b.ntyx.dev)/Geolocation",
+      "Accept-Language": language,
+    });
     const res = await ky
-      .extend({
-        hooks: {
-          beforeRequest: [
-            (request) => {
-              request.headers.set("Accept-Language", language);
-            },
-          ],
-        },
-      })
       .get(
-        `https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json&countrycodes=MY`
+        `https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json&countrycodes=MY`,
+        {
+          headers,
+        }
       )
       .json();
     console.log(res);
-    // localization. chinese usually uses a format with state-city-road. technically an observation i made during my china trip last year
+    // localization. chinese usually uses a format with state-city-road. technically an observation on amap i made during my china trip last year
     if (language == "en" || language == "ms") {
       return `${res.address.road}, ${res.address.city}, ${res.address.state}`;
     } else if (language == "zh") {
