@@ -60,7 +60,10 @@ export const getData = async (route) => {
     feed.entity.forEach((f) => {
       providerFilter.forEach(async (p) => {
         if (p.id == f.vehicle.trip.tripId) {
+          // NOTE TO SELF: all other stuff that isn't from this foreach loop MUST be executed on the DataDisplay component
+          // no matter what. that incident almost made me go back to the previous commit
           exportData.push({
+            route: route,
             position_lat: f.vehicle.position.latitude,
             position_lon: f.vehicle.position.longitude,
             vehicle_speed: f.vehicle.position.speed,
@@ -142,6 +145,7 @@ export const getStaticTrips = async (route) => {
       }
     }
     const stop_id = stopData?.[0]["stop_id"];
+
     // get next departure time from the first station of the route
     let firstStopTimeObject = {};
     if (sortedTime.length != 0) {
@@ -157,4 +161,30 @@ export const getStaticTrips = async (route) => {
       stations: final,
     };
   }
+  // return {};
+};
+
+export const getNearbyStation = async (route, lat, long) => {
+  // known stuff: get provider
+  const provider = Cookies.get("provider");
+  // get route station info, including lat and long
+  const stationInfo = await ky
+    .get(
+      `${window.location.protocol}//${window.location.host}/data/stnInfo/${provider}_${route}.json`
+    )
+    .json();
+  let data = [];
+
+  stationInfo.forEach((s) => {
+    const total = parseFloat(s.stop_lat) + parseFloat(s.stop_lon);
+    if (total < parseFloat(lat) + parseFloat(long)) {
+      data.push({
+        name: s.stop_name,
+        lat: parseFloat(s.stop_lat),
+        long: parseFloat(s.stop_lon),
+        seq: parseFloat(s.stop_sequence),
+      });
+    }
+  });
+  return data;
 };
