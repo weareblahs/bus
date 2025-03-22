@@ -18,7 +18,7 @@ export const Home = () => {
     }
   }, []);
   return (
-    <div className="ps-8 pe-8 pt-6 pb-6">
+    <div className="p-5 lg:ps-8 lg:pe-8 lg:pt-6 lg:pb-6">
       <Header />
       {localStorage.getItem("routeData") ? (
         <RouteSelectionDropdown />

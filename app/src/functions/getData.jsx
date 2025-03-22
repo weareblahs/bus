@@ -5,19 +5,32 @@ import Cookies from "js-cookie";
 import ky from "ky";
 
 export const geocoding = async (lat, lon) => {
-  const api = ky.extend({
-    hooks: {
-      beforeRequest: [
-        (request) => {
-          request.headers.set("Accept-Language", "en");
+  const language = JSON.parse(Cookies.get("geoLanguage"))[0];
+  try {
+    const res = await ky
+      .extend({
+        hooks: {
+          beforeRequest: [
+            (request) => {
+              request.headers.set("Accept-Language", language);
+            },
+          ],
         },
-      ],
-    },
-  });
-  const res = await api.get(
-    `https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json&countrycodes=MY`
-  );
-  console.log(res.json());
+      })
+      .get(
+        `https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json&countrycodes=MY`
+      )
+      .json();
+    console.log(res);
+    // localization. chinese usually uses a format with state-city-road. technically an observation i made during my china trip last year
+    if (language == "en" || language == "ms") {
+      return `${res.address.road}, ${res.address.city}, ${res.address.state}`;
+    } else if (language == "zh") {
+      return `${res.address.state}${res.address.city}${res.address.road}`;
+    }
+  } catch (e) {
+    return "";
+  }
 };
 
 export const getData = async (route) => {
@@ -45,7 +58,7 @@ export const getData = async (route) => {
     let exportData = [];
 
     feed.entity.forEach((f) => {
-      providerFilter.forEach((p) => {
+      providerFilter.forEach(async (p) => {
         if (p.id == f.vehicle.trip.tripId) {
           exportData.push({
             position_lat: f.vehicle.position.latitude,
@@ -57,7 +70,10 @@ export const getData = async (route) => {
         }
       });
     });
-    return { data_available: true, data: exportData };
+    return {
+      data_available: true,
+      data: exportData,
+    };
   } catch (error) {
     return { data_available: false, data: error };
   }

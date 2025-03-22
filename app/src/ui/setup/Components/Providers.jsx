@@ -8,6 +8,9 @@ export const Providers = () => {
   const [selection, setSelection] = useState("");
   const setData = (provider) => {
     Cookies.set("provider", provider, { expires: 365 });
+    if (!Cookies.get("geoLanguage")) {
+      Cookies.set("geoLanguage", `["en", "English"]`, { expires: 365 });
+    } // sets english to default
     window.location.reload();
   };
   return (

@@ -8,9 +8,9 @@ export const routeIndicator = (routeIndex) => {
       routeIndicator = `${routes[routeIndex].id.slice(0, -1)}⟳`;
     } else {
       if (routes[routeIndex].id.slice(-1) == "A") {
-        routeIndicator = `${routes[routeIndex].id.slice(0, -1)}►`;
+        routeIndicator = `${routes[routeIndex].id.slice(0, -1)}▶`;
       } else if (routes[routeIndex].id.slice(-1) == "B") {
-        routeIndicator = `${routes[routeIndex].id.slice(0, -1)}◄`;
+        routeIndicator = `${routes[routeIndex].id.slice(0, -1)}◀`;
       }
     }
   }

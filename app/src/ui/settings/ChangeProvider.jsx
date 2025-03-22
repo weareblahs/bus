@@ -20,7 +20,7 @@ export const ChangeProvider = () => {
       </div>
       <div className="ms-auto me-auto mt-2 mb-2 lg:mt-auto lg:mb-auto">
         <Button
-          className={`${button} w-50 lg:w-100`}
+          className={`${button} w-66 lg:w-100`}
           onClick={() => {
             if (
               confirm(
