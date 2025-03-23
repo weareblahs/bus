@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { button } from "../../../styling/Classnames";
 import { FaStreetView } from "react-icons/fa";
-import { geocoding, getNearbyStation } from "../../../functions/getData";
+import { geocoding, getNearbyStation, osrm } from "../../../functions/getData";
 export const DataCard = ({ singleData }) => {
   console.log(singleData);
   console.log();
@@ -20,7 +20,13 @@ export const DataCard = ({ singleData }) => {
         singleData.position_lon
       );
       setNearby(nearbyStationData);
-
+      // const osrmData = await osrm(
+      //   singleData.position_lat,
+      //   singleData.position_lon,
+      //   nearbyStationData[1].lat,
+      //   nearbyStationData[1].long
+      // );
+      // console.log(osrmData);
       if (geocodingData) {
         setGeocode(`Bus near ${geocodingData}`);
       } else {
@@ -49,16 +55,22 @@ export const DataCard = ({ singleData }) => {
       {nearbyStationData.length != 0 ? (
         <div className="grid grid-cols-1 text-center mt-1 mb-1">
           <div className="mt-auto  mb-auto col-span-2 p-1 line-clamp-2">
-            {nearbyStationData[0].name}
+            {nearbyStationData[0]?.name
+              ? nearbyStationData[0]?.name
+              : "Unknown Station"}
           </div>
           <div className="bg-blue-500 rounded-md p-3 text-4xl ms-auto me-auto col-span-4">
             <h1 className="text-4xl text-start text-white">
-              {nearbyStationData[1].name}
+              {nearbyStationData[1]?.name
+                ? nearbyStationData[1]?.name
+                : "Unknown station"}
             </h1>
             <h1 className="text-base text-start text-white"></h1>
           </div>
           <div className="mt-auto col-span-2 p-2">
-            {nearbyStationData[2].name}
+            {nearbyStationData[2]?.name
+              ? nearbyStationData[2]?.name
+              : "Unknown Station"}
           </div>
         </div>
       ) : null}
