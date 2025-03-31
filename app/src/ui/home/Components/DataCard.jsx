@@ -7,6 +7,7 @@ export const DataCard = ({ singleData }) => {
   console.log();
   const [geocode, setGeocode] = useState("");
   const [nearbyStationData, setNearby] = useState([]);
+  const [currentNearbyData, setOSRM] = useState(-1);
   useEffect(() => {
     async function get() {
       setGeocode("Retrieving location data...");
@@ -20,13 +21,13 @@ export const DataCard = ({ singleData }) => {
         singleData.position_lon
       );
       setNearby(nearbyStationData);
-      // const osrmData = await osrm(
-      //   singleData.position_lat,
-      //   singleData.position_lon,
-      //   nearbyStationData[1].lat,
-      //   nearbyStationData[1].long
-      // );
-      // console.log(osrmData);
+      const osrmData = await osrm(
+        singleData.position_lat,
+        singleData.position_lon,
+        nearbyStationData[1].lat,
+        nearbyStationData[1].long
+      );
+      setOSRM(osrmData);
       if (geocodingData) {
         setGeocode(`Bus near ${geocodingData}`);
       } else {
@@ -37,7 +38,6 @@ export const DataCard = ({ singleData }) => {
     }
     get();
   }, []);
-  console.log(nearbyStationData);
   return (
     <div className="bg-black dark:bg-white text-white dark:text-black w-[100%] mt-2 mb-2 rounded-md p-2">
       {/* header */}
@@ -60,11 +60,16 @@ export const DataCard = ({ singleData }) => {
               : "Unknown Station"}
           </div>
           <div className="bg-blue-500 rounded-md p-3 text-4xl ms-auto me-auto col-span-4">
-            <h1 className="text-4xl text-start text-white">
+            <h1 className="text-4xl text-center text-white ">
               {nearbyStationData[1]?.name
                 ? nearbyStationData[1]?.name
                 : "Unknown station"}
             </h1>
+            <p className="text-base text-white text-center">
+              {currentNearbyData != -1
+                ? `${currentNearbyData}m left until arrival`
+                : null}
+            </p>
             <h1 className="text-base text-start text-white"></h1>
           </div>
           <div className="mt-auto col-span-2 p-2">

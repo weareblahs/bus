@@ -174,16 +174,29 @@ export const getNearbyStation = async (route, lat, long) => {
     )
     .json();
   let data = [];
-
+  const position = route.charAt(route.length - 1);
   stationInfo.forEach((s) => {
-    const total = parseFloat(s.stop_lat) + parseFloat(s.stop_lon);
-    if (s.stop_lat > parseFloat(lat) && s.stop_lon < parseFloat(long)) {
-      data.push({
-        name: s.stop_name,
-        lat: parseFloat(s.stop_lat),
-        long: parseFloat(s.stop_lon),
-        seq: parseFloat(s.stop_sequence),
-      });
+    // const total = parseFloat(s.stop_lat) + parseFloat(s.stop_lon);
+    // based on route position, use appropriate calculation methods
+    if (position == "A") {
+      if (s.stop_lat >= parseFloat(lat) && s.stop_lon <= parseFloat(long)) {
+        data.push({
+          name: s.stop_name,
+          lat: parseFloat(s.stop_lat),
+          long: parseFloat(s.stop_lon),
+          seq: parseFloat(s.stop_sequence),
+        });
+      }
+    }
+    if (position == "B") {
+      if (s.stop_lat <= parseFloat(lat) && s.stop_lon <= parseFloat(long)) {
+        data.push({
+          name: s.stop_name,
+          lat: parseFloat(s.stop_lat),
+          long: parseFloat(s.stop_lon),
+          seq: parseFloat(s.stop_sequence),
+        });
+      }
     }
   });
   return data;
@@ -195,7 +208,7 @@ export const osrm = async (lat1, lon1, lat2, lon2) => {
       `https://router.project-osrm.org/route/v1/driving/${lon1},${lat1};${lon2},${lat2}?overview=false`
     );
     const json = await data.json();
-    console.log(json["routes"][0]["distance"]);
+    return json["routes"][0]["distance"];
   } catch (e) {
     return {};
   }
