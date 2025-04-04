@@ -56,7 +56,9 @@ See [here](https://github.com/weareblahs/bus/blob/main/docs/StaticData.md) for m
 - Crowdsourced bus information (including bus type and others)
 - Crowdsources bus status, which user can report if the bus gets delayed and other info
 - Pin favorite bus routes so it will appear when web app launched
-- Native Android version
+- Framework-based app for Android
+- Geolocation, which requires an large update on route data
+- Reverse searching (search for station instead of routes), which (also) requires an large update on route data
 
 # Where can I see this project?
 
