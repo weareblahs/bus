@@ -26,7 +26,7 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 - Global: Some data shows "unknown location" for all 3 station placeholders. This is due to some bugs on the `getNearest` code.
 - Global: If the array is blank (no data), nothing will be shown except for "Bus info". There will be a placeholder soon.
 - Global: Searching for loop routes will result in `getNearest` counting the first appearance of the station instead of the second appearance.
-- rapidKuantan : No realtime data available for this provider, so there are no data available for rapidKuantan (even in myRapid PULSE, as this web app uses the same source). Static data is available via other apps, such as Moovit and Google Maps.
+- rapidPenang and rapidKuantan: No realtime data available through this web app due to parsing reasons. Refer to myRapid PULSE for realtime bus data for these providers.
 - Global: Unable to parse days through static data, which I do not understand how trip IDs work in this case
 - Global: Search for static data does not work
 
@@ -36,7 +36,7 @@ Do note that the data here is not completely accurate - it is recommended to che
 
 # About station data
 
-Station names (including route names) are stored as a static JSON file under the `data/[STATE]/[PROVIDER_NAME]/StnInfo` directory, while the file names being `[ROUTE_NUMBER][A or B].json`. For the `A` or `B` suffix:
+Station names (including route names) are stored as a static JSON file under the `data/stnInfo` directory, while the file names being `[PROVIDER]_[ROUTE_NUMBER][DIRECTION].json`. For the direction:
 
 - `A` is the forward position. (example: `301A` directs to `JETI - RELAU` in rapidPenang)
 - `B` is the reverse position. (example: `301B` directs to `RELAU - JETI` in rapidPenang)
