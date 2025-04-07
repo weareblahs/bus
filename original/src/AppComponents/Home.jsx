@@ -100,15 +100,11 @@ export const Home = () => {
         <div className="fixed bottom-0 block text-center bg-black p-4">
           <p className="lg:text-left md:text-center sm:text-center">
             <span className="text-sm">
-              Data sourced from data.gov.my which is used under the terms of
-              use, which can be viewed{" "}
-              <a
-                href="https://archive.data.gov.my/p/terma-pengguna"
-                className="underline"
-              >
-                here
-              </a>{" "}
-              (in Malay).&nbsp;
+              Data sourced from data.gov.my which is used under{" "}
+              <a href="https://developer.data.gov.my/faq" className="underline">
+                CC BY 4.0
+              </a>
+              . &nbsp;
               <a href="https://github.com/weareblahs/bus" className="underline">
                 Source code
               </a>

@@ -37,12 +37,12 @@ export const getData = async (route) => {
   const provider = Cookies.get("provider");
   const providerFilter = tripMainData
     .filter((p) => p.providerName == provider)[0]
-    ["trips"].filter((r) => r.name == route)
-    .filter((v, i, a) => a.indexOf(v) == i);
+    ["trips"].filter((r) => r.name == route);
+  console.log(providerFilter);
   const endpoint = providers.filter((p) => p.providerName == provider)[0][
     "endpoint"
   ];
-  //   let protobufData = ;
+
   try {
     const response = await fetch(endpoint);
     if (!response.ok) {
@@ -57,7 +57,7 @@ export const getData = async (route) => {
       new Uint8Array(buffer)
     );
     let exportData = [];
-
+    console.log(feed.entity);
     feed.entity.forEach((f) => {
       providerFilter.forEach(async (p) => {
         if (p.id == f.vehicle.trip.tripId) {
