@@ -16,14 +16,11 @@ export const AppInformation = () => {
       >
         Prasarana's GTFS endpoints via data.gov.my
       </a>{" "}
-      which its terms can be viewed{" "}
-      <a
-        href="https://archive.data.gov.my/p/terma-pengguna"
-        className="underline"
-      >
-        here
-      </a>{" "}
-      (in Malay).&nbsp; Map data &copy;{" "}
+      which is used under{" "}
+      <a href="https://developer.data.gov.my/faq" className="underline">
+        CC BY 4.0
+      </a>
+      . &nbsp; Map data &copy;{" "}
       <a href="https://openstreetmap.org" className="underline">
         OpenStreetMap
       </a>{" "}
