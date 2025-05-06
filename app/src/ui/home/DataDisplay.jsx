@@ -31,6 +31,16 @@ export const DataDisplay = ({ data }) => {
                   );
                 })}
               </div>
+
+              <h1 className="text-center w-[100%]">
+                {" "}
+                Static data feature is not available on this instance. To view
+                static data / static bus schedule, visit{" "}
+                <a href="https://bqm.vercel.app" className="underline">
+                  the original version of bus?
+                </a>
+                .
+              </h1>
             </div>
           );
         } else if (rtd[0].data_available == false) {

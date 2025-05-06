@@ -9,7 +9,6 @@ export const Header = () => {
   return (
     <div className="grid grid-cols-2">
       <div className="mt-auto mb-auto">
-        <p className="">Current provider:</p>
         <h1 className="text-2xl">{Cookies.get("provider")}</h1>
       </div>
       <div
