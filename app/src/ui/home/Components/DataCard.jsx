@@ -6,6 +6,7 @@ export const DataCard = ({ singleData }) => {
   const [geocode, setGeocode] = useState("");
   const [nearbyStationData, setNearby] = useState([]);
   const [currentNearbyData, setOSRM] = useState(-1);
+  const [remainingTime, setRemaining] = useState(-1);
   useEffect(() => {
     async function get() {
       setGeocode("Retrieving location data...");
@@ -25,7 +26,10 @@ export const DataCard = ({ singleData }) => {
         nearbyStationData[1].lat,
         nearbyStationData[1].long
       );
-      setOSRM(osrmData);
+      if (osrmData != []) {
+        setOSRM(osrmData[0]);
+        setRemaining(osrmData[1]);
+      }
       if (geocodingData) {
         setGeocode(`Bus near ${geocodingData}`);
       } else {
@@ -65,7 +69,14 @@ export const DataCard = ({ singleData }) => {
             </h1>
             <p className="text-base text-white text-center">
               {currentNearbyData != -1
-                ? `${currentNearbyData}m left until arrival`
+                ? `${currentNearbyData}m 
+                ${
+                  remainingTime < 60
+                    ? `(< 1 min)`
+                    : `(${Math.round(remainingTime / 60)} min${
+                        Math.round(remainingTime / 60) > 1 ? "s" : ""
+                      })`
+                } left until arrival`
                 : null}
             </p>
             <h1 className="text-base text-start text-white"></h1>

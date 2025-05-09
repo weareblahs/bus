@@ -3,8 +3,9 @@ import { useState } from "react";
 import clsx from "clsx";
 
 export const Popup = ({ text }) => {
+  const [textDetected, setText] = useState("");
   return (
-    <div className="absolute bottom-8 flex">
+    <div className="absolute bottom-0 flex">
       <Transition show={text != ""}>
         <div
           className={clsx([

@@ -255,7 +255,7 @@ export const osrm = async (lat1, lon1, lat2, lon2) => {
       `https://router.project-osrm.org/route/v1/driving/${lon1},${lat1};${lon2},${lat2}?overview=false`
     );
     const json = await data.json();
-    return json["routes"][0]["distance"];
+    return [json["routes"][0]["distance"], json["routes"][0]["duration"]];
   } catch (e) {
     return {};
   }
