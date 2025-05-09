@@ -21,7 +21,7 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 # Issues
 
-- Migration: If a user visits the `b.ntyx.dev` instance before the migration to bus? v2, the data will not be loaded and the Settings page returns a blank screen. If you face this problem, please clear cookies on your mobile device, or visit through other browser or Incognito Mode. A fix that checks the difference between cookie data of bus? v2 and bus? v1 will be available soon
+- Migration: If a user visits the `b.ntyx.dev` instance before the migration to bus? v2, the data will not be loaded and the Settings page returns a blank screen. If you face this problem, please clear cookies on your mobile device, or visit through other browser or Incognito Mode. A fix that checks the difference between cookie data of bus? v2 and bus? v1 will be available soon.
 - Global: Station info inaccurate for some stations (previous, current, next). Please see myRapid PULSE app for accurate info. Location data is accurate.
   - Known ones include: rapidPenang (for mainland and loop). Please do help me confirm about accuracy of rapidKL and rapidKuantan data.
 - Global: Some data shows "unknown location" for all 3 station placeholders. This is due to some bugs on the `getNearest` code.
@@ -30,6 +30,12 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 - rapidPenang and rapidKuantan: No realtime data available through this web app due to parsing reasons. Refer to myRapid PULSE for realtime bus data for these providers.
 - Global: Unable to parse days through static data, which I do not understand how trip IDs work in this case
 - Global: Search for static data does not work
+
+## Issues that might be caused due to the author not checking
+
+For these issues, please open an issue immediately if you see it.
+
+- "temporary datacard placeholders so no rate limits will be applied for this one" shows up instead of the normal card
 
 # Disclaimer
 

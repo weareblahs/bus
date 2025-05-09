@@ -32,9 +32,7 @@ export const DataDisplay = ({ data }) => {
                 {rtd[0].data.map((d) => {
                   return (
                     <div className="ms-2 me-2">
-                      {/* <DataCard singleData={d} /> */}
-                      temporary datacard placeholders so no rate limits will be
-                      applied for this one
+                      <DataCard singleData={d} />
                     </div>
                   );
                 })}
