@@ -27,12 +27,12 @@ export const Home = () => {
   return (
     <div className="p-5 lg:ps-8 lg:pe-8 lg:pt-6 lg:pb-6">
       <Header />
-      <Popup text={popupCardData} />
       {localStorage.getItem("routeData") ? (
         <RouteSelectionDropdown setPopupCardData={setPopupCardData} />
       ) : (
         <DataRefresh />
       )}
+      <Popup text={popupCardData} />
     </div>
   );
 };

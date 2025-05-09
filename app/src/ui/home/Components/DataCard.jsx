@@ -2,11 +2,14 @@ import { useEffect, useState } from "react";
 import { button } from "../../../styling/Classnames";
 import { FaStreetView } from "react-icons/fa";
 import { geocoding, getNearbyStation, osrm } from "../../../functions/getData";
+import { getStationNames } from "../../../../../original/src/AppComponents/getData";
 export const DataCard = ({ singleData }) => {
   const [geocode, setGeocode] = useState("");
   const [nearbyStationData, setNearby] = useState([]);
   const [currentNearbyData, setOSRM] = useState(-1);
   const [remainingTime, setRemaining] = useState(-1);
+  const [stationNames, setStationNames] = useState([]);
+
   useEffect(() => {
     async function get() {
       setGeocode("Retrieving location data...");
@@ -26,6 +29,7 @@ export const DataCard = ({ singleData }) => {
         nearbyStationData[1].lat,
         nearbyStationData[1].long
       );
+
       if (osrmData != []) {
         setOSRM(osrmData[0]);
         setRemaining(osrmData[1]);
@@ -37,9 +41,16 @@ export const DataCard = ({ singleData }) => {
           "Location data retrieving failed. You can still use the Street View button at the right."
         );
       }
+      const stationNames = await getStationNames(
+        singleData.route,
+        nearbyStationData[1].seq
+      );
+      setStationNames(stationNames);
     }
+
     get();
   }, [singleData]);
+
   return (
     <div className="bg-black dark:bg-white text-white dark:text-black w-[100%] mt-2 mb-2 rounded-md p-2">
       {/* header */}
@@ -54,18 +65,23 @@ export const DataCard = ({ singleData }) => {
         </div>
       </div>
       {/* next station */}
+      {/* the following uses "Unknown Station Recovery Project™." Patent pending */}
       {nearbyStationData.length != 0 ? (
         <div className="grid grid-cols-1 text-center mt-1 mb-1">
           <div className="mt-auto  mb-auto col-span-2 p-1 line-clamp-2">
             {nearbyStationData[0]?.name
               ? nearbyStationData[0]?.name
+              : stationNames.length != 0
+              ? stationNames[0]
               : "Unknown Station"}
           </div>
           <div className="bg-blue-500 rounded-md p-3 text-4xl ms-auto me-auto col-span-4">
             <h1 className="text-4xl text-center text-white ">
               {nearbyStationData[1]?.name
                 ? nearbyStationData[1]?.name
-                : "Unknown station"}
+                : stationNames.length != 0
+                ? stationNames[1]
+                : "Unknown Station"}
             </h1>
             <p className="text-base text-white text-center">
               {currentNearbyData != -1
@@ -84,6 +100,8 @@ export const DataCard = ({ singleData }) => {
           <div className="mt-auto col-span-2 p-2">
             {nearbyStationData[2]?.name
               ? nearbyStationData[2]?.name
+              : stationNames.length != 0
+              ? stationNames[2]
               : "Unknown Station"}
           </div>
         </div>

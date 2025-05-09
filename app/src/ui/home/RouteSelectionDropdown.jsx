@@ -45,7 +45,7 @@ export const RouteSelectionDropdown = ({ setPopupCardData }) => {
       intervalId = setInterval(() => {
         const now = new Date();
         console.log(`current second: ${now.getSeconds()}`);
-        if (now.getSeconds() == 0 || now.getSeconds() == 30) {
+        if (now.getSeconds() === 0 || now.getSeconds() === 30) {
           setPopupCardData("Possible new data found! Data refreshing...");
           changeData(selectedRoute);
         }
@@ -57,7 +57,7 @@ export const RouteSelectionDropdown = ({ setPopupCardData }) => {
         clearInterval(intervalId);
       }
     };
-  }, [timer]);
+  }, [timer, selectedRoute, setPopupCardData, changeData]);
 
   return (
     <div>
