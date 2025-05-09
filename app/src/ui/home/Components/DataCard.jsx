@@ -1,8 +1,12 @@
 import { useEffect, useState } from "react";
 import { button } from "../../../styling/Classnames";
 import { FaStreetView } from "react-icons/fa";
-import { geocoding, getNearbyStation, osrm } from "../../../functions/getData";
-import { getStationNames } from "../../../../../original/src/AppComponents/getData";
+import {
+  geocoding,
+  getNearbyStation,
+  osrm,
+  getStationNames,
+} from "../../../functions/getData";
 export const DataCard = ({ singleData }) => {
   const [geocode, setGeocode] = useState("");
   const [nearbyStationData, setNearby] = useState([]);

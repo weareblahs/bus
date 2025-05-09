@@ -260,3 +260,24 @@ export const osrm = async (lat1, lon1, lat2, lon2) => {
     return {};
   }
 };
+
+export const getStationNames = async (route, seq) => {
+  const provider = Cookies.get("provider");
+  const stopURL = `${window.location.protocol}//${window.location.host}/data/stnInfo/${provider}_${route}.json`;
+  const stopRes = await ky.get(stopURL);
+  if (stopRes) {
+    console.log(seq);
+    if (stopRes.json().length != 0) {
+      return [
+        stopRes[0]["stop_sequence"] == seq
+          ? "Start of route"
+          : stopRes.json()[seq - 2]["stop_name"],
+        stopRes.json()[seq - 1]["stop_name"],
+        stopRes.length == seq
+          ? "End of route"
+          : stopRes.json()[seq]["stop_name"],
+      ];
+    }
+    return ["Unknown station", "Unknown station", "Unknown station"];
+  }
+};
