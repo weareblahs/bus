@@ -88,7 +88,6 @@ export const BusStatus = ({ data, staticData, route }) => {
             </div>
             <div className="grid lg:grid-cols-4 sm:grid-cols-1 md:grid-cols-2">
               {parsedData.map((d) => {
-                console.log(d);
                 let vehicleCLD = nominatim(
                   d.vehicle.position.longitude,
                   d.vehicle.position.latitude

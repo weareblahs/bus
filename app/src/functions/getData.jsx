@@ -21,7 +21,7 @@ export const geocoding = async (lat, lon) => {
         }
       )
       .json();
-    console.log(res);
+
     // localization. chinese usually uses a format with state-city-road. technically an observation on amap i made during my china trip last year
     if (language == "en" || language == "ms") {
       return `${res.address.road}, ${res.address.city}, ${res.address.state}`;
@@ -38,7 +38,7 @@ export const getData = async (route) => {
   const providerFilter = tripMainData
     .filter((p) => p.providerName == provider)[0]
     ["trips"].filter((r) => r.name == route);
-  console.log(providerFilter);
+
   const endpoint = providers.filter((p) => p.providerName == provider)[0][
     "endpoint"
   ];
@@ -57,7 +57,7 @@ export const getData = async (route) => {
       new Uint8Array(buffer)
     );
     let exportData = [];
-    console.log(feed.entity);
+
     feed.entity.forEach((f) => {
       providerFilter.forEach(async (p) => {
         if (p.id == f.vehicle.trip.tripId) {
@@ -156,7 +156,7 @@ export const getStaticTrips = async (route) => {
         first_stop_time: sortedTime.filter((s) => s.stop == stop_id)[0]["time"],
       };
     }
-    console.log(firstStopTimeObject);
+
     return {
       nextDeparture: firstStopTimeObject,
       stations: final,
@@ -236,7 +236,7 @@ export const getNearbyStation = async (route, lat, long) => {
     // based on route position, use appropriate calculation methods
     // s.stop_lat >= parseFloat(lat) && s.stop_lon <= parseFloat(long)
     // distance(lat, long, s.stop_lat, s.stop_lon, "K") <= 0.1
-    console.log(distance(lat, long, s.stop_lat, s.stop_lon, "K"));
+
     if (distance(lat, long, s.stop_lat, s.stop_lon, "K") <= 0.5) {
       data.push({
         name: s.stop_name,

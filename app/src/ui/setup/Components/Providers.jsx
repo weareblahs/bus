@@ -4,7 +4,6 @@ import { FaB, FaBus } from "react-icons/fa6";
 import { button } from "../../../styling/Classnames";
 import Cookies from "js-cookie";
 export const Providers = () => {
-  console.log(providers);
   const [selection, setSelection] = useState("");
   const setData = (provider) => {
     Cookies.set("provider", provider, { expires: 365 });

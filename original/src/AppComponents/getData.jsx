@@ -122,7 +122,6 @@ export const getStaticTrips = async (route) => {
         first_stop_time: sortedTime.filter((s) => s.stop == stop_id)[0]["time"],
       };
     }
-    console.log(firstStopTimeObject);
     return {
       nextDeparture: firstStopTimeObject,
       stations: final,

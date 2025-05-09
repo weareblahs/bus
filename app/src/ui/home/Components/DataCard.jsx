@@ -3,8 +3,6 @@ import { button } from "../../../styling/Classnames";
 import { FaStreetView } from "react-icons/fa";
 import { geocoding, getNearbyStation, osrm } from "../../../functions/getData";
 export const DataCard = ({ singleData }) => {
-  console.log(singleData);
-  console.log();
   const [geocode, setGeocode] = useState("");
   const [nearbyStationData, setNearby] = useState([]);
   const [currentNearbyData, setOSRM] = useState(-1);
@@ -37,7 +35,7 @@ export const DataCard = ({ singleData }) => {
       }
     }
     get();
-  }, []);
+  }, [singleData]);
   return (
     <div className="bg-black dark:bg-white text-white dark:text-black w-[100%] mt-2 mb-2 rounded-md p-2">
       {/* header */}

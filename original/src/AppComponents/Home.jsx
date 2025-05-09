@@ -13,6 +13,8 @@ export const Home = () => {
   const [staticData, setD2] = useState([]);
 
   const [route, setRoute] = useState("");
+
+  const [timer, toggleTimer] = useState(false);
   useEffect(() => {
     axios
       .get(
@@ -22,8 +24,8 @@ export const Home = () => {
       )
       .then((res) => setStationList(res.data));
   }, []);
-  const setTrip = async (route) => {
-    setRoute(route);
+  const setTrip = async (r) => {
+    setRoute(r);
     setData([{ status: "Loading..." }]);
     const d = await getData(route);
     const d2 = await getStaticTrips(route);
@@ -44,7 +46,9 @@ export const Home = () => {
         <Select
           aria-label="Select"
           className="p-2 col-span-8"
-          onChange={(e) => setTrip(e.target.value)}
+          onChange={(e) => {
+            setTrip(e.target.value);
+          }}
           placeholder="Select route..."
           label="Bus route"
         >

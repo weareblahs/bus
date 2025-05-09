@@ -4,9 +4,12 @@ import { downloadRoutes } from "../../functions/DownloadRouteList";
 import Cookies from "js-cookie";
 import { DataRefresh } from "./DataRefresh";
 import { Header } from "./Header";
+import { useState } from "react";
+import { Popup } from "./Components/Popup";
 
 export const Home = () => {
   // checks if list of routes is downloaded. if not, then download. stored in localstorage
+  const [popupCardData, setPopupCardData] = useState("testing");
   useEffect(() => {
     async function get() {
       const data = await downloadRoutes(Cookies.get("provider"));
@@ -17,9 +20,14 @@ export const Home = () => {
       get();
     }
   }, []);
+
+  useEffect(() => {
+    console.log("popup");
+  }, [popupCardData]);
   return (
     <div className="p-5 lg:ps-8 lg:pe-8 lg:pt-6 lg:pb-6">
       <Header />
+      <Popup />
       {localStorage.getItem("routeData") ? (
         <RouteSelectionDropdown />
       ) : (

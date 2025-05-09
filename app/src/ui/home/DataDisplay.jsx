@@ -6,7 +6,7 @@ export const DataDisplay = ({ data }) => {
   useEffect(() => {
     setRealtimeData(data);
   }, [data]);
-  console.log(rtd);
+
   if (rtd.length != 0) {
     if (rtd.status && rtd.status == "loading") {
       return (
@@ -21,12 +21,20 @@ export const DataDisplay = ({ data }) => {
         if (rtd[0].data.length != 0) {
           return (
             <div>
-              <h1 className="mt-2">Available bus routes (realtime)</h1>
+              <div className="grid grid-cols-2">
+                <div>
+                  {" "}
+                  <h1 className="mt-2">Available bus routes (realtime)</h1>
+                </div>
+                <div>{/* reserved for future use */}</div>
+              </div>
               <div className="grid lg:grid-cols-3">
                 {rtd[0].data.map((d) => {
                   return (
                     <div className="ms-2 me-2">
-                      <DataCard singleData={d} />
+                      {/* <DataCard singleData={d} /> */}
+                      temporary datacard placeholders so no rate limits will be
+                      applied for this one
                     </div>
                   );
                 })}
@@ -44,7 +52,6 @@ export const DataDisplay = ({ data }) => {
             </div>
           );
         } else if (rtd[0].data_available == false) {
-          console.log(data);
         }
         return (
           <div className="ms-auto me-auto">

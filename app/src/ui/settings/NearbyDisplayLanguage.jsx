@@ -18,7 +18,7 @@ export const NearbyDisplayLanguage = () => {
   }, [lang]);
   const setGeoLang = (e) => {
     setLang(e);
-    console.log(e);
+
     Cookies.set("geoLanguage", e, { expires: 365 });
   };
   return (

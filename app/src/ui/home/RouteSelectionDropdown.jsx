@@ -6,7 +6,6 @@ import {
   ListboxOptions,
 } from "@headlessui/react";
 import { ChevronUpDownIcon } from "@heroicons/react/16/solid";
-import { CheckIcon } from "@heroicons/react/20/solid";
 import { useEffect, useState } from "react";
 import { routeIndicator } from "../../functions/RouteIndicator";
 import { getData, getStaticTrips } from "../../functions/getData";
@@ -16,24 +15,50 @@ export const RouteSelectionDropdown = () => {
   const routeData = JSON.parse(localStorage.getItem("routeData"));
   const [selectedRoute, setSelectedRoute] = useState([routeData[0], 0]);
   const [dd, setDisplayData] = useState([]);
+  const [timer, toggleTimer] = useState(false);
   const changeData = async (data) => {
-    setDisplayData({ status: "loading" });
-
+    if (dd.length != 2) {
+      // check if display data is the
+      setDisplayData({ status: "loading" });
+    }
     const routeID = selectedRoute[0]["id"];
     const display = await getData(routeID);
-    console.log(display);
+
     const staticTripData = await getStaticTrips(routeID);
     setDisplayData([display, staticTripData]);
+
+    toggleTimer(true);
   };
-  useEffect(() => {
-    changeData(selectedRoute);
-    console.log(dd);
-  }, []);
 
   useEffect(() => {
-    console.log(selectedRoute);
     changeData(selectedRoute);
   }, [selectedRoute]);
+
+  // if you are asking: yes, i did ask claude.ai to fix it.
+  // this has been a problem that is stuck in my mind for
+  // days since i first started react. thanks to the source
+  // that claude sources from though
+  useEffect(() => {
+    let intervalId;
+
+    if (timer) {
+      intervalId = setInterval(() => {
+        const now = new Date();
+        console.log(`current second: ${now.getSeconds()}`);
+        if (now.getSeconds() == 0 || now.getSeconds() == 30) {
+          console.log("data refreshing");
+          changeData(selectedRoute);
+        }
+      }, 1000);
+    }
+
+    return () => {
+      if (intervalId) {
+        clearInterval(intervalId);
+      }
+    };
+  }, [timer]);
+
   return (
     <div>
       <p className="mt-2">Select a route:</p>
@@ -43,7 +68,11 @@ export const RouteSelectionDropdown = () => {
             which was originally written by the Tailwind CSS team. All the necessary icons (including up / down) for the code
             below are imported according to the guide.
         */}
-        <Listbox onChange={(data) => setSelectedRoute(data)}>
+        <Listbox
+          onChange={(d) => {
+            setSelectedRoute(d);
+          }}
+        >
           <div className="relative mt-2">
             <ListboxButton className="grid w-full cursor-default grid-cols-1 rounded-md bg-white py-1.5 pr-2 pl-3 text-left text-gray-900 outline-1 -outline-offset-1 outline-gray-300 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6">
               <span className="col-start-1 row-start-1 flex items-center gap-3 pr-6">
