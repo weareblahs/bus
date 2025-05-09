@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   build: {
     rollupOptions: {
-      external: ["gtfs-realtime-bindings", "axios"],
+      external: ["gtfs-realtime-bindings", "axios", "js-cookie"],
     },
   },
 });
