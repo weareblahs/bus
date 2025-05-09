@@ -11,14 +11,14 @@ import { routeIndicator } from "../../functions/RouteIndicator";
 import { getData, getStaticTrips } from "../../functions/getData";
 import { DataDisplay } from "./DataDisplay";
 
-export const RouteSelectionDropdown = () => {
+export const RouteSelectionDropdown = ({ setPopupCardData }) => {
   const routeData = JSON.parse(localStorage.getItem("routeData"));
   const [selectedRoute, setSelectedRoute] = useState([routeData[0], 0]);
   const [dd, setDisplayData] = useState([]);
   const [timer, toggleTimer] = useState(false);
   const changeData = async (data) => {
     if (dd.length != 2) {
-      // check if display data is the
+      // check if display data is not the same as the regular ones
       setDisplayData({ status: "loading" });
     }
     const routeID = selectedRoute[0]["id"];
@@ -26,8 +26,8 @@ export const RouteSelectionDropdown = () => {
 
     const staticTripData = await getStaticTrips(routeID);
     setDisplayData([display, staticTripData]);
-
     toggleTimer(true);
+    setPopupCardData("");
   };
 
   useEffect(() => {
@@ -46,7 +46,7 @@ export const RouteSelectionDropdown = () => {
         const now = new Date();
         console.log(`current second: ${now.getSeconds()}`);
         if (now.getSeconds() == 0 || now.getSeconds() == 30) {
-          console.log("data refreshing");
+          setPopupCardData("Possible new data found! Data refreshing...");
           changeData(selectedRoute);
         }
       }, 1000);
@@ -70,6 +70,7 @@ export const RouteSelectionDropdown = () => {
         */}
         <Listbox
           onChange={(d) => {
+            setDisplayData([]); // clears display data so that the loading screen will be shown
             setSelectedRoute(d);
           }}
         >

@@ -9,7 +9,7 @@ import { Popup } from "./Components/Popup";
 
 export const Home = () => {
   // checks if list of routes is downloaded. if not, then download. stored in localstorage
-  const [popupCardData, setPopupCardData] = useState("testing");
+  const [popupCardData, setPopupCardData] = useState("");
   useEffect(() => {
     async function get() {
       const data = await downloadRoutes(Cookies.get("provider"));
@@ -27,9 +27,9 @@ export const Home = () => {
   return (
     <div className="p-5 lg:ps-8 lg:pe-8 lg:pt-6 lg:pb-6">
       <Header />
-      <Popup />
+      <Popup text={popupCardData} />
       {localStorage.getItem("routeData") ? (
-        <RouteSelectionDropdown />
+        <RouteSelectionDropdown setPopupCardData={setPopupCardData} />
       ) : (
         <DataRefresh />
       )}
