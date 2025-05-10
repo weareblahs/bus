@@ -6,7 +6,6 @@ import Cookies from "js-cookie";
 
 export const getData = async (route) => {
   let foundTrips = [];
-  const tripProvider = Cookies.get("provider");
   var trips = tripMainData.filter(
     (t) => t.providerName == Cookies.get("provider")
   )[0]["trips"];
@@ -57,12 +56,12 @@ export const getStaticTrips = async (route) => {
   const routeArray = parsedTrips
     .filter((t) => t.providerName == provider)[0]
     ["trips"].filter((t) => t.name == route);
-  const staticData = await axios.get(url);
-  const stopData = await axios.get(stopURL);
+  const staticData = await ky.get(url);
+  const stopData = await ky.get(stopURL);
 
   let na = [];
   routeArray.forEach((r) => {
-    na.push(staticData.data.filter((d) => d.id == r.id));
+    na.push(staticData.json().filter((d) => d.id == r.id));
   });
   // each array consists of stations
   var now = new Date();
@@ -102,9 +101,9 @@ export const getStaticTrips = async (route) => {
     var i;
 
     for (i = 0; i < sortedTime.length; i++) {
-      const relatedStopData = stopData?.data?.filter(
-        (s) => s.stop_id == sortedTime[i].stop
-      );
+      const relatedStopData = stopData
+        ?.json()
+        ?.filter((s) => s.stop_id == sortedTime[i].stop);
       if (sortedTime != [] || sortedTime.length != []) {
         final.push({
           time: sortedTime[i].time,
@@ -112,13 +111,13 @@ export const getStaticTrips = async (route) => {
         });
       }
     }
-    const stop_id = stopData?.data?.[0]["stop_id"];
+    const stop_id = stopData?.json()?.[0]["stop_id"];
     // get next departure time from the first station of the route
     let firstStopTimeObject = {};
     if (sortedTime.length != 0) {
       firstStopTimeObject = {
         stop_id,
-        stop_name: stopData?.data?.[0]["stop_name"],
+        stop_name: stopData?.json()?.[0]["stop_name"],
         first_stop_time: sortedTime.filter((s) => s.stop == stop_id)[0]["time"],
       };
     }

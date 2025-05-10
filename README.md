@@ -15,6 +15,8 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 | rapidKuantan      | `data.gov.my` GTFS-Realtime data (Direct) | Available (static only) | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
 | myBAS Johor Bahru | `data.gov.my`                             | Planned                 |                                                                                                            |
 
+Do note that data refresh rate for this is hardcoded to the 30th second and the initial second of every minute (0), which follows [this specification from data.gov.my](https://developer.data.gov.my/realtime-api/gtfs-realtime#frequency-of-data-update).
+
 ### What does "Direct" mean?
 
 "Direct" means that this web app will fetch the available API endpoints on `data.gov.my` instead of relying on external APIs.
