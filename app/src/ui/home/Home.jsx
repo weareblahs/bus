@@ -9,6 +9,17 @@ import { Popup } from "./Components/Popup";
 import { BusCheck } from "./BusCheck";
 
 export const Home = () => {
+  // checks, for those who use the updated version but didn't have the option in their cookies
+  // sets to default options.
+  if (!Cookies.get("geoLanguage")) {
+    Cookies.set("geoLanguage", `["en", "English"]`, { expires: 365 });
+  }
+
+  if (!Cookies.get("displayMethod")) {
+    Cookies.set("displayMethod", `["default", "Arriving Stations"]`, {
+      expires: 365,
+    });
+  }
   const mode = JSON.parse(Cookies.get("displayMethod"))[0];
   // checks if list of routes is downloaded. if not, then download. stored in localstorage
   const [popupCardData, setPopupCardData] = useState("");
