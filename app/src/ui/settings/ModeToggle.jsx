@@ -24,17 +24,17 @@ export const ModeToggle = () => {
   return (
     <div className="grid lg:grid-cols-2 bg-gray-950 dark:bg-gray-900 p-5 m-5 rounded-2xl">
       <div>
-        <div className="flex">
+        <div className="block">
           <h1 className="text-2xl text-white ">Mode</h1>
-          <p className="ms-2 me-2 mt-auto mb-auto bg-amber-500 px-2 rounded-full text-black">
-            Development in progress
-          </p>
         </div>
         <h1 className="text-medium text-white ">
           This option changes operation mode for <i>bus?</i>. Time accuracy
           depends on data provided by OSRM Project. Do note that buses might
           follow a different route.
-        </h1>
+        </h1>{" "}
+        <p className=" mt-auto mb-auto bg-amber-500 px-2 rounded-full text-black">
+          Development in progress
+        </p>
       </div>
       <div className="ms-auto me-auto mt-2 mb-2 lg:mt-auto lg:mb-auto">
         <Listbox className="" onChange={(e) => optionChange(e)}>
