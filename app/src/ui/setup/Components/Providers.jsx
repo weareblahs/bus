@@ -9,6 +9,9 @@ export const Providers = () => {
     Cookies.set("provider", provider, { expires: 365 });
     if (!Cookies.get("geoLanguage")) {
       Cookies.set("geoLanguage", `["en", "English"]`, { expires: 365 });
+      Cookies.set("displayMethod", `["default", "Arriving Stations"]`, {
+        expires: 365,
+      });
     } // sets english to default
     window.location.reload();
   };

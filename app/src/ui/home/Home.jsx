@@ -6,8 +6,10 @@ import { DataRefresh } from "./DataRefresh";
 import { Header } from "./Header";
 import { useState } from "react";
 import { Popup } from "./Components/Popup";
+import { BusCheck } from "./BusCheck";
 
 export const Home = () => {
+  const mode = JSON.parse(Cookies.get("displayMethod"))[0];
   // checks if list of routes is downloaded. if not, then download. stored in localstorage
   const [popupCardData, setPopupCardData] = useState("");
   useEffect(() => {
@@ -28,7 +30,11 @@ export const Home = () => {
     <div className="p-5 lg:ps-8 lg:pe-8 lg:pt-6 lg:pb-6">
       <Header />
       {localStorage.getItem("routeData") ? (
-        <RouteSelectionDropdown setPopupCardData={setPopupCardData} />
+        mode == "default" ? (
+          <RouteSelectionDropdown setPopupCardData={setPopupCardData} />
+        ) : (
+          <BusCheck />
+        )
       ) : (
         <DataRefresh />
       )}

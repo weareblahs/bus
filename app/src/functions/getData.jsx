@@ -278,6 +278,6 @@ export const getStationNames = async (route, seq) => {
           : stopRes.json()[seq]["stop_name"],
       ];
     }
-    return ["Unknown station", "Unknown station", "Unknown station"];
+    return ["Unknown station", "Unknown station", "Unknown station"]; // fallback - returns "Unknown station" when no station is found
   }
 };

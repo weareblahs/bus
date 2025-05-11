@@ -10,7 +10,7 @@ export const Popup = ({ text }) => {
         <div
           className={clsx([
             // Base styles
-            "px-8 py-4 justify-center text-center flex rounded-xl bottom-8 bg-green-800",
+            "px-8 py-4 me-3 justify-center text-center flex rounded-xl bottom-8 bg-green-800",
             // Shared closed styles
             "data-closed:opacity-0",
             // Entering styles

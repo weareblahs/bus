@@ -3,6 +3,7 @@ import { Header } from "./Header";
 import { ChangeProvider } from "./ChangeProvider";
 import { AppInformation } from "./AppInformation";
 import { NearbyDisplayLanguage } from "./NearbyDisplayLanguage";
+import { ModeToggle } from "./ModeToggle";
 
 export const Settings = () => {
   return (
@@ -10,6 +11,7 @@ export const Settings = () => {
       <Header />
       {/* blocks for settings */}
       <ChangeProvider />
+      <ModeToggle />
       <NearbyDisplayLanguage />
       <AppInformation />
     </div>
