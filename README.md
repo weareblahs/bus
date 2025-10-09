@@ -23,6 +23,7 @@ Do note that data refresh rate for this is hardcoded to the 30th second and the 
 
 # Issues
 
+- rapidKL: It is unsure about which bus routes are currently in operation as the data returns all bus routes, including the non-operating ones. Possible temporary fix to detect bus stations from the `routes.json` file will be implemented soon.
 - Migration: If a user visits the `b.ntyx.dev` instance before the migration to bus? v2, the data will not be loaded and the Settings page returns a blank screen. If you face this problem, please clear cookies on your mobile device, or visit through other browser or Incognito Mode. A fix that checks the difference between cookie data of bus? v2 and bus? v1 will be available soon.
   - A temporary fix has been applied for language and display method as these options are only available on bus? v2. If the cookie variable is not detected, it creates the cookie variables with the default value under the Home component.
 - Global: Station info inaccurate for some stations (previous, current, next). Please see myRapid PULSE app for accurate info. Location data is accurate.
@@ -72,12 +73,13 @@ See [here](https://github.com/weareblahs/bus/blob/main/docs/StaticData.md) for m
 
 # Where can I see this project?
 
-Currently in beta - which can be accessed via [https://b.ntyx.dev](https://b.ntyx.dev). Alternatively, you can also access the web app via [https://bqm.vercel.app](https://bqm.vercel.app).
+Currently in beta - which can be accessed via [https://b.ntyx.dev](https://b.ntyx.dev). The current instance hosted under this domain is bus? v2, which is hosted with Cloudflare Pages.
 
-Do note that a new version of bus? is coming soon, which a preview of it can be seen on [https://bqmv2.vercel.app](https://bqmv2.vercel.app).
+If you prefer the original bus? version, it is accessible on [https://bqm.vercel.app](https://bqm.vercel.app).
 
 # Credits
 
 - Data sourced from `data.gov.my` (see documentation [here](https://developer.data.gov.my/realtime-api/gtfs-static))
 - Icons sourced from Font Awesome's icon library via react-icons
 - `getNearest` algorithm from `https://www.geodatasource.com`, which the original license statement can be found on the `distance` function under `/src/appComponents/getNearest.jsx`.
+- openrouteservice API is the instance of OSRM that this project is currently using (for bus? v2 - which for the original version (v1) it's using the OSRM demo server)
