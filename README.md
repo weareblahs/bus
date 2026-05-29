@@ -1,3 +1,9 @@
+# Update: May 29 2026
+
+A complete rewrite of `bus?` is in progress, named internally as `bus? v3`.
+
+Data structure is expected to be the same as the current data structure. used on both `bus? v1` and `bus? v2`.
+
 # bus?
 
 ...yes, that is the project name. Keep it simple. It's originally called "Is there any bus for this route near me?" but it's too long.
