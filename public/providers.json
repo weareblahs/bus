@@ -1,16 +1,16 @@
 [
   {
-    "name": "rapidKL",
+    "name": "Rapid KL",
     "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-kl",
     "id": "rapidkl"
   },
   {
-    "name": "rapidKL MRT Feeder",
+    "name": "Rapid KL MRT Feeder",
     "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-mrtfeeder",
     "id": "rapidkl"
   },
   {
-    "name": "rapidPenang",
+    "name": "Rapid Penang",
     "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-penang",
     "id": "rapidpenang"
   }

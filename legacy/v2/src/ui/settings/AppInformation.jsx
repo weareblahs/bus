@@ -8,7 +8,7 @@ export const AppInformation = () => {
         View source code
       </a>
       <br />
-      Static and realtime data for rapidPenang, rapidKL and rapidPahang buses
+      Static and realtime data for Rapid Penang, Rapid KL and rapidPahang buses
       sourced from{" "}
       <a
         href="https://developer.data.gov.my/realtime-api/gtfs-static#prasarana"

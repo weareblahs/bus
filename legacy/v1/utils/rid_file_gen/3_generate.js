@@ -6,12 +6,12 @@ providerNames.forEach((f) => {
   const trips = JSON.parse(
     fs.readFileSync(`./${f}/trips.json`, "utf-8", () => {
       return "Success";
-    })
+    }),
   );
   const routes = JSON.parse(
     fs.readFileSync(`./${f}/routes.json`, "utf-8", () => {
       return "Success";
-    })
+    }),
   );
   let outFile = [];
   trips.forEach((t) => {
@@ -24,13 +24,13 @@ providerNames.forEach((f) => {
   });
   let providerName = "";
   if (f == "penang") {
-    providerName = "rapidPenang";
+    providerName = "Rapid Penang";
   }
   if (f == "kl") {
-    providerName = "rapidKL";
+    providerName = "Rapid KL";
   }
   if (f == "kuantan") {
-    providerName = "rapidKuantan";
+    providerName = "Rapid Kuantan";
   }
 
   finalFile.push({

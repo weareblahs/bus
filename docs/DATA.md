@@ -3,9 +3,10 @@
 ## `public/providers.json`
 
 This file contains all provider names available for selection, which defines the endpoint and properties `bus?` should use afterwards.
-`name`: Provider name.
-`realtimeUrl`: GTFS-R endpoint URL.
-`id`: identifier used for parsing other properties from the endpoint, including manually generated data from static GTFS endpoints, which includes assigned bus IDs.
+
+- `name`: Provider name.
+- `realtimeUrl`: GTFS-R endpoint URL.
+- `id`: identifier used for parsing other properties from the endpoint, including manually generated data from static GTFS endpoints, which includes assigned bus IDs.
 
 ### Notes
 

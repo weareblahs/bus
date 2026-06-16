@@ -19,7 +19,7 @@ This file stores all the providers (each as a JSON object). Other data (such as 
 
 ```json
 {
-  "providerName": "rapidKL",
+  "providerName": "Rapid KL",
   "state": "Kuala Lumpur",
   "country": "Malaysia",
   "endpoint": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana/?category=rapid-bus-kl"
@@ -38,7 +38,7 @@ This file stores a list of trips related to the route stored in a JSON object ca
 ```json
 [
   {
-    "providerName": "rapidPenang",
+    "providerName": "Rapid Penang",
     "trips": [
       { "id": "241210010004S9", "name": "101B" },
       { "id": "241210010006S3", "name": "101B" },
@@ -47,7 +47,7 @@ This file stores a list of trips related to the route stored in a JSON object ca
     ]
   },
   {
-    "providerName": "rapidKL",
+    "providerName": "Rapid KL",
     "trips": [
       { "id": "weekend_U8510_U851002_0", "name": "851A" },
       { "id": "weekend_S4060_S406002_0", "name": "SA06A" },
@@ -86,7 +86,7 @@ This file contains the names of the route that will be parsed from the web app. 
 ]
 ```
 
-(example data: rapidKL routes)
+(example data: Rapid KL routes)
 
 - `id`: See `Global Parameters` part on top of this document for the ID syntax.
 - `name`: Route name.
@@ -128,7 +128,7 @@ This file contains information about the route, including the stop names.
 ]
 ```
 
-(example data: rapidPenang, route 301, forward position)
+(example data: Rapid Penang, route 301, forward position)
 
 - `stop_name`: The corresponding stop name for the bus station.
 - `stop_lat`: The latitude for this station.
@@ -150,7 +150,7 @@ This file contains data that includes the arrival time for each station paired w
 ]
 ```
 
-(Example data: rapidPenang)
+(Example data: Rapid Penang)
 
 - `id`: Trip ID for the bus. Can be paired with the route ID under `src/privData/trips.json`.
 - `time`: Expected arrival time for each station. Uses a string with a 24-hour time format (HH:MM:SS).

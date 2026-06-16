@@ -19,11 +19,11 @@ function convert() {
         });
       });
       writeFile(
-        "../../public/data/rapidPenang_static_time_data.json",
+        "../../public/data/Rapid Penang_static_time_data.json",
         JSON.stringify(nd),
         () => {
           return "Write successful";
-        }
+        },
       );
     });
 
@@ -39,11 +39,11 @@ function convert() {
         });
       });
       writeFile(
-        "../../public/data/rapidKL_static_time_data.json",
+        "../../public/data/Rapid KL_static_time_data.json",
         JSON.stringify(nd),
         () => {
           return "Write successful";
-        }
+        },
       );
     });
 
@@ -59,11 +59,11 @@ function convert() {
         });
       });
       writeFile(
-        "../../public/data/rapidKuantan_static_time_data.json",
+        "../../public/data/Rapid Kuantan_static_time_data.json",
         JSON.stringify(nd),
         () => {
           return "Write successful";
-        }
+        },
       );
     });
 }

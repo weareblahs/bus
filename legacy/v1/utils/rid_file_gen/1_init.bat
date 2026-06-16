@@ -1,7 +1,7 @@
 @echo off
-echo "Downloading data for rapidPenang..."
+echo "Downloading data for Rapid Penang..."
 wget https://api.data.gov.my/gtfs-static/prasarana?category=rapid-bus-penang
-echo "Downloading data for rapidKL..."
+echo "Downloading data for Rapid KL..."
 wget https://api.data.gov.my/gtfs-static/prasarana?category=rapid-bus-kl
 echo "Downloading data for rapidPahang..."
 wget https://api.data.gov.my/gtfs-static/prasarana?category=rapid-bus-kuantan
