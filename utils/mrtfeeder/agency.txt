@@ -1,0 +1,2 @@
+agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+MRT Feeder Bus,https://www.myrapid.com.my/traveling-with-us/how-to-travel-with-us/rapid-kl/mrt/mrt-feeder-bus,Asia/Kuala_Lumpur,03-7885-2585,en
