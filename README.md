@@ -1,12 +1,10 @@
-# Update: May 29 2026
-
-A complete rewrite of `bus?` is in progress, named internally as `bus? v3`.
-
-Data structure is expected to be the same as the current data structure. used on both `bus? v1` and `bus? v2`.
-
 # bus?
 
 ...yes, that is the project name. Keep it simple. It's originally called "Is there any bus for this route near me?" but it's too long.
+
+### Project note
+
+This is a complete rewrite of `bus?`. The code for the original and `v2` version of `bus?` can be found under the `legacy` directory.
 
 # What's this?
 
@@ -14,34 +12,21 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 # Status
 
-| Provider          | Data source                               | Status                  | Remarks                                                                                                    |
-| ----------------- | ----------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
-| rapidPenang       | `data.gov.my` GTFS-Realtime data (Direct) | Available (static only) | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
-| rapidKL           | `data.gov.my` GTFS-Realtime data (Direct) | Available               | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
-| rapidKuantan      | `data.gov.my` GTFS-Realtime data (Direct) | Available (static only) | Station stop data is inaccurate due to stop estimation between current coordinates and static station data |
-| myBAS Johor Bahru | `data.gov.my`                             | Planned                 |                                                                                                            |
+_NOTE: Some station stop data is inaccurate due to stop estimation between current coordinates and static station data_
+
+| Provider       | Status    | Remarks                                                                                           |
+| -------------- | --------- | ------------------------------------------------------------------------------------------------- |
+| rapidPenang    | Available |                                                                                                   |
+| rapidKL        | Available | Due to endpoint issues for the main rapidKL, realtime data is only available for MRT Feeder buses |
+| BAS.my network | Planned   |                                                                                                   |
 
 Do note that data refresh rate for this is hardcoded to the 30th second and the initial second of every minute (0), which follows [this specification from data.gov.my](https://developer.data.gov.my/realtime-api/gtfs-realtime#frequency-of-data-update).
 
-### What does "Direct" mean?
-
-"Direct" means that this web app will fetch the available API endpoints on `data.gov.my` instead of relying on external APIs.
-
 # Issues
 
-- rapidKL: It is unsure about which bus routes are currently in operation as the data returns all bus routes, including the non-operating ones. Possible temporary fix to detect bus stations from the `routes.json` file will be implemented soon.
-- Migration: If a user visits the `b.ntyx.dev` instance before the migration to bus? v2, the data will not be loaded and the Settings page returns a blank screen. If you face this problem, please clear cookies on your mobile device, or visit through other browser or Incognito Mode. A fix that checks the difference between cookie data of bus? v2 and bus? v1 will be available soon.
-  - A temporary fix has been applied for language and display method as these options are only available on bus? v2. If the cookie variable is not detected, it creates the cookie variables with the default value under the Home component.
-- Global: Station info inaccurate for some stations (previous, current, next). Please see myRapid PULSE app for accurate info. Location data is accurate.
-  - Known ones include: rapidPenang (for mainland and loop). Please do help me confirm about accuracy of rapidKL and rapidKuantan data.
-- Global: Some data shows "unknown location" for all 3 station placeholders. This is due to some bugs on the `getNearest` code.
-- Global: If the array is blank (no data), nothing will be shown except for "Bus info". There will be a placeholder soon.
-- Global: Searching for loop routes will result in `getNearest` counting the first appearance of the station instead of the second appearance.
-- rapidPenang and rapidKuantan: No realtime data available through this web app due to parsing reasons. Refer to myRapid PULSE for realtime bus data for these providers.
-- Global: Unable to parse days through static data, which I do not understand how trip IDs work in this case
-- Global: Search for static data does not work
+- rapidKL: Realtime Data unavailable for regular rapidKL lines due to no data available via the `data.gov.my` GTFS Realtime endpoint. `Txxx` (MRT Feeder) lines still can be parsed as usual. Check the official app (myRapid PULSE) for available realtime data.
 
-## Issues that might be caused due to the author not checking
+## Issues that might be caused... due to me not checking the code carefully before deploying
 
 For these issues, please open an issue immediately if you see it.
 
@@ -53,27 +38,13 @@ Do note that the data here is not completely accurate - it is recommended to che
 
 # About station data
 
-Station names (including route names) are stored as a static JSON file under the `data/stnInfo` directory, while the file names being `[PROVIDER]_[ROUTE_NUMBER][DIRECTION].json`. For the direction:
-
-- `A` is the forward position. (example: `301A` directs to `JETI - RELAU` in rapidPenang)
-- `B` is the reverse position. (example: `301B` directs to `RELAU - JETI` in rapidPenang)
-
-  Data includes:
-
-- Station name is stored under `stop_name`.
-- Latitude and Longitude of the station are stored respectively under `stop_lat` and `stop_long`.
-- Stop ID are stored under `stop_id`.
-- Station sequence are stored under `stop_sequence`.
-  These data are originally from the open data mentioned as a GTFS data ZIP file (converted to JSON from CSV and removed duplicate entries for easy conversion).
-
-See [here](https://github.com/weareblahs/bus/blob/main/docs/StaticData.md) for more information on the structure for static data.
+See [here](https://github.com/weareblahs/bus/blob/main/docs/DATA.md) for more information on the structure for static data.
 
 # Other plans for this project
 
 - Crowdsourced bus information (including bus type and others)
 - Crowdsources bus status, which user can report if the bus gets delayed and other info
 - Pin favorite bus routes so it will appear when web app launched
-- Framework-based app for Android
 - Geolocation, which requires an large update on route data
 - Reverse searching (search for station instead of routes), which (also) requires an large update on route data
 

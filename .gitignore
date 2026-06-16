@@ -25,3 +25,9 @@ dist-ssr
 
 # "todo list" - excluded since it is not stylized for viewing
 todo.txt
+
+# environmental
+.env
+
+# node_modules in legacy versions
+legacy/*/node_modules
