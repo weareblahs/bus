@@ -12,7 +12,7 @@ function App() {
     loadData();
   }, []);
 
-  return <></>;
+  return <>{JSON.stringify}</>;
 }
 
 export default App;
