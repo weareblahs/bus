@@ -1,9 +1,10 @@
 import ky, { HTTPError } from "ky";
 import * as GtfsRealtimeBindings from "gtfs-realtime-bindings";
-import { gtfsDataUrl } from "./variables";
+import { useVars } from "./state";
 
 export type GTFSData = GtfsRealtimeBindings.transit_realtime.FeedMessage;
 export async function getGtfsData(): Promise<GTFSData> {
+  const gtfsDataUrl = useVars.getState().realtimeUrl; // zustand store
   try {
     const response = await ky.get(gtfsDataUrl);
     const buffer = await response.arrayBuffer();
