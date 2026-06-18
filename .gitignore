@@ -31,3 +31,7 @@ todo.txt
 
 # node_modules in legacy versions
 legacy/*/node_modules
+
+# utils GTFS leftovers
+utils/*.zip
+utils/*/*.txt

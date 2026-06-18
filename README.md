@@ -25,6 +25,7 @@ Do note that data refresh rate for this is hardcoded to the 30th second and the 
 # Issues
 
 - Rapid KL: Realtime Data unavailable for regular Rapid KL lines due to no data available via the `data.gov.my` GTFS Realtime endpoint. `Txxx` (MRT Feeder) lines still can be parsed as usual. Check the official app (myRapid PULSE) for available realtime data.
+- Rapid KL: Route T406B unavailable because the `stop_times.txt` file on the static GTFS data has no data available for generating as of 16 June 2026
 
 ## Issues that might be caused... due to me not checking the code carefully before deploying
 
