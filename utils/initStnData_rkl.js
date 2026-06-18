@@ -43,7 +43,6 @@ await new Promise((resolve, reject) => {
 });
 
 // parse trips
-// parse stops
 await new Promise((resolve, reject) => {
   fs.createReadStream("rapidkl/trips.txt")
     .pipe(csvParser())
@@ -136,3 +135,36 @@ console.log(`Total found stations: ${stations.length}`);
 
 // write stations.json
 fs.writeFileSync("../public/rapidkl/stations.json", JSON.stringify(stations));
+
+console.log("\nGenerating trips file for current provider...");
+
+// generate trips file
+const tripsFound = {};
+const tripsFoundAlt = {};
+// generates multiple files for trips and alternative trips if have
+// for rapid KL required information can be directly retrieved from the ID
+// possible structure: WEEKTYPE_ID_[ID][POSITION]_TRIPCOUNT
+trips.forEach((t) => {
+  const tidToProcess = t.trip_id.split("_");
+  const alt = tidToProcess[2].slice(-2) === "02"; // using the same logic above, check if the position is expected
+  if (alt) {
+    tripsFound[tidToProcess[1]] = tripsFoundAlt[tidToProcess[1]] || [];
+    tripsFound[tidToProcess[1]].push(t.trip_id);
+  } else {
+    tripsFoundAlt[tidToProcess[1]] = tripsFound[tidToProcess[1]] || [];
+    tripsFoundAlt[tidToProcess[1]].push(t.trip_id);
+  }
+});
+
+console.log("Generation complete!");
+console.log("Writing to relatedRoutes.json...");
+fs.writeFileSync(
+  "../public/rapidkl/relatedRoutes.json",
+  JSON.stringify(tripsFound),
+);
+
+console.log("Writing to relatedRoutesAlt.json...");
+fs.writeFileSync(
+  "../public/rapidkl/relatedRoutesAlt.json",
+  JSON.stringify(tripsFoundAlt),
+);

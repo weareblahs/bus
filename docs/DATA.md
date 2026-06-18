@@ -42,4 +42,6 @@ This file is a dictionary where:
 - Key: Trip ID.
 - Value: An array containing the Route ID and a boolean value that states the line's position.
 
+There is another file titled `relatedRoutesAlt.json` for buses with alternative route.
+
 **PROPOSED**: not implemented yet
