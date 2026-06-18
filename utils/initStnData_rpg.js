@@ -100,7 +100,10 @@ routes.forEach((r) => {
   });
 
   // generate reverse route stations
-  const rev = [];
+  const rev0 = [];
+  const rev1 = [];
+  let rev = [];
+
   const firstFoundRevTripId = trips.find(
     (t) => t.route_id === r.route_id && t.direction_id === "0",
   );
@@ -109,8 +112,29 @@ routes.forEach((r) => {
     const revTIDstn = stopTimes.filter((st) => st.trip_id === tid);
 
     revTIDstn.forEach((f) => {
-      rev[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
+      rev0[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
     });
+  }
+
+  const firstFoundRevTripId1 = trips.find(
+    (t) => t.route_id === r.route_id && t.direction_id === "1",
+  );
+  if (firstFoundRevTripId1) {
+    const tid = firstFoundRevTripId1.trip_id;
+    const revTIDstn = stopTimes.filter((st) => st.trip_id === tid);
+
+    revTIDstn.forEach((f) => {
+      rev1[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
+    });
+  }
+
+  // if both have data then begin comparision
+  if (rev0 && rev1) {
+    if (rev0 !== stn) {
+      rev = rev1;
+    } else if (rev1 !== stn) {
+      rev = rev0;
+    }
   }
 
   file.push({
