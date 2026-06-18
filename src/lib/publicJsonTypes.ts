@@ -23,4 +23,6 @@ export type StationNav = {
   prev: Station | null;
   cur: Station;
   next: Station | null;
+  dist: number | null;
+  dur: number | null;
 };

@@ -1,5 +1,4 @@
 import { getGtfsData, type GTFSData } from "@/lib/getGtfsData";
-import type { RelatedRoutes, Routes, Stations } from "@/lib/publicJsonTypes";
 import { useVars } from "@/lib/state";
 import {
   findNearestFromStations,
@@ -7,32 +6,59 @@ import {
   retrieveRoutes,
   retrieveStationList,
 } from "@/lib/utils";
-import type { transit_realtime } from "gtfs-realtime-bindings";
 import { useEffect, useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
 import { Button } from "../ui/button";
 
+type DebugRow = {
+  vehicleId: string | undefined;
+  tripId: string | undefined;
+  parsedRouteId: string | undefined;
+  routeName: string | undefined;
+  routeShortName: string | undefined;
+  nav: Awaited<ReturnType<typeof findNearestFromStations>>;
+};
+
 export function DebugLabs() {
   const providerName = useVars((state) => state.providerName);
-  const [gtfs, setGtfs] = useState<transit_realtime.FeedMessage | null>(null);
-  const [relRoute, setRelRoute] = useState<RelatedRoutes | null>(null);
-  const [stations, setRelStn] = useState<Stations | null>(null);
-  const [route, setRoute] = useState<Routes | null>(null);
+  const [debugRows, setDebugRows] = useState<DebugRow[]>([]);
   const pid = useVars((state) => state.id);
 
   const loadData = async () => {
     const data: GTFSData = await getGtfsData();
-    setGtfs(data);
-
     const rr = await retrieveRelatedRoutes(pid, false);
-    setRelRoute(rr);
-
     const stn = await retrieveStationList(pid);
-    setRelStn(stn);
-
     const rte = await retrieveRoutes(pid);
-    setRoute(rte);
+    const rows = await Promise.all(
+      data.entity.slice(0, 5).map(async (e) => {
+        const parsedRouteId = Object.entries(rr ?? {}).find(([, values]) =>
+          values.includes(e.vehicle?.trip?.tripId || ""),
+        )?.[0];
+
+        const routeData = rte?.find((r) => r.routeId === parsedRouteId);
+
+        const nav = await findNearestFromStations(
+          e.vehicle?.position?.latitude ?? 0,
+          e.vehicle?.position?.longitude ?? 0,
+          stn ?? [],
+          routeData?.routeStations ?? [],
+        );
+
+        return {
+          vehicleId: e.vehicle?.vehicle?.id ?? undefined,
+          tripId: e.vehicle?.trip?.tripId ?? undefined,
+          parsedRouteId,
+          routeName: routeData?.routeName,
+          routeShortName: routeData?.routeShortName,
+          nav,
+        };
+      }),
+    );
+
+    setDebugRows(rows);
   };
+
+  console.log(debugRows);
 
   useEffect(() => {
     loadData();
@@ -62,56 +88,40 @@ export function DebugLabs() {
 
       <div>
         <div className="grid grid-cols-3 gap-3">
-          {gtfs?.entity.map((e) => {
-            const parsedRouteId = Object.entries(relRoute ?? {}).find(
-              ([, values]) => values.includes(e.vehicle?.trip?.tripId || ""),
-            )?.[0];
-
-            const routeData = route?.find((r) => r.routeId === parsedRouteId);
-
-            // distance search
-            const nav = findNearestFromStations(
-              e.vehicle?.position?.latitude ?? 0,
-              e.vehicle?.position?.longitude ?? 0,
-              stations ?? [],
-              routeData?.routeStations ?? [],
-            );
-
-            return (
-              <Card key={e.id ?? e.vehicle?.vehicle?.id}>
-                <CardHeader>
-                  <CardTitle className="text-3xl">
-                    {e.vehicle?.vehicle?.id}
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
-                  Trip ID: {e.vehicle?.trip?.tripId}
-                  <br />
-                  Parsed route ID: {parsedRouteId}
-                  <br />
-                  Route number: {routeData?.routeName}
-                  <br />
-                  Route name:{" "}
-                  <span className="text-ellipsis">
-                    {routeData?.routeShortName}
-                  </span>
-                  <br />
-                  <br />
-                  Estimated Previous/Current/Next station (not calculated by
-                  ORS/OSRM)
-                  <br />
-                  Previous: {nav?.prev?.name ?? "Possible first station"} (
-                  {nav?.prev?.id ?? "-"})
-                  <br />
-                  Current: {nav?.cur?.name ?? "-"} ({nav?.cur?.id ?? "-"})
-                  <br />
-                  Next: {nav?.next?.name ?? "Possible last station"} (
-                  {nav?.next?.id ?? "-"})
-                  <br />
-                </CardContent>
-              </Card>
-            );
-          })}
+          {debugRows.map((row) => (
+            <Card key={row.vehicleId}>
+              <CardHeader>
+                <CardTitle className="text-3xl">{row.vehicleId}</CardTitle>
+              </CardHeader>
+              <CardContent>
+                Trip ID: {row.tripId}
+                <br />
+                Parsed route ID: {row.parsedRouteId}
+                <br />
+                Route number: {row.routeName}
+                <br />
+                Route name:{" "}
+                <span className="text-ellipsis">{row.routeShortName}</span>
+                <br />
+                <br />
+                Estimated Previous/Current/Next station (not calculated by
+                ORS/OSRM)
+                <br />
+                Previous: {row.nav?.prev?.name ?? "Possible first station"} (
+                {row.nav?.prev?.id ?? "-"})
+                <br />
+                Current: {row.nav?.cur?.name ?? "-"} ({row.nav?.cur?.id ?? "-"})
+                <br />
+                Next: {row.nav?.next?.name ?? "Possible last station"} (
+                {row.nav?.next?.id ?? "-"})
+                <br />
+                <br />
+                Current station distance (OSRM): {row.nav?.dist}m
+                <br />
+                Current station duration (OSRM): {row.nav?.dur}s
+              </CardContent>
+            </Card>
+          ))}
         </div>
       </div>
     </div>
