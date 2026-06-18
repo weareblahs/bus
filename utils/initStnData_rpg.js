@@ -99,6 +99,21 @@ routes.forEach((r) => {
     stn[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
   });
 
+  // if (reverseRouteTripId) {
+  //   const rstn = [];
+  //   const tid = reverseRouteTripId.trip_id; // get first reverse route ID
+  //   const filtered = stopTimes.filter((tid) => tid.trip_id === routeTripId);
+  //   filtered.forEach((f) => {
+  //     rstn[parseInt(f.stop_sequence)] = parseInt(f.stop_id);
+  //   });
+  //   // push final data
+  //   initialData.routeStationsRev = rstn;
+  // } else {
+  //   // if there is no reverse route data then push blank array
+  //   // in the UI it will check if this has no data
+  //   initialData.routeStationsRev = [];
+  // }
+
   file.push({ ...initialData, routeStations: stn });
 });
 

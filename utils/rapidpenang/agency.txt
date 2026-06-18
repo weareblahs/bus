@@ -1,2 +1,0 @@
-agency_name,agency_url,agency_timezone,agency_phone,agency_lang,agency_id
-Rapid Penang,https://www.myrapid.com.my/,Asia/Kuala_Lumpur,+604 238 1212,en,rapidpg

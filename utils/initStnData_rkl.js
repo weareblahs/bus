@@ -7,6 +7,7 @@ import csvParser from "csv-parser";
 const routes = [];
 const stopTimes = [];
 const stops = [];
+const trips = [];
 
 // parse stopTimes
 await new Promise((resolve, reject) => {
@@ -36,6 +37,18 @@ await new Promise((resolve, reject) => {
     .pipe(csvParser())
     .on("data", (row) => {
       stops.push(row);
+    })
+    .on("end", resolve)
+    .on("error", reject);
+});
+
+// parse trips
+// parse stops
+await new Promise((resolve, reject) => {
+  fs.createReadStream("rapidkl/trips.txt")
+    .pipe(csvParser())
+    .on("data", (row) => {
+      trips.push(row);
     })
     .on("end", resolve)
     .on("error", reject);
@@ -80,6 +93,36 @@ routes.forEach((r) => {
   } else {
     // if there is no data then push blank array
     initialData.routeStations = [];
+  }
+
+  // find reverse route id
+  // get name, split last part, split before "via", get last value and compare w/ lowercase?
+  const reversePosTrip =
+    "weekday_" + initialData.routeId + "_" + initialData.routeId + "02_0";
+
+  const reversePosTripId = trips.find((t) => t.trip_id === reversePosTrip);
+
+  if (reversePosTripId) {
+    const rstn = [];
+    const tid = reversePosTripId.trip_id; // get first reverse route ID
+    const filtered = stopTimes.filter((tid) => tid.trip_id === reversePosTrip);
+    filtered.forEach((f) => {
+      rstn[parseInt(f.stop_sequence)] = parseInt(f.stop_id);
+    });
+    // push final data
+
+    if (
+      JSON.stringify(rstn.filter((r) => r !== null)) !==
+      JSON.stringify(initialData.routeStations)
+    ) {
+      initialData.routeStationsRev = rstn.filter((r) => r !== null);
+    } else {
+      initialData.routeStationsRev = [];
+    }
+  } else {
+    // if there is no reverse route data then push blank array
+    // in the UI it will check if this has no data
+    initialData.routeStationsRev = [];
   }
   file.push(initialData);
 });
