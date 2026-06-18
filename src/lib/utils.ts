@@ -43,3 +43,10 @@ export async function retrieveRoutes(pid: string): Promise<Routes | null> {
     return null;
   }
 }
+
+export function findNearestFromStations(
+  lat: number,
+  lon: number,
+  stnList: Stations,
+  availStn: number[],
+) {}
