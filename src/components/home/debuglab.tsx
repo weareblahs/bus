@@ -2,6 +2,7 @@ import { getGtfsData, type GTFSData } from "@/lib/getGtfsData";
 import type { RelatedRoutes, Routes, Stations } from "@/lib/publicJsonTypes";
 import { useVars } from "@/lib/state";
 import {
+  findNearestFromStations,
   retrieveRelatedRoutes,
   retrieveRoutes,
   retrieveStationList,
@@ -66,12 +67,18 @@ export function DebugLabs() {
               ([, values]) => values.includes(e.vehicle?.trip?.tripId || ""),
             )?.[0];
 
-            const routeData = route?.filter((r) => r.routeId === parsedRouteId);
+            const routeData = route?.find((r) => r.routeId === parsedRouteId);
 
             // distance search
+            const nav = findNearestFromStations(
+              e.vehicle?.position?.latitude ?? 0,
+              e.vehicle?.position?.longitude ?? 0,
+              stations ?? [],
+              routeData?.routeStations ?? [],
+            );
 
             return (
-              <Card>
+              <Card key={e.id ?? e.vehicle?.vehicle?.id}>
                 <CardHeader>
                   <CardTitle className="text-3xl">
                     {e.vehicle?.vehicle?.id}
@@ -82,12 +89,25 @@ export function DebugLabs() {
                   <br />
                   Parsed route ID: {parsedRouteId}
                   <br />
-                  Route number: {routeData?.[0]?.routeName}
+                  Route number: {routeData?.routeName}
                   <br />
                   Route name:{" "}
                   <span className="text-ellipsis">
-                    {routeData?.[0]?.routeShortName}
+                    {routeData?.routeShortName}
                   </span>
+                  <br />
+                  <br />
+                  Estimated Previous/Current/Next station (not calculated by
+                  ORS/OSRM)
+                  <br />
+                  Previous: {nav?.prev?.name ?? "Possible first station"} (
+                  {nav?.prev?.id ?? "-"})
+                  <br />
+                  Current: {nav?.cur?.name ?? "-"} ({nav?.cur?.id ?? "-"})
+                  <br />
+                  Next: {nav?.next?.name ?? "Possible last station"} (
+                  {nav?.next?.id ?? "-"})
+                  <br />
                 </CardContent>
               </Card>
             );

@@ -17,3 +17,10 @@ export type Stations = Station[];
 export type RelatedRoutes = {
   [routeId: string]: string[];
 };
+
+// StationNav is used for storing previous/current/next station
+export type StationNav = {
+  prev: Station | null;
+  cur: Station;
+  next: Station | null;
+};

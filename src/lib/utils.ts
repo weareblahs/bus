@@ -1,7 +1,13 @@
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
-import type { RelatedRoutes, Routes, Stations } from "./publicJsonTypes";
+import type {
+  RelatedRoutes,
+  Routes,
+  StationNav,
+  Stations,
+} from "./publicJsonTypes";
 import ky from "ky";
+import haversine from "haversine-distance";
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
@@ -49,4 +55,20 @@ export function findNearestFromStations(
   lon: number,
   stnList: Stations,
   availStn: number[],
-) {}
+): StationNav | null {
+  const stationList = stnList.filter((s) => availStn.includes(s.id)); // station list including lat/lon for comparision
+  if (stationList.length !== 0) {
+    const avgDistList: number[] = [];
+    stationList.forEach((s) => {
+      const avgDist = haversine({ lat, lon }, { lat: s.lat, lon: s.lon });
+      avgDistList.push(avgDist);
+    });
+    const sortedDistList = avgDistList.toSorted((a, b) => a - b);
+    return {
+      prev: stationList[avgDistList.indexOf(sortedDistList[0]) - 1] ?? null,
+      cur: stationList[avgDistList.indexOf(sortedDistList[0])], // since both avgDistList and stationList has the same arrangement this is used
+      next: stationList[avgDistList.indexOf(sortedDistList[0]) + 1] ?? null,
+    };
+  }
+  return null;
+}
