@@ -8,9 +8,21 @@ import {
 } from "@/lib/utils";
 import { useEffect, useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
-import { Button } from "../ui/button";
+import {
+  type RelatedRoutes,
+  type Stations,
+  type Routes,
+} from "@/lib/publicJsonTypes";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "../ui/select";
+import { Badge } from "../ui/badge";
 
-type DebugRow = {
+type DataCard = {
   vehicleId: string | undefined;
   tripId: string | undefined;
   parsedRouteId: string | undefined;
@@ -19,18 +31,40 @@ type DebugRow = {
   nav: Awaited<ReturnType<typeof findNearestFromStations>>;
 };
 
-export function DebugLabs() {
+export function BqmMainInterface() {
   const providerName = useVars((state) => state.providerName);
-  const [debugRows, setDebugRows] = useState<DebugRow[]>([]);
+  const [buses, setAvailableBus] = useState<DataCard[]>([]);
+  const [rr, setRelatedRoutes] = useState<RelatedRoutes | null>();
+  const [stn, setListOfStations] = useState<Stations | null>([]);
+  const [rte, setRoutes] = useState<Routes | null>([]);
+  const [selected, setSelected] = useState<string | undefined>();
   const pid = useVars((state) => state.id);
+
+  // initialization - download required static JSON files from API
+  const init = async () => {
+    // get related routes
+    const relRoutes = await retrieveRelatedRoutes(pid, false);
+    setRelatedRoutes(relRoutes);
+    // get list of available stations of provider
+    const stnList = await retrieveStationList(pid);
+    setListOfStations(stnList);
+    // get list of routes
+    const routes = await retrieveRoutes(pid);
+    setRoutes(routes);
+  };
 
   const loadData = async () => {
     const data: GTFSData = await getGtfsData();
-    const rr = await retrieveRelatedRoutes(pid, false);
-    const stn = await retrieveStationList(pid);
-    const rte = await retrieveRoutes(pid);
+    console.log(data);
+    const relTripId = rr?.[selected ?? ""];
+    const filteredGTFSdata = data.entity.filter((d) =>
+      relTripId?.includes(d.vehicle?.trip?.tripId || ""),
+    );
     const rows = await Promise.all(
-      data.entity.slice(0, 5).map(async (e) => {
+      // get GTFS realtime data from protobuf filtered by Trip IDs
+      // filter by trip ID?
+
+      filteredGTFSdata.map(async (e) => {
         const parsedRouteId = Object.entries(rr ?? {}).find(([, values]) =>
           values.includes(e.vehicle?.trip?.tripId || ""),
         )?.[0];
@@ -47,81 +81,100 @@ export function DebugLabs() {
         return {
           vehicleId: e.vehicle?.vehicle?.id ?? undefined,
           tripId: e.vehicle?.trip?.tripId ?? undefined,
-          parsedRouteId,
+          parsedRouteId: selected,
           routeName: routeData?.routeName,
           routeShortName: routeData?.routeShortName,
-          nav,
+          nav: nav ?? null,
         };
       }),
     );
 
-    setDebugRows(rows);
+    setAvailableBus(rows);
   };
 
-  console.log(debugRows);
+  console.log(buses);
+
+  useEffect(() => {
+    init();
+  }, []);
 
   useEffect(() => {
     loadData();
-  }, []);
+  }, [selected]);
 
   return (
     <div className="p-5">
       <div className="mb-3 mx-3">
         <div className="grid grid-cols-12">
-          <div className="cols col-span-9">
-            <h1 className="text-3xl">Debug Labs&trade;</h1>
-            <h3 className="text-xl">
-              The part where everything goes "test mode" and never shows up in
-              front of a regular use of bus?
-            </h3>
-            <h3 className="text-base">
-              <i>
-                Current selected provider: <b>{providerName}</b>{" "}
-              </i>
-            </h3>
-          </div>
-          <div className="ms-auto cols col-span-3">
-            <Button onClick={loadData}>Refresh</Button>
-          </div>
+          <div className="cols col-span-9">{providerName}</div>
+        </div>
+        {/* dropdown for choosing route */}
+        <div className="w-full">
+          <Select value={selected} onValueChange={setSelected}>
+            <SelectTrigger className="w-full">
+              <SelectValue placeholder="Select a bus route..." />
+            </SelectTrigger>
+            <SelectContent className="w-full">
+              {rte?.map((r) => {
+                return (
+                  <SelectItem value={r.routeId}>
+                    <div className="flex">
+                      <Badge
+                        style={{
+                          color: `#${r.routeTextColor}`,
+                          backgroundColor: `#${r.routeColor}`,
+                        }}
+                        className="rounded-sm me-3 mt-auto mb-auto"
+                      >
+                        {r.routeName}
+                      </Badge>
+                      <span>{r.routeShortName}</span>
+                    </div>
+                  </SelectItem>
+                );
+              })}
+            </SelectContent>
+          </Select>
         </div>
       </div>
 
       <div>
         <div className="grid grid-cols-3 gap-3">
-          {debugRows.map((row) => (
-            <Card key={row.vehicleId}>
-              <CardHeader>
-                <CardTitle className="text-3xl">{row.vehicleId}</CardTitle>
-              </CardHeader>
-              <CardContent>
-                Trip ID: {row.tripId}
-                <br />
-                Parsed route ID: {row.parsedRouteId}
-                <br />
-                Route number: {row.routeName}
-                <br />
-                Route name:{" "}
-                <span className="text-ellipsis">{row.routeShortName}</span>
-                <br />
-                <br />
-                Estimated Previous/Current/Next station (not calculated by
-                ORS/OSRM)
-                <br />
-                Previous: {row.nav?.prev?.name ?? "Possible first station"} (
-                {row.nav?.prev?.id ?? "-"})
-                <br />
-                Current: {row.nav?.cur?.name ?? "-"} ({row.nav?.cur?.id ?? "-"})
-                <br />
-                Next: {row.nav?.next?.name ?? "Possible last station"} (
-                {row.nav?.next?.id ?? "-"})
-                <br />
-                <br />
-                Current station distance (OSRM): {row.nav?.dist}m
-                <br />
-                Current station duration (OSRM): {row.nav?.dur}s
-              </CardContent>
-            </Card>
-          ))}
+          {buses &&
+            buses.map((b) => (
+              <Card key={b.vehicleId}>
+                <CardHeader>
+                  <CardTitle className="text-3xl">{b.vehicleId}</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Trip ID: {b.tripId}
+                  <br />
+                  Parsed route ID: {b.parsedRouteId}
+                  <br />
+                  Route number: {b.routeName}
+                  <br />
+                  Route name:{" "}
+                  <span className="text-ellipsis">{b.routeShortName}</span>
+                  <br />
+                  <br />
+                  Estimated Previous/Current/Next station (not calculated by
+                  ORS/OSRM)
+                  <br />
+                  Previous: {b.nav?.prev?.name ?? "Possible first station"} (
+                  {b.nav?.prev?.id ?? "-"})
+                  <br />
+                  Current: {b.nav?.cur?.name ?? "-"} ({b.nav?.cur?.id ?? "-"})
+                  <br />
+                  Next: {b.nav?.next?.name ?? "Possible last station"} (
+                  {b.nav?.next?.id ?? "-"})
+                  <br />
+                  <br />
+                  Current station distance (OSRM): {b.nav?.dist}m
+                  <br />
+                  Current station duration (OSRM): {b.nav?.dur}s
+                </CardContent>
+              </Card>
+            ))}
         </div>
       </div>
     </div>

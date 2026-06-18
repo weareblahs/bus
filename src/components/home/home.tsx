@@ -1,9 +1,9 @@
-import { DebugLabs } from "./debuglab";
+import { BqmMainInterface } from "./debuglab";
 
 export function Home() {
   return (
     <>
-      <DebugLabs />
+      <BqmMainInterface />
     </>
   );
 }
