@@ -154,3 +154,32 @@ fs.writeFileSync(
 
 console.log(`Total found routes: ${file.length}`);
 console.log(`Total found stations: ${stations.length}`);
+
+// generate trips file
+const tripsFound = {};
+const tripsFoundAlt = {};
+// generates multiple files for trips and alternative trips if have
+
+trips.forEach((t) => {
+  // using the same logic above, check if the position is expected
+  if (t.direction_id === "1") {
+    tripsFoundAlt[t.route_id] = tripsFoundAlt[t.route_id] || [];
+    tripsFoundAlt[t.route_id].push(t.trip_id);
+  } else {
+    tripsFound[t.route_id] = tripsFound[t.route_id] || [];
+    tripsFound[t.route_id].push(t.trip_id);
+  }
+});
+
+console.log("Generation complete!");
+console.log("Writing to relatedRoutes.json...");
+fs.writeFileSync(
+  "../public/rapidpenang/relatedRoutes.json",
+  JSON.stringify(tripsFound),
+);
+
+console.log("Writing to relatedRoutesAlt.json...");
+fs.writeFileSync(
+  "../public/rapidpenang/relatedRoutesAlt.json",
+  JSON.stringify(tripsFoundAlt),
+);
