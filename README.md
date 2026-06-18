@@ -1,3 +1,9 @@
+# Note
+
+This branch is reconstructed from the original `bus?` v2 project code (approx. cutoff: May 2026). As a result, all commits are lost on this branch - please see the `main` branch for commits regarding to this version.
+
+The changes of this `README.md` file is based on [this commit](https://github.com/weareblahs/bus/commit/583ee29d5240af83a4dfcadade33f89b0f15d96d) dated May 29 2026.
+
 # Update: May 29 2026
 
 A complete rewrite of `bus?` is in progress, named internally as `bus? v3`.
