@@ -146,13 +146,14 @@ const tripsFoundAlt = {};
 // possible structure: WEEKTYPE_ID_[ID][POSITION]_TRIPCOUNT
 trips.forEach((t) => {
   const tidToProcess = t.trip_id.split("_");
-  const alt = tidToProcess[2].slice(-2) === "02"; // using the same logic above, check if the position is expected
-  if (alt) {
-    tripsFound[tidToProcess[1]] = tripsFoundAlt[tidToProcess[1]] || [];
-    tripsFound[tidToProcess[1]].push(t.trip_id);
-  } else {
+
+  // using the same logic above, check if the position is expected
+  if (tidToProcess[2].slice(-2) === "01") {
     tripsFoundAlt[tidToProcess[1]] = tripsFound[tidToProcess[1]] || [];
     tripsFoundAlt[tidToProcess[1]].push(t.trip_id);
+  } else {
+    tripsFound[tidToProcess[1]] = tripsFound[tidToProcess[1]] || [];
+    tripsFound[tidToProcess[1]].push(t.trip_id);
   }
 });
 
