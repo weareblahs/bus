@@ -35,3 +35,6 @@ legacy/*/node_modules
 # utils GTFS leftovers
 utils/*.zip
 utils/*/*.txt
+
+# temporary test protobuf file
+public/temptestfile_*.proto
