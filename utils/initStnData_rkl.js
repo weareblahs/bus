@@ -60,8 +60,8 @@ stops.forEach((s) => {
     id: parseInt(s.stop_id),
     name: s.stop_name.split(" ").slice(1).join(" "),
     desc: s.stop_desc,
-    lat: s.stop_lat,
-    lon: s.stop_lon,
+    lat: parseFloat(s.stop_lat),
+    lon: parseFloat(s.stop_lon),
   });
 });
 
