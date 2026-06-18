@@ -2,7 +2,7 @@
 
 This branch is reconstructed from the original `bus?` v1 project code (approx. cutoff: 2025). As a result, all commits are lost on this branch - please see the `main` branch for commits regarding to this version.
 
-`utils` does not work as it also copies, which will return an error. Other parts of the code still works as expected.
+`utils` does not work as it also copies data to `bus?` v2, which will return an error. Other parts of the code still works as expected.
 
 The changes of this `README.md` file is based on [this commit](https://github.com/weareblahs/bus/commit/ac3265be346c941522d1bec9c8c4f2d3521909d2) dated May 10 2025.
 
