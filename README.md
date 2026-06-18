@@ -17,11 +17,11 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 _NOTE: Some station stop data is inaccurate due to stop estimation between current coordinates and static station data_
 
-| Provider       | Status    | Remarks                                                                                            |
-| -------------- | --------- | -------------------------------------------------------------------------------------------------- |
-| Rapid Penang   | Available |                                                                                                    |
-| Rapid KL       | Available | Due to endpoint issues for the main Rapid KL, realtime data is only available for MRT Feeder buses |
-| BAS.my network | Planned   |                                                                                                    |
+| Provider                            | Status    | Remarks |
+| ----------------------------------- | --------- | ------- |
+| Rapid Penang                        | Available |         |
+| Rapid KL (including MRT Feeder Bus) | Available |         |
+| BAS.my network                      | Planned   |         |
 
 Do note that data refresh rate for this is hardcoded to the 30th second and the initial second of every minute (0), which follows [this specification from data.gov.my](https://developer.data.gov.my/realtime-api/gtfs-realtime#frequency-of-data-update).
 
