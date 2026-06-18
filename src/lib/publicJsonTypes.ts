@@ -10,7 +10,7 @@ export type Route = {
 
 export type Routes = Route[];
 
-export type Station = { id: number; name: string; lat: string; lon: string };
+export type Station = { id: number; name: string; lat: number; lon: number };
 
 export type Stations = Station[];
 
