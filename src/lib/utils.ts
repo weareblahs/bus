@@ -71,15 +71,25 @@ export async function findNearestFromStations(
     const cur = stationList[avgDistList.indexOf(sortedDistList[0])]; // since both avgDistList and stationList has the same arrangement this is used
     const next = stationList[avgDistList.indexOf(sortedDistList[0]) + 1];
 
-    const osrmDist = await getOSRMDistance(lat, lon, cur.lat, cur.lon);
-
-    return {
-      prev,
-      cur,
-      next,
-      dist: osrmDist?.distance ?? null,
-      dur: osrmDist?.duration ?? null,
-    };
+    try {
+      const osrmDist = await getOSRMDistance(lat, lon, cur.lat, cur.lon);
+      return {
+        prev,
+        cur,
+        next,
+        dist: osrmDist?.distance ?? null,
+        dur: osrmDist?.duration ?? null,
+      };
+    } catch (e) {
+      console.log("OSRM error: ", e);
+      return {
+        prev,
+        cur,
+        next,
+        dist: null,
+        dur: null,
+      };
+    }
   }
   return null;
 }
@@ -92,7 +102,10 @@ export async function getOSRMDistance(
 ) {
   if (p1lat && p1lon && p2lat && p2lon) {
     const apiKey = import.meta.env.VITE_ORS_API_KEY;
-    const ors = new ORS({ apiKey: apiKey });
+    const ors = new ORS({
+      apiKey: apiKey,
+      baseUrl: "https://api.heigit.org/openrouteservice",
+    });
 
     const dir = await ors.directions(
       [

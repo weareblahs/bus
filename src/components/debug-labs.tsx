@@ -7,8 +7,8 @@ import {
   retrieveStationList,
 } from "@/lib/utils";
 import { useEffect, useState } from "react";
-import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
-import { Button } from "../ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
+import { Button } from "./ui/button";
 
 type DataCard = {
   vehicleId: string | undefined;

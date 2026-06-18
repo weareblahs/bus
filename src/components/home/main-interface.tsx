@@ -21,19 +21,21 @@ import {
   SelectValue,
 } from "../ui/select";
 import { Badge } from "../ui/badge";
+import { useQuery } from "@tanstack/react-query";
+import { SingleDataCard } from "./single-data-card";
 
-type DataCard = {
+export type DataCard = {
   vehicleId: string | undefined;
   tripId: string | undefined;
   parsedRouteId: string | undefined;
   routeName: string | undefined;
   routeShortName: string | undefined;
+  speed: number | -1;
   nav: Awaited<ReturnType<typeof findNearestFromStations>>;
 };
 
 export function BqmMainInterface() {
   const providerName = useVars((state) => state.providerName);
-  const [buses, setAvailableBus] = useState<DataCard[]>([]);
   const [rr, setRelatedRoutes] = useState<RelatedRoutes | null>();
   const [stn, setListOfStations] = useState<Stations | null>([]);
   const [rte, setRoutes] = useState<Routes | null>([]);
@@ -53,7 +55,7 @@ export function BqmMainInterface() {
     setRoutes(routes);
   };
 
-  const loadData = async () => {
+  async function loadData(): Promise<DataCard[]> {
     const data: GTFSData = await getGtfsData();
     console.log(data);
     const relTripId = rr?.[selected ?? ""];
@@ -63,7 +65,6 @@ export function BqmMainInterface() {
     const rows = await Promise.all(
       // get GTFS realtime data from protobuf filtered by Trip IDs
       // filter by trip ID?
-
       filteredGTFSdata.map(async (e) => {
         const parsedRouteId = Object.entries(rr ?? {}).find(([, values]) =>
           values.includes(e.vehicle?.trip?.tripId || ""),
@@ -77,7 +78,7 @@ export function BqmMainInterface() {
           stn ?? [],
           routeData?.routeStations ?? [],
         );
-
+        console.log(e);
         return {
           vehicleId: e.vehicle?.vehicle?.id ?? undefined,
           tripId: e.vehicle?.trip?.tripId ?? undefined,
@@ -85,22 +86,22 @@ export function BqmMainInterface() {
           routeName: routeData?.routeName,
           routeShortName: routeData?.routeShortName,
           nav: nav ?? null,
+          speed: e.vehicle?.position?.speed ?? -1,
         };
       }),
     );
 
-    setAvailableBus(rows);
-  };
+    return rows;
+  }
 
-  console.log(buses);
+  const { data, isPending, error, refetch, isRefetching } = useQuery({
+    queryKey: ["bus-datacard"],
+    queryFn: loadData,
+  });
 
   useEffect(() => {
     init();
   }, []);
-
-  useEffect(() => {
-    loadData();
-  }, [selected]);
 
   return (
     <div className="p-5">
@@ -110,71 +111,84 @@ export function BqmMainInterface() {
         </div>
         {/* dropdown for choosing route */}
         <div className="w-full">
-          <Select value={selected} onValueChange={setSelected}>
+          <Select
+            value={selected}
+            onValueChange={(v: string) => {
+              setSelected(v);
+              refetch();
+            }}
+          >
             <SelectTrigger className="w-full">
               <SelectValue placeholder="Select a bus route..." />
             </SelectTrigger>
             <SelectContent className="w-full">
-              {rte?.map((r) => {
-                return (
-                  <SelectItem value={r.routeId}>
-                    <div className="flex">
-                      <Badge
-                        style={{
-                          color: `#${r.routeTextColor}`,
-                          backgroundColor: `#${r.routeColor}`,
-                        }}
-                        className="rounded-sm me-3 mt-auto mb-auto"
-                      >
-                        {r.routeName}
-                      </Badge>
-                      <span>{r.routeShortName}</span>
-                    </div>
-                  </SelectItem>
-                );
-              })}
+              {rte
+                ?.sort((a, b) => a.routeName.localeCompare(b.routeName))
+                .map((r) => {
+                  return (
+                    <SelectItem value={r.routeId}>
+                      <div className="flex">
+                        <Badge
+                          style={{
+                            color: `#${r.routeTextColor}`,
+                            backgroundColor: `#${r.routeColor}`,
+                          }}
+                          className="rounded-sm me-3 mt-auto mb-auto"
+                        >
+                          {r.routeName}
+                        </Badge>
+                        <span>{r.routeShortName}</span>
+                      </div>
+                    </SelectItem>
+                  );
+                })}
             </SelectContent>
           </Select>
         </div>
       </div>
 
+      {/* datacard display */}
       <div>
-        <div className="grid grid-cols-3 gap-3">
-          {buses &&
-            buses.map((b) => (
-              <Card key={b.vehicleId}>
-                <CardHeader>
-                  <CardTitle className="text-3xl">{b.vehicleId}</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  Trip ID: {b.tripId}
-                  <br />
-                  Parsed route ID: {b.parsedRouteId}
-                  <br />
-                  Route number: {b.routeName}
-                  <br />
-                  Route name:{" "}
-                  <span className="text-ellipsis">{b.routeShortName}</span>
-                  <br />
-                  <br />
-                  Estimated Previous/Current/Next station (not calculated by
-                  ORS/OSRM)
-                  <br />
-                  Previous: {b.nav?.prev?.name ?? "Possible first station"} (
-                  {b.nav?.prev?.id ?? "-"})
-                  <br />
-                  Current: {b.nav?.cur?.name ?? "-"} ({b.nav?.cur?.id ?? "-"})
-                  <br />
-                  Next: {b.nav?.next?.name ?? "Possible last station"} (
-                  {b.nav?.next?.id ?? "-"})
-                  <br />
-                  <br />
-                  Current station distance (OSRM): {b.nav?.dist}m
-                  <br />
-                  Current station duration (OSRM): {b.nav?.dur}s
-                </CardContent>
-              </Card>
-            ))}
+        {isPending ||
+          (isRefetching && (
+            <center>
+              <div className="block w-full lg:w-[60%]">
+                <h1 className="text-2xl">Loading route information...</h1>
+                <h3 className="text-xl">
+                  This might take a while according to how many buses are
+                  operating under this route now.
+                </h3>
+              </div>
+            </center>
+          ))}
+
+        {data &&
+          data.length === 0 &&
+          !isPending &&
+          !isRefetching &&
+          selected && (
+            <>
+              <center>
+                <div className="block w-full lg:w-[60%]">
+                  <h1 className="text-2xl">
+                    No realtime information available for this route
+                  </h1>
+                  <h3 className="text-xl">
+                    Please search for other routes or try again later.
+                  </h3>
+                </div>
+              </center>
+            </>
+          )}
+
+        {/* DATA FOUND: display data card */}
+
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 mx-3">
+          {data &&
+            !isPending &&
+            !isRefetching &&
+            data.length !== 0 &&
+            data.map((b) => <SingleDataCard key={b.vehicleId} data={b} />)}
         </div>
       </div>
     </div>

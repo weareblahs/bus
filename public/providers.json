@@ -6,7 +6,7 @@
   },
   {
     "name": "Rapid KL MRT Feeder",
-    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-mrtfeeder",
+    "realtimeUrl": "http://localhost:5173/temptestfile_mrtfeeder.proto",
     "id": "mrtfeeder"
   },
   {

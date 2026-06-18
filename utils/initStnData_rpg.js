@@ -84,7 +84,7 @@ routes.forEach((r) => {
     routeShortName: "", // general name for route
     // NOTE: route colors are unavailable
     // The following route colors are loosely based off the bus display
-    routeColor: "000000", // styling: bg color
+    routeColor: "19499F", // styling: bg color
     routeTextColor: "FF0D00", // styling: fg color
   };
   initialData.routeShortName = trips.find(
