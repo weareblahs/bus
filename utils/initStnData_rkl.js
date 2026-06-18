@@ -115,7 +115,8 @@ routes.forEach((r) => {
       JSON.stringify(rstn.filter((r) => r !== null)) !==
       JSON.stringify(initialData.routeStations)
     ) {
-      initialData.routeStationsRev = rstn.filter((r) => r !== null);
+      initialData.routeStationsRev = initialData.routeStations;
+      initialData.routeStations = rstn.filter((r) => r !== null);
     } else {
       initialData.routeStationsRev = [];
     }

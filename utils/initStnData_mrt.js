@@ -91,7 +91,25 @@ routes.forEach((r) => {
     stn[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
   });
 
-  file.push({ ...initialData, routeStations: stn });
+  const rev = [];
+  // generate reverse route stations
+  const firstFoundRevTripId = trips.find(
+    (t) => t.route_id === r.route_id && t.direction_id === "0",
+  );
+  if (firstFoundRevTripId) {
+    const tid = firstFoundRevTripId.trip_id;
+    const revTIDstn = stopTimes.filter((st) => st.trip_id === tid);
+
+    revTIDstn.forEach((f) => {
+      rev[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
+    });
+  }
+
+  file.push({
+    ...initialData,
+    routeStations: stn,
+    routeStationsRev: JSON.stringify(rev) !== JSON.stringify(stn) ? rev : [],
+  });
 });
 
 // write routes.json

@@ -99,22 +99,25 @@ routes.forEach((r) => {
     stn[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
   });
 
-  // if (reverseRouteTripId) {
-  //   const rstn = [];
-  //   const tid = reverseRouteTripId.trip_id; // get first reverse route ID
-  //   const filtered = stopTimes.filter((tid) => tid.trip_id === routeTripId);
-  //   filtered.forEach((f) => {
-  //     rstn[parseInt(f.stop_sequence)] = parseInt(f.stop_id);
-  //   });
-  //   // push final data
-  //   initialData.routeStationsRev = rstn;
-  // } else {
-  //   // if there is no reverse route data then push blank array
-  //   // in the UI it will check if this has no data
-  //   initialData.routeStationsRev = [];
-  // }
+  // generate reverse route stations
+  const rev = [];
+  const firstFoundRevTripId = trips.find(
+    (t) => t.route_id === r.route_id && t.direction_id === "0",
+  );
+  if (firstFoundRevTripId) {
+    const tid = firstFoundRevTripId.trip_id;
+    const revTIDstn = stopTimes.filter((st) => st.trip_id === tid);
 
-  file.push({ ...initialData, routeStations: stn });
+    revTIDstn.forEach((f) => {
+      rev[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
+    });
+  }
+
+  file.push({
+    ...initialData,
+    routeStations: stn,
+    routeStationsRev: JSON.stringify(rev) !== JSON.stringify(stn) ? rev : [],
+  });
 });
 
 // write routes.json
