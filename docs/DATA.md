@@ -34,3 +34,12 @@ This is generated from specific scripts under the `utils` folder. Since bus prov
 - `desc`: Station description (if have).
 - `lat`: Latitude of station.
 - `lon`: Longitude of station.
+
+### `public\PROVIDER_NAME\relatedRoutes.json`
+
+This file is a dictionary where:
+
+- Key: Trip ID.
+- Value: An array containing the Route ID and a boolean value that states the line's position.
+
+**PROPOSED**: not implemented yet

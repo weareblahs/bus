@@ -27,7 +27,6 @@ Do note that data refresh rate for this is hardcoded to the 30th second and the 
 
 # Issues
 
-- Rapid KL: Realtime Data unavailable for regular Rapid KL lines due to no data available via the `data.gov.my` GTFS Realtime endpoint. `Txxx` (MRT Feeder) lines still can be parsed as usual. Check the official app (myRapid PULSE) for available realtime data.
 - Rapid KL: Route T406B unavailable because the `stop_times.txt` file on the static GTFS data has no data available for generating as of 16 June 2026
 
 ## Issues that might be caused... due to me not checking the code carefully before deploying
@@ -46,17 +45,25 @@ See [here](https://github.com/weareblahs/bus/blob/main/docs/DATA.md) for more in
 
 # Other plans for this project
 
-- Crowdsourced bus information (including bus type and others)
-- Crowdsources bus status, which user can report if the bus gets delayed and other info
 - Pin favorite bus routes so it will appear when web app launched
 - Geolocation, which requires an large update on route data
-- Reverse searching (search for station instead of routes), which (also) requires an large update on route data
 
 # Where can I see this project?
 
 Currently in beta - which can be accessed via [https://b.ntyx.dev](https://b.ntyx.dev). The current instance hosted under this domain is bus? v2, which is hosted with Cloudflare Pages.
 
 If you prefer the original bus? version, it is accessible on [https://bqm.vercel.app](https://bqm.vercel.app).
+
+# Frequently Asked Questions
+
+Q: The route is supposed to have multiple directions but the web app does not have it.
+A: It might be due to parsing errors when generating required files. Please [open a new issue](https://github.com/weareblahs/bus/issues/new) so I can investigate and fix it.
+
+Q: Other apps have data for this route's buses, but the web app does not have it.
+A: This web application is designed to check realtime data of buses - data availability is subject to the realtime data availability of the Open Portal's GTFS-R endpoint.
+
+Q: I want to suggest a feature.
+A: Check "Other plans for this project" first to see if the feature is planned for development. If it is not on the list, please [open a new issue](https://github.com/weareblahs/bus/issues/new) so I can look into it.
 
 # Credits
 
