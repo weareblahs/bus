@@ -1,9 +1,0 @@
-@import "tailwindcss";
-
-#root {
-  font-family: "Inter", "Roboto", sans-serif;
-}
-
-.routeFont {
-  font-family: "Azeret Mono", "Inconsolata";
-}
