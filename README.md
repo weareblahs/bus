@@ -4,7 +4,10 @@
 
 ### Project note
 
-This is a complete rewrite of `bus?`. The code for the original and `v2` version of `bus?` can be found under the `legacy` directory.
+This is a complete rewrite of `bus?`. The code for the original and `v2` version of `bus?` can be found on specific branches:
+
+- `bus?`: [bqm-legacy-v1](https://github.com/weareblahs/bus/tree/bqm-legacy-v1)
+- `bus?` v2: [bqm-legacy-v2](https://github.com/weareblahs/bus/tree/bqm-legacy-v1)
 
 # What's this?
 
