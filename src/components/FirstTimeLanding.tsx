@@ -1,4 +1,3 @@
-import { ExternalLink } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "./ui/popover";
 import { useQuery } from "@tanstack/react-query";
 import { retrieveAvailableProviders } from "@/lib/retrieveAvailableProviders";
