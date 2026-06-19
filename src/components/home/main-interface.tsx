@@ -43,6 +43,8 @@ export function BqmMainInterface() {
   const [rte, setRoutes] = useState<Routes | null>([]);
   const [selected, setSelected] = useState<string | undefined>();
   const [altDir, setAltDir] = useState<boolean>(false);
+  const [lastStn, setLastStn] = useState<string | undefined>();
+  const [isAlt, setIsAlt] = useState<boolean>(false);
   const pid = useVars((state) => state.id);
 
   // initialization - download required static JSON files from API
@@ -84,8 +86,30 @@ export function BqmMainInterface() {
             e.vehicle?.position?.latitude ?? 0,
             e.vehicle?.position?.longitude ?? 0,
             stn ?? [],
-            routeData?.routeStations ?? [],
+            (altDir ? routeData?.routeStationsRev : routeData?.routeStations) ??
+              [],
           );
+
+          if (routeData) {
+            setIsAlt(routeData.routeStationsRev.length !== 0 ? true : false);
+          }
+
+          // get last station from route for display purposes
+          if (routeData) {
+            const rteArray = altDir
+              ? routeData.routeStationsRev
+              : routeData.routeStations;
+
+            console.log(routeData);
+            const lastStnId = rteArray.at(-1);
+            console.log(stn?.find((s) => s.id === lastStnId));
+            try {
+              setLastStn(stn?.find((s) => s.id === lastStnId)?.name);
+            } catch (e) {
+              setLastStn(undefined);
+            }
+          }
+
           return {
             vehicleId: e.vehicle?.vehicle?.id ?? undefined,
             tripId: e.vehicle?.trip?.tripId ?? undefined,
@@ -104,7 +128,7 @@ export function BqmMainInterface() {
   }
 
   const { data, isPending, error, refetch, isRefetching } = useQuery({
-    queryKey: [selected, altDir],
+    queryKey: [selected, altDir, isAlt],
     queryFn: () => loadData(selected, altDir),
   });
 
@@ -157,23 +181,29 @@ export function BqmMainInterface() {
       </div>
 
       {/* if the data has alternative routes, display option for user to change routes */}
-      <div className="mx-3 my-2 grid grid-cols-2">
-        <div>
-          <p>
-            <i>This route has an alternative direction</i>
-          </p>
+      {isAlt && (
+        <div className="mx-3 my-2 grid grid-cols-4">
+          <div className="cols col-span-3 mt-auto mb-auto">
+            <p className="">
+              {lastStn ? (
+                <p>to {lastStn}</p>
+              ) : (
+                <p>This route has an alternative direction</p>
+              )}
+            </p>
+          </div>
+          <div className="ms-auto">
+            <Button onClick={() => setAltDir(!altDir)}>
+              <ArrowLeftRight />
+              Change direction
+            </Button>
+          </div>
         </div>
-        <div className="ms-auto">
-          <Button onClick={() => setAltDir(!altDir)}>
-            <ArrowLeftRight />
-            Change direction
-          </Button>
-        </div>
-      </div>
+      )}
 
       {/* datacard display */}
       <div>
-        {(isPending || isRefetching) && (
+        {(isPending || isRefetching) && !error && (
           <center>
             <div className="block w-full lg:w-[60%]">
               <h1 className="text-2xl">Loading route information...</h1>
@@ -185,6 +215,7 @@ export function BqmMainInterface() {
           </center>
         )}
 
+        {/* no data handler */}
         {data &&
           data.length === 0 &&
           !isPending &&
@@ -203,6 +234,17 @@ export function BqmMainInterface() {
               </center>
             </>
           )}
+
+        {error && data && (
+          <>
+            <center>
+              <div className="block w-full lg:w-[60%]">
+                <h1 className="text-2xl">Data retrieval error</h1>
+                <h3 className="text-xl">Please try again in a few moments.</h3>
+              </div>
+            </center>
+          </>
+        )}
 
         {/* DATA FOUND: display data card */}
 
