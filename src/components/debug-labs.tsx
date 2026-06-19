@@ -23,7 +23,7 @@ export function DebugLabs() {
   const providerName = useVars((state) => state.providerName);
   const [buses, setAvailableBus] = useState<DataCard[]>([]);
   const pid = useVars((state) => state.id);
-
+  const setDebug = useVars((state) => state.setDebugLabs);
   const loadData = async () => {
     const data: GTFSData = await getGtfsData();
     // get related routes
@@ -35,7 +35,7 @@ export function DebugLabs() {
 
     const rows = await Promise.all(
       // get GTFS realtime data from protobuf filtered by Trip IDs
-      data.entity.slice(0, 5).map(async (e) => {
+      data.entity.map(async (e) => {
         const parsedRouteId = Object.entries(rr ?? {}).find(([, values]) =>
           values.includes(e.vehicle?.trip?.tripId || ""),
         )?.[0];
@@ -85,6 +85,7 @@ export function DebugLabs() {
                 Current selected provider: <b>{providerName}</b>{" "}
               </i>
             </h3>
+            <Button onClick={setDebug}>Back to bus?</Button>
           </div>
           <div className="ms-auto cols col-span-3">
             <Button onClick={loadData}>Refresh</Button>

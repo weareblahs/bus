@@ -46,7 +46,8 @@ export function BqmMainInterface() {
   const [lastStn, setLastStn] = useState<string | undefined>();
   const [isAlt, setIsAlt] = useState<boolean>(false);
   const pid = useVars((state) => state.id);
-
+  const clearProv = useVars((state) => state.clearProvider);
+  const setDebug = useVars((state) => state.setDebugLabs);
   // initialization - download required static JSON files from API
   const init = async () => {
     // get related routes
@@ -138,10 +139,23 @@ export function BqmMainInterface() {
 
   return (
     <div className="p-5">
-      <div className="mb-3 mx-3">
+      <div className="mb-3 mx-3 ">
+        {/* header */}
         <div className="grid grid-cols-12">
-          <div className="cols col-span-9">{providerName}</div>
+          <div className="cols col-span-12">{providerName}</div>
+
+          {/* LIMITED TIME ONLY! these buttons being visible to the public */}
+
+          <div className="cols col-span-6 me-6 my-2">
+            <Button className="w-full" onClick={setDebug}>
+              Debug Labs
+            </Button>
+          </div>
+          <div className="cols col-span-6 my-2" onClick={clearProv}>
+            <Button className="w-full">Clear Provider</Button>
+          </div>
         </div>
+
         {/* dropdown for choosing route */}
         <div className="w-full">
           <Select
@@ -182,8 +196,8 @@ export function BqmMainInterface() {
 
       {/* if the data has alternative routes, display option for user to change routes */}
       {isAlt && (
-        <div className="mx-3 my-2 grid grid-cols-4">
-          <div className="cols col-span-3 mt-auto mb-auto">
+        <div className="mx-3 my-2 grid grid-cols-12">
+          <div className="cols col-span-7 mt-auto mb-auto">
             <p className="">
               {lastStn ? (
                 <p>to {lastStn}</p>
@@ -192,8 +206,8 @@ export function BqmMainInterface() {
               )}
             </p>
           </div>
-          <div className="ms-auto">
-            <Button onClick={() => setAltDir(!altDir)}>
+          <div className="cols col-span-5 ms-auto">
+            <Button className="" onClick={() => setAltDir(!altDir)}>
               <ArrowLeftRight />
               Change direction
             </Button>
