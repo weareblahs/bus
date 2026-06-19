@@ -22,6 +22,8 @@ import {
 import { Badge } from "../ui/badge";
 import { useQuery } from "@tanstack/react-query";
 import { SingleDataCard } from "./single-data-card";
+import { Button } from "../ui/button";
+import { ArrowLeftRight } from "lucide-react";
 
 export type DataCard = {
   vehicleId: string | undefined;
@@ -36,16 +38,20 @@ export type DataCard = {
 export function BqmMainInterface() {
   const providerName = useVars((state) => state.providerName);
   const [rr, setRelatedRoutes] = useState<RelatedRoutes | null>();
+  const [altrr, setAltRelatedRoutes] = useState<RelatedRoutes | null>();
   const [stn, setListOfStations] = useState<Stations | null>([]);
   const [rte, setRoutes] = useState<Routes | null>([]);
   const [selected, setSelected] = useState<string | undefined>();
+  const [altDir, setAltDir] = useState<boolean>(false);
   const pid = useVars((state) => state.id);
 
   // initialization - download required static JSON files from API
   const init = async () => {
     // get related routes
     const relRoutes = await retrieveRelatedRoutes(pid, false);
+    const altRelRoutes = await retrieveRelatedRoutes(pid, true);
     setRelatedRoutes(relRoutes);
+    setAltRelatedRoutes(altRelRoutes);
     // get list of available stations of provider
     const stnList = await retrieveStationList(pid);
     setListOfStations(stnList);
@@ -54,10 +60,13 @@ export function BqmMainInterface() {
     setRoutes(routes);
   };
 
-  async function loadData(routeNo: string | undefined): Promise<DataCard[]> {
+  async function loadData(
+    routeNo: string | undefined,
+    alt: boolean,
+  ): Promise<DataCard[]> {
     if (routeNo) {
       const data: GTFSData = await getGtfsData();
-      const relTripId = rr?.[routeNo ?? ""];
+      const relTripId = (altDir ? altrr : rr)?.[routeNo ?? ""];
       const filteredGTFSdata = data.entity.filter((d) =>
         relTripId?.includes(d.vehicle?.trip?.tripId || ""),
       );
@@ -65,8 +74,8 @@ export function BqmMainInterface() {
         // get GTFS realtime data from protobuf filtered by Trip IDs
         // filter by trip ID?
         filteredGTFSdata.map(async (e) => {
-          const parsedRouteId = Object.entries(rr ?? {}).find(([, values]) =>
-            values.includes(e.vehicle?.trip?.tripId || ""),
+          const parsedRouteId = Object.entries((alt ? altrr : rr) ?? {}).find(
+            ([, values]) => values.includes(e.vehicle?.trip?.tripId || ""),
           )?.[0];
 
           const routeData = rte?.find((r) => r.routeId === parsedRouteId);
@@ -95,8 +104,8 @@ export function BqmMainInterface() {
   }
 
   const { data, isPending, error, refetch, isRefetching } = useQuery({
-    queryKey: [selected],
-    queryFn: () => loadData(selected),
+    queryKey: [selected, altDir],
+    queryFn: () => loadData(selected, altDir),
   });
 
   useEffect(() => {
@@ -147,20 +156,34 @@ export function BqmMainInterface() {
         </div>
       </div>
 
+      {/* if the data has alternative routes, display option for user to change routes */}
+      <div className="mx-3 my-2 grid grid-cols-2">
+        <div>
+          <p>
+            <i>This route has an alternative direction</i>
+          </p>
+        </div>
+        <div className="ms-auto">
+          <Button onClick={() => setAltDir(!altDir)}>
+            <ArrowLeftRight />
+            Change direction
+          </Button>
+        </div>
+      </div>
+
       {/* datacard display */}
       <div>
-        {isPending ||
-          (isRefetching && (
-            <center>
-              <div className="block w-full lg:w-[60%]">
-                <h1 className="text-2xl">Loading route information...</h1>
-                <h3 className="text-xl">
-                  This might take a while according to how many buses are
-                  operating under this route now.
-                </h3>
-              </div>
-            </center>
-          ))}
+        {(isPending || isRefetching) && (
+          <center>
+            <div className="block w-full lg:w-[60%]">
+              <h1 className="text-2xl">Loading route information...</h1>
+              <h3 className="text-xl">
+                This might take a while according to how many buses are
+                operating under this route now.
+              </h3>
+            </div>
+          </center>
+        )}
 
         {data &&
           data.length === 0 &&
