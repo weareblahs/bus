@@ -7,7 +7,6 @@ import {
   retrieveStationList,
 } from "@/lib/utils";
 import { useEffect, useState } from "react";
-import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
 import {
   type RelatedRoutes,
   type Stations,
@@ -55,48 +54,49 @@ export function BqmMainInterface() {
     setRoutes(routes);
   };
 
-  async function loadData(): Promise<DataCard[]> {
-    const data: GTFSData = await getGtfsData();
-    console.log(data);
-    const relTripId = rr?.[selected ?? ""];
-    const filteredGTFSdata = data.entity.filter((d) =>
-      relTripId?.includes(d.vehicle?.trip?.tripId || ""),
-    );
-    const rows = await Promise.all(
-      // get GTFS realtime data from protobuf filtered by Trip IDs
-      // filter by trip ID?
-      filteredGTFSdata.map(async (e) => {
-        const parsedRouteId = Object.entries(rr ?? {}).find(([, values]) =>
-          values.includes(e.vehicle?.trip?.tripId || ""),
-        )?.[0];
+  async function loadData(routeNo: string | undefined): Promise<DataCard[]> {
+    if (routeNo) {
+      const data: GTFSData = await getGtfsData();
+      const relTripId = rr?.[routeNo ?? ""];
+      const filteredGTFSdata = data.entity.filter((d) =>
+        relTripId?.includes(d.vehicle?.trip?.tripId || ""),
+      );
+      const rows = await Promise.all(
+        // get GTFS realtime data from protobuf filtered by Trip IDs
+        // filter by trip ID?
+        filteredGTFSdata.map(async (e) => {
+          const parsedRouteId = Object.entries(rr ?? {}).find(([, values]) =>
+            values.includes(e.vehicle?.trip?.tripId || ""),
+          )?.[0];
 
-        const routeData = rte?.find((r) => r.routeId === parsedRouteId);
+          const routeData = rte?.find((r) => r.routeId === parsedRouteId);
 
-        const nav = await findNearestFromStations(
-          e.vehicle?.position?.latitude ?? 0,
-          e.vehicle?.position?.longitude ?? 0,
-          stn ?? [],
-          routeData?.routeStations ?? [],
-        );
-        console.log(e);
-        return {
-          vehicleId: e.vehicle?.vehicle?.id ?? undefined,
-          tripId: e.vehicle?.trip?.tripId ?? undefined,
-          parsedRouteId: selected,
-          routeName: routeData?.routeName,
-          routeShortName: routeData?.routeShortName,
-          nav: nav ?? null,
-          speed: e.vehicle?.position?.speed ?? -1,
-        };
-      }),
-    );
+          const nav = await findNearestFromStations(
+            e.vehicle?.position?.latitude ?? 0,
+            e.vehicle?.position?.longitude ?? 0,
+            stn ?? [],
+            routeData?.routeStations ?? [],
+          );
+          return {
+            vehicleId: e.vehicle?.vehicle?.id ?? undefined,
+            tripId: e.vehicle?.trip?.tripId ?? undefined,
+            parsedRouteId: routeNo,
+            routeName: routeData?.routeName,
+            routeShortName: routeData?.routeShortName,
+            nav: nav ?? null,
+            speed: e.vehicle?.position?.speed ?? -1,
+          };
+        }),
+      );
+      return rows;
+    }
 
-    return rows;
+    return [];
   }
 
   const { data, isPending, error, refetch, isRefetching } = useQuery({
-    queryKey: ["bus-datacard"],
-    queryFn: loadData,
+    queryKey: [selected],
+    queryFn: () => loadData(selected),
   });
 
   useEffect(() => {

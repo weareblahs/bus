@@ -1,6 +1,6 @@
 import { cn } from "@/lib/utils";
 import { Badge } from "../ui/badge";
-import { Card, CardContent, CardHeader } from "../ui/card";
+import { Card, CardContent } from "../ui/card";
 import type { DataCard } from "./main-interface";
 
 export function SingleDataCard({ data }: { data: DataCard }) {
@@ -8,7 +8,9 @@ export function SingleDataCard({ data }: { data: DataCard }) {
     <Card>
       <CardContent>
         <div className="grid grid-cols-4 mb-3">
-          <div className="cols col-span-3">{data.vehicleId}</div>
+          <div className="cols col-span-3">
+            {data.vehicleId} ({data.routeName})
+          </div>
           <div className="cols col-span-1 ms-auto">
             {data.speed !== -1 && (
               <Badge
@@ -31,7 +33,13 @@ export function SingleDataCard({ data }: { data: DataCard }) {
             <p className="text-base">
               {data.nav?.dist &&
                 data.nav.dur &&
-                `${(data.nav.dist / 1000).toFixed(2)}km (${Math.round(data.nav.dur / 60) === 0 ? "<1 minute" : `${Math.round(data.nav.dur / 60)} minute${Math.round(data.nav.dur / 60) > 1 ? "s" : ""}`}) left to destination`}
+                `${(data.nav.dist / 1000).toFixed(2)}km (${
+                  Math.round(data.nav.dur / 60) === 0
+                    ? "<1 minute"
+                    : `${Math.round(data.nav.dur / 60)} minute${
+                        Math.round(data.nav.dur / 60) > 1 ? "s" : ""
+                      }`
+                }) left to destination`}
             </p>
           </div>
 
