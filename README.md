@@ -2,7 +2,7 @@
 
 A complete rewrite of `bus?` is in progress, named internally as `bus? v3`.
 
-Data structure is expected to be the same as the current data structure. used on both `bus? v1` and `bus? v2`.
+Data structure is different than the one used on both `bus? v1` and `bus? v2`.
 
 # bus?
 

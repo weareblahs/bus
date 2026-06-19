@@ -1,0 +1,25 @@
+todo v2. everything is lost from todo v1. in this world there is no data recovery
+experts that can recover a single 1kb file called 'todo.txt'. it's been completely
+overwritten. nvme SSDs are really, REALLY hard to be recovered. man, i even put it
+in gitignore. tragic, i know, but let's just face it, mate, we can just make
+everything better than the first iterataion of this file
+
+"make it a better place" -michael jackson, "we are the world 2: heal the world"
+
+[MESSAGE TARGET AUDIENCE: weareblahs. AUDIENCE REACHED: 1 (weareblahs)
+ MESSAGE WRITTEN BY A HUMAN, NOT SYNTHETICALLY]
+
+------------------------------------------------------------------------------------
+
+reverse route search for rapid penang
+    find direction_id = 1, get array
+    find direction_id = 0, get array
+    check if
+        dir_id = 0 !== (dir_id = 1 && dir_id 1 length !== 0)
+        if stn = dir_id 0 then rev_stn = dir_id 1
+
+assign 
+PLANS: BEGIN DEVELOPMENT for rapid kl / rapid penang / feeder
+
+auto generate stop times
+    MRTF: route_id is key, direction_id is route type
