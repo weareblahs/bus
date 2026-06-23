@@ -13,5 +13,55 @@
     "name": "Rapid Penang",
     "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-penang",
     "id": "rapidpenang"
+  },
+  {
+    "name": "BAS.MY Kangar",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kangar",
+    "id": "mybaskangar"
+  },
+  {
+    "name": "BAS.MY Alor Setar",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-alor-setar",
+    "id": "mybasalorsetar"
+  },
+  {
+    "name": "BAS.MY Kota Bharu",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kota-bharu",
+    "id": "mybaskb"
+  },
+  {
+    "name": "BAS.MY Kuala Terengganu",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kuala-terengganu",
+    "id": "mybaskt"
+  },
+  {
+    "name": "BAS.MY Ipoh",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-ipoh",
+    "id": "mybasipoh"
+  },
+  {
+    "name": "BAS.MY Seremban",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-seremban-a",
+    "id": "mybasseremban"
+  },
+  {
+    "name": "BAS.MY Seremban (alt)",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-seremban-b",
+    "id": "mybasserembanb"
+  },
+  {
+    "name": "BAS.MY Melaka",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-melaka",
+    "id": "mybasmelaka"
+  },
+  {
+    "name": "BAS.MY Johor Bahru",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-johor",
+    "id": "mybasjb"
+  },
+  {
+    "name": "BAS.MY Kuching",
+    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kuching",
+    "id": "mybaskuching"
   }
 ]
