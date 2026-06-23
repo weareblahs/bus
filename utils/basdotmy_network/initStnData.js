@@ -155,6 +155,38 @@ stationsToGenerate.forEach(async (station, index) => {
     JSON.stringify(stopsFile),
   );
 
-  // get stops info
-  // get general basic info
+  // create associated (fwd/rev?)
+  // relatedRoutes and relatedRoutesAlt
+  const did_fwd = {};
+  const did_rev = {};
+  //   trips.route_id (direction_id)
+  trips.forEach((t) => {
+    if (t.direction_id === "1") {
+      if (did_rev[t.route_id]) {
+        did_rev[t.route_id].push(t.trip_id);
+      } else {
+        did_rev[t.route_id] = [t.trip_id];
+      }
+    } else {
+      if (did_fwd[t.route_id]) {
+        did_fwd[t.route_id].push(t.trip_id);
+      } else {
+        did_fwd[t.route_id] = [t.trip_id];
+      }
+    }
+  });
+
+  console.log("writing relatedRoutes...");
+  fs.writeFileSync(
+    `../../public/${targetDir}/relatedRoutes.json`,
+    JSON.stringify(did_fwd),
+  );
+  console.log("writing relatedRoutesAlt...");
+  fs.writeFileSync(
+    `../../public/${targetDir}/relatedRoutesAlt.json`,
+    JSON.stringify(did_rev),
+  );
+  console.log(
+    `Files for ${station} (output folder: public/${targetDir}) has been generated\n`,
+  );
 });
