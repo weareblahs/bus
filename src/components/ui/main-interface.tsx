@@ -43,7 +43,11 @@ export type DataCard = {
   nav: Awaited<ReturnType<typeof findNearestFromStations>>;
 };
 
-export function BqmMainInterface() {
+export function BqmMainInterface({
+  setCurrentView,
+}: {
+  setCurrentView: React.Dispatch<React.SetStateAction<string>>;
+}) {
   const providerName = useVars((state) => state.providerName);
   const [rr, setRelatedRoutes] = useState<RelatedRoutes | null>();
   const [altrr, setAltRelatedRoutes] = useState<RelatedRoutes | null>();
@@ -146,7 +150,7 @@ export function BqmMainInterface() {
   }, []);
 
   return (
-    <div className="p-5">
+    <div>
       <div className="mb-3 mx-3 ">
         {/* header */}
         <div className="grid grid-cols-12">
@@ -161,12 +165,12 @@ export function BqmMainInterface() {
                 className={cn((isRefetching || isPending) && "animate-spin")}
               />
             </Button>
-            <Button>
+            <Button onClick={() => setCurrentView("options")}>
               <Settings2 />
             </Button>
           </div>
         </div>
-        {/* LIMITED TIME ONLY! these buttons being visible to the public */}
+        {/* LIMITED TIME ONLY: these buttons being visible to the public */}
 
         <div className="grid grid-cols-12">
           <div className="cols col-span-6 me-6 my-2">

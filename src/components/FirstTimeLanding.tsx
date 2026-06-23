@@ -28,7 +28,7 @@ export function FirstTimeLaunch() {
   }
 
   return (
-    <div className="p-3">
+    <div>
       {/* provider selection header */}
       <div className="text-center">
         <h1 className="text-3xl">

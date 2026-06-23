@@ -69,7 +69,7 @@ export function DebugLabs() {
   }, []);
 
   return (
-    <div className="p-5">
+    <div>
       <div className="mb-3 mx-3">
         <div className="grid grid-cols-12">
           <div className="cols col-span-9">

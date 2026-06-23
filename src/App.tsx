@@ -7,8 +7,9 @@ function App() {
   // check if it's first-time launch
   const isFirstTime = useVars((state) => state.isFirstTime);
 
-  return isFirstTime ? <FirstTimeLaunch /> : <Home />;
-  // return <FirstTimeLaunch />;
+  return (
+    <div className="p-5">{isFirstTime ? <FirstTimeLaunch /> : <Home />}</div>
+  );
 }
 
 export default App;
