@@ -176,15 +176,17 @@ export function BqmMainInterface() {
                   return (
                     <SelectItem value={r.routeId}>
                       <div className="flex">
-                        <Badge
-                          style={{
-                            color: `#${r.routeTextColor}`,
-                            backgroundColor: `#${r.routeColor}`,
-                          }}
-                          className="rounded-sm me-3 mt-auto mb-auto"
-                        >
-                          {r.routeName}
-                        </Badge>
+                        {r.routeShortName !== r.routeName && (
+                          <Badge
+                            style={{
+                              color: `#${r.routeTextColor}`,
+                              backgroundColor: `#${r.routeColor}`,
+                            }}
+                            className="rounded-sm me-3 mt-auto mb-auto"
+                          >
+                            {r.routeName}
+                          </Badge>
+                        )}
                         <span>{r.routeShortName}</span>
                       </div>
                     </SelectItem>
