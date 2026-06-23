@@ -10,6 +10,13 @@ import ky from "ky";
 import haversine from "haversine-distance";
 import { ORS } from "@routingjs/ors";
 
+// ORS is used in multiple functions
+const apiKey = import.meta.env.VITE_ORS_API_KEY;
+const ors = new ORS({
+  apiKey: apiKey,
+  baseUrl: "https://api.heigit.org/openrouteservice",
+});
+
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
@@ -101,12 +108,6 @@ export async function getOSRMDistance(
   p2lon: number | undefined,
 ) {
   if (p1lat && p1lon && p2lat && p2lon) {
-    const apiKey = import.meta.env.VITE_ORS_API_KEY;
-    const ors = new ORS({
-      apiKey: apiKey,
-      baseUrl: "https://api.heigit.org/openrouteservice",
-    });
-
     const dir = await ors.directions(
       [
         [p1lat, p1lon],
@@ -118,4 +119,18 @@ export async function getOSRMDistance(
   } else {
     throw Error("One of the values are not specified");
   }
+}
+
+export async function getORSgeocode(
+  lat: number | undefined,
+  lon: number | undefined,
+) {
+  try {
+    // size and boundary.country are set accordingly to use case of bus?
+    // size=1 > return exactly 1 result
+    // boundary.country value limits to malaysia only
+    const resp = ky.get(
+      `https://api.heigit.org/pelias/v1/reverse?api-key=${apiKey}&point.lat=${lat}&point.lon=${lon}&size=1&boundary.country=MY`,
+    );
+  } catch (e) {}
 }
