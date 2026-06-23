@@ -28,7 +28,6 @@ Do note that data refresh rate for this is hardcoded to the 30th second and the 
 # Issues
 
 - Rapid KL: Route T406B unavailable because the `stop_times.txt` file on the static GTFS data has no data available for generating as of 16 June 2026.
-- Rapid Penang: Some routes with alternative route (example: 101 towards Hub Teluk Bahang, 801 towards Penang Sentral) are not available due to an issue regarding to route parsing.
 
 ## Issues that might be caused... due to me not checking the code carefully before deploying
 
