@@ -11,11 +11,6 @@ export async function getGtfsData(): Promise<GTFSData> {
     const feed = GtfsRealtimeBindings.transit_realtime.FeedMessage.decode(
       new Uint8Array(buffer),
     );
-    feed.entity.forEach((entity: any) => {
-      if (entity.tripUpdate) {
-        console.log(entity.tripUpdate);
-      }
-    });
     return feed;
   } catch (e) {
     if (e instanceof HTTPError && e.response.status == 429) {

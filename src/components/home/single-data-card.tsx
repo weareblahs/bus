@@ -2,12 +2,19 @@ import { cn } from "@/lib/utils";
 import { Badge } from "../ui/badge";
 import { Card, CardContent } from "../ui/card";
 import type { DataCard } from "./main-interface";
+import { Button } from "../ui/button";
 
 export function SingleDataCard({ data }: { data: DataCard }) {
+  // fn to launch streetview
+  function launchStreetView(): void {
+    window.location.href = `https://google.com/maps?q&layer=c&cbll=${data.lat},${data.lon}`;
+  }
+
   return (
     <Card>
       <CardContent>
         <div className="grid grid-cols-4 mb-3">
+          {/* vehicle plate / speed */}
           <div className="cols col-span-3">{data.vehicleId}</div>
           <div className="cols col-span-1 ms-auto">
             {data.speed !== -1 && (
@@ -43,6 +50,23 @@ export function SingleDataCard({ data }: { data: DataCard }) {
 
           <div className="text-lg">
             <p>{data.nav?.next ? data.nav?.next.name : "Last station"}</p>
+          </div>
+        </div>
+
+        {/* estimated current location / street view */}
+        <div className="grid grid-cols-8 mt-3">
+          <div className="cols col-span-6 my-auto">
+            <p>
+              {data.nav &&
+                data.nav.geo &&
+                data.nav.geo.label &&
+                `near ${data.nav?.geo.name}`}
+            </p>
+          </div>
+          <div className="cols col-span-2">
+            <Button className="w-full" onClick={launchStreetView}>
+              Street View
+            </Button>
           </div>
         </div>
       </CardContent>

@@ -64,8 +64,6 @@ export function DebugLabs() {
     setAvailableBus(rows);
   };
 
-  console.log(buses);
-
   useEffect(() => {
     loadData();
   }, []);

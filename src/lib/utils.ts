@@ -80,12 +80,20 @@ export async function findNearestFromStations(
 
     try {
       const osrmDist = await getOSRMDistance(lat, lon, cur.lat, cur.lon);
+      const geocodeResponse = await getORSgeocode(lat, lon);
+
       return {
         prev,
         cur,
         next,
         dist: osrmDist?.distance ?? null,
         dur: osrmDist?.duration ?? null,
+        geo:
+          geocodeResponse &&
+          geocodeResponse.features &&
+          geocodeResponse.features.length > 0
+            ? geocodeResponse.features[0].properties
+            : [],
       };
     } catch (e) {
       console.log("OSRM error: ", e);
@@ -95,6 +103,7 @@ export async function findNearestFromStations(
         next,
         dist: null,
         dur: null,
+        geo: [],
       };
     }
   }
@@ -124,13 +133,16 @@ export async function getOSRMDistance(
 export async function getORSgeocode(
   lat: number | undefined,
   lon: number | undefined,
-) {
+): Promise<any> {
   try {
     // size and boundary.country are set accordingly to use case of bus?
     // size=1 > return exactly 1 result
     // boundary.country value limits to malaysia only
     const resp = ky.get(
-      `https://api.heigit.org/pelias/v1/reverse?api-key=${apiKey}&point.lat=${lat}&point.lon=${lon}&size=1&boundary.country=MY`,
+      `https://api.heigit.org/pelias/v1/reverse?api_key=${apiKey}&point.lat=${lat}&point.lon=${lon}&size=1&boundary.country=MY`,
     );
-  } catch (e) {}
+    return resp.json();
+  } catch (e) {
+    throw Error("Geocode Retrieval Failure");
+  }
 }

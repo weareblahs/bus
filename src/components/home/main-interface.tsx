@@ -32,6 +32,8 @@ export type DataCard = {
   routeName: string | undefined;
   routeShortName: string | undefined;
   speed: number | -1;
+  lat: number | undefined;
+  lon: number | undefined;
   nav: Awaited<ReturnType<typeof findNearestFromStations>>;
 };
 
@@ -90,7 +92,6 @@ export function BqmMainInterface() {
             (altDir ? routeData?.routeStationsRev : routeData?.routeStations) ??
               [],
           );
-
           if (routeData) {
             setIsAlt(routeData.routeStationsRev.length !== 0 ? true : false);
           }
@@ -101,9 +102,7 @@ export function BqmMainInterface() {
               ? routeData.routeStationsRev
               : routeData.routeStations;
 
-            console.log(routeData);
             const lastStnId = rteArray.at(-1);
-            console.log(stn?.find((s) => s.id === lastStnId));
             try {
               setLastStn(stn?.find((s) => s.id === lastStnId)?.name);
             } catch (e) {
@@ -118,6 +117,8 @@ export function BqmMainInterface() {
             routeName: routeData?.routeName,
             routeShortName: routeData?.routeShortName,
             nav: nav ?? null,
+            lat: e.vehicle?.position?.latitude ?? undefined,
+            lon: e.vehicle?.position?.longitude ?? undefined,
             speed: e.vehicle?.position?.speed ?? -1,
           };
         }),
@@ -267,7 +268,9 @@ export function BqmMainInterface() {
             !isPending &&
             !isRefetching &&
             data.length !== 0 &&
-            data.map((b) => <SingleDataCard key={b.vehicleId} data={b} />)}
+            data.map((b: DataCard) => (
+              <SingleDataCard key={b.vehicleId} data={b} />
+            ))}
         </div>
       </div>
     </div>

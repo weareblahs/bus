@@ -30,4 +30,5 @@ export type StationNav = {
   next: Station | null;
   dist: number | null;
   dur: number | null;
+  geo: any;
 };
