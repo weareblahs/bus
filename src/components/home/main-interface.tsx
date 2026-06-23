@@ -1,6 +1,7 @@
 import { getGtfsData, type GTFSData } from "@/lib/getGtfsData";
 import { useVars } from "@/lib/state";
 import {
+  cn,
   findNearestFromStations,
   retrieveRelatedRoutes,
   retrieveRoutes,
@@ -23,7 +24,12 @@ import { Badge } from "../ui/badge";
 import { useQuery } from "@tanstack/react-query";
 import { SingleDataCard } from "./single-data-card";
 import { Button } from "../ui/button";
-import { ArrowLeftRight } from "lucide-react";
+import {
+  ArrowLeftRight,
+  RefreshCwIcon,
+  Settings,
+  Settings2,
+} from "lucide-react";
 
 export type DataCard = {
   vehicleId: string | undefined;
@@ -132,6 +138,7 @@ export function BqmMainInterface() {
   const { data, isPending, error, refetch, isRefetching } = useQuery({
     queryKey: [selected, altDir, isAlt],
     queryFn: () => loadData(selected, altDir),
+    refetchInterval: 30000, // default by 30s as per GTFS spec
   });
 
   useEffect(() => {
@@ -143,10 +150,25 @@ export function BqmMainInterface() {
       <div className="mb-3 mx-3 ">
         {/* header */}
         <div className="grid grid-cols-12">
-          <div className="cols col-span-12">{providerName}</div>
+          <div className="cols col-span-8">{providerName}</div>
 
-          {/* LIMITED TIME ONLY! these buttons being visible to the public */}
+          <div className="cols col-span-4 flex gap-3 ms-auto">
+            <Button
+              disabled={isRefetching || isPending || !selected}
+              onClick={() => void refetch()}
+            >
+              <RefreshCwIcon
+                className={cn((isRefetching || isPending) && "animate-spin")}
+              />
+            </Button>
+            <Button>
+              <Settings2 />
+            </Button>
+          </div>
+        </div>
+        {/* LIMITED TIME ONLY! these buttons being visible to the public */}
 
+        <div className="grid grid-cols-12">
           <div className="cols col-span-6 me-6 my-2">
             <Button className="w-full" onClick={setDebug}>
               Debug Labs
