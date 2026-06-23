@@ -57,7 +57,7 @@ await new Promise((resolve, reject) => {
 const stations = [];
 stops.forEach((s) => {
   stations.push({
-    id: parseInt(s.stop_id),
+    id: s.stop_id,
     name: s.stop_name.split(" ").slice(1).join(" "),
     desc: s.stop_desc,
     lat: parseFloat(s.stop_lat),
@@ -86,7 +86,7 @@ routes.forEach((r) => {
     const stn = [];
     const filtered = stopTimes.filter((tid) => tid.trip_id === routeTripId);
     filtered.forEach((f) => {
-      stn[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
+      stn[parseInt(f.stop_sequence) - 1] = f.stop_id;
     });
     initialData.routeStations = stn;
   } else {
@@ -106,7 +106,7 @@ routes.forEach((r) => {
     const tid = reversePosTripId.trip_id; // get first reverse route ID
     const filtered = stopTimes.filter((tid) => tid.trip_id === reversePosTrip);
     filtered.forEach((f) => {
-      rstn[parseInt(f.stop_sequence)] = parseInt(f.stop_id);
+      rstn[parseInt(f.stop_sequence)] = f.stop_id;
     });
     // push final data
 

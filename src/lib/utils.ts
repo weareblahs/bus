@@ -62,7 +62,7 @@ export async function findNearestFromStations(
   lat: number,
   lon: number,
   stnList: Stations,
-  availStn: number[],
+  availStn: string[],
 ): Promise<StationNav | null> {
   const stationList = stnList.filter((s) => availStn.includes(s.id)); // station list including lat/lon for comparision
   if (stationList.length !== 0) {

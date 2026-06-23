@@ -57,7 +57,7 @@ await new Promise((resolve, reject) => {
 const stations = [];
 stops.forEach((s) => {
   stations.push({
-    id: parseInt(s.stop_id),
+    id: s.stop_id,
     name: s.stop_name,
     desc: s.stop_desc,
     lat: parseFloat(s.stop_lat),
@@ -96,7 +96,7 @@ routes.forEach((r) => {
   const firstTripId = trips.find((t) => t.route_id === r.route_id).trip_id;
   const tripIdStn = stopTimes.filter((st) => st.trip_id === firstTripId);
   tripIdStn.forEach((f) => {
-    stn[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
+    stn[parseInt(f.stop_sequence) - 1] = f.stop_id;
   });
 
   // generate reverse route stations
@@ -112,7 +112,7 @@ routes.forEach((r) => {
     const revTIDstn = stopTimes.filter((st) => st.trip_id === tid);
 
     revTIDstn.forEach((f) => {
-      rev0[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
+      rev0[parseInt(f.stop_sequence) - 1] = f.stop_id;
     });
   }
 
@@ -124,7 +124,7 @@ routes.forEach((r) => {
     const revTIDstn = stopTimes.filter((st) => st.trip_id === tid);
 
     revTIDstn.forEach((f) => {
-      rev1[parseInt(f.stop_sequence) - 1] = parseInt(f.stop_id);
+      rev1[parseInt(f.stop_sequence) - 1] = f.stop_id;
     });
   }
 

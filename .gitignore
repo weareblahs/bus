@@ -33,3 +33,5 @@ dist-ssr
 # utils: leftover GTFS static files
 utils/rapid*/*.txt
 utils/basdotmy_network/mybas-*/*.txt
+
+todo.txt

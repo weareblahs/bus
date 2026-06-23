@@ -11,7 +11,7 @@ export type Route = {
 export type Routes = Route[];
 
 export type Station = {
-  id: number;
+  id: string;
   name: string;
   lat: number;
   lon: number;
