@@ -61,12 +61,16 @@ stationsToGenerate.forEach(async (station, index) => {
     const compiledInfo = {
       routeId: r.route_id,
       routeName: r.route_short_name,
-      routeShortName: r.route_long_name,
+      routeShortName: "",
       routeColor: r.route_color,
       routeTextColor: r.route_text_color,
       routeStations: [],
       routeStationsRev: [],
     };
+
+    compiledInfo.routeShortName = trips.find(
+      (t) => t.route_id === compiledInfo.routeId,
+    ).trip_headsign;
 
     // get route station sequence (fwd)
     const foundTrip = trips.find(
