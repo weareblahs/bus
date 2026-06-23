@@ -29,3 +29,7 @@ dist-ssr
 !.dev.vars.example
 .env*
 !.env.example
+
+# utils: leftover GTFS static files
+utils/rapid*/*.txt
+utils/basdotmy_network/mybas-*/*.txt
