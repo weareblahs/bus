@@ -1,8 +1,8 @@
 import { cn } from "@/lib/utils";
 import { Badge } from "../ui/badge";
 import { Card, CardContent } from "../ui/card";
-import type { DataCard } from "./main-interface";
 import { Button } from "../ui/button";
+import type { DataCard } from "../ui/main-interface";
 
 export function SingleDataCard({ data }: { data: DataCard }) {
   // fn to launch streetview

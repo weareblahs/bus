@@ -22,7 +22,6 @@ import {
 } from "../ui/select";
 import { Badge } from "../ui/badge";
 import { useQuery } from "@tanstack/react-query";
-import { SingleDataCard } from "./single-data-card";
 import { Button } from "../ui/button";
 import {
   ArrowLeftRight,
@@ -30,6 +29,7 @@ import {
   Settings,
   Settings2,
 } from "lucide-react";
+import { SingleDataCard } from "./single-data-card";
 
 export type DataCard = {
   vehicleId: string | undefined;
@@ -138,7 +138,7 @@ export function BqmMainInterface() {
   const { data, isPending, error, refetch, isRefetching } = useQuery({
     queryKey: [selected, altDir, isAlt],
     queryFn: () => loadData(selected, altDir),
-    refetchInterval: 30000, // default by 30s as per GTFS spec
+    refetchInterval: 30000, // default by 30s as per GTFS-RT spec on data.gov.my
   });
 
   useEffect(() => {
