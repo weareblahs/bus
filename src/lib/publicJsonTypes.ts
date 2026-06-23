@@ -4,8 +4,8 @@ export type Route = {
   routeShortName: string;
   routeColor: string;
   routeTextColor: string;
-  routeStations: number[];
-  routeStationsRev: number[];
+  routeStations: string[];
+  routeStationsRev: string[];
 };
 
 export type Routes = Route[];
