@@ -13,7 +13,6 @@ import {
   type Stations,
   type Routes,
   type Station,
-  type Route,
 } from "@/lib/publicJsonTypes";
 import {
   Select,
@@ -25,12 +24,7 @@ import {
 import { Badge } from "../ui/badge";
 import { useQuery } from "@tanstack/react-query";
 import { Button } from "../ui/button";
-import {
-  ArrowLeftRight,
-  RefreshCwIcon,
-  Settings,
-  Settings2,
-} from "lucide-react";
+import { ArrowLeftRight, RefreshCwIcon, Settings2 } from "lucide-react";
 import { SingleDataCard } from "./single-data-card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./tabs";
 import { TimeLeftDataCard } from "./time-left-data-card";
