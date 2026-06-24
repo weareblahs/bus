@@ -17,17 +17,18 @@ This is a simple-to-use bus tracker that utilizes the GTFS realtime feed from th
 
 _NOTE: Some station stop data is inaccurate due to stop estimation between current coordinates and static station data_
 
-| Provider                            | Status    | Remarks |
-| ----------------------------------- | --------- | ------- |
-| Rapid Penang                        | Available |         |
-| Rapid KL (including MRT Feeder Bus) | Available |         |
-| BAS.my network                      | Available |         |
+| Provider                            | Status    | Remarks                                   |
+| ----------------------------------- | --------- | ----------------------------------------- |
+| Rapid Penang                        | Available |                                           |
+| Rapid KL (including MRT Feeder Bus) | Available |                                           |
+| BAS.MY network                      | Available | Some buses on some routes are unavailable |
 
 Do note that data refresh rate for this is hardcoded to the 30th second and the initial second of every minute (0), which follows [this specification from data.gov.my](https://developer.data.gov.my/realtime-api/gtfs-realtime#frequency-of-data-update).
 
 # Issues
 
 - Rapid KL: Route T406B unavailable because the `stop_times.txt` file on the static GTFS data has no data available for generating as of 16 June 2026.
+- BAS.MY: Some buses routes are unavailable due to route / bus parsing issues, which is confirmed from the _Debug Labs_ section of the web app. Do note that fixes are planned for this issue after most required features are built on the frontend.
 
 ## Issues that might be caused... due to me not checking the code carefully before deploying
 
@@ -60,7 +61,7 @@ Q: The route is supposed to have multiple directions but the web app does not ha
 A: It might be due to parsing errors when generating required files. Please [open a new issue](https://github.com/weareblahs/bus/issues/new) so I can investigate and fix it.
 
 Q: Other apps have data for this route's buses, but the web app does not have it.
-A: This web application is designed to check realtime data of buses - data availability is subject to the realtime data availability of the Open Portal's GTFS-R endpoint.
+A: This web application is designed to check realtime data of buses - data availability is subject to the realtime data availability of the Open Portal's GTFS-R endpoint. Do note that for some cases, the bus is not linked with the related route on the static JSON files used for parsing, which is a human-made issue (from me) rather than the issue from the web application. If this is a known case, please [open a new issue](https://github.com/weareblahs/bus/issues/new) so I can look into it.
 
 Q: I want to suggest a feature.
 A: Check "Other plans for this project" first to see if the feature is planned for development. If it is not on the list, please [open a new issue](https://github.com/weareblahs/bus/issues/new) so I can look into it.
@@ -69,5 +70,6 @@ A: Check "Other plans for this project" first to see if the feature is planned f
 
 - Data sourced from `data.gov.my` (see documentation [here](https://developer.data.gov.my/realtime-api/gtfs-static))
 - Icons sourced from Font Awesome's icon library via react-icons
-- `getNearest` algorithm from `https://www.geodatasource.com`, which the original license statement can be found on the `distance` function under `/src/appComponents/getNearest.jsx`.
-- openrouteservice API is the instance of OSRM that this project is currently using (for bus? v2 - which for the original version (v1) it's using the OSRM demo server)
+- OpenRouteService API is the instance of OSRM that this project is currently using
+- Reverse Geocoding of this web app uses Pelias by OpenRouteService which utilizes OpenStreetMap data
+- Other credits can be found in the "Options" section of the web app

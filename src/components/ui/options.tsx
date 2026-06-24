@@ -45,9 +45,10 @@ export function Options({
           <a href="https://data.gov.my">data.gov.my</a>. Used under CC BY 4.0.
           <br />
           This web app uses{" "}
-          <a href="https://openrouteservice.org">OpenRouteService</a> for
-          reverse geocoding and routing sections of the web app.
-          <br />© openrouteservice.org by HeiGIT | Map data © OpenStreetMap
+          <a href="https://openrouteservice.org">OpenRouteService</a> for the
+          reverse geocoding and routing sections.
+          <br />© openrouteservice.org by HeiGIT | Map data ©{" "}
+          <a href="https://openstreetmap.org">OpenStreetMap</a>
           contributors
           <br />
           <b>
