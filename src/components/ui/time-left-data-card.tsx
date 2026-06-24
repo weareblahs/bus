@@ -33,7 +33,13 @@ export function TimeLeftDataCard({
         }
       }
       get();
-    }, [singleStnProp, listOfStn, dur]);
+    }, [
+      dataCardProp.lat,
+      dataCardProp.lon,
+      singleStnProp?.lat,
+      singleStnProp?.lon,
+      listOfStn,
+    ]);
     return (
       diff >= 0 && (
         <Card>
