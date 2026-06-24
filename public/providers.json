@@ -11,7 +11,7 @@
   },
   {
     "name": "Rapid Penang",
-    "realtimeUrl": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-penang",
+    "realtimeUrl": "http://localhost:5173/rapid_penang_temp.proto",
     "id": "rapidpenang"
   },
   {

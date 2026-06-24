@@ -12,6 +12,8 @@ import {
   type RelatedRoutes,
   type Stations,
   type Routes,
+  type Station,
+  type Route,
 } from "@/lib/publicJsonTypes";
 import {
   Select,
@@ -30,6 +32,8 @@ import {
   Settings2,
 } from "lucide-react";
 import { SingleDataCard } from "./single-data-card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "./tabs";
+import { TimeLeftDataCard } from "./time-left-data-card";
 
 export type DataCard = {
   vehicleId: string | undefined;
@@ -57,7 +61,13 @@ export function BqmMainInterface({
   const [altDir, setAltDir] = useState<boolean>(false);
   const [lastStn, setLastStn] = useState<string | undefined>();
   const [isAlt, setIsAlt] = useState<boolean>(false);
+  const [revSelected, setRevSelected] = useState<string | undefined>();
+  const [tabVal, setTabVal] = useState<string>("realtime");
+  const [selectedListOfStations, setSelectedList] = useState<
+    string[] | undefined
+  >();
   const pid = useVars((state) => state.id);
+
   // initialization - download required static JSON files from API
   const init = async () => {
     // get related routes
@@ -117,6 +127,10 @@ export function BqmMainInterface({
               setLastStn(undefined);
             }
           }
+          setSelectedList(
+            (altDir ? routeData?.routeStationsRev : routeData?.routeStations) ??
+              undefined,
+          );
 
           return {
             vehicleId: e.vehicle?.vehicle?.id ?? undefined,
@@ -131,6 +145,7 @@ export function BqmMainInterface({
           };
         }),
       );
+
       return rows;
     }
 
@@ -230,63 +245,113 @@ export function BqmMainInterface({
         </div>
       )}
 
-      {/* datacard display */}
-      <div>
-        {(isPending || isRefetching) && !error && (
+      {/* pending / refetching / error states */}
+
+      {(isPending || isRefetching) && !error && (
+        <center>
+          <div className="block w-full lg:w-[60%]">
+            <h1 className="text-2xl">Loading route information...</h1>
+            <h3 className="text-xl">
+              This might take a while according to how many buses are operating
+              under this route now.
+            </h3>
+          </div>
+        </center>
+      )}
+
+      {/* no data handler */}
+      {data && data.length === 0 && !isPending && !isRefetching && selected && (
+        <>
           <center>
             <div className="block w-full lg:w-[60%]">
-              <h1 className="text-2xl">Loading route information...</h1>
+              <h1 className="text-2xl">
+                No realtime information available for this route
+              </h1>
               <h3 className="text-xl">
-                This might take a while according to how many buses are
-                operating under this route now.
+                Please search for other routes or try again later.
               </h3>
             </div>
           </center>
-        )}
+        </>
+      )}
 
-        {/* no data handler */}
-        {data &&
-          data.length === 0 &&
-          !isPending &&
-          !isRefetching &&
-          selected && (
-            <>
-              <center>
-                <div className="block w-full lg:w-[60%]">
-                  <h1 className="text-2xl">
-                    No realtime information available for this route
-                  </h1>
-                  <h3 className="text-xl">
-                    Please search for other routes or try again later.
-                  </h3>
-                </div>
-              </center>
-            </>
-          )}
+      {error && data && (
+        <>
+          <center>
+            <div className="block w-full lg:w-[60%]">
+              <h1 className="text-2xl">Data retrieval error</h1>
+              <h3 className="text-xl">Please try again in a few moments.</h3>
+            </div>
+          </center>
+        </>
+      )}
 
-        {error && data && (
-          <>
-            <center>
-              <div className="block w-full lg:w-[60%]">
-                <h1 className="text-2xl">Data retrieval error</h1>
-                <h3 className="text-xl">Please try again in a few moments.</h3>
+      {/* data found */}
+      {data && data.length !== 0 && !isPending && !error && !isRefetching && (
+        <Tabs className="px-3" defaultValue={tabVal} onValueChange={setTabVal}>
+          <TabsList className="w-full mx-auto">
+            <TabsTrigger value="realtime">Bus position</TabsTrigger>
+            <TabsTrigger value="reverse">Time left to arrival</TabsTrigger>
+          </TabsList>
+
+          {/* "bus position" */}
+          <TabsContent value="realtime">
+            {/* datacard display */}
+            <div>
+              {/* DATA FOUND: display data card */}
+              <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 mx-3">
+                {data &&
+                  !isPending &&
+                  !isRefetching &&
+                  data.length !== 0 &&
+                  data.map((b: DataCard) => (
+                    <SingleDataCard key={b.vehicleId} data={b} />
+                  ))}
               </div>
-            </center>
-          </>
-        )}
+            </div>
+          </TabsContent>
 
-        {/* DATA FOUND: display data card */}
+          {/* "time left to arrival" */}
+          <TabsContent value="reverse">
+            {/* dropdown for station selection */}
+            <Select onValueChange={setRevSelected} defaultValue={revSelected}>
+              <SelectTrigger className="w-full">
+                <SelectValue placeholder="Select a station..." />
+              </SelectTrigger>
+              <SelectContent className="w-full">
+                {stn &&
+                  stn
+                    ?.filter((s: Station) => {
+                      return selectedListOfStations?.includes(s.id);
+                    })
+                    .sort((a: Station, b: Station) => {
+                      return (
+                        (selectedListOfStations?.indexOf(a.id) ?? -1) -
+                        (selectedListOfStations?.indexOf(b.id) ?? -1)
+                      );
+                    })
+                    .map((s: Station) => {
+                      return <SelectItem value={s.id}>{s.name}</SelectItem>;
+                    })}
+              </SelectContent>
+            </Select>
 
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 mx-3">
-          {data &&
-            !isPending &&
-            !isRefetching &&
-            data.length !== 0 &&
-            data.map((b: DataCard) => (
-              <SingleDataCard key={b.vehicleId} data={b} />
-            ))}
-        </div>
-      </div>
+            {/* main content (incl data card) */}
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 my-2">
+              {data &&
+                data.map((d: DataCard) => {
+                  return (
+                    <TimeLeftDataCard
+                      singleStnProp={stn?.find((s) => s.id === revSelected)}
+                      dataCardProp={d}
+                      listOfStn={selectedListOfStations}
+                    />
+                  );
+                })}
+            </div>
+          </TabsContent>
+        </Tabs>
+      )}
     </div>
   );
 }

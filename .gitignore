@@ -34,4 +34,8 @@ dist-ssr
 utils/rapid*/*.txt
 utils/basdotmy_network/mybas-*/*.txt
 
+# POSSIBLY: todo file
 todo.txt
+
+# protobuf files for testing / reducing ratelimit
+public/*.proto

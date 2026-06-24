@@ -115,7 +115,7 @@ export async function getOSRMDistance(
   p1lon: number | undefined,
   p2lat: number | undefined,
   p2lon: number | undefined,
-) {
+): Promise<{ distance: number; duration: number } | undefined> {
   if (p1lat && p1lon && p2lat && p2lon) {
     const dir = await ors.directions(
       [
