@@ -58,8 +58,6 @@ export function BqmMainInterface({
   const [lastStn, setLastStn] = useState<string | undefined>();
   const [isAlt, setIsAlt] = useState<boolean>(false);
   const pid = useVars((state) => state.id);
-  const clearProv = useVars((state) => state.clearProvider);
-  const setDebug = useVars((state) => state.setDebugLabs);
   // initialization - download required static JSON files from API
   const init = async () => {
     // get related routes
@@ -151,10 +149,10 @@ export function BqmMainInterface({
 
   return (
     <div>
-      <div className="mb-3 mx-3 ">
+      <div className="mb-3 mx-3">
         {/* header */}
         <div className="grid grid-cols-12">
-          <div className="cols col-span-8">{providerName}</div>
+          <div className="cols col-span-8 my-auto">{providerName}</div>
 
           <div className="cols col-span-4 flex gap-3 ms-auto">
             <Button
@@ -170,21 +168,9 @@ export function BqmMainInterface({
             </Button>
           </div>
         </div>
-        {/* LIMITED TIME ONLY: these buttons being visible to the public */}
-
-        <div className="grid grid-cols-12">
-          <div className="cols col-span-6 me-6 my-2">
-            <Button className="w-full" onClick={setDebug}>
-              Debug Labs
-            </Button>
-          </div>
-          <div className="cols col-span-6 my-2" onClick={clearProv}>
-            <Button className="w-full">Clear Provider</Button>
-          </div>
-        </div>
 
         {/* dropdown for choosing route */}
-        <div className="w-full">
+        <div className="w-full mt-3">
           <Select
             value={selected}
             onValueChange={(v: string) => {

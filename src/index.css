@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+a {
+  /* hyperlinks */
+  text-decoration: underline;
+}
