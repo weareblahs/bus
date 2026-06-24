@@ -29,6 +29,7 @@ Do note that data refresh rate for this is hardcoded to the 30th second and the 
 
 - Rapid KL: Route T406B unavailable because the `stop_times.txt` file on the static GTFS data has no data available for generating as of 16 June 2026.
 - BAS.MY: Some buses routes are unavailable due to route / bus parsing issues, which is confirmed from the _Debug Labs_ section of the web app. Do note that fixes are planned for this issue after most required features are built on the frontend.
+- Reverse Search / "Time Left" feature: For now, due to multiple queries, OpenRouteService will return a "Rate Limit Exceeded" error. Optimizations will be made for this feature in the future, including using a matrix instead of multiple requests
 
 ## Issues that might be caused... due to me not checking the code carefully before deploying
 
