@@ -3,6 +3,7 @@ import { useVars } from "@/lib/state";
 import {
   cn,
   findNearestFromStations,
+  getGeocodeMatrix,
   retrieveRelatedRoutes,
   retrieveRoutes,
   retrieveStationList,
@@ -28,6 +29,7 @@ import { ArrowLeftRight, RefreshCwIcon, Settings2 } from "lucide-react";
 import { SingleDataCard } from "./single-data-card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./tabs";
 import { TimeLeftDataCard } from "./time-left-data-card";
+import type { GeocodeMatrix } from "@/lib/types";
 
 export type DataCard = {
   vehicleId: string | undefined;
@@ -139,6 +141,30 @@ export function BqmMainInterface({
           };
         }),
       );
+
+      if (rows && rows.length > 0) {
+        const matrixData = rows.map((r) => ({
+          // src
+          src: [r.lat ?? -1, r.lon ?? -1] as [number, number],
+          // dest
+          dest: [r.nav?.cur.lat ?? -1, r.nav?.cur.lon ?? -1] as [
+            number,
+            number,
+          ],
+        })) as GeocodeMatrix;
+
+        const matrix = await getGeocodeMatrix(matrixData);
+        return rows.map((r, idx) => ({
+          ...r,
+          nav: r.nav
+            ? {
+                ...r.nav,
+                dist: matrix[idx]?.dist ?? -1,
+                dur: matrix[idx]?.dur ?? -1,
+              }
+            : r.nav,
+        }));
+      }
 
       return rows;
     }

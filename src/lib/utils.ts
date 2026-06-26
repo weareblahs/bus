@@ -8,7 +8,8 @@ import type {
 } from "./publicJsonTypes";
 import ky from "ky";
 import haversine from "haversine-distance";
-import { ORS } from "@routingjs/ors";
+import { ORS, type ORSMatrixParams } from "@routingjs/ors";
+import type { GeocodeMatrix } from "./types";
 
 // ORS is used in multiple functions
 const apiKey = import.meta.env.VITE_ORS_API_KEY;
@@ -79,15 +80,16 @@ export async function findNearestFromStations(
     const next = stationList[avgDistList.indexOf(sortedDistList[0]) + 1];
 
     try {
-      const osrmDist = await getOSRMDistance(lat, lon, cur.lat, cur.lon);
+      // ORS matrix implemented
+      // const osrmDist = await getOSRMDistance(lat, lon, cur.lat, cur.lon);
       const geocodeResponse = await getORSgeocode(lat, lon);
 
       return {
         prev,
         cur,
         next,
-        dist: osrmDist?.distance ?? null,
-        dur: osrmDist?.duration ?? null,
+        dist: null,
+        dur: null,
         geo:
           geocodeResponse &&
           geocodeResponse.features &&
@@ -144,5 +146,27 @@ export async function getORSgeocode(
     return resp.json();
   } catch (e) {
     throw Error("Geocode Retrieval Failure");
+  }
+}
+
+export async function getGeocodeMatrix(matrix: GeocodeMatrix) {
+  console.log(matrix);
+  const locations = matrix.flatMap(({ src, dest }) => [src, dest]);
+  const sources = matrix.map((_, i) => i * 2);
+  const destinations = matrix.map((_, i) => i * 2 + 1);
+
+  try {
+    const m = await ors.matrix(locations, "driving-car", {
+      sources,
+      destinations,
+      metrics: ["duration", "distance"],
+    } as ORSMatrixParams);
+    const results = matrix.map((pair, i) => ({
+      dur: m.durations?.[i]?.[i], // seconds
+      dist: m.distances?.[i]?.[i], // meters
+    }));
+    return results;
+  } catch (e) {
+    throw new Error(`ORS Matrix retrieval error: ${e}`);
   }
 }
