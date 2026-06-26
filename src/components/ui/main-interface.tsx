@@ -360,44 +360,50 @@ export function BqmMainInterface({
 
       {/* pending / refetching / error states */}
 
-      {(isPending || isRefetching) && !error && (
-        <center>
-          <div className="block w-full lg:w-[60%]">
-            <h1 className="text-2xl">Loading route information...</h1>
-            <h3 className="text-xl">
-              This might take a while according to how many buses are operating
-              under this route now.
-            </h3>
-          </div>
-        </center>
-      )}
-
-      {/* no data handler */}
-      {data && data.length === 0 && !isPending && !isRefetching && selected && (
-        <>
+      <div className="mt-5 mb-5">
+        {(isPending || isRefetching) && !error && (
           <center>
             <div className="block w-full lg:w-[60%]">
-              <h1 className="text-2xl">
-                No realtime information available for this route
-              </h1>
+              <h1 className="text-2xl">Loading route information...</h1>
               <h3 className="text-xl">
-                Please search for other routes or try again later.
+                This might take a while according to how many buses are
+                operating under this route now.
               </h3>
             </div>
           </center>
-        </>
-      )}
+        )}
 
-      {error && data && (
-        <>
-          <center>
-            <div className="block w-full lg:w-[60%]">
-              <h1 className="text-2xl">Data retrieval error</h1>
-              <h3 className="text-xl">Please try again in a few moments.</h3>
-            </div>
-          </center>
-        </>
-      )}
+        {/* no data handler */}
+        {data &&
+          data.length === 0 &&
+          !isPending &&
+          !isRefetching &&
+          selected && (
+            <>
+              <center>
+                <div className="block w-full lg:w-[60%]">
+                  <h1 className="text-2xl">
+                    No realtime information available for this route
+                  </h1>
+                  <h3 className="text-xl">
+                    Please search for other routes or try again later.
+                  </h3>
+                </div>
+              </center>
+            </>
+          )}
+
+        {error && data && (
+          <>
+            <center>
+              <div className="block w-full lg:w-[60%]">
+                <h1 className="text-2xl">Data retrieval error</h1>
+                <h3 className="text-xl">Please try again in a few moments.</h3>
+              </div>
+            </center>
+          </>
+        )}
+      </div>
     </div>
   );
 }
