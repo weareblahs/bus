@@ -3,6 +3,7 @@ import { twMerge } from "tailwind-merge";
 import type {
   RelatedRoutes,
   Routes,
+  Station,
   StationNav,
   Stations,
 } from "./publicJsonTypes";
@@ -112,6 +113,107 @@ export async function findNearestFromStations(
     }
   }
   return null;
+}
+
+export async function findNearestFromStationsBatch(
+  coordinates: [number, number][],
+  stnList: Stations,
+  availStn: string[],
+) {
+  const filteredStations = stnList.filter((s: Station) =>
+    availStn.includes(s.id),
+  );
+
+  const locations: [number, number][] = [
+    ...coordinates,
+    ...filteredStations.map((fs: Station): [number, number] => [
+      parseFloat(`${fs.lat}`) ?? -1,
+      parseFloat(`${fs.lon}`) ?? -1,
+    ]),
+  ];
+
+  const sources = coordinates.map((_, i) => i);
+  const destinations = availStn.map((_, i) => i + sources.length);
+
+  try {
+    const m = await ors.matrix(locations, "driving-car", {
+      metrics: ["duration", "distance"],
+      sources,
+      destinations,
+    } as ORSMatrixParams);
+
+    const distances = m.distances ?? [];
+
+    const nearest = coordinates.map((_, busIndex) => {
+      const durations = m.durations[busIndex];
+
+      const ranked = filteredStations
+        .map((stop, stopIndex) => ({
+          ...stop,
+          duration: durations[stopIndex] ?? null,
+          distance: distances[busIndex]?.[stopIndex] ?? null,
+        }))
+        .filter((s) => s.duration !== null)
+        .sort((a, b) => (a.distance ?? -1) - (b.distance ?? -1));
+
+      return {
+        id: ranked[0].id,
+        dur: ranked[0].duration,
+        dist: ranked[0].distance,
+      };
+    });
+
+    const out = await Promise.all(
+      nearest.map(async (nr, idx) => {
+        const n: string = nr.id;
+        const cur = filteredStations.find((fs) => fs.id === n);
+
+        if (!cur) return null;
+        const prev =
+          filteredStations.find(
+            (fs) => fs.id === availStn[availStn.indexOf(n) - 1],
+          ) ?? null;
+        const next =
+          filteredStations.find(
+            (fs) => fs.id === availStn[availStn.indexOf(n) + 1],
+          ) ?? null;
+
+        try {
+          const geocodeResponse = await getORSgeocode(
+            coordinates[idx][0],
+            coordinates[idx][1],
+          );
+
+          return {
+            prev,
+            cur,
+            next,
+            dist: nr.dist,
+            dur: nr.dur,
+            geo:
+              geocodeResponse &&
+              geocodeResponse.features &&
+              geocodeResponse.features.length > 0
+                ? geocodeResponse.features[0].properties
+                : [],
+          };
+        } catch (e) {
+          return {
+            prev,
+            cur,
+            next,
+            dist: nr.dist,
+            dur: nr.dur,
+            geo: null,
+          };
+        }
+      }),
+    );
+
+    return out;
+  } catch (e) {
+    return null;
+  }
 }
 
 export async function getOSRMDistance(

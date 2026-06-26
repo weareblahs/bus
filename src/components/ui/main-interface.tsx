@@ -1,9 +1,12 @@
-import { getGtfsData, type GTFSData } from "@/lib/utils";
+import {
+  findNearestFromStationsBatch,
+  getGtfsData,
+  type GTFSData,
+} from "@/lib/utils";
 import { useVars } from "@/lib/state";
 import {
   cn,
   findNearestFromStations,
-  getGeocodeMatrix,
   retrieveRelatedRoutes,
   retrieveRoutes,
   retrieveStationList,
@@ -29,7 +32,6 @@ import { ArrowLeftRight, RefreshCwIcon, Settings2 } from "lucide-react";
 import { SingleDataCard } from "./single-data-card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./tabs";
 import { TimeLeftDataCard } from "./time-left-data-card";
-import type { GeocodeMatrix } from "@/lib/types";
 
 export type DataCard = {
   vehicleId: string | undefined;
@@ -110,13 +112,6 @@ export function BqmMainInterface({
 
           const routeData = rte?.find((r) => r.routeId === parsedRouteId);
 
-          const nav = await findNearestFromStations(
-            e.vehicle?.position?.latitude ?? 0,
-            e.vehicle?.position?.longitude ?? 0,
-            stn ?? [],
-            (altDir ? routeData?.routeStationsRev : routeData?.routeStations) ??
-              [],
-          );
           if (routeData) {
             setIsAlt(routeData.routeStationsRev.length !== 0 ? true : false);
           }
@@ -145,7 +140,7 @@ export function BqmMainInterface({
             parsedRouteId: routeNo,
             routeName: routeData?.routeName,
             routeShortName: routeData?.routeShortName,
-            nav: nav ?? null,
+            nav: null,
             lat: e.vehicle?.position?.latitude ?? undefined,
             lon: e.vehicle?.position?.longitude ?? undefined,
             speed: e.vehicle?.position?.speed ?? -1,
@@ -153,28 +148,48 @@ export function BqmMainInterface({
         }),
       );
 
-      if (rows && rows.length > 0) {
-        const matrixData = rows.map((r) => ({
-          // src
-          src: [r.lat ?? -1, r.lon ?? -1] as [number, number],
-          // dest
-          dest: [r.nav?.cur.lat ?? -1, r.nav?.cur.lon ?? -1] as [
-            number,
-            number,
-          ],
-        })) as GeocodeMatrix;
+      // if (rows && rows.length > 0) {
+      //   const matrixData = rows.map((r) => ({
+      //     // src
+      //     src: [r.lat ?? -1, r.lon ?? -1] as [number, number],
+      //     // dest
+      //     dest: [r.nav?.cur.lat ?? -1, r.nav?.cur.lon ?? -1] as [
+      //       number,
+      //       number,
+      //     ],
+      //   })) as GeocodeMatrix;
 
-        const matrix = await getGeocodeMatrix(matrixData);
-        return rows.map((r, idx) => ({
-          ...r,
-          nav: r.nav
-            ? {
-                ...r.nav,
-                dist: matrix[idx]?.dist ?? -1,
-                dur: matrix[idx]?.dur ?? -1,
-              }
-            : r.nav,
-        }));
+      //   const matrix = await getGeocodeMatrix(matrixData);
+      //   return rows.map((r, idx) => ({
+      //     ...r,
+      //     nav: r.nav
+      //       ? {
+      //           ...r.nav,
+      //           dist: matrix[idx]?.dist ?? -1,
+      //           dur: matrix[idx]?.dur ?? -1,
+      //         }
+      //       : r.nav,
+      //   }));
+      // }
+
+      const currentRte = rte?.find((r) => r.routeId === selected);
+
+      if (rows && rows.length > 0 && currentRte) {
+        const navProcess = await findNearestFromStationsBatch(
+          rows.map((r: DataCard) => [r.lat ?? -1, r.lon ?? -1]),
+          stn ?? [],
+          (altDir ? currentRte.routeStationsRev : currentRte.routeStations) ??
+            [],
+        );
+
+        if (navProcess) {
+          return rows.map((r, idx) => {
+            return {
+              ...r,
+              nav: navProcess[idx] ?? null,
+            };
+          });
+        }
       }
 
       return rows;
@@ -295,7 +310,7 @@ export function BqmMainInterface({
                   {/* datacard display */}
                   <div>
                     {/* DATA FOUND: display data card */}
-                    <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 mx-3">
+                    <div className="grid grid-cols-1 lg:grid-cols-3 gap-3">
                       {data &&
                         !isPending &&
                         !isRefetching &&

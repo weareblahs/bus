@@ -26,7 +26,7 @@ export type RelatedRoutes = {
 // StationNav is used for storing previous/current/next station
 export type StationNav = {
   prev: Station | null;
-  cur: Station;
+  cur: Station | null;
   next: Station | null;
   dist: number | null;
   dur: number | null;
