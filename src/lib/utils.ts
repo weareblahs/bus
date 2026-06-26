@@ -6,10 +6,12 @@ import type {
   StationNav,
   Stations,
 } from "./publicJsonTypes";
-import ky from "ky";
+import ky, { HTTPError } from "ky";
 import haversine from "haversine-distance";
 import { ORS, type ORSMatrixParams } from "@routingjs/ors";
 import type { GeocodeMatrix } from "./types";
+import * as GtfsRealtimeBindings from "gtfs-realtime-bindings";
+import { useVars } from "./state";
 
 // ORS is used in multiple functions
 const apiKey = import.meta.env.VITE_ORS_API_KEY;
@@ -141,7 +143,8 @@ export async function getORSgeocode(
     // size=1 > return exactly 1 result
     // boundary.country value limits to malaysia only
     const resp = ky.get(
-      `https://api.heigit.org/pelias/v1/reverse?api_key=${apiKey}&point.lat=${lat}&point.lon=${lon}&size=1&boundary.country=MY`,
+      `https://api.heigit.org/pelias/v1/reverse?&point.lat=${lat}&point.lon=${lon}&size=1&boundary.country=MY`,
+      { headers: { Authorization: apiKey } },
     );
     return resp.json();
   } catch (e) {
@@ -168,5 +171,37 @@ export async function getGeocodeMatrix(matrix: GeocodeMatrix) {
     return results;
   } catch (e) {
     throw new Error(`ORS Matrix retrieval error: ${e}`);
+  }
+}
+
+export type GTFSData = GtfsRealtimeBindings.transit_realtime.FeedMessage;
+
+export async function getGtfsData(): Promise<GTFSData> {
+  const gtfsDataUrl = useVars.getState().realtimeUrl; // zustand store
+  try {
+    const response = await ky.get(gtfsDataUrl);
+    const buffer = await response.arrayBuffer();
+    const feed = GtfsRealtimeBindings.transit_realtime.FeedMessage.decode(
+      new Uint8Array(buffer),
+    );
+    return feed;
+  } catch (e) {
+    if (e instanceof HTTPError && e.response.status == 429) {
+      // most GTFS data error from data.gov.my are
+      // mostly 429 (ratelimit). if blank data is
+      // retrieved it will only return a blank GTFS-R
+      // protobuf
+      //
+      // if over 4 requests/minute it will return a ratelimit
+      // msg with Retry-After header so it will be parsed through
+      // there
+      //
+      // TODO: fix rate limit retry seconds
+      const rateLimitRetrySec = e.response.headers.get("Retry-After");
+      throw new Error(
+        `data.gov.my Ratelimit reachecd - expect to retry after ${rateLimitRetrySec} seconds`,
+      );
+    }
+    throw e; // throw other error types
   }
 }

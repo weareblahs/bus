@@ -3,6 +3,7 @@ import { Badge } from "../ui/badge";
 import { Card, CardContent } from "../ui/card";
 import { Button } from "../ui/button";
 import type { DataCard } from "../ui/main-interface";
+import { Map } from "lucide-react";
 
 export function SingleDataCard({ data }: { data: DataCard }) {
   // fn to launch streetview
@@ -65,7 +66,7 @@ export function SingleDataCard({ data }: { data: DataCard }) {
           </div>
           <div className="cols col-span-2">
             <Button className="w-full" onClick={launchStreetView}>
-              Street View
+              <Map />
             </Button>
           </div>
         </div>

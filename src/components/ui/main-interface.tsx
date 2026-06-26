@@ -1,4 +1,4 @@
-import { getGtfsData, type GTFSData } from "@/lib/getGtfsData";
+import { getGtfsData, type GTFSData } from "@/lib/utils";
 import { useVars } from "@/lib/state";
 import {
   cn,
