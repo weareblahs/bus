@@ -148,30 +148,6 @@ export function BqmMainInterface({
         }),
       );
 
-      // if (rows && rows.length > 0) {
-      //   const matrixData = rows.map((r) => ({
-      //     // src
-      //     src: [r.lat ?? -1, r.lon ?? -1] as [number, number],
-      //     // dest
-      //     dest: [r.nav?.cur.lat ?? -1, r.nav?.cur.lon ?? -1] as [
-      //       number,
-      //       number,
-      //     ],
-      //   })) as GeocodeMatrix;
-
-      //   const matrix = await getGeocodeMatrix(matrixData);
-      //   return rows.map((r, idx) => ({
-      //     ...r,
-      //     nav: r.nav
-      //       ? {
-      //           ...r.nav,
-      //           dist: matrix[idx]?.dist ?? -1,
-      //           dur: matrix[idx]?.dur ?? -1,
-      //         }
-      //       : r.nav,
-      //   }));
-      // }
-
       const currentRte = rte?.find((r) => r.routeId === selected);
 
       if (rows && rows.length > 0 && currentRte) {
