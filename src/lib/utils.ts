@@ -161,7 +161,7 @@ export async function getGeocodeMatrix(matrix: GeocodeMatrix) {
       destinations,
       metrics: ["duration", "distance"],
     } as ORSMatrixParams);
-    const results = matrix.map((pair, i) => ({
+    const results = matrix.map((_, i) => ({
       dur: m.durations?.[i]?.[i], // seconds
       dist: m.distances?.[i]?.[i], // meters
     }));
