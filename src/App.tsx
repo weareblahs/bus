@@ -8,7 +8,9 @@ function App() {
   const isFirstTime = useVars((state) => state.isFirstTime);
 
   return (
-    <div className="p-5">{isFirstTime ? <FirstTimeLaunch /> : <Home />}</div>
+    <div className="p-2 py-3 lg:p-5">
+      {isFirstTime ? <FirstTimeLaunch /> : <Home />}
+    </div>
   );
 }
 
