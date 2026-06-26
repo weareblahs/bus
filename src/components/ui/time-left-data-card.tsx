@@ -45,30 +45,21 @@ export function TimeLeftDataCard({
         <Card>
           <CardContent>
             <div className="grid grid-cols-8">
-              <div className="grid cols col-span-6">
+              <div className="grid cols col-span-6 my-auto">
                 <h3 className="text-2xl font-bold">{dataCardProp.vehicleId}</h3>
-                <p>
-                  {dataCardProp.speed === 0 &&
-                  dataCardProp.nav &&
-                  dataCardProp.nav?.cur &&
-                  dataCardProp.nav.dur &&
-                  dataCardProp.nav.dur <= 20
-                    ? `Arrived at ${dataCardProp.nav.cur.name}`
-                    : `Heading to ${dataCardProp.nav?.prev?.name}`}
-                </p>
               </div>
               <div className="grid cols col-span-2 ms-auto text-end">
                 <div>
                   {dur && (
                     <h3 className="text-2xl font-bold ">
                       {dur / 60 < 1 ? "<1" : Math.round(dur / 60)} min
-                      {dur / 60 > 1 && "s"}
+                      {dur / 60 >= 2 ? "s" : ""}
                     </h3>
                   )}
                 </div>
                 <div>
                   {diff && diff > 0
-                    ? `${diff} station${diff > 1 && "s"} left`
+                    ? `${diff} station${diff > 1 ? "s" : ""} left`
                     : "Arriving soon"}
                 </div>
               </div>

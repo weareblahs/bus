@@ -49,16 +49,27 @@ export function BqmMainInterface({
   setCurrentView: React.Dispatch<React.SetStateAction<string>>;
 }) {
   const providerName = useVars((state) => state.providerName);
+  // initialization - set related routes (fwd)
   const [rr, setRelatedRoutes] = useState<RelatedRoutes | null>();
+  // initialization - set related routes (alt)
   const [altrr, setAltRelatedRoutes] = useState<RelatedRoutes | null>();
+  // initialization - set list of stations (all)
   const [stn, setListOfStations] = useState<Stations | null>([]);
+  // initialization - set list of routes (all)
   const [rte, setRoutes] = useState<Routes | null>([]);
+  // set selected route for dropdown
   const [selected, setSelected] = useState<string | undefined>();
+  // set state if alt route is selected
   const [altDir, setAltDir] = useState<boolean>(false);
+  // set last station name (UI)
   const [lastStn, setLastStn] = useState<string | undefined>();
+  // set alt route state (UI)
   const [isAlt, setIsAlt] = useState<boolean>(false);
+  // set if alt route is selected (valid on "time left to arrival" state)
   const [revSelected, setRevSelected] = useState<string | undefined>();
+  // set which tab to use ("realtime" / "reverse")
   const [tabVal, setTabVal] = useState<string>("realtime");
+  // set list of stations to display on "time left to arrival" state
   const [selectedListOfStations, setSelectedList] = useState<
     string[] | undefined
   >();
@@ -265,6 +276,88 @@ export function BqmMainInterface({
         </div>
       )}
 
+      {/* data found */}
+      {
+        <Tabs className="px-3" defaultValue={tabVal} onValueChange={setTabVal}>
+          <TabsList className="w-full mx-auto">
+            <TabsTrigger value="realtime">Bus position</TabsTrigger>
+            <TabsTrigger value="reverse">Time left to arrival</TabsTrigger>
+          </TabsList>
+
+          {data &&
+            data.length !== 0 &&
+            !isPending &&
+            !error &&
+            !isRefetching && (
+              <>
+                {/* "bus position" */}
+                <TabsContent value="realtime">
+                  {/* datacard display */}
+                  <div>
+                    {/* DATA FOUND: display data card */}
+                    <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 mx-3">
+                      {data &&
+                        !isPending &&
+                        !isRefetching &&
+                        data.length !== 0 &&
+                        data.map((b: DataCard) => (
+                          <SingleDataCard key={b.vehicleId} data={b} />
+                        ))}
+                    </div>
+                  </div>
+                </TabsContent>
+
+                {/* "time left to arrival" */}
+                <TabsContent value="reverse">
+                  {/* dropdown for station selection */}
+                  <Select
+                    onValueChange={setRevSelected}
+                    defaultValue={revSelected}
+                  >
+                    <SelectTrigger className="w-full">
+                      <SelectValue placeholder="Select a station..." />
+                    </SelectTrigger>
+                    <SelectContent className="w-full">
+                      {stn &&
+                        stn
+                          ?.filter((s: Station) => {
+                            return selectedListOfStations?.includes(s.id);
+                          })
+                          .sort((a: Station, b: Station) => {
+                            return (
+                              (selectedListOfStations?.indexOf(a.id) ?? -1) -
+                              (selectedListOfStations?.indexOf(b.id) ?? -1)
+                            );
+                          })
+                          .map((s: Station) => {
+                            return (
+                              <SelectItem value={s.id}>{s.name}</SelectItem>
+                            );
+                          })}
+                    </SelectContent>
+                  </Select>
+
+                  {/* main content (incl data card) */}
+                  <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 my-2">
+                    {data &&
+                      data.map((d: DataCard) => {
+                        return (
+                          <TimeLeftDataCard
+                            singleStnProp={stn?.find(
+                              (s) => s.id === revSelected,
+                            )}
+                            dataCardProp={d}
+                            listOfStn={selectedListOfStations}
+                          />
+                        );
+                      })}
+                  </div>
+                </TabsContent>
+              </>
+            )}
+        </Tabs>
+      }
+
       {/* pending / refetching / error states */}
 
       {(isPending || isRefetching) && !error && (
@@ -304,73 +397,6 @@ export function BqmMainInterface({
             </div>
           </center>
         </>
-      )}
-
-      {/* data found */}
-      {data && data.length !== 0 && !isPending && !error && !isRefetching && (
-        <Tabs className="px-3" defaultValue={tabVal} onValueChange={setTabVal}>
-          <TabsList className="w-full mx-auto">
-            <TabsTrigger value="realtime">Bus position</TabsTrigger>
-            <TabsTrigger value="reverse">Time left to arrival</TabsTrigger>
-          </TabsList>
-
-          {/* "bus position" */}
-          <TabsContent value="realtime">
-            {/* datacard display */}
-            <div>
-              {/* DATA FOUND: display data card */}
-              <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 mx-3">
-                {data &&
-                  !isPending &&
-                  !isRefetching &&
-                  data.length !== 0 &&
-                  data.map((b: DataCard) => (
-                    <SingleDataCard key={b.vehicleId} data={b} />
-                  ))}
-              </div>
-            </div>
-          </TabsContent>
-
-          {/* "time left to arrival" */}
-          <TabsContent value="reverse">
-            {/* dropdown for station selection */}
-            <Select onValueChange={setRevSelected} defaultValue={revSelected}>
-              <SelectTrigger className="w-full">
-                <SelectValue placeholder="Select a station..." />
-              </SelectTrigger>
-              <SelectContent className="w-full">
-                {stn &&
-                  stn
-                    ?.filter((s: Station) => {
-                      return selectedListOfStations?.includes(s.id);
-                    })
-                    .sort((a: Station, b: Station) => {
-                      return (
-                        (selectedListOfStations?.indexOf(a.id) ?? -1) -
-                        (selectedListOfStations?.indexOf(b.id) ?? -1)
-                      );
-                    })
-                    .map((s: Station) => {
-                      return <SelectItem value={s.id}>{s.name}</SelectItem>;
-                    })}
-              </SelectContent>
-            </Select>
-
-            {/* main content (incl data card) */}
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 my-2">
-              {data &&
-                data.map((d: DataCard) => {
-                  return (
-                    <TimeLeftDataCard
-                      singleStnProp={stn?.find((s) => s.id === revSelected)}
-                      dataCardProp={d}
-                      listOfStn={selectedListOfStations}
-                    />
-                  );
-                })}
-            </div>
-          </TabsContent>
-        </Tabs>
       )}
     </div>
   );
