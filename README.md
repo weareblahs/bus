@@ -2,6 +2,23 @@
 
 ...yes, that is the project name. Keep it simple. It's originally called "Is there any bus for this route near me?" but it's too long.
 
+## Project updates
+
+As this web app now uses matrixes for request optimization purposes, OpenRouteService only allows 500 requests per day for matrix usages (for the free plan). The request type is as follows:
+| Use case | Request(s) |
+|-----------------------------------------------------------------|------------|
+| Changing to another route | 1 |
+| 30 seconds Auto-refresh (applies to bus position and time left) | 1 |
+| Station change on "Time Left" page | 1 |
+
+It is highly recommended for the user to put their own API Key at the "Options" menu. The key can be retrieved by signing up to a OpenRouteService account.
+
+### Self-hosted ORS instance?
+
+Users will be able to fill in the URL of their own OpenRouteService instance on the "Options" menu, provided that the instance has the OpenStreetMap PBF file for [Malaysia, Singapore and Brunei](https://download.geofabrik.de/asia/malaysia-singapore-brunei.html) installed, which will be implemented soon.
+
+Since it could be a heavy process (example 1 source coordinate against 80+ destination coordinate as it compares all stations from the route), do consider the memory used for the OpenRouteService instance.
+
 ### Project note
 
 This is a complete rewrite of `bus?`. The code for the original and `v2` version of `bus?` can be found on specific branches:
