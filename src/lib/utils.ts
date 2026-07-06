@@ -307,3 +307,41 @@ export async function getGtfsData(): Promise<GTFSData> {
     throw e; // throw other error types
   }
 }
+
+export async function getTimeLeftData(
+  coordinates: [number, number][],
+  licensePlate: string[],
+  stnList: Stations,
+  availStn: string[],
+  curStnId: string[],
+  targetStnId: string,
+) {
+  const targetStnIdx = availStn.indexOf(targetStnId);
+  const targetStn =
+    stnList.find((stn: Station) => stn.id === targetStnId) ?? undefined;
+  const targetLatLon: [number, number] = [
+    targetStn?.lat ?? -1,
+    targetStn?.lon ?? -1,
+  ];
+
+  const stnDiff = curStnId.map((s) => targetStnIdx - availStn.indexOf(s));
+
+  const geoMatrix: GeocodeMatrix = coordinates.map((c) => ({
+    src: [c[0] ?? -1, c[1] ?? -1],
+    dest: targetLatLon,
+  }));
+
+  const matrix = await getGeocodeMatrix(geoMatrix);
+  console.log(
+    matrix.map((mat, idx) => ({
+      ...mat,
+      lic: licensePlate[idx],
+      diff: stnDiff,
+    })),
+  );
+  try {
+    return [];
+  } catch (e) {
+    return null;
+  }
+}

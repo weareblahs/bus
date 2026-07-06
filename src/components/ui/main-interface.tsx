@@ -1,6 +1,7 @@
 import {
   findNearestFromStationsBatch,
   getGtfsData,
+  getTimeLeftData,
   type GTFSData,
 } from "@/lib/utils";
 import { useVars } from "@/lib/state";
@@ -92,6 +93,7 @@ export function BqmMainInterface({
     setRoutes(routes);
   };
 
+  // load data - for reverse
   async function loadData(
     routeNo: string | undefined,
     alt: boolean,
@@ -179,6 +181,32 @@ export function BqmMainInterface({
     queryFn: () => loadData(selected, altDir),
     refetchInterval: 30000, // default by 30s as per GTFS-RT spec on data.gov.my
   });
+
+  async function loadTimeLeftData() {
+    const currentRte = rte?.find((r) => r.routeId === selected);
+    if (data && currentRte && revSelected) {
+      try {
+        const navProcess = await getTimeLeftData(
+          data.map((r: DataCard) => [r.lat ?? -1, r.lon ?? -1]),
+          data.map((r: DataCard) => r.vehicleId ?? ""),
+          stn ?? [],
+          (altDir ? currentRte.routeStationsRev : currentRte.routeStations) ??
+            [],
+          data.map((r: DataCard) => r.nav?.cur.id ?? ""),
+          revSelected,
+        );
+        console.log(navProcess);
+      } catch (e) {}
+    }
+    return "test";
+  }
+
+  const { data: revData } = useQuery({
+    queryKey: ["time-left", selected, altDir, revSelected],
+    queryFn: loadTimeLeftData,
+  });
+
+  console.log(revData);
 
   useEffect(() => {
     init();
