@@ -1,5 +1,6 @@
 @echo off
 @REM NOTE: Script requires wget (preinstalled on win10+) and 7-zip File Manager
+@REM Delete command at the end requires coreutils on Windows
 echo Downloading required files...
 wget -O mybas-kangar.zip "https://api.data.gov.my/gtfs-static/mybas-kangar"
 md mybas-kangar
