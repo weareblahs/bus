@@ -6,7 +6,7 @@ import type {
   Station,
   StationNav,
   Stations,
-} from "./publicJsonTypes";
+} from "./types";
 import ky, { HTTPError } from "ky";
 import haversine from "haversine-distance";
 import { ORS, type ORSMatrixParams } from "@routingjs/ors";

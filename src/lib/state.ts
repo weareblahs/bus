@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-import type { Provider } from "./retrieveAvailableProviders";
+import type { Provider } from "./types";
 
 type State = {
   isFirstTime: boolean;
