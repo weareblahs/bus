@@ -42,3 +42,5 @@ del mybas-seremban-b.zip -y
 del mybas-melaka.zip -y
 del mybas-johor.zip -y
 del mybas-kuching.zip -y
+node initStnData.js
+rm -rf mybas-*
